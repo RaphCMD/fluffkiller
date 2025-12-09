@@ -1,2 +1,3 @@
 models/*/onnx/model.onnx
 fluff-model/
+models/
