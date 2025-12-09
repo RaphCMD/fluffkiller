@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fluffkiller Popup</title>
+    <link rel="stylesheet" href="popup.css" />
+    <script type="module" src="popup.js"></script>
+  </head>
+
+  <body>
+    <div class="popup-shell">
+      <header class="popup-header">
+        <div>
+          <span class="eyebrow">fluffkiller</span>
+          <h1>Article relevance</h1>
+          <p class="subtle">Visualize scores and adjust the threshold.</p>
+        </div>
+        <div class="status-chip">
+          <span class="status-dot"></span>
+          <p class="check">Preparing...</p>
+        </div>
+      </header>
+
+      <section class="card">
+        <div class="card-header">
+          <div>
+            <p class="label">Threshold</p>
+            <p class="value" id="threshold-label">0.60</p>
+          </div>
+                <p class="hint">Drag the red handle to tune</p>
+            </div>
+
+            <label class="toggle-row">
+                <input type="checkbox" id="debug-highlight-only">
+                <span class="toggle-track"><span class="toggle-thumb"></span></span>
+                <span class="toggle-label">Debug: highlight only (don’t hide)</span>
+            </label>
+
+            <div id="graph-container" class="graph-shell"></div>
+        </section>
+
+      <section class="card trash-card">
+        <div class="card-header">
+          <div>
+            <p class="label">Trash</p>
+            <p class="value small">Hidden sentences</p>
+          </div>
+        </div>
+        <div id="trash-list" class="trash-list">
+          <p class="subtle">No hidden sentences.</p>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "fluffkiller",
+  "version": "1.0",
+  "permissions": ["activeTab", "storage", "storage", "tabs"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "type": "module"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "lib/transformers.min.js",
+        "lib/wasm/*",
+        "models/paraphrase-MiniLM-L6-v2/onnx/model.onnx",
+        "models/paraphrase-MiniLM-L6-v2/*",
+        "models/paraphrase-MiniLM-L6-v2/vocab.txt",
+        "models/fluff-onnx/onnx/*",
+        "models/fluff-onnx/*",
+        "models/trainedright/onnx/*",
+        "models/trainedright/*",
+        "utils/Readability.js",
+        "extract-article.js"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["<all_urls>"]
+}

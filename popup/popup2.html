@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fluffkiller Popup</title>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script> -->
+    <script src="popup.js"></script>
+    <style>
+      body {
+        /* font-family: Arial, sans-serif; */
+        text-align: center;
+        margin: 20px;
+      }
+
+      .button {
+        padding: 10px 20px;
+        margin: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: white;
+        cursor: pointer;
+      }
+
+      .button:hover {
+        background-color: #0056b3;
+      }
+
+      .slider-container {
+        margin: 20px 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>fluffkiller Popup</h1>
+    <div id="default-view">
+      <p>This site is not an article</p>
+      <button class="button" id="yes-it-is">Yes it is</button>
+    </div>
+
+    <div id="article-view">
+      <p id="paragraphs-removed">Paragraphs removed: 0</p>
+      <div class="slider-container">
+        <label for="threshold-slider">Threshold (1-5): </label>
+        <input type="range" id="threshold-slider" min="1" max="5" value="3" />
+      </div>
+      <button class="button" id="trash-button-peek">
+        Show Discarded Paragraphs
+      </button>
+      <button class="button" id="display-rank">Display Paragraph Ranks</button>
+    </div>
+
+    <script>
+      const yesItIsButton = document.getElementById("yes-it-is");
+      const defaultView = document.getElementById("default-view");
+      const articleView = document.getElementById("article-view");
+      const paragraphsRemoved = document.getElementById("paragraphs-removed");
+      const thresholdSlider = document.getElementById("threshold-slider");
+
+      yesItIsButton.addEventListener("click", () => {
+        defaultView.style.display = "none";
+        articleView.style.display = "block";
+        // Example: Update the number of paragraphs removed
+        paragraphsRemoved.textContent = "Paragraphs removed: 3";
+      });
+
+      thresholdSlider.addEventListener("input", (event) => {
+        const threshold = event.target.value;
+        console.log(`Threshold set to: ${threshold}`);
+        // Add logic to handle threshold changes
+      });
+
+      document
+        .getElementById("trash-button-peek")
+        .addEventListener("click", () => {
+          console.log("Trash button clicked");
+          // Add logic to handle trashing discarded paragraphs
+        });
+
+      document.getElementById("display-rank").addEventListener("click", () => {
+        console.log("Display rank button clicked");
+        // Add logic to display paragraph ranks
+      });
+    </script>
+  </body>
+</html>
