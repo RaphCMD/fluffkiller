@@ -1,0 +1,84 @@
+{
+  "headline": "Opinion: Why the Conservatives should dump Poilievre – but won’t - The Globe and Mail",
+  "context": [
+    "Conservative Leader Pierre Poilievre stands on the stage with his wife Anaida Poilievre as he speaks to supporters on election night in Ottawa, on April 28.Chris Young/The Canadian Press",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "If the recent one-and-done examples of Conservative Party leaders are any indication, Pierre Poilievre won’t be in the saddle for long. The party dropped Andrew Scheer after the 2019 election and Erin O’Toole after the 2021 campaign. Both these leaders won the popular vote against the Liberals, but not the seat count.",
+      "reason": "Provides context on the Conservative Party's history with leaders, relevant to the discussion of Poilievre's future.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Poilievre lost both. And, strike three, also his own seat. But he has no designs on meeting his predecessors’ fates. In his concession speech Tuesday morning, he sounded like he was taking a victory lap. He deservingly noted how he had boosted the party’s seat count appreciably and scored a popular-vote total for the party of 41.3 per cent, the highest since the 1988 federal election. That total would be majority-government territory almost any other time.",
+      "reason": "Discusses Poilievre's election performance and his perspective, relevant to his leadership evaluation.",
+      "label": 1
+    },
+    {
+      "paragraph": "He will use that to blunt any dissenting voices in the party calling for his resignation. He can also plead terrible luck, given the dramatic change in circumstances the country faced with Donald Trump’s annexationist threats.",
+      "reason": "Explains Poilievre's potential defense against calls for resignation, relevant to his leadership situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "But is the slick-haired populist with the razor-sharp mind and bunker mentality the right man to continue on as Conservative Party Leader? A batch of reasons argue to the contrary.",
+      "reason": "Introduces the argument against Poilievre's continued leadership, relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "To start with the obvious, he blew one of the biggest – if not the biggest – leads in Canadian history. Even with a 25-point lead, he was caught flat-footed, unable to effectively pivot to meet new conditions. No plan B. The Liberals had been in power for 10 years – that’s such a gift for the opposition party. But while Mr. Poilievre’s popular vote was high, he allowed the Liberals to score even higher – 43.7 per cent being their biggest total since 1980.",
+      "reason": "Provides specific reasons for questioning Poilievre's leadership, directly relevant to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "With the added power and prestige of being party Leader, Mr. Poilievre was somehow still able to get a pie in the face from his own constituents, losing the riding he had won seven times in succession. Not since Kim Campbell had a Conservative leader lost their own seat. “He took the riding for granted,” said the Liberal winner, Bruce Fanjoy. So now Mr. Poilievre doesn’t have a seat at this critical time, and must rely on the good graces of the Liberals to grant him an early by-election opportunity.",
+      "reason": "This paragraph provides specific information about Poilievre losing his seat, which is relevant to the discussion of his leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "A very serious problem in the Conservatives sticking with Mr. Poilievre is likeability. He lacks it. He has an authenticity deficit and comes across as constructed – this isn’t a problem that goes away. Next to the Trump factor, his unpopularity is what cost his party the election. His campaign itself wasn’t the problem – I argued earlier that from a Conservative policy perspective, it was a good campaign.",
+      "reason": "This paragraph discusses Poilievre's likeability and its impact on the election, which is relevant to the argument about his leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the message canvassers got at the door, alluded to by Tory long-timer Lisa Raitt on CTV’s Power Play, was along the lines of ‘We like your party, but not your Leader.’ Mr. Poilievre ran behind his party; Mr. Carney ran ahead of his.",
+      "reason": "This paragraph provides insight into voter sentiment about Poilievre, which is relevant to the discussion of his leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Conservatives need unity, but with his haughty style of leadership Mr. Poilievre has helped sow divisions. Ontario Premier Doug Ford didn’t feel he got the respect he deserved by the federal Leader, and proceeded with his top aide, Kory Teneycke, to sabotage the Poilievre campaign, as federal Conservative MP Jamil Jivani charged on election night. There’s also bad blood with Nova Scotia Tory Premier Tim Houston, and with many others over the Poilievre brand of conservatism.",
+      "reason": "This paragraph discusses internal party divisions caused by Poilievre's leadership, which is relevant to the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is a party that has now lost four elections in succession. Three of them, including Mr. Poilievre’s, were waged by populist-styled leaders. Populism is in the process of being mangled by Mr. Trump. We may be moving off the populist period to an era of politics in which erudition, knowledge and statesmanship, which are Mr. Carney’s selling points, are prized, and respected more so than the divide-and-conquer pugilism offered by the Conservative Leader. Mr. Poilievre also has the handicap of being parochial at a time when Canada needs new foreign friends and markets – leadership of global breadth.",
+      "reason": "This paragraph provides context on the political climate and Poilievre's style, which is relevant to the discussion of his leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "All this said, the defenestration of Mr. Poilievre by the party is likely not in the cards. With sidekick Jenni Byrne, he is a fierce political infighter who will beat back adversaries who try to dislodge him. Given the changes adopted by the Conservative Party following the Reform Act, all it takes, as was seen in 2022 with the overthrow of Erin O’Toole, is a majority vote in caucus. But it’s doubtful there is anyone in the party courageous enough to mount the charge.",
+      "reason": "This paragraph provides analysis and context about the political dynamics within the Conservative Party regarding Poilievre's leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "Though surprises cannot be ruled out, Mr. Poilievre is fortunate in that, as noted by Jason Kenney on election night, there appears to be no heavyweight in the wings, no one to make the case that despite his strengths, he is not the leader for these times.",
+      "reason": "This paragraph offers insight into the lack of strong contenders against Poilievre, relevant to the discussion of his leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "Editor’s note: A previous version of this article incorrectly stated that Lisa Raitt discussed what voters told Tory canvassers on CBC's Power and Politics. She made the statement on CTV's Power Play. This version has been updated.",
+      "reason": "This paragraph is a correction note and does not contribute to the main argument or analysis.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keep your opinions sharp and informed with a helpful summary of The Globe’s most provocative columns, covering politics, world affairs, business, arts, health and the way we live",
+      "reason": "This paragraph is promotional content for the publication's columns and does not relate to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a promotional call to action unrelated to the article's content.",
+      "label": 0
+    }
+  ]
+}

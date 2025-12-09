@@ -1,0 +1,104 @@
+{
+  "headline": "Visa wants to give artificial intelligence 'agents' your credit card | Science News | thecanadianpressnews.ca",
+  "context": [
+    "Artificial intelligence “agents” are supposed to be more than chatbots. The tech industry has spent months pitching AI personal assistants that know what you want and can do real work on your behalf.",
+    "So far, they're not doing much."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Visa hopes to change that by giving them your credit card. Set a budget and some preferences and these AI agents — successors to ChatGPT and its chatbot peers — could find and buy you a sweater, weekly groceries or an airplane ticket.",
+      "reason": "This paragraph provides specific details about how Visa plans to use AI agents for shopping tasks.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We think this could be really important,” said Jack Forestell, Visa’s chief product and strategy officer, in an interview. “Transformational, on the order of magnitude of the advent of e-commerce itself.”",
+      "reason": "This quote emphasizes the potential impact of the initiative, adding depth to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Visa announced Wednesday it is partnering with a group of leading AI chatbot developers — among them U.S. companies Anthropic, Microsoft, OpenAI and Perplexity, and France's Mistral — to connect their AI systems to Visa's payments network. Visa is also working with IBM, online payment company Stripe and phone-maker Samsung on the initiative. Pilot projects begin Wednesday, ahead of more widespread usage expected next year.",
+      "reason": "This paragraph provides essential information about Visa's partnerships and the timeline for the initiative.",
+      "label": 1
+    },
+    {
+      "paragraph": "The San Francisco payment processing company is betting that what seems futuristic now could become a convenient alternative to our most mundane shopping tasks in the near future. It has spent the past six months working with AI developers to address technical obstacles that must be overcome before the average consumer is going to use it.",
+      "reason": "This paragraph offers context on Visa's efforts and challenges in developing the technology.",
+      "label": 1
+    },
+    {
+      "paragraph": "For emerging AI companies, Visa's backing could also boost their chances of competing with tech giants Amazon and Google, which dominate digital commerce and are developing their own AI agents.",
+      "reason": "This paragraph provides context on the competitive landscape and the significance of Visa's support.",
+      "label": 1
+    },
+    {
+      "paragraph": "The tech industry is already full of demonstrations of the capabilities of what it calls agentic AI, though few are yet found in the real world. Most are still refashioned versions of large language models — the generative AI technology behind chatbots that can write emails, summarize documents or help people code. Trained on huge troves of data, they can scour the internet and bring back recommendations for things to buy, but they have a harder time going beyond that.",
+      "reason": "This paragraph provides context on the current state and limitations of agentic AI, which is relevant to understanding the challenges Visa aims to address.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The early incarnations of agent-based commerce are starting to do a really good job on the shopping and discovery dimension of the problem, but they are having tremendous trouble on payments,” Forestell said. “You get to this point where the agents literally just turn it back around and say, ‘OK, you go buy it.’",
+      "reason": "This paragraph includes a quote that highlights the specific problem Visa is addressing with AI agents, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Visa sees itself as having a key role in giving AI agents easier and trusted access to the cash they need to make purchases.",
+      "reason": "This paragraph directly relates to Visa's role and intentions in the AI initiative, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The payments problem is not something the AI platforms can solve by themselves,\" Forestell said. “That’s why we started working with them.”",
+      "reason": "This quote explains why Visa is collaborating with AI platforms, which is relevant to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new AI initiative comes nearly a year after Visa revealed major changes to how credit and debit cards will operate in the U.S., making physical cards and their 16-digit numbers increasingly irrelevant.",
+      "reason": "This paragraph provides context on Visa's broader strategy and changes, which is relevant to understanding the significance of the AI initiative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Many consumers are already getting used to digital payment systems such as Apple Pay that turn their phones into a credit card. A similar process of vetting someone's digital credentials would authorize AI agents to work on a customer's behalf, in a way Forestell says must assure buyers, banks and merchants that the transactions are legitimate and that Visa will handle disputes.",
+      "reason": "This paragraph provides relevant information about how AI agents would be authorized to work on behalf of customers, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Forestell said that doesn't mean AI agents will take over the entire shopping experience, but it might be useful for errands that either bore some people — like groceries, home improvement items or even Christmas lists — or are too complicated, like travel bookings. In those situations, some people might want an agent that “just powers through it and automatically goes and does stuff for us,” Forestell said.",
+      "reason": "This paragraph is relevant as it discusses potential uses of AI agents in shopping, which ties into the main premise of AI handling credit card transactions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other shopping experiences, such as for luxury goods, are a form of entertainment and many customers still want to immerse themselves in the choices and comparisons, Forestell said. In that case, he envisions AI agents still offering assistance but staying in the background.",
+      "reason": "This paragraph provides context on how AI agents might be used differently in luxury shopping, which is relevant to the discussion of AI's role in consumer transactions.",
+      "label": 1
+    },
+    {
+      "paragraph": "And what about credit card debt? The credit card balances of American consumers hit $1.21 trillion at the end of last year, according to the Federal Reserve of New York.",
+      "reason": "This paragraph is fluff as it introduces a tangential topic of credit card debt without connecting it to the main premise of AI agents handling credit card transactions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Forestell says consumers will give their AI agents clear spending limits and conditions that should give them confidence that the human is still in control. At first, the AI agents are likely to come back to buyers to make sure they are OK with a specific airplane ticket. Over time, those agents might get more autonomy to “go spend up to $1,500 on any airline to get me from A to B,\" he said.",
+      "reason": "This paragraph is relevant as it discusses how consumers can control AI agents' spending, directly relating to the headline about AI handling credit card transactions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Part of what is attracting some AI developers to the Visa partnership is that, with a customer's consent, an AI agent can also tap into a lot of data about past credit card purchases.",
+      "reason": "This paragraph provides relevant information about the Visa partnership and its potential use of AI agents.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Visa has the ability for a user to consent to share streams of their transaction history with us,” said Dmitry Shevelenko, Perplexity's chief business officer. “When we generate a recommendation -- say you’re asking, ‘What are the best laptops?’ — we would know what are other transactions you’ve made and the revealed preferences from that.”",
+      "reason": "This paragraph includes a direct quote explaining how Visa's AI agents could use transaction history to make recommendations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Perplexity's chatbot can already book hotels and make other purchases, but it's still in the early stages of AI commerce, Shevelenko says. The San Francisco startup has also, along with ChatGPT maker OpenAI, told a federal court it would consider buying Google's internet browser, Chrome, if the U.S. forces a breakup of the tech giant in a pending antitrust case.",
+      "reason": "This paragraph is mostly tangential information about Perplexity and unrelated legal matters.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Canadian Press. All rights reserved.",
+      "reason": "This is a copyright notice and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

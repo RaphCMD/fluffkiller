@@ -1,0 +1,69 @@
+{
+  "headline": "WMO confirms that 2023 smashes global temperature record",
+  "context": [
+    "The annual average global temperature approached 1.5° Celsius above pre-industrial levels – symbolic because the Paris Agreement on climate change aims to limit the long-term temperature increase (averaged over decades rather than an individual year like 2023) to no more than 1.5° Celsius above pre-industrial levels.",
+    "Six leading international datasets used for monitoring global temperatures and consolidated by WMO show that the annual average global temperature was 1.45 ± 0.12 °C above pre-industrial levels (1850-1900) in 2023. Global temperatures in every month between June and December set new monthly records. July and August were the two hottest months on record."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Climate change is the biggest challenge that humanity faces. It is affecting all of us, especially the most vulnerable,” said WMO Secretary-General Prof. Celeste Saulo. “We cannot afford to wait any longer. We are already taking action but we have to do more and we have to do it quickly. We have to make drastic reductions in greenhouse gas emissions and accelerate the transition to renewable energy sources,” she said.",
+      "reason": "The paragraph provides a quote from the WMO Secretary-General emphasizing the urgency of addressing climate change, which is relevant to the record-breaking temperature context.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The shift from cooling La Niña to warming El Niño by the middle of 2023 is clearly reflected in the rise in temperature from last year. Given that El Niño usually has the biggest impact on global temperatures after it peaks, 2024 could be even hotter,” she said.",
+      "reason": "This paragraph explains the impact of El Niño on the temperature rise, directly relating to the record-breaking temperatures in 2023.",
+      "label": 1
+    },
+    {
+      "paragraph": "“While El Niño events are naturally occurring and come and go from one year to the next, longer-term climate change is escalating, and this is unequivocal because of human activities. The climate crisis is worsening the inequality crisis. It affects all aspects of sustainable development and undermines efforts to tackle poverty, hunger, ill-health, displacement, and environmental degradation,” said Prof. Saulo (Argentina), who became WMO Secretary-General on 1 January 2024.",
+      "reason": "The paragraph provides context on the broader impacts of climate change, linking it to the record temperatures and human activities.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since the 1980s, each decade has been warmer than the previous one. The past nine years have been the warmest on record. The years 2016 (strong El Niño) and 2020 were previously classed as the warmest on record, at 1.29 ±0.12°C and 1.27 ±0.12°C above the pre-industrial era.",
+      "reason": "This paragraph provides historical context on temperature trends, relevant to understanding the significance of the 2023 record.",
+      "label": 1
+    },
+    {
+      "paragraph": "Based on the six datasets, the ten-year average 2014-2023 was 1.20 ±0.12°C above the 1850-1900 average, factoring in a margin of uncertainty.",
+      "reason": "The paragraph provides specific data on the ten-year average temperature, relevant to the discussion of temperature records.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Humanity’s actions are scorching the earth. 2023 was a mere preview of the catastrophic future that awaits if we don’t act now. We must respond to record-breaking temperature rises with path-breaking action,” said UN Secretary-General António Guterres.",
+      "reason": "The quote emphasizes the urgency of the situation and the need for action, directly relating to the record-breaking temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We can still avoid the worst of climate catastrophe. But only if we act now with the ambition required to limit the rise in global temperature to 1.5 degrees Celsius and deliver climate justice,” he said in a statement.",
+      "reason": "The quote discusses the potential to mitigate climate change impacts, which is relevant to the temperature record context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Long-term monitoring of global temperatures is just one indicator of climate and how it is changing. Other key indicators include atmospheric greenhouse gas concentrations, ocean heat and acidification, sea level, sea ice extent and glacier mass balance.",
+      "reason": "This paragraph provides context on climate indicators, which is relevant to understanding the significance of the temperature record.",
+      "label": 1
+    },
+    {
+      "paragraph": "WMO’s provisional State of the Global Climate in 2023 report, published on 30 November, showed that records were broken across the board.",
+      "reason": "This paragraph directly relates to the headline by confirming the breaking of climate records in 2023.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sea surface temperatures were exceptionally high for much of the year, accompanied by severe and damaging marine heatwaves. Antarctic sea ice extent was the lowest on record, both for the end-of-summer minimum in February and end-of-winter maximum in September .",
+      "reason": "The paragraph provides specific data on sea temperatures and ice extent, contributing to the narrative of record-breaking climate events.",
+      "label": 1
+    },
+    {
+      "paragraph": "These long-term changes in our climate play out through our weather on a day-to-day basis. In 2023, extreme heat impacted health and helped fuel devastating wildfires. Intense rainfall, floods, rapidly intensifying tropical cyclones left a trail of destruction, death and huge economic losses.",
+      "reason": "This paragraph provides specific examples of the impacts of the record-breaking temperatures in 2023.",
+      "label": 1
+    },
+    {
+      "paragraph": "WMO will issue its final State of the Global Climate 2023 report in March 2024. This will include details on socioeconomic impacts on food security, displacement, and health.",
+      "reason": "This paragraph is about a future report and does not provide new information about the 2023 temperature record.",
+      "label": 0
+    }
+  ]
+}

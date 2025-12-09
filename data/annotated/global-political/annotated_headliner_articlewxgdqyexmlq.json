@@ -1,0 +1,154 @@
+{
+  "headline": "Trump says the U.S. and China are 'actively' discussing tariffs. Beijing says that's false.",
+  "context": [
+    "April 24, 2025, 6:48 AM EDT / Updated April 24, 2025, 9:01 AM EDT",
+    "HONG KONG — China on Thursday directly contradicted President Donald Trump’s claims that Beijing and Washington are actively discussing resolutions to a trade war that threatens to upend the global economy."
+  ],
+  "annotations": [
+    {
+      "paragraph": "While Trump said Wednesday that the world’s two largest economies are “actively” talking, a Chinese foreign ministry spokesperson responded that “China and the U.S. have not engaged in any consultations or negotiations regarding tariffs, let alone reached an agreement.”",
+      "reason": "This paragraph provides direct quotes from both Trump and a Chinese spokesperson, highlighting the contradiction central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The spokesperson, Guo Jiakun, made the comments at a briefing in Beijing, saying that reports of ongoing talks were false. He added that while China is open to negotiations, “if it’s a fight, we will fight to the end.”",
+      "reason": "This paragraph offers additional context and quotes from the Chinese spokesperson, reinforcing the main story of conflicting claims.",
+      "label": 1
+    },
+    {
+      "paragraph": "At 145%, Trump’s tariffs are higher on China than any other country. As he ratcheted up tariffs on Chinese goods in recent weeks, citing unfair trade practices, Beijing has responded in kind, bringing its total tariff on U.S. goods to 125% — levels that amount to a mutual trade embargo.",
+      "reason": "This paragraph provides essential context on the current state of tariffs, which is directly relevant to the trade discussions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The prospect has raised fears of a global recession, sending markets whipsawing as trade tensions have done the same. Relations briefly appeared to improve Wednesday after the Trump administration signaled that it was discussing reducing tariffs with China.",
+      "reason": "This paragraph discusses the broader economic impact and recent developments, which are relevant to the article's focus on trade negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Still, Trump and Treasury Secretary Scott Bessent gave conflicting accounts of the state of negotiations Wednesday, with Bessent saying “both sides are waiting to speak to the other,” without providing further detail. The secretary reiterated remarks he made the previous day, predicting near-term de-escalation.",
+      "reason": "This paragraph highlights internal inconsistencies within the U.S. administration, adding depth to the article's narrative on negotiation status.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I don’t think either side believes that the current tariff levels are sustainable, so I would not be surprised if they went down in a mutual way,” he told reporters Wednesday in Washington.Trump, meanwhile, said that “everybody wants to be a part of what we’re doing” and that the U.S. and China had direct contact on trade “every day.”",
+      "reason": "This paragraph provides direct quotes from Trump and commentary on the sustainability of tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "A senior administration official told NBC News on Wednesday that the U.S. is speaking with China on tariffs but at a low level that has not involved Cabinet officials.",
+      "reason": "This paragraph provides new information about the level of communication between the U.S. and China.",
+      "label": 1
+    },
+    {
+      "paragraph": "The mixed messaging came a day after Trump made comments that were interpreted as a potential softening toward Beijing.",
+      "reason": "This paragraph provides context about the timing and interpretation of Trump's comments.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rather than playing hardball with China, the U.S. is “going to be very nice” and the final tariffs “will not be anywhere near” the current 145%, the president told reporters Tuesday.",
+      "reason": "This paragraph includes a direct quote from Trump about his approach to tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "White House press secretary Karoline Leavitt denied Trump was softening his tone, telling Fox News that “there will be no unilateral reduction in tariffs against China.”",
+      "reason": "This paragraph provides a direct quote from the White House press secretary clarifying the administration's stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those comments poured cold water on U.S. stocks, which pared earlier gains Wednesday and slipped in premarket trading Thursday. Asian markets ended Thursday mixed, while European indexes fell in early trading.",
+      "reason": "Provides context on the market reaction to the news about U.S.-China trade discussions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The suggestion that tariffs could soon come down “reflects the pain that these tariffs have imposed and are likely to impose on U.S. businesses and U.S. customers, if continued,” said Lee Branstetter, a professor of economics and public policy at Carnegie Mellon University.",
+      "reason": "Offers expert commentary on the impact of tariffs, relevant to the trade discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Talking about tariff reductions before winning any concessions from China or even starting serious talks looks like a climbdown, Branstetter said.",
+      "reason": "Provides analysis on the strategic implications of the U.S. position in trade talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "“That, to me, is consistent with the view that the president did not really think through the consequences of his tariff decisions,” he added. “They have now become much more evident to him.”",
+      "reason": "Includes a direct quote offering insight into the president's decision-making process.",
+      "label": 1
+    },
+    {
+      "paragraph": "The impasse between the U.S. and China is causing growing anxiety as the implications become clearer. This week, the International Monetary Fund slashed growth forecasts for the U.S., China and most other countries, citing the effect of U.S. tariffs.",
+      "reason": "Provides context on the broader economic impact of the U.S.-China trade impasse.",
+      "label": 1
+    },
+    {
+      "paragraph": "The White House is also increasingly concerned about possible shortages on U.S. retail shelves as orders begin for the holiday season at the end of the year.",
+      "reason": "This paragraph provides context about the potential impact of the trade war on U.S. retail, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "A spokesperson for Hapag-Lloyd, a Germain container shipping group, said Thursday that its customers had canceled 30% of shipments to the United States from China over concerns about their trade dispute.",
+      "reason": "This paragraph offers specific data on the impact of the trade dispute, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "After a similar battle over tariffs in Trump's first term, China — which has long been preparing for a second trade war with the U.S. president — has not rushed to offer concessions or set up meetings with U.S. trade officials.",
+      "reason": "This paragraph provides historical context and China's current stance, which is relevant to the main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We don’t care about what he wants,” said Wu Xinbo, a government adviser serving in China’s Foreign Ministry and a professor at Fudan University in Shanghai. The U.S. and China may exchange some information at the working level, but that’s not negotiation, he said.",
+      "reason": "This quote directly addresses the claim of active negotiations, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Trump just wants to send some reassuring signals to the domestic market, suggesting that ‘The Chinese are talking to us, don’t worry.’ But that’s not the case,” Wu said.",
+      "reason": "This quote provides direct commentary on Trump's motivations, relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the meantime, China faces its own pressures, including a slowdown in its export-driven economy that would only be made worse by tariffs. If domestic demand doesn’t pick up to compensate for the drop in exports, China may need to negotiate, said Gary Ng, senior economist for Natixis in Hong Kong.",
+      "reason": "Provides context on China's economic pressures related to the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s “quite hard” to convince the rising Chinese middle class to once again accept a decline in their living standards, Ng said.",
+      "reason": "Offers insight into domestic challenges China faces, relevant to the trade negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other factors, such as the fact that Chinese President Xi Jinping doesn’t have to answer to voters, may buy China some time.",
+      "reason": "Provides context on China's political situation affecting trade negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I think the Chinese have taken the measure of Donald Trump,” Branstetter said. “They’ve determined that he really can’t afford the economic and political cost that high tariffs, even on China alone, would generate, that he would fold pretty quickly if pushed. And that seems to be exactly what’s happening.”",
+      "reason": "Direct commentary on the strategic considerations of China regarding Trump and tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jennifer Jett is the Asia Digital Editor for NBC News, based in Hong Kong.",
+      "reason": "Provides no new information related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Peter Guo is a fellow on NBC’s Asia Desk, based in Hong Kong.",
+      "reason": "This paragraph provides background information about a contributor, which does not add to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "and",
+      "reason": "This is an incomplete sentence and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "contributed",
+      "reason": "This is an incomplete sentence and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": ".",
+      "reason": "This is a punctuation mark and does not contribute any information.",
+      "label": 0
+    }
+  ]
+}

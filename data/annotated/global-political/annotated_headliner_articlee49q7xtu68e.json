@@ -1,0 +1,184 @@
+{
+  "headline": "The U.S.-China trade war is escalating. But China may have more leverage than the U.S. thought | CBC News",
+  "context": [
+    "World·Analysis",
+    "With the U.S. and China escalating their trade war, experts say China believes it can both inflict more damage on the U.S. and tolerate more pain."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Peter Armstrong  · CBC News",
+      "reason": "This is a byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "As the trade war between the U.S. and China escalates, the biggest questions are which side has more leverage and which is willing to tolerate more pain.",
+      "reason": "This paragraph introduces the main questions of the article, contributing to the narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "China exported more than $400 billion US to the United States last year, much more than American companies sold to China. That's why the Trump administration claims it has all the leverage.",
+      "reason": "This paragraph provides specific trade figures and context relevant to the leverage discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The ball is in China's court. China needs to make a deal with us. We don't have to make a deal with them,\" said White House press secretary Karoline Leavitt on Tuesday.",
+      "reason": "This quote from a White House official provides direct commentary on the U.S. position in the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"China wants what we have; every country wants what we have: the American consumer. Or to put it another way, they need our money,\" she told reporters in Washington.",
+      "reason": "This quote elaborates on the perceived leverage of the U.S., contributing to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the trade landscape is more complicated than that. And experts say China believes it can both inflict more damage on the U.S. and tolerate more pain from a tariff war.",
+      "reason": "This paragraph provides context and introduces the main argument about China's perceived leverage.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"China does have a lot of cards to play. It has a lot of leverage,\" said Jia Wang, a senior fellow at the China Institute at the University of Alberta.",
+      "reason": "This paragraph includes a relevant expert quote supporting the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | More on China's retaliation:",
+      "reason": "This is a prompt for a video, not contributing new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trade war: How far will China go to beat the U.S.?",
+      "reason": "This is a headline or subheading, not a paragraph with new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Modern U.S.-China trade is dominated by tech products and electronics, everything from iPhones to computers to batteries.",
+      "reason": "This paragraph provides relevant context about the nature of U.S.-China trade.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Wang says there are enormous exports of crucial industrial inputs that will be very difficult for the U.S. to replace because China controls much of the world's production. For example, in a retaliatory measure, it banned exports of certain critical minerals earlier this month.",
+      "reason": "Provides specific information about China's leverage in the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ban covers seven rare earth elements and magnets used in defence, energy and automotive technologies.",
+      "reason": "Details the specific materials involved in China's export ban.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"That's really going to hurt U.S. industries, and very few countries can really fill that gap,\" she said. \"There's just not enough time for other suppliers to quickly come to the market and to supply the amount needed by the U.S … so it's a very powerful card China can play.\"",
+      "reason": "Includes expert commentary on the impact of China's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Wang also pointed to the fact that China is America's second-largest foreign creditor, holding about $760 billion US in Treasury securities as of January.",
+      "reason": "Highlights another aspect of China's economic leverage over the U.S.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unlike the trade war in 2018 when China quickly sought to negotiate a break in tariffs, this time, Beijing is taking a more aggressive approach.",
+      "reason": "Provides context on the change in China's strategy in the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"If the U.S. really wants to resolve the issue through dialogue and negotiation, it should stop exerting extreme pressure, stop threatening and blackmailing, and talk to China on the basis of equality, respect and mutual benefit,\" Foreign Ministry spokesperson Lin Jian said at a briefing.",
+      "reason": "Provides direct commentary from a Chinese official on the trade negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Meanwhile, Chinese President Xi Jinping is touring Southeast Asian countries to ramp up economic ties and pitch China as a more reliable partner than the U.S.",
+      "reason": "Describes China's strategic actions to strengthen economic ties, relevant to the trade war context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Spencer Hakimian, chief investment officer of Tolou Capital Management in New York, says China has already spent years diversifying its trade partners.",
+      "reason": "Introduces expert commentary on China's trade strategy, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"China's exports to the U.S. are flat over the past 13 years,\" he says. But over that same period, he says, its exports to the rest of the world went up more than 80 per cent.",
+      "reason": "Provides data on China's export trends, relevant to its leverage in the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even during the first Trump presidency, he says China was more exposed to American tariffs. Today, he says China's exports to the U.S. are $400 billion US on a gross domestic product of $20 trillion US total.",
+      "reason": "Offers context on China's economic exposure to U.S. tariffs, relevant to the trade war dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This is two per cent of their economy,\" he said. \"Yes, so it hurts, but when you have an economy growing at five per cent and you have a one-time loss of two per cent, it's not as substantial as you really think it is.\"",
+      "reason": "Provides context on China's economic resilience in the face of tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "He says China had a long-term strategy and a clear plan for what it was going to do once American tariffs were imposed.",
+      "reason": "Highlights China's strategic approach to the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "Compare that, he says, to the chaotic approach out of Washington, whose tariff rate on China keeps changing. When markets plunged last week, Trump unilaterally scaled things back with sweeping exemptions. His top cabinet picks have offered wildly different rationale for the tariffs, sometimes even contradicting each other. Some have said the tariffs are permanent and meant to raise revenue, while others have said they are a point of leverage to exact trade concessions.",
+      "reason": "Describes the inconsistent U.S. strategy, contrasting with China's approach.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I'm an American, I support my country, I want the Americans to win this trade war,\" said Hakimian, \"but I have to be objective, too, because I'm a global asset manager and that's my job. Obviously, the Chinese are more prepared for this.\"",
+      "reason": "Provides a perspective on China's preparedness from a financial expert.",
+      "label": 1
+    },
+    {
+      "paragraph": "Two noted China experts published a research paper in The Washington Quarterly last week outlining Beijing's emerging strategy.",
+      "reason": "Mentions a research paper but lacks specific details or insights.",
+      "label": 0
+    },
+    {
+      "paragraph": "Evan Medeiros and Andrew Polk wrote about what they called China's \"precision-guided economic munitions\" that go beyond the critical mineral controls. That includes considering antitrust investigations of foreign businesses, they say. In the wake of the last U.S. trade war, China introduced a provision called the Unreliable Entity List, which could make it more difficult for targeted firms to do business in the country.",
+      "reason": "This paragraph provides specific strategies China might use in the trade war, contributing to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Fact-checking Trump's claims on China:",
+      "reason": "This is a prompt for a video, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Is Trump right about China manipulating its currency? | About That",
+      "reason": "This is a title for a video segment, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Above all, China has a higher pain tolerance in a trade war.",
+      "reason": "This is a vague generalization without specific evidence or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Wang says the Chinese Communist Party doesn't have to worry as much about angry consumers upset about the economic impact of a trade war as the American administration does.",
+      "reason": "This provides context on China's political advantage in the trade war, relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Given all the chaos in the U.S., it's still an electoral system. So President Trump and his cabinet, they're still having to watch how the polls are going to respond to the situation,\" she said.",
+      "reason": "This quote provides insight into the U.S. political considerations affecting the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "Analysis",
+      "reason": "This is a section header and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Put all that together, and the Chinese approach to the trade war begins to take shape. The Chinese leadership believes it can inflict real pain, even while it uses the crisis to strengthen ties to neighbouring countries.",
+      "reason": "This paragraph provides analysis on China's strategy in the trade war.",
+      "label": 1
+    },
+    {
+      "paragraph": "The hard part about any conflict is finding a way out. The U.S. seems to have thought it could force China to the table and exact concessions on its terms. Just weeks into this trade war, that is proving more complicated than many thought.",
+      "reason": "This paragraph discusses the challenges the U.S. faces in the trade war, adding context to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Peter Armstrong is a senior business reporter for CBC News. A former host of On the Money and World Report on CBC Radio, he was previously a foreign correspondent and parliamentary reporter for CBC. Subscribe to Peter's newsletter here: cbc.ca/mindyourbusiness Twitter: @armstrongcbc",
+      "reason": "This paragraph is a bio and promotional content, not relevant to the article's main story.",
+      "label": 0
+    }
+  ]
+}

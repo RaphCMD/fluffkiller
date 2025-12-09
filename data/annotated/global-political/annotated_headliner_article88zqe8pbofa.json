@@ -1,0 +1,59 @@
+{
+  "headline": "US attacks Yemen port again; Houthis launch missiles at Israel | Houthis News | Al Jazeera",
+  "context": [
+    "US strike is on same Yemeni port in Hodeidah that killed at least 80 people last month.",
+    "The Houthi-affiliated Al Masirah TV media outlet has reported that seven US strikes hit the Ras Isa oil port in al-Salif district in Hodeidah in the last few hours, where a US strike at the same port last month killed at least 80 people and wounded 150 in one of the deadliest attacks on the country byUS forces."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Earlier Friday, the Houthis claimed responsibility for launching two missiles towards northern Israel, targeting the Ramat David military airbase and the Tel Aviv area, as the group continues its military pressure in solidarity with Palestinians under Israeli fire.",
+      "reason": "This paragraph provides new information about the Houthis' missile launch towards Israel, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Israeli military said on Friday it intercepted the first missile and launched another interceptor at the second, which was also fired from Yemen.",
+      "reason": "This paragraph offers details on the Israeli military's response to the missile launches, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Alarms were triggered in several locations, though authorities reported no casualties or damage. The military added that the outcome of the second interception was still under review.",
+      "reason": "This paragraph provides additional context on the impact and current status of the missile interceptions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yahya Saree, spokesperson for the Houthis – also known as Ansar Allah – confirmed the group had carried a “military operation” against a key Israeli military target.",
+      "reason": "This paragraph includes a confirmation from a Houthi spokesperson, adding credibility and detail to the report.",
+      "label": 1
+    },
+    {
+      "paragraph": "Saree said hypersonic missiles were used and had successfully hit their intended destination.",
+      "reason": "This paragraph provides specific details about the type of missiles used and their effectiveness, which is relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Israeli army responded that “interception attempts were made” without providing further details.",
+      "reason": "This paragraph provides a direct response from the Israeli army, contributing to the narrative of the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Houthi group has repeatedly said its attacks on Israel as well as United States and British ships in the Red Sea and Bab al-Mandeb Strait will only cease if Israel agrees to a permanent Gaza truce.",
+      "reason": "This paragraph provides context on the conditions set by the Houthis for ceasing attacks, relevant to the ongoing conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Houthis did not carry out attacks during the Gaza ceasefire earlier this year until Israel blocked all aid into the besieged enclave in early March and followed that with a full resumption of the war.",
+      "reason": "This paragraph offers historical context on the Houthis' actions and motivations, relevant to the current situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The attacks come as the US escalates its military operations in Yemen.",
+      "reason": "This paragraph provides context on the broader military actions by the US, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get real-time breaking news alerts and stay up-to-date with the most important headlines from around the globe.",
+      "reason": "This is a promotional statement unrelated to the article's core story.",
+      "label": 0
+    }
+  ]
+}

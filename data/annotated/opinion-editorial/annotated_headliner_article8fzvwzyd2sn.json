@@ -1,0 +1,29 @@
+{
+  "headline": "Punishing already punished prisoners is spiteful – Editorial - NZ Herald",
+  "context": [
+    "Justice Minister Paul Goldsmith. Photo / Marika Khabazi",
+    "Editorial"
+  ],
+  "annotations": [
+    {
+      "paragraph": "THREE KEY FACTS",
+      "reason": "This is a section header and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "This week, in a busy news cycle dominated by Budget announcements and speculation, we also learned Cabinet has agreed to bring back a total ban on prisoners voting in general elections.",
+      "reason": "This paragraph provides relevant information about the Cabinet's decision on prisoner voting, which is directly related to the editorial's topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "One can be quite cynical as to why exactly this is deemed a priority for this",
+      "reason": "This paragraph offers a vague generalization without providing specific information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "TOP",
+      "reason": "This is a section header and does not provide any information.",
+      "label": 0
+    }
+  ]
+}

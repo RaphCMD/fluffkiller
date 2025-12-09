@@ -1,0 +1,194 @@
+{
+  "headline": "Who are the Houthis and why is the US targeting them?",
+  "context": [
+    "25 March 2025",
+    "EPA"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The start of the Israel-Hamas war in October 2023 brought a new kind of conflict to prominence, with Iran-backed Houthi rebels attacking commercial ships in the Red Sea and Gulf of Aden.",
+      "reason": "Provides context on the conflict involving the Houthis and their actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The US launched several attacks in response. The latest, in mid-March, shook the new Trump presidency after it emerged that a journalist had been invited to a messaging group in which his most senior officials, including the vice-president, were discussing details of the attacks about to be launched.",
+      "reason": "Details US actions and political implications related to the Houthi conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "Initially, the Houthis started firing drones and missiles towards Israel. Most were intercepted.",
+      "reason": "Describes the initial actions of the Houthis in the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "On 19 November 2023, the Houthis hijacked a commercial ship in the Red Sea.",
+      "reason": "Reports a specific incident involving the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "They have since launched dozens of missile and drone attacks on commercial ships.",
+      "reason": "Provides ongoing actions of the Houthis relevant to the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "They have sunk two vessels, seized a third and killed four crew members.",
+      "reason": "Provides specific actions taken by the Houthis relevant to the US targeting them.",
+      "label": 1
+    },
+    {
+      "paragraph": "US-led naval forces have thwarted many attacks.",
+      "reason": "Offers information on the US response to Houthi actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Houthis initially said they were attacking ships connected with Israel, or heading to or from there. However, many of the vessels have no connection with Israel.",
+      "reason": "Explains the Houthis' stated motives and the reality of their targets.",
+      "label": 1
+    },
+    {
+      "paragraph": "In response to US and UK air strikes on their positions, the Houthis began targeting ships tied to owners or operators in the UK or US.",
+      "reason": "Describes the escalation and targeting rationale by the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "The attacks forced even major shipping companies to stop using the Red Sea - through which almost 15% of global seaborne trade usually passes - and to take a much longer route around southern Africa instead.",
+      "reason": "Highlights the broader impact of the Houthi attacks on global trade.",
+      "label": 1
+    },
+    {
+      "paragraph": "The US and UK started carrying out air strikes on Houthi targets in Yemen in January 2024.",
+      "reason": "Provides a timeline and context for military actions against the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "President Joe Biden said they were in \"direct response\" to the attacks on Red Sea ships, which \"jeopardised trade, and threatened freedom of navigation\".",
+      "reason": "Explains the rationale behind the air strikes, linking them to specific incidents.",
+      "label": 1
+    },
+    {
+      "paragraph": "His successor, though, blamed him for not doing enough and in March 2025 Donald Trump authorised a wave of air strikes on Houthi targets.",
+      "reason": "Describes a change in US policy and leadership actions regarding the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Funded by Iran, the Houthi thugs have fired missiles at US aircraft, and targeted our troops and allies,\" Trump said, adding that their \"piracy, violence, and terrorism\" had cost \"billions\" and put lives at risk.",
+      "reason": "Provides direct quotes from Trump explaining the perceived threat of the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump said that it had been more than a year since a US-flagged ship had sailed safely through the Suez Canal - which the Red Sea leads to - and four months since a US warship had been through the body of water between east Africa and the Arabian peninsula.",
+      "reason": "Offers specific details on the impact of Houthi actions on US maritime operations.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Suez Canal is the quickest sea route between Asia and Europe, and is particularly important in the transportation of oil and liquefied natural gas (LNG).",
+      "reason": "This paragraph is unrelated to the Houthis or US actions against them.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump urged Iran to cease its support for the Houthis, warning that Washington would hold Tehran \"fully accountable and, we won't be nice about it\".",
+      "reason": "This paragraph provides direct commentary on US actions against the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sean Parnell, the Pentagon's spokesman, explicitly linked the strikes to Iran and the Trump administration's desire to deviate from Joe Biden's policies towards the country.",
+      "reason": "This paragraph offers context on the US's strategic stance towards Iran and the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Under the previous administration, America's enemies were emboldened and billions in frozen funds were unlocked for Iran,\" he said. \"With President Trump... an era of peace through strength is back.\"",
+      "reason": "This paragraph provides political context related to US policy changes impacting the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Houthis are an armed political and religious group which champions Yemen's Shia Muslim minority, the Zaidis.",
+      "reason": "This paragraph gives essential background information on the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "They declare themselves to be part of the Iranian-led \"axis of resistance\" against Israel, the US and the wider West - along with armed groups such as Hamas and Lebanon's Hezbollah movement.",
+      "reason": "Provides context on the Houthis' alliances and ideological stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Formally known as the Ansar Allah (Partisans of God), the group emerged in the 1990s and takes its name from the movement's late founder, Hussein al-Houthi. The current leader is his brother, Abdul Malik al-Houthi.",
+      "reason": "Gives background on the group's origins and leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the early 2000s, the Houthis fought a series of rebellions against Yemen's long-time authoritarian president, Ali Abdullah Saleh. They wanted greater autonomy for the group's homeland in the north of Yemen.",
+      "reason": "Describes the Houthis' early conflicts and motivations.",
+      "label": 1
+    },
+    {
+      "paragraph": "During the 2011 Arab Spring, a popular uprising forced President Saleh to hand over power to his deputy, Abdrabbuh Mansour Hadi.",
+      "reason": "Provides historical context relevant to the Houthis' rise.",
+      "label": 1
+    },
+    {
+      "paragraph": "President Hadi's government was overwhelmed with problems. The Houthis seized control of the northern province of Saada before taking the Yemeni capital, Sanaa, after forming an unlikely alliance with Saleh and security forces still loyal to him.",
+      "reason": "Explains the Houthis' strategic moves and alliances.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2015, the rebels seized large parts of western Yemen and forced Mr Hadi to flee abroad.",
+      "reason": "Provides historical context on the Houthis' actions in Yemen.",
+      "label": 1
+    },
+    {
+      "paragraph": "Neighbouring Saudi Arabia feared the Houthis would take over Yemen and make it a satellite of its rival, Iran.",
+      "reason": "Explains Saudi Arabia's concerns about the Houthis' influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "It formed a coalition of Arab countries that intervened in the war. But years of air strikes and ground fighting have not dislodged the Houthis from most of the territory they seized.",
+      "reason": "Describes the regional response and ongoing conflict involving the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Saudi Arabia has been trying to make a peace deal with the Houthis.",
+      "reason": "Mentions current diplomatic efforts related to the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "The war has killed more than 160,000 people, according to the Armed Conflict Location & Event Data Project (ACLED). More than four million people have been displaced.",
+      "reason": "Provides statistics on the humanitarian impact of the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "The US says Iran enabled the Houthis to target ships, and President Biden sent a \"private message\" to Tehran urging it to stop. Iran has denied involvement.",
+      "reason": "This paragraph provides direct commentary on US actions and Iran's response, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Saudi Arabia and the US say Iran has smuggled weapons - including drones, and cruise and ballistic missiles - to the Houthis during Yemen's civil war in violation of a UN arms embargo.",
+      "reason": "This paragraph offers specific allegations about Iran's involvement with the Houthis, relevant to the US targeting them.",
+      "label": 1
+    },
+    {
+      "paragraph": "It says such missiles and drones have been used in attacks on Saudi Arabia, as well as its ally, the United Arab Emirates.",
+      "reason": "This paragraph provides context on the impact of the alleged smuggling, relevant to the US targeting the Houthis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yemen has been devastated by a civil war that escalated 10 years ago, when the Houthis seized control of the country's north-west from the internationally-recognised government and a Saudi-led coalition supported by the US intervened in an effort to restore its rule.",
+      "reason": "This paragraph gives essential background on the conflict involving the Houthis, relevant to understanding the US's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The fighting has reportedly left more than 150,000 people dead and triggered a humanitarian disaster, with 4.8 million people displaced and 19.5 million - half of the population - in need of some form of aid.",
+      "reason": "This paragraph provides important context on the humanitarian impact of the conflict, relevant to the overall situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Houthis control Sanaa and the north-west of Yemen, including the Red Sea coastline.",
+      "reason": "Provides specific information about the areas controlled by the Houthis, relevant to understanding their influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Most of Yemen's population lives in these areas, and the Houthis run a de facto government which collects taxes and prints money.",
+      "reason": "Offers important context about the Houthis' governance and economic control, relevant to their significance.",
+      "label": 1
+    }
+  ]
+}

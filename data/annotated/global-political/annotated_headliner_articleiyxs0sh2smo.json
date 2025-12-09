@@ -1,0 +1,69 @@
+{
+  "headline": "2023 was the world’s warmest year on record, by far | National Oceanic and Atmospheric Administration",
+  "context": [
+    "It’s official: 2023 was the planet’s warmest year on record, according to an analysis by scientists from NOAA’s National Centers for Environmental Information (NCEI).",
+    "Along with the historic heat, Antarctic sea ice coverage dropped to a record low in 2023."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“After seeing the 2023 climate analysis, I have to pause and say that the findings are astounding,” said NOAA Chief Scientist Dr. Sarah Kapnick. “Not only was 2023 the warmest year in NOAA’s 174-year climate record — it was the warmest by far. A warming planet means we need to be prepared for the impacts of climate change that are happening here and now, like extreme weather events that become both more frequent and severe.",
+      "reason": "The paragraph provides a direct quote from a NOAA scientist emphasizing the significance of the 2023 record and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We will continue to see records broken and extreme events grow until emissions go to zero,” Kapnick said. “Government policy can address both emissions, but also actions to reduce climate impacts by building resilience.\"",
+      "reason": "The paragraph includes a relevant quote about future climate trends and policy implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Below are highlights from NOAA’s 2023 annual global climate report:",
+      "reason": "This is an introductory sentence to the report highlights and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Climate by the numbers",
+      "reason": "This is a section header and does not provide any substantive information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Earth’s average land and ocean surface temperature in 2023 was 2.12 degrees F (1.18 degrees C) above the 20th century — the highest global temperature among all years in NOAA’s 1850-2023 climate record. It also beats the next warmest year, 2016, by a record-setting margin of 0.27 of a degree F (0.15 of a degree C).",
+      "reason": "The paragraph provides specific data on temperature records, directly supporting the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The 10 warmest years since 1850 have all occurred in the past decade. In fact, the average global temperature for 2023 exceeded the pre-industrial (1850–1900) average by 2.43 degrees F (1.35 degrees C).",
+      "reason": "This paragraph provides specific data about the temperature increase in 2023 and its historical context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Looking ahead, there is a one-in-three chance that 2024 will be warmer than 2023, and a 99% chance that 2024 will rank among the top five warmest years.",
+      "reason": "This paragraph offers predictions about future temperatures, which is relevant to the topic of global warming.",
+      "label": 1
+    },
+    {
+      "paragraph": "2023 as ranked by other scientific organizations",
+      "reason": "This is a section header and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Other scientific organizations, including NASA, the Copernicus Climate Change Service offsite link and the UK Met Office have conducted separate but similar analyses that also rank 2023 as the warmest year on record.",
+      "reason": "This paragraph confirms the main claim by citing additional authoritative sources.",
+      "label": 1
+    },
+    {
+      "paragraph": "An annotated map of the world plotted with the year's most significant climate events. Please see the story below as well as the report summary from NOAA NCEI at http://bit.ly/Global202312 offsite link.  (Image credit: NOAA NCEI)",
+      "reason": "This is an image caption and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Other notable climate findings and events",
+      "reason": "The paragraph is a heading and does not provide any specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "More: Access NOAA NCEI’s year-end 2023 global climate report and images.",
+      "reason": "This paragraph is a call to action and does not provide new information.",
+      "label": 0
+    }
+  ]
+}

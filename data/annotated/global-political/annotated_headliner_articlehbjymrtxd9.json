@@ -1,0 +1,154 @@
+{
+  "headline": "Trump turns toward Russia, breaking with decades of U.S. policy",
+  "context": [
+    "President Donald Trump has said Ukraine — not Russia — started the war. He’s called Ukrainian President Volodymyr Zelenskyy — not Vladimir Putin — a dictator. Meanwhile, Trump’s administration is standing down on a suite of tough anti-Kremlin policies.",
+    "In just over a month, Trump has executed a startling realignment of American foreign policy, effectively throwing U.S. support behind Moscow and rejecting the tight alliance with Kyiv cultivated by former President Joe Biden."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The extraordinary pivot has upended decades of hawkish foreign policy toward Russia that provided a rare area of bipartisan consensus in an increasingly divided nation. Trump’s recent moves have drawn international attention, unsettling U.S. allies in Europe and thrilling conservative populists who favor a turn away from Zelenskyy.",
+      "reason": "This paragraph provides context on the impact of Trump's policy shift and its reception, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new posture was put in stark relief on Friday during a tense Oval Office meeting between Trump and Zelenskyy. The leaders clashed in front of the press, raising questions about the future of American support for Kyiv, more than three years after Russia opened the largest conflict in Europe since World War II.",
+      "reason": "This paragraph describes a specific event that illustrates the shift in U.S. policy and its implications, which is relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "U.S. officials have made a series of policy changes in recent weeks that seem to herald a more cooperative stance with Russia:",
+      "reason": "This paragraph introduces specific policy changes, directly contributing to the narrative of the U.S. policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump has long professed a desire to reset and improve relations with Russia. He has repeatedly said he believes it is in the national interest to “get along” with Moscow and cast doubt on the value of core parts of the post-World War II global security architecture, including NATO and the European Union. Trump’s first term was shadowed by former special counsel Robert Mueller’s Russia investigation — a probe that Trump has repeatedly dismissed as the “Russia hoax.”",
+      "reason": "This paragraph provides background on Trump's longstanding views on Russia, which is relevant to understanding the current policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump has pushed back on Democrats and other critics who have accused him of deferring to Russia.",
+      "reason": "This paragraph mentions Trump's response to criticism, but it does not add substantial new information to the article's main narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I’m not aligned with Putin. I’m not aligned with anybody. I’m aligned with the United States of America, and for the good of the world, I’m aligned with the world, and I want to get this thing over with,\" Trump said Friday from the Oval Office, referring to the Russia-Ukraine war.",
+      "reason": "This paragraph provides a direct quote from Trump, offering insight into his stance on the Russia-Ukraine war.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the U.S. government now appears to be pivoting away from Kyiv. In the weeks since his inauguration, Trump has suggested Ukraine was responsible for Russia’s invasion and “started” the war, echoing familiar talking points from the Kremlin.",
+      "reason": "This paragraph provides new facts about the U.S. government's shift in policy and Trump's statements aligning with Kremlin narratives.",
+      "label": 1
+    },
+    {
+      "paragraph": "The president's relationship with Zelenskyy has long been fraught, partly owing to a July 2019 phone call in which Trump pressured the Ukrainian leader to investigate Joe Biden and his son Hunter over the latter's position on the board of a Ukrainian energy company. After the call leaked, it helped touch off the first impeachment of Trump. (He was ultimately acquitted by the Senate.)",
+      "reason": "This paragraph provides historical context about Trump's relationship with Zelenskyy, relevant to understanding current tensions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Vice President JD Vance has likewise been consistently skeptical of continued U.S. assistance to Ukraine’s government.",
+      "reason": "This paragraph introduces a key figure's stance, contributing to the narrative of shifting U.S. policy.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The bitter irony of America’s present predicament is that the very people who cheer for permanent arms shipments to Ukraine also supported the de-industrialization of America,” Vance said in a post on X on Sunday. “The very things you want us to send are things we don’t make enough of.”",
+      "reason": "This paragraph provides a quote from Vance, illustrating his viewpoint on U.S. policy towards Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump’s approach is a dramatic departure from traditional U.S. foreign policy toward Russia, a period spanning the Cold War with the former Soviet Union as well as the rise of Putin. American presidents, Republicans and Democrats alike, typically struck a more bellicose tone on the threat posed by an emboldened Russia.",
+      "reason": "This paragraph provides context on how Trump's approach differs from historical U.S. policy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Putin’s regime has welcomed the overtures from Trump. In statements reported by Russian state media agency TASS, Foreign Minister Sergey Lavrov praised Trump as a pragmatist who operates with “common sense.”",
+      "reason": "This paragraph provides direct commentary from Russian officials on Trump's policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We see that the collective West has begun to partially lose its unity,” Kremlin spokesperson Dmitry Peskov told reporters in Moscow on Monday.",
+      "reason": "This quote from a Kremlin spokesperson is relevant as it reflects Russia's perspective on the impact of Trump's policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "Democrats and anti-Trump Republican commentators have sharply criticized the administration since the Oval Office meeting, accusing Trump of effectively selling out Ukraine. In a post on his Truth Social platform early Monday, Trump defended himself and insisted he had helped keep much of Ukraine intact.",
+      "reason": "This paragraph provides reactions to Trump's policy shift and his defense, which are relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The only President who gave none of Ukraine’s land to Putin’s Russia is President Donald J. Trump,” he wrote in the post. “Remember that when the weak and ineffective Democrat’s criticize, and the Fake News gladly puts out anything they say!”",
+      "reason": "This quote from Trump is relevant as it directly addresses criticisms of his policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "But there is a partisan divide on Ukraine; Gallup recently found that 84% of Democrats have a favorable view of Ukraine, whereas only 54% of Republican poll respondents said the same.",
+      "reason": "This paragraph provides context on the partisan divide in the U.S. regarding Ukraine, which is relevant to understanding the political landscape surrounding Trump's policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the wake of the Trump-Zelenskyy spat, a handful of Republican lawmakers defended Ukraine, while most — including House Speaker Mike Johnson, R-La., and Sen. Lindsey Graham, R-S.C. — said Zelenskyy may have to resign.",
+      "reason": "This paragraph offers specific examples of political reactions to Trump's stance, contributing to the narrative of U.S. political dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "The feud between continued Monday, with Trump disparaging his Ukrainian counterpart in a post on social media.",
+      "reason": "This paragraph provides a direct update on Trump's actions, which is relevant to the ongoing narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump is by no means the first president to aim for a less hostile relationship with Moscow, however. Barack Obama and his first secretary of state, Hillary Clinton, embarked on a high-profile bid to “reset” relations with Russia. But those efforts largely fell apart after Putin invaded Crimea and seized it from Ukraine in 2014.",
+      "reason": "This paragraph provides historical context on U.S.-Russia relations, which is relevant to understanding the significance of Trump's policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "The relationship between Biden and Zelenskyy showed signs of strain, too. NBC News has reported that Biden lost his temper with Zelenskyy during a phone call in June 2022, according to four people familiar with the call. Biden raised his voice and said Zelenskyy could afford to show more gratitude for the billions in U.S. military assistance for Kyiv.",
+      "reason": "This paragraph offers context on the Biden-Zelenskyy relationship, which is relevant to the broader narrative of U.S.-Ukraine relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Biden and his top diplomats nonetheless worked to rally international support for Kyiv’s resistance to Moscow; the United Kingdom, France and other European allies joined the fight.",
+      "reason": "This paragraph provides context on the previous U.S. administration's policy towards Ukraine, contrasting with Trump's approach.",
+      "label": 1
+    },
+    {
+      "paragraph": "“You got to be more thankful, because, let me tell you, you don’t have the cards,” Trump said.",
+      "reason": "This quote from Trump is relevant as it reflects his stance and rhetoric, which is central to the article's focus on his policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "Daniel Arkin is a national reporter at NBC News.",
+      "reason": "This is an author bio and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": ",",
+      "reason": "This is a punctuation mark and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": ",",
+      "reason": "This is a punctuation mark and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": ",",
+      "reason": "The paragraph is a punctuation mark and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "and",
+      "reason": "The paragraph is a conjunction and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "contributed",
+      "reason": "The paragraph is a single word and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": ".",
+      "reason": "The paragraph is a punctuation mark and does not provide any information.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "headline": "Breaking world champion B-Girl India: There is so much freedom in this sport",
+  "context": [
+    "The Dutch breaking world champion tells Olympics.com how she got into the sport, why she doesn't use a stage name, how she analyses opponents, and what fans can expect from the sport at the Olympic Games Paris 2024.",
+    "Picture by 2022 Getty Images"
+  ],
+  "annotations": [
+    {
+      "paragraph": "By Chloe Merrell and Andrew Binner",
+      "reason": "This is a byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Even in the eclectic world of breaking, India Sardjoe, also known as B-Girl India, does things a little differently.",
+      "reason": "This introduces the subject and her unique approach, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "While most dancers, known as B-Girls or B-Boys, compete under a pseudonym that could represent their alter ego, the 16-year-old athlete chose to use her real name.",
+      "reason": "This provides context about the subject's choice of using her real name, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Many people have asked why I don’t use a B-Girl name, but since I was young it’s always been this way,” Sardjoe told Olympics.com.",
+      "reason": "This quote directly addresses the subject's decision about her name, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Nobody gave me a crazy name or started calling me something else. I wouldn’t change it for anything, and forever it will be just India.”",
+      "reason": "This quote provides personal insight into the subject's identity, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s a small but poignant decision that demonstrates her authenticity both in and out of competition; she’s not copying anyone else’s style.",
+      "reason": "The paragraph provides insight into B-Girl India's personal choice and authenticity, relevant to her identity as a champion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another reason that the name will not change is that B-Girl India took the breaking world by storm in 2022, becoming the Dutch, European, and world champion in the space of six months.",
+      "reason": "This paragraph provides important context about her rapid success and achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "This success means that B-Girl India will certainly be one to watch in the run up to the Olympic Games Paris 2024, where the sport is set to make its Olympic debut.",
+      "reason": "The paragraph connects her success to the upcoming Olympic Games, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Link how to qualify for breaking at Paris 2024",
+      "reason": "This is a placeholder for a link, not a paragraph contributing to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Breaking star Kim Yeri revealed as Gangwon 2024 YOG ambassador",
+      "reason": "This paragraph introduces a different breaking star unrelated to B-Girl India's story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Paris 2024 complete breaking schedule",
+      "reason": "This paragraph is a title or heading unrelated to the main content about B-Girl India.",
+      "label": 0
+    },
+    {
+      "paragraph": "Picture by 2022 Getty Images",
+      "reason": "This is an image caption and does not contribute to the narrative or information about B-Girl India.",
+      "label": 0
+    },
+    {
+      "paragraph": "India Sardjoe was born and raised in The Hague, Netherlands.",
+      "reason": "This provides relevant background information about B-Girl India's origins.",
+      "label": 1
+    },
+    {
+      "paragraph": "Her dance journey started with hip-hop classes, before she switched to breaking at the age of seven.",
+      "reason": "This paragraph gives relevant context about how B-Girl India began her journey in breaking.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I found hip hop a little bit boring. Because I was so young the steps were a bit basic and it wasn’t really for me,” she continued.",
+      "reason": "This quote provides insight into B-Girl India's personal experience and motivation for switching to breaking.",
+      "label": 1
+    },
+    {
+      "paragraph": "“But I saw breaking classes at the same school and I was blown away by it. It really was a spectacle.",
+      "reason": "This paragraph provides insight into how B-Girl India was introduced to breaking, which is relevant to her journey in the sport.",
+      "label": 1
+    },
+    {
+      "paragraph": "“You had to be eight for breaking class and I was only seven, but I wanted it so badly. They saw my potential and allowed me to join, which was really cool.",
+      "reason": "This paragraph adds to the narrative of her early start in breaking, showing her determination and early talent.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I had to give up football too, but my dad encouraged me to try breaking. My parents always stood behind me and spent their lives driving me to competitions, and they love coming to my battles.”",
+      "reason": "This paragraph provides context on her family's support, which is relevant to her development as a breaking champion.",
+      "label": 1
+    },
+    {
+      "paragraph": "An inside look at the Breaking competition at the Madrid Urban Sports, where the best B-boys and B-girls in the world were involved in this qualification event for the Olympic Games Paris 2024. They explain what a Breaking competition is, and share their hopes and dreams now that Breaking is an Olympic sport.",
+      "reason": "This paragraph provides context about the breaking competition and its Olympic significance, relevant to the sport's status.",
+      "label": 1
+    },
+    {
+      "paragraph": "Breaking encourages individuality.",
+      "reason": "This is a vague generalization about breaking and does not add specific information about B-Girl India or the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Athletes take their inspiration from many different places, and constantly evolve the sport through creating new routines.",
+      "reason": "This is a general statement about athletes and does not provide specific information about B-Girl India or breaking.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Of course I like the big moves, but you can figure out thousands more moves too, there is so much freedom in this sport,” Sardjoe said.",
+      "reason": "This quote directly relates to B-Girl India's perspective on the freedom in breaking.",
+      "label": 1
+    },
+    {
+      "paragraph": "_“_I dance the whole day, like when I'm listening to music and I'm waiting for the tram I'll see myself moving and tell myself to behave normal while in public!",
+      "reason": "This quote provides insight into B-Girl India's personal connection and dedication to breaking.",
+      "label": 1
+    },
+    {
+      "paragraph": "_“_I really like working on my signature moves, but I’m still developing my style. Learning new things is a really long process.",
+      "reason": "This quote offers information about B-Girl India's approach to developing her style in breaking.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This means you can do it at your own tempo and your own level and it can also be really chill if you’re feeling lazy one day at practice!”",
+      "reason": "This quote highlights the flexibility and personal approach in breaking, relevant to the sport's nature.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another key part of the routine-building process is music, and it’s another area that showcases B-Girl India’s individuality.",
+      "reason": "This paragraph introduces a specific aspect of B-Girl India's approach to breaking, which is relevant to understanding her style.",
+      "label": 1
+    },
+    {
+      "paragraph": "“My playlists are so different, I don’t listen to traditional break music. I like everything from Adele to afrobeats and Dutch hip hop.” she said.",
+      "reason": "This quote provides insight into B-Girl India's unique musical influences, contributing to her individuality in the sport.",
+      "label": 1
+    },
+    {
+      "paragraph": "Breaking was born in the streets and is now coming to the Olympic stage. Ahead of the dance sport's Olympic debut at Paris 2024, we ask the best B-boys and B-girls in the world if they consider breaking an art form: \"There is technique and execution, but also creativity and personality,\" we were told. One thing is for sure: people will be surprised by the energy on the stage during the competition events. Who comes to the Olympics with a DJ? Watch to find out why these elite athletes believe it will be fun and competitive at the same time.",
+      "reason": "This paragraph provides context about breaking's Olympic debut and its artistic elements, relevant to the sport's evolution and perception.",
+      "label": 1
+    },
+    {
+      "paragraph": "But competition breaking isn’t all about freestyling.",
+      "reason": "This sentence introduces a contrast to common perceptions, setting up further discussion on the sport's complexity.",
+      "label": 1
+    },
+    {
+      "paragraph": "As with any other elite sport, it requires preparation, analysis, and strategy.",
+      "reason": "This statement provides relevant context about the competitive nature and demands of breaking as a sport.",
+      "label": 1
+    },
+    {
+      "paragraph": "“When I have to battle someone, I look at their level, of course, and see what I should do to be better than them,” she revealed.",
+      "reason": "The paragraph provides insight into B-Girl India's strategy for analyzing opponents.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I still need to do my own thing but it helps me make a plan. Before the battle is the most important part, like what you do at practice, how well you practise your moves, your cardio, everything. If you get this right, it’s an advantage in the battle.”",
+      "reason": "This paragraph elaborates on her preparation strategy, which is relevant to her approach to the sport.",
+      "label": 1
+    },
+    {
+      "paragraph": "The preparation phase is so important, in fact, that Sardjoe has to be mindful of not posting too much of her training on social media, which would give her potential rivals an advantage.",
+      "reason": "It discusses a strategic aspect of her preparation related to social media, relevant to her competitive approach.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I don’t like to show my moves too much so that they can be a surprise in the battles. So it's also like a strategy.” - B-Girl India to Olympics.com",
+      "reason": "This quote directly relates to her strategic approach in competitions.",
+      "label": 1
+    },
+    {
+      "paragraph": "This strategy will be on full show when breaking makes its Olympic debut at Paris 2024, should Sardjoe qualify.",
+      "reason": "It connects her strategy to the upcoming Olympic Games, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“People who are new to breaking are going to be impressed. They will be surprised by the skills on show,” she said.",
+      "reason": "Provides a quote from B-Girl India about the impact of breaking on new audiences.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The level is going to be so high because it’s just the top-16 in the world. The best of the best.”",
+      "reason": "Highlights the competitive level of breaking at the Olympics, relevant to the sport's introduction.",
+      "label": 1
+    },
+    {
+      "paragraph": "Breakers will compete as individuals at the Olympics, but the teenage prodigy also pointed out that it could still be considered a team sport.",
+      "reason": "Discusses the dual nature of breaking as both an individual and team sport, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "She is a member of both the Heavyhitters and Hustlekidz dance crews, and sees their support as integral to her success.",
+      "reason": "Provides context about her dance crews and their role in her success, relevant to her story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“You practise with your crew and you grow better together,” she explained.",
+      "reason": "Explains the importance of crew practice in her development, relevant to her success.",
+      "label": 1
+    },
+    {
+      "paragraph": "“They are like family to me and we motivate and inspire each other. You can only get better as a team and sometimes we also compete together at team competitions.",
+      "reason": "Provides insight into the community aspect of breaking, relevant to understanding the sport's culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "In this Olympic Explainer for Breaking, Chloe Merrell and B-boy MG will take us through and explain the Olympic qualification process for B-boys and B-girls hoping to qualify for Paris 2024.",
+      "reason": "Introduces the Olympic qualification process, relevant to the sport's inclusion in the Olympics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unlike many other sports at the Olympics, breaking rivals also often practise together and form friendships away from competition.",
+      "reason": "Highlights a unique aspect of breaking, relevant to understanding the sport's dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I live near B-Girl Pauline from Germany and I like to practise and hang out with her. There’s also B-Girl Vanessa from Portugal. We prepared our routines together and then had to battle each other at the Europeans which was really funny!”",
+      "reason": "Provides a personal anecdote illustrating the camaraderie and competition in breaking.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sardjoe is also competing at the WDSF Breaking for Gold World Series event, 24-25 February in Kitakyushu, Japan, which is live on Olympic Channel via Olympics.com.",
+      "reason": "Mentions an upcoming event relevant to the athlete's current activities.",
+      "label": 1
+    },
+    {
+      "paragraph": "In addition to being a Paris 2024 Olympic qualifying event, the teenage sensation will also have to deal with the pressure of competing individually for the first time since becoming the world champion.",
+      "reason": "This paragraph provides relevant context about the athlete's upcoming challenges and the significance of the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "But she typically seemed unphased ahead of the occasion.",
+      "reason": "This paragraph is a vague generalization about her demeanor and does not add substantial information.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Oh I’ll just have to see how it goes and see how I feel. I’ll let you know if the pressure was too much after!”",
+      "reason": "This quote provides insight into her mindset and approach to handling pressure, which is relevant to the article's focus.",
+      "label": 1
+    }
+  ]
+}

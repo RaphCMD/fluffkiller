@@ -1,0 +1,124 @@
+{
+  "headline": "Mark Carney: Brookfield registered entities in Cayman Islands",
+  "context": [
+    "Liberal Leader Mark Carney’s former firm Brookfield has registered more than a dozen business entities to an infamous address in the Cayman Islands that former U.S. president Barack Obama once described as either “the largest building in the world or the largest tax scam in the world.”",
+    "CTV News reviewed U.S. Securities and Exchange Commission filings between 2015 and 2024 that show the global investment firm registered limited companies and limited partnerships to a five-storey building in the capital of the self-governing British Overseas Territory."
+  ],
+  "annotations": [
+    {
+      "paragraph": "That building is known as Ugland House, and is home to at least 18,000 corporate entities. The Cayman Islands charges no income or corporate taxes.",
+      "reason": "Provides context about Ugland House and tax policies relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney previously served as chair of Brookfield’s board, from August 2022 until mid-January of this year, when he resigned to run for the Liberal Party leadership. The now-leader, who replaced Justin Trudeau as prime minister before calling an election, has been under fire on the campaign trail for the tax practices of his former firm.",
+      "reason": "Details Carney's connection to Brookfield and the political implications, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney’s rivals, including NDP Leader Jagmeet Singh, have accused him of leading a company that doesn’t pay its fair share in Canadian taxes.",
+      "reason": "Mentions political criticism directly related to the article's focus on tax practices.",
+      "label": 1
+    },
+    {
+      "paragraph": "Among the business entities registered to the Cayman Islands is a limited partnership linked to Brookfield’s United Arab Emirates-backed Catalytic Transition Fund, launched under Carney’s stewardship.",
+      "reason": "Provides specific information about a Brookfield entity relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to the company’s 2024 annual report, the fund will help “drive clean energy investment in emerging markets.” As of September 2024, the fund had raised $2.4 billion in capital.",
+      "reason": "Offers details on the fund's purpose and financial status, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Catalytic Transition Fund LP was registered in May of 2024 to Ugland House, according to the Cayman Islands corporate registry.",
+      "reason": "Provides specific information about a Brookfield entity registered in the Cayman Islands.",
+      "label": 1
+    },
+    {
+      "paragraph": "CTV News reported earlier this month that Brookfield had registered several entities related to its core business to an address in Bermuda, another notable tax haven, that also houses a local bike shop.",
+      "reason": "Offers additional context about Brookfield's use of tax havens.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier this week, Carney was asked by a CTV News reporter whether Canadians should infer from his answers thus far on Brookfield’s tax practices that he wouldn’t condemn the use of tax havens.",
+      "reason": "Introduces a direct question posed to Carney about the core issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I have a long career in the private sector, longer career in the public sector. What’s important is that we have an effective tax system and that companies — every company — follows the rules … to not just the letter, but the spirit, of those regulations,” said Carney.",
+      "reason": "Carney's response provides insight into his stance on tax practices.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We need to continue to refine our tax system to ensure that companies are paying their fair share of tax,” Carney said, before pivoting to his campaign promise to better steward federal spending.",
+      "reason": "Carney's statement is relevant to the discussion on tax practices.",
+      "label": 1
+    },
+    {
+      "paragraph": "CTV News asked the Liberal campaign Thursday what specific policies a Carney-led Liberal government would pursue, and whether it would seek to crack down on the use of tax havens by Canadians companies.",
+      "reason": "This paragraph introduces a direct inquiry related to the main topic of tax havens and Carney's potential policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "“A Liberal government led by Mark Carney will commit to a fair tax framework where all large companies pay their fair share, no matter where they operate,” wrote Mohammad Hussain, spokesperson for the Liberal campaign, in an email on Thursday.",
+      "reason": "This paragraph provides a direct quote from a spokesperson about Carney's potential tax policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This includes working closely with our partners in Europe and the G7 to get a fair and consistent set of international tax rules in place, as proposed by the Organization for Economic Cooperation and Development. This work will help us to ensure that large global businesses pay their fair share,” said Hussain.",
+      "reason": "This paragraph elaborates on the international aspect of Carney's proposed tax policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ugland House is home to the headquarters of Maples Group, an international law firm that describes itself as “market leaders” in providing legal and financial services. Maples Group acknowledges that at least 18,000 companies have registered business entities to the address.",
+      "reason": "This paragraph provides context about the infamous address in the Cayman Islands, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "A 2008 U.S. Government Accountability Office report studying the Cayman Islands stated Maples Group’s business, formerly known as Maples and Calder, is to “facilitate Cayman Islands-based international financial and commercial activity for a clientele of primarily international financial institutions, institutional investors, and corporations.”",
+      "reason": "This paragraph offers historical context about the Maples Group's role in the Cayman Islands, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Maples Group provides international firms registered office services, using Ugland House as a registered address, to entities it establishes, according to the report.",
+      "reason": "Provides context on the use of Ugland House for registering entities.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Tax Justice Network, a British advocacy group, ranks the self-governing Cayman Islands as among the world’s top corporate tax havens.",
+      "reason": "Offers relevant context about the Cayman Islands' status as a tax haven.",
+      "label": 1
+    },
+    {
+      "paragraph": "Canadians for Tax Fairness (C4TF), a non-profit organization that advocates for fair and progressive tax policies, reported in 2022 that the Canadian government lost more than $30 billion in tax revenue in the previous year due to tax avoidance.",
+      "reason": "Provides context on the impact of tax avoidance relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "C4TF says Canadian corporations do this by employing “complex and opaque corporate structures” that allow companies to record revenue and profit in low-tax jurisdictions, like the Cayman Islands, even if the revenue and profit was not generated in that jurisdiction.",
+      "reason": "Explains how tax avoidance is facilitated, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The report names Brookfield Asset Management as the top corporate tax avoider in 2021.",
+      "reason": "Directly relates to Brookfield's involvement in tax avoidance.",
+      "label": 1
+    },
+    {
+      "paragraph": "CTV News asked Brookfield how many business entities it had registered to Ugland House, why the company registered these entities to that address, and how the company responds to claims that companies like Brookfield register entities in jurisdictions such as the Cayman Islands in order to avoid paying taxes on revenues and profits.",
+      "reason": "This paragraph outlines the specific questions posed to Brookfield, which are directly relevant to the investigation of their activities in the Cayman Islands.",
+      "label": 1
+    },
+    {
+      "paragraph": "A spokesperson for the firm did not directly answer the questions posed, instead writing “Brookfield and its affiliates are committed to adhering to all applicable tax rules in Canada and all other jurisdictions in which we do business.”",
+      "reason": "This paragraph provides Brookfield's official response, which is relevant to understanding their stance on the issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our asset management business, like all of our peers, offers tax-transparent collective investment vehicles to our clients, who are based all over the world. Our global portfolio of investee companies pay all applicable corporate taxes in their local jurisdictions, and the after-tax distributions that our clients receive are subject to applicable taxes in their home jurisdictions,” said the spokesperson.",
+      "reason": "This paragraph elaborates on Brookfield's business practices and tax compliance, which is relevant to the article's focus on their activities in the Cayman Islands.",
+      "label": 1
+    }
+  ]
+}

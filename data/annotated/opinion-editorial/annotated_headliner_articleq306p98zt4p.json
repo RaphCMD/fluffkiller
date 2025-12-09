@@ -1,0 +1,24 @@
+{
+  "headline": "Opinion | Jeff Bezos: The hard truth: Americans don’t trust the news media - The Washington Post",
+  "context": [
+    "Jeff Bezos is the owner of The Washington Post.",
+    "In the annual public surveys about trust and reputation, journalists and the media have regularly fallen near the very bottom, often just above Congress. But in this year’s Gallup poll, we have managed to fall below Congress. Our profession is now the least trusted of all. Something we are doing is clearly not working."
+  ],
+  "annotations": [
+    {
+      "paragraph": "What readers are saying",
+      "reason": "This is a heading and does not provide any new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "The comments reflect a strong backlash against Jeff Bezos and The Washington Post for not endorsing Kamala Harris, with many readers accusing Bezos of prioritizing business interests over journalistic integrity. Critics argue that the decision undermines trust and credibility,... Show more",
+      "reason": "This paragraph provides specific reader reactions and criticisms related to the trust issue discussed in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "This summary is AI-generated. AI can make mistakes and this summary is not a replacement for reading the comments.",
+      "reason": "This is a disclaimer about AI-generated content and does not contribute to the main premise.",
+      "label": 0
+    }
+  ]
+}

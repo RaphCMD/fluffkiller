@@ -1,0 +1,44 @@
+{
+  "headline": "International fugitive returned to B.C. after being arrested in Middle East | CBC News",
+  "context": [
+    "Cody Casey has been back in Canada since April 24 following his arrest by police in Oman on Oct. 5, 2024, and an extradition process that lasted six months.",
+    "The Canadian Press"
+  ],
+  "annotations": [
+    {
+      "paragraph": "An international fugitive and one of Canada's most wanted is back behind bars following a Vancouver Police Department investigation that lasted three years, spanned 14 countries and ended in the Middle East.",
+      "reason": "Provides essential context about the investigation and arrest of the fugitive.",
+      "label": 1
+    },
+    {
+      "paragraph": "Cody Casey has been back in Canada since April 24 following his arrest by police in Oman on Oct. 5, 2024, and an extradition process that lasted six months.",
+      "reason": "Directly states the timeline and process of Cody Casey's arrest and extradition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Vancouver Police allege Casey disappeared on April 10, 2022, after removing his ankle bracelet while on bail just weeks before his scheduled trial. He was facing 17 criminal charges, including the production and trafficking of fentanyl and numerous firearms-related offences.",
+      "reason": "Details Casey's criminal charges and circumstances of his disappearance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The national BOLO program, which helps spread the word about fugitives on the lam, named Casey Canada's third-most-wanted person in May 2023 and announced a $100,000 reward for information leading to his arrest.",
+      "reason": "Provides context on Casey's status as a fugitive and efforts to capture him.",
+      "label": 1
+    },
+    {
+      "paragraph": "Phil Heard, commanding officer of Vancouver Police's Organized Crime Section, says Casey's arrest was the conclusion of a \"complex\" investigation across multiple jurisdictions requiring \"extraordinary collaboration and perseverance.\"",
+      "reason": "Offers a direct quote from a police officer about the investigation's complexity.",
+      "label": 1
+    },
+    {
+      "paragraph": "CBC Investigates",
+      "reason": "This is a section header and does not provide any information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "The federal government, the Public Prosecution Service of Canada, Vancouver Police and RCMP co-ordinated the extradition of Casey, who has since appeared in B.C. provincial court and remains in custody.",
+      "reason": "This paragraph provides details about the coordination of the extradition and Casey's current legal status.",
+      "label": 1
+    }
+  ]
+}

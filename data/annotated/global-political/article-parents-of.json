@@ -1,0 +1,59 @@
+{
+    "headline": "Vatican News to provide global coverage of funeral of Pope Francis - Vatican News",
+    "context": [
+        "Vatican Radio - Vatican News will provide live coverage of the funeral of Pope Francis in St. Peter’s Square, followed by the procession through the streets of Rome to the Basilica of Saint Mary Major, offering broadcasts in 15 languages, including four sign languages.",
+        "The Solemn Requiem Mass for Pope Francis will draw the attention of the entire world, recalling memories of a similar solemn moment twenty years ago with the funeral Mass of Pope John Paul II, on 8 April 2005."
+    ],
+    "annotations": [
+        {
+            "paragraph": "At the same time, this funeral will mark a unique occasion for today's media, as it will mark the first time the transfer of a Pope's mortal remains from the Vatican to another location for burial will be broadcast live globally.",
+            "reason": "Highlights the unprecedented nature of live global coverage of a papal transfer.",
+            "label": 1
+        },
+        {
+            "paragraph": "All will take place on Saturday, 26 April, starting at 10:00 AM Rome time, when Vatican Radio - Vatican News will broadcast live the full Requiem Mass, followed by the procession accompanying the Pope's coffin from St. Peter's Square to the Basilica of St. Mary Major, where he will be laid to rest, as per his wishes.",
+            "reason": "Provides precise scheduling details for the broadcast.",
+            "label": 1
+        },
+        {
+            "paragraph": "To ensure the widest possible audience can follow the events, the Dicastery for Communication (our parent organization) will provide live radio and television commentary in 15 languages: English, Italian, Spanish, French, Brazilian Portuguese, Portuguese, German, Polish, Vietnamese, Chinese, and Arabic, along with four sign languages: American Sign Language (ASL), Italian, Spanish, and French.",
+            "reason": "Lists the languages and modalities of commentary to maximize access.",
+            "label": 1
+        },
+        {
+            "paragraph": "Television coverage, provided by the Vatican Television Center – Vatican Media, will include aerial and ground video of both St. Peter’s Square and the entire route to the Basilica of St. Mary Major.",
+            "reason": "Describes the scope of visual coverage by Vatican Media.",
+            "label": 1
+        },
+        {
+            "paragraph": "Multimedia coverage (print, radio, television, and social media, including commentary and in-depth analysis) will be offered in 56 languages—the same used across the platforms of Vatican News, Vatican Radio, and L’Osservatore Romano.",
+            "reason": "Details the breadth of multimedia and linguistic coverage.",
+            "label": 1
+        },
+        {
+            "paragraph": "Here are the details on how to follow the 26 April broadcast:",
+            "reason": "Introduces a reader guide without substantive new facts.",
+            "label": 0
+        },
+        {
+            "paragraph": "- Vatican News website: www.vaticannews.va  (for video click on the Vatican Media Live-YouTube tile; for audio only, click on the web radio speaker icon below the top main menu). Vatican News App - Google Play, Vatican News App - iTunes)\n- Vatican News YouTube channels (English channel - Original sound only channel)\n- Vatican Radio web radio in 11 languages (Radio Vatican App - Google Play, Radio Vaticana App - iTunes)\n- Shortwave broadcasts in English, French, and Portuguese for Africa\n- Live coverage on Facebook in Italian, English, French, Spanish, Portuguese, and German\n- Instagram live in Italian, Portuguese, and German",
+            "reason": "Bullet list of access links and platforms, not core article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Three Italian-language commentary positions will be active: two in St. Peter’s Square and one outside the Basilica of St. Mary Major. Live coverage begins at around 8:10 AM from the Charlamagne Wing.",
+            "reason": "Gives operational details specific to Italian commentary positions.",
+            "label": 1
+        },
+        {
+            "paragraph": "Around 9:30 a.m., coverage will switch to the main studio for the Requiem Mass, which starts at 10:00 AM. Starting in the morning, the St. Mary Major broadcasting position will also share live coverage of the prayers and the participation of the faithful.",
+            "reason": "Describes the broadcast sequence and studio handoff.",
+            "label": 1
+        },
+        {
+            "paragraph": "Italian-language broadcast frequencies:\n- 103.8 FM in the city of Rome\n- 105 FM for Rome and surrounding areas\n- DAB+ digital radio (info at www.digitalradio.it)\n- TV channel 733 in the Rome area\n- Eutelsat satellite",
+            "reason": "Lists technical broadcast frequencies, ancillary to main story.",
+            "label": 0
+        }
+    ]
+}

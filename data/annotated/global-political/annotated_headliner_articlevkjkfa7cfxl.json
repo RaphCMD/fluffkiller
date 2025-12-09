@@ -1,0 +1,329 @@
+{
+  "headline": "Breaking the silence on gender-based violence in Zambia",
+  "context": [
+    "Zambia in southern Africa has some of the highest rates of reported gender-based violence in the world.",
+    "Karen Creed and cameraman Brian Walsh travelled there, supported by the Simon Cumbers Media Fund, to look at the impact of this violence on women and girls and what efforts are being made to prevent it."
+  ],
+  "annotations": [
+    {
+      "paragraph": "It was only 17 months ago that a ban against child marriage was introduced in Zambia.",
+      "reason": "Provides a specific legal change relevant to gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Up until then, it meant that once a girl reached puberty she could be married.",
+      "reason": "Offers context on the previous legal situation affecting girls.",
+      "label": 1
+    },
+    {
+      "paragraph": "As well as robbing them of their childhoods, it is unimaginable the harm this has caused.",
+      "reason": "Contains moralizing language without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "It now being illegal is a significant step forward, but domestic and sexual violence remain a big problem in the country.",
+      "reason": "Highlights ongoing issues despite legal changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "With a population of more than 19 million people, it is estimated that more than a third of all Zambian women and girls have experienced physical violence.",
+      "reason": "Provides statistical context on the prevalence of violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Women are being abused in the home, their daughters are being physically and sexually assaulted, and in many cases the perpetrator is known to the victim.",
+      "reason": "This paragraph provides specific information about the nature and context of gender-based violence in Zambia.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Some mothers will be aware of the abuse happening in the home but say I can't report this because your father is providing for us at home.\"",
+      "reason": "This quote highlights a specific barrier to reporting gender-based violence, contributing to the understanding of the issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "Anastasia Munyati is a campaigner and founder of ARISE, an organisation that focuses on social and gender justice.",
+      "reason": "This paragraph introduces a key figure involved in addressing gender-based violence, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "She dedicates her work to helping girls and women who are impacted by gender-based violence (GBV) as she can relate to their trauma.",
+      "reason": "This provides context on the motivations and personal connection of a campaigner working against GBV.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I experienced abuse when I was a child,\" she explains. \"It is something I have had to deal with for a very long time.\"",
+      "reason": "This personal quote from a campaigner adds depth to her involvement and the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Coming from a place of having the experience of it myself, I understand what they are going through.\"",
+      "reason": "This quote provides personal insight and context related to the issue of gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Anastasia becomes emotional as she describes some of the \"worst cases\", where fathers are abusing their own daughters.",
+      "reason": "This paragraph provides specific examples of the severity of gender-based violence in Zambia.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Some mothers will be aware of the abuse happening in the home but say 'I can’t report this because your father is providing for us at home',\" she says.",
+      "reason": "This quote highlights the complex social and economic factors that contribute to the perpetuation of gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"So, if he is in prison what will we eat and if he is in prison it is going to bring shame to the family.\"",
+      "reason": "This quote further illustrates the societal pressures and consequences faced by families dealing with gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Zambia is steeped in patriarchy, where men hold the most authority, which can often result in violence.",
+      "reason": "This sentence provides context about the cultural and societal structures contributing to gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Watch: Anastasia Munyati discusses the impact of gender-based violence",
+      "reason": "This is a video prompt and does not provide new information or context in text form.",
+      "label": 0
+    },
+    {
+      "paragraph": "It is still prevalent in many countries where the beliefs that have surrounded masculinity have created a view that violence is a legitimate means of asserting power.",
+      "reason": "This provides general context about the prevalence of gender-based violence and its cultural roots.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The biggest issue is the fact that most are embedded in our social and cultural norms,\" says Anastasia.",
+      "reason": "This quote directly addresses the cultural challenges in combating gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"If there was a way that we could work around dismantling some of these harmful cultural norms that we have.\"",
+      "reason": "This quote suggests a potential solution to the problem, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Action against gender-based violence",
+      "reason": "This is a vague statement without additional context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "There are noticeable efforts to make a stand against these practices.",
+      "reason": "This paragraph is vague and does not provide specific information or examples.",
+      "label": 0
+    },
+    {
+      "paragraph": "In the capital Lusaka, protests against gender-based violence are happening regularly.",
+      "reason": "This paragraph provides specific information about protests in Lusaka, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We are looking at negative cultural practices, we are stopping them.\"",
+      "reason": "This quote directly addresses efforts to combat harmful practices, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "One of the most recent protests, that took place earlier last month, was after a surge in reports of men raping young girls.",
+      "reason": "This paragraph provides specific and recent information about protests and their causes.",
+      "label": 1
+    },
+    {
+      "paragraph": "One of the main challenges, however, is spreading the awareness of harmful cultural practices to rural communities and their male leaders.",
+      "reason": "This paragraph highlights a significant challenge in addressing gender-based violence, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The leader of one region, Chief Chamuka, has declared his community a gender-based violence free zone and we visited him to discuss what is being done to achieve this.",
+      "reason": "Introduces a key figure and initiative directly related to combating gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We are looking at negative cultural practices, we are stopping them,\" he says.",
+      "reason": "Provides a direct quote from Chief Chamuka on actions taken against harmful cultural practices.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"For example, a practice which says when a girl just reaches puberty, this girl should get married, we have just banned that.",
+      "reason": "Gives a specific example of a banned practice, illustrating efforts to combat gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"And the community has accepted that very well.\"",
+      "reason": "Indicates community support for the changes, relevant to the article's focus on prevention efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "He is confident that people in his community are no longer afraid to report any form of abuse because he has assured them that they will be protected.",
+      "reason": "Highlights the impact of the initiative on community reporting of abuse, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "This chief is one of more than 200 traditional leaders across the country.",
+      "reason": "Provides context about the number of traditional leaders involved in efforts to address gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "He is hopeful that training will encourage other chiefs to take a similar approach and understand that \"empowering women and girls\" makes for a better society, overall.",
+      "reason": "Offers insight into the chief's perspective and the potential impact of training on societal change.",
+      "label": 1
+    },
+    {
+      "paragraph": "Watch: Chief says his community is changing 'negative cultural practices'",
+      "reason": "Serves as a prompt to view additional content rather than providing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Will for change evident on a national scale",
+      "reason": "Introduces a broader context of national efforts to address gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "However it is evident from visiting remote areas that it will take time for this shift in attitude.",
+      "reason": "Highlights the challenges and time required for attitude shifts in remote areas.",
+      "label": 1
+    },
+    {
+      "paragraph": "On a national level it is evident there is a will for change.",
+      "reason": "This paragraph is a vague generalization without specific details.",
+      "label": 0
+    },
+    {
+      "paragraph": "The government has run joint programmes with the United Nations on the prevention of and response to gender-based violence cases.",
+      "reason": "This paragraph provides specific information about government and UN efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tough prison sentences for perpetrators have been implemented and there are awareness campaigns around what constitutes gender-based violence.",
+      "reason": "This paragraph gives concrete examples of measures taken to address gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Shupe Makashinyi, who works with Zambia’s UN Development Programme, says there is evidence that it is having an effect.",
+      "reason": "This paragraph introduces a relevant quote about the impact of the efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There are platforms where girls in the villages can talk about gender equality, about GBV marriage, about domestic violence being a crime.\"",
+      "reason": "This quote provides specific information about platforms for discussion and awareness.",
+      "label": 1
+    },
+    {
+      "paragraph": "She says the mindsets of women and girls have changed considerably.",
+      "reason": "This paragraph provides context on changing attitudes towards gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"In those years long ago, you wouldn’t have such platforms because you would ask some women 'is it ok for your husband to beat you?'",
+      "reason": "This quote illustrates past attitudes towards gender-based violence, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Some will say 'yes, that is a sign of love'. But now they have been awakened; they know that there is a law against GBV,\" she says.",
+      "reason": "This quote highlights the shift in awareness and legal understanding regarding gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a result, more cases of gender-based violence are being reported.",
+      "reason": "This sentence provides a direct consequence of the changing mindsets and awareness.",
+      "label": 1
+    },
+    {
+      "paragraph": "The growth of one-stop centres to support women and children is a central part of the strategy.",
+      "reason": "This paragraph introduces a specific strategy to address gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Shupe highlights the importance of their expansion to rural areas as it brings the services to victims and allows them to find support locally.",
+      "reason": "This paragraph provides specific information about efforts to expand support services to rural areas, which is directly related to the main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ireland supports gender equality in Zambia",
+      "reason": "This paragraph is a vague statement without specific details or context related to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Zambia's ambition to tackle gender-based violence stretches back more than two decades.",
+      "reason": "This paragraph provides historical context about Zambia's long-term efforts to address gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ireland is among the countries that has been supporting gender equality with a long-standing development programme.",
+      "reason": "This paragraph provides general information about Ireland's support without specific details related to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "In recent years it is also using its own experience to show Zambia the opportunities to increase access to justice.",
+      "reason": "This paragraph provides specific information about Ireland's role in helping Zambia improve access to justice, which is relevant to the main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Chali Mbewe Hambayi oversees the country’s gender-based crimes department and outlines how progress is being made in several areas.",
+      "reason": "Introduces a key figure and mentions progress in addressing gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"With the support of the Government of Ireland, we have been able to set up our GBV fast-track courts,\" she explained.",
+      "reason": "Provides specific information about international support and a concrete measure taken to address the issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We have trained magistrates, prosecutors, investigators in how to respond appropriately to cases of gender-based violence.\"",
+      "reason": "Details specific actions taken to improve the judicial response to gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "She also describes how the prosecution holding the perpetrators accountable gives confidence to victims who may be reluctant to come forward that \"the law will be there to help me.\"",
+      "reason": "Explains the impact of legal accountability on victim confidence, directly related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, there are strides to be made to move away from the narrative of victim blaming as it is still hindering some women and girls from reporting these crimes.",
+      "reason": "Highlights ongoing challenges in addressing gender-based violence, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Chali is an example of a Zambian woman who is at the forefront of social and legal change.",
+      "reason": "Introduces a key figure involved in addressing gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "She, like Anastasia, Shupe and many others we met during our visit are tireless in their efforts to confront cultural norms.",
+      "reason": "Highlights the efforts of multiple individuals in challenging cultural norms related to gender-based violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Their education has given them empowerment to help improve their society.",
+      "reason": "Provides context on how education empowers women to address societal issues.",
+      "label": 1
+    },
+    {
+      "paragraph": "They are also extremely keen to let us know that Zambia is a beautiful country despite its social and economic issues.",
+      "reason": "Offers a general positive statement about Zambia unrelated to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "They are pleased we have been able to witness that along with the warmth of the people.",
+      "reason": "Provides a general sentiment about the people of Zambia, not directly related to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "The day before we depart Lusaka, I ask some locals about an unusual bottle-shaped tree that I have seen in many areas we have travelled to.",
+      "reason": "This paragraph is a personal anecdote unrelated to the main topic of gender-based violence.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"It is the baobab tree,\" they tell me with a smile. I have since found out that it is regarded as a symbol of resilience across Zambia.",
+      "reason": "This paragraph provides cultural information about a tree, not related to gender-based violence.",
+      "label": 0
+    },
+    {
+      "paragraph": "We need your consent to load this rte-player contentWe use rte-player to manage extra content that can set cookies on your device and collect data about your activity. Please review their details and accept them to load the content.Manage Preferences",
+      "reason": "This paragraph is a technical note about content loading, not related to the article's topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Karen Creed and Brian Walsh travelled to Zambia supported by the Simon Cumbers Media Fund.",
+      "reason": "This paragraph provides context about the authors' support but does not add new information about gender-based violence.",
+      "label": 0
+    }
+  ]
+}

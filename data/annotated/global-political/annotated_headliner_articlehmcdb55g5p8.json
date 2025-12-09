@@ -1,0 +1,34 @@
+{
+  "headline": "CIA hopes cinematic videos will persuade Chinese to spy for U.S.",
+  "context": [
+    "The CIA on Thursday released two social media videos inviting disillusioned Chinese officials to spy for the United States, seeking to take advantage of government corruption and repression in China.",
+    "The cinematic, Mandarin-language videos released across multiple platforms resemble recruiting videos the agency has produced in the past few years aimed at encouraging Russians to share secrets with the U.S. Officials say the Russian-language videos have proved successful."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Director John Ratcliffe has vowed to make China a top priority for the CIA’s intelligence gathering, and he cited the videos as the latest example of that effort.",
+      "reason": "Provides context on the CIA's strategic focus and the role of the videos.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Today, the CIA released Mandarin-language videos aimed at recruiting Chinese officials to steal secrets,” Ratcliffe said in a statement.",
+      "reason": "Direct quote confirming the release and purpose of the videos.",
+      "label": 1
+    },
+    {
+      "paragraph": "“No adversary in the history of our Nation has presented a more formidable challenge or capable strategic competitor than the Chinese Communist Party,” he said, adding: “Our Agency must continue responding to this threat with urgency, creativity, and grit, and these videos are just one of the ways we are doing this.”",
+      "reason": "Provides insight into the perceived threat level and strategic importance of the videos.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Chinese Ministry of Foreign Affairs did not immediately respond to a request for comment on Friday, a national holiday in China.",
+      "reason": "Lacks new information or context relevant to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Six months ago, the CIA released a text-only video in Mandarin explaining how to safely reach out to the CIA using the “dark web,” a part of the internet accessible only with specialized software. The video was viewed 900,000 times, agency officials said.",
+      "reason": "Provides relevant context on previous CIA efforts and their reach.",
+      "label": 1
+    }
+  ]
+}

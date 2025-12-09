@@ -1,0 +1,159 @@
+{
+  "headline": "Scientists find Earth-like exoplanets to be common in the universe - The Brighter Side of News",
+  "context": [
+    "A distant flicker of light from a star can reveal more than you might expect. In fact, a brief, subtle brightening in the sky has helped scientists uncover something astonishing: planets much like Earth, called super-Earths, may be far more common than once thought—and they’re hiding in the dark outskirts of distant solar systems.",
+    "This revelation comes from a method known as gravitational microlensing. It’s a rare cosmic event that happens when a star, or sometimes even a planet, drifts into perfect alignment between Earth and a more distant star."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The gravity of the closer object bends and magnifies the light of the background star, producing a momentary flash. When that closer object has a planet in orbit, the flash can spike again—but just for a few hours or days.",
+      "reason": "Explains the microlensing process relevant to the discovery of exoplanets.",
+      "label": 1
+    },
+    {
+      "paragraph": "That tiny flash, if seen at the right time and from enough places on Earth, can reveal the presence of an alien world.",
+      "reason": "Describes how microlensing can indicate the presence of exoplanets.",
+      "label": 1
+    },
+    {
+      "paragraph": "Scientists have long used microlensing to spot massive gas giants like Jupiter or Saturn orbiting far from their host stars. But catching smaller planets—like those between the size of Earth and Neptune—has been harder. These smaller worlds don’t shine on their own. And their gravitational effects are so brief and faint that they often get lost in the noise.",
+      "reason": "Provides context on the challenges of detecting smaller exoplanets.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s where the Korea Microlensing Telescope Network, or KMTNet, enters the scene. It’s a powerful trio of telescopes based in South Africa, Chile, and Australia. Each night, these telescopes take dozens of images of the same star fields. Together, they build a full, near-continuous picture of the sky. This allows scientists to catch the fleeting signatures of planets passing by.",
+      "reason": "Introduces KMTNet and its role in detecting exoplanets.",
+      "label": 1
+    },
+    {
+      "paragraph": "The network, designed with key help from Ohio State University’s Imaging Sciences Lab, is now pushing microlensing research forward. Using KMTNet, researchers recently detected a super-Earth orbiting a star beyond Saturn’s distance from the Sun. This planet, part of an event called OGLE-2016-BLG-0007, had a mass ratio about twice that of Earth’s. That makes it a rare find—and an important one.",
+      "reason": "Details a specific discovery of a super-Earth using KMTNet.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Finding a microlensing star event is hard. Finding a microlensing star with a planet is hard-squared,” said Richard Pogge, an astronomer and co-author of the study. “We have to look at hundreds of millions of stars to find even a hundred of these things.”",
+      "reason": "Provides a direct quote from a study co-author about the difficulty of finding microlensing events.",
+      "label": 1
+    },
+    {
+      "paragraph": "The discovery, published in the journal Science, didn’t stand alone. The team added this new planet to a growing database of similar finds. By analyzing light curves—charts showing changes in brightness over time—from microlensing events, they noticed something surprising. These far-out planets don’t appear randomly. Instead, their mass ratios seem to fall into two distinct groups.",
+      "reason": "Describes the discovery and its contribution to understanding planet formation.",
+      "label": 1
+    },
+    {
+      "paragraph": "One group includes super-Earths and Neptune-like planets. The other is made up of gas giants. This pattern suggests something deep about how planets form. The study, led by scientists in China, Korea, and the U.S., was published in the journal Science.",
+      "reason": "Explains the categorization of planets and its implications for planet formation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Andrew Gould, a professor emeritus at The Ohio State University and co-author of the study, explained the significance: “Scientists knew there were more small planets than big planets, but in this study, we were able to show that within this overall pattern, there are excesses and deficits. It’s very interesting.”",
+      "reason": "Provides a quote explaining the significance of the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s more than interesting—it’s game-changing. By grouping planets this way, researchers now believe these categories reflect different birth stories. One likely grows through core accretion, where dust clumps together until it becomes massive enough to attract gas. The other may result from gravitational instability, where a swirling disk of gas collapses rapidly to form a giant.",
+      "reason": "Explains the implications of the findings on theories of planet formation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The dominant theory of gas-giant formation is through runaway gas accretion, but other people have said that it could be both accretion and gravitational instability,” Gould said. “We’re saying we can’t distinguish between those two yet.”",
+      "reason": "The paragraph discusses theories of gas-giant formation, which is not directly related to the discovery of Earth-like exoplanets.",
+      "label": 0
+    },
+    {
+      "paragraph": "One of the key takeaways from the study is just how common these super-Earths may be. Based on the findings, for every three stars in the galaxy, at least one may have a super-Earth on a wide orbit—something like Jupiter’s. That means our solar system, once considered special, may be less unique than we thought.",
+      "reason": "This paragraph provides essential findings about the prevalence of super-Earths, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "This estimate—about 0.35 super-Earths per star on wide orbits—comes from analyzing a wide sample of planets detected through microlensing. The data points to a bimodal distribution, where planets tend to clump into two different groups rather than being spread evenly. This split likely reflects the diverse ways that planetary systems evolve.",
+      "reason": "The paragraph offers specific data and analysis related to the frequency and distribution of super-Earths.",
+      "label": 1
+    },
+    {
+      "paragraph": "Microlensing is especially powerful in spotting planets on wide orbits, with periods longer than one Earth year. Other methods, like transits or radial velocity, are better for planets that hug their stars. As a result, much of the planet population in distant orbits remains uncharted.",
+      "reason": "This paragraph explains the significance of microlensing in discovering distant planets, relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "By filling in this gap, microlensing provides a more complete picture of planetary systems. It reveals that the universe may be teeming with small, cold planets drifting far from their suns—places that are hard to detect but might be common.",
+      "reason": "The paragraph discusses the broader implications of microlensing findings, relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "At the core of this work is AnomalyFinder, a semi-automated pipeline that sifts through KMTNet data. It searches for tiny deviations in brightness that signal the presence of a planet. The system can detect the short-lived effects caused by a super-Earth, even when that signal lasts just a few hours.",
+      "reason": "Provides details on the technology used to discover super-Earths.",
+      "label": 1
+    },
+    {
+      "paragraph": "Due to weather and the day-night cycle, a single observatory can miss these moments. But by placing telescopes on three continents, KMTNet ensures around-the-clock coverage. This dense sampling of light curves is essential to catching the faint signs of faraway planets.",
+      "reason": "Explains the global setup of telescopes crucial for detecting exoplanets.",
+      "label": 1
+    },
+    {
+      "paragraph": "And while microlensing events are rare—only 237 of over 5,000 known exoplanets have been found this way—they’re incredibly valuable. They’re one of the few methods that can detect planets with long orbits and low masses.",
+      "reason": "Highlights the rarity and value of microlensing in exoplanet discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our observations are most consistent with a bimodal distribution,” the researchers wrote. “This likely reflects differences in their formation processes.”",
+      "reason": "Provides a direct quote from researchers about the findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "While the data supports two main categories of wide-orbit planets, more information is needed to tell their stories in full. Long-term monitoring and new tools could help distinguish whether gas giants formed through gradual growth or sudden collapse. Both theories may still hold weight.",
+      "reason": "Discusses the need for further research to understand planet formation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The next generation of telescopes and space missions, like the upcoming Nancy Grace Roman Space Telescope, could take microlensing even further. With more precise instruments and wider fields of view, astronomers may soon uncover hundreds more hidden worlds in distant star systems.",
+      "reason": "Provides information on future advancements in technology that could enhance the discovery of Earth-like exoplanets.",
+      "label": 1
+    },
+    {
+      "paragraph": "For now, KMTNet continues to lead the charge. It offers scientists a window into parts of the galaxy that would otherwise remain invisible. And as Pogge put it, each discovery is like digging up a fossil—one more clue in the long story of how planets come to be.",
+      "reason": "Describes the current efforts and significance of KMTNet in discovering exoplanets.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’re like paleontologists reconstructing not only the history of the universe we live in but the processes that govern it,” he said. “So helping to bring both of those pieces together into one picture has been enormously satisfying.”",
+      "reason": "Contains a metaphorical quote that does not add new information about exoplanets.",
+      "label": 0
+    },
+    {
+      "paragraph": "​In recent years, the search for life beyond Earth has made remarkable strides. Astronomers have identified several exoplanets that could potentially harbor life. These discoveries, aided by advanced telescopes and innovative techniques, bring us closer to answering the age-old question: Are we alone in the universe?​",
+      "reason": "Provides context on the broader search for life and the role of exoplanets in this quest.",
+      "label": 1
+    },
+    {
+      "paragraph": "One of the most intriguing finds is K2-18b, located 124 light-years away. This \"hycean\" world, characterized by a hydrogen-rich atmosphere and possible global oceans, has shown signs of dimethyl sulfide—a molecule associated with life on Earth. While not definitive proof, the presence of such compounds suggests that K2-18b could support microbial life.",
+      "reason": "Details a specific exoplanet discovery relevant to the search for Earth-like planets.",
+      "label": 1
+    },
+    {
+      "paragraph": "Closer to home, HD 20794 d, also known as 82 G. Eridani d, lies just 20 light-years away. This super-Earth, about six times the mass of our planet, orbits within its star's habitable zone. Its elliptical orbit means it experiences varying temperatures, but the potential for liquid water remains—a key ingredient for life as we know it. ​",
+      "reason": "Provides specific information about a nearby super-Earth and its potential for habitability.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another promising candidate is Gliese 12 b, situated 40 light-years from Earth. This Earth-sized exoplanet orbits a cool red dwarf star and has an estimated surface temperature of 42°C (107°F). If it possesses an atmosphere, conditions could be suitable for liquid water, making it a compelling target for further study.",
+      "reason": "Describes another Earth-like exoplanet and its potential for supporting life.",
+      "label": 1
+    },
+    {
+      "paragraph": "LHS 1140 b, approximately 50 light-years away, offers another exciting possibility. Recent observations suggest it may be a water-rich world with a nitrogen-rich atmosphere. Its position in the habitable zone and potential for liquid oceans make it a strong candidate in the search for extraterrestrial life. ​",
+      "reason": "Details a potentially habitable exoplanet with specific characteristics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lastly, TOI-715 b, a super-Earth discovered by NASA's Transiting Exoplanet Survey Satellite (TESS), resides 137 light-years away. It orbits within the conservative habitable zone of its red dwarf star. While further studies are needed, its size and location make it an intriguing subject for future research. ​",
+      "reason": "Introduces another super-Earth and its potential for habitability.",
+      "label": 1
+    },
+    {
+      "paragraph": "These discoveries mark significant milestones in our quest to find life beyond Earth. Each exoplanet offers unique conditions that could support life, and ongoing research will continue to unravel their mysteries. As technology advances, we move ever closer to answering one of humanity's most profound questions.",
+      "reason": "Summarizes the significance of the discoveries and their implications.",
+      "label": 0
+    }
+  ]
+}

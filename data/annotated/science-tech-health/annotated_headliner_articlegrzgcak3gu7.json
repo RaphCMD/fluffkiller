@@ -1,0 +1,74 @@
+{
+  "headline": "Massive star-forming cloud found strangely close to Earth | BBC Science Focus Magazine",
+  "context": [
+    "A vast cloud of hydrogen gas – one of the largest single structures ever observed in the sky – has been discovered surprisingly close to Earth.",
+    "Named Eos after the Greek goddess of the dawn, the cloud was detected because of its faint far-ultraviolet light naturally emitted by hydrogen molecules."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Known as molecular clouds, these enormous structures of gas and dust are the cradles where new stars are born.",
+      "reason": "Provides context about what molecular clouds are, relevant to understanding the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Traditionally, astronomers have relied on using radio and infrared telescopes to find these clouds. These telescopes detect carbon monoxide signatures – but the scientists found Eos using an entirely different method.",
+      "reason": "Explains the novel method used to discover Eos, which is central to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This is the first-ever molecular cloud discovered by looking for far ultraviolet emission of molecular hydrogen directly,” said Prof Blakesley Burkhart, who led the team and is an author on the study.",
+      "reason": "Includes a direct quote from a key researcher about the discovery method, adding credibility and detail.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The data showed glowing hydrogen molecules detected via fluorescence in the far ultraviolet. This cloud is literally glowing in the dark.”",
+      "reason": "Provides specific details about the detection method and characteristics of the cloud.",
+      "label": 1
+    },
+    {
+      "paragraph": "Located just 300 light years from Earth on the edge of a gas-filled region known as the Local Bubble, Eos stretches across a patch of sky equivalent to the width of 40 full Moons and has a mass about 3,400 times greater than the Sun.",
+      "reason": "Gives specific information about the location, size, and mass of Eos, directly relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Despite its size and proximity to us, it had remained hidden because it is ‘CO-dark’ – in other words, lacking enough carbon monoxide to show up using conventional detection methods.",
+      "reason": "Explains why the cloud remained undetected despite its size and proximity.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The discovery of Eos is exciting because we can now directly measure how molecular clouds are forming and dissociating, and how a galaxy begins to transform interstellar gas and dust into stars and planets,” Burkhart said.",
+      "reason": "Provides a direct quote explaining the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr Thavisha Dharmawardena, a NASA Hubble Fellow at New York University, in the US, and a co-first author of the study, added: “When I was in graduate school, we were told that you can’t easily directly observe molecular hydrogen. It’s wild that we can see this cloud in data that we didn’t think we would see.”",
+      "reason": "Offers a quote highlighting the unexpected nature of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "The data came from a far-ultraviolet spectrograph aboard the Korean satellite STSAT-1. The dataset was publicly released in 2023 – and Burkhart spotted the hidden structure soon after.",
+      "reason": "Provides context on how the data leading to the discovery was obtained.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The story of the cosmos is a story of the rearrangement of atoms over billions of years,” Burkhart said.",
+      "reason": "General philosophical statement not directly related to the discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The hydrogen that is currently in the Eos cloud existed at the time of the Big Bang and eventually fell onto our galaxy and coalesced nearby to the Sun. So, it’s been a long journey of 13.6 billion years for these hydrogen atoms.”",
+      "reason": "This paragraph provides relevant scientific context about the age and journey of the hydrogen in the Eos cloud.",
+      "label": 1
+    },
+    {
+      "paragraph": "The findings were published in the journal Nature Astronomy.",
+      "reason": "This paragraph provides a citation for the source of the findings, which is relevant information.",
+      "label": 1
+    },
+    {
+      "paragraph": "Read more:",
+      "reason": "This is a prompt to read further and does not provide any new information.",
+      "label": 0
+    }
+  ]
+}

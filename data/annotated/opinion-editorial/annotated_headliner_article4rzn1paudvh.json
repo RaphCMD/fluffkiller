@@ -1,0 +1,169 @@
+{
+  "headline": "Opinion | How to Survive the Trump Years With Your Spirit Intact - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "May 1, 2025"
+  ],
+  "annotations": [
+    {
+      "paragraph": "I had forgotten how exhausting it is to live in Donald Trump’s world. He’s not only a political figure. He creates a psychological and social atmosphere that suffuses the whole culture — the airwaves, our conversations, our moods.",
+      "reason": "This paragraph sets the stage for the article's exploration of Trump's pervasive influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "If there is one word to define Trump’s atmosphere, it is “pagan.” The pagan values of ancient Rome celebrated power, manliness, conquest, ego, fame, competitiveness and prowess, and it is those values that have always been at the core of Trump’s being — from his real estate grandiosity to his love of pro wrestling to his king-of-the-jungle version of American greatness.",
+      "reason": "This paragraph provides context on the values associated with Trump, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The pagan ethos has always appealed to grandiose male narcissists because it gives them permission to grab whatever they want. This ethos encourages egotists to puff themselves up and boast in a way they find urgently satisfying; self-love is the only form of love they know.",
+      "reason": "This paragraph elaborates on the characteristics of the ethos attributed to Trump, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The pagan culture is seductive because it lures you with images of heroism, might and glory. Think of Achilles slaughtering his enemies before the walls of Troy. For a certain sort of perpetual boy, what could be cooler than that? But there is little compassion in this worldview, no concept that humility might be a virtue. There is a callous tolerance of cruelty.",
+      "reason": "This paragraph provides further context on the allure and drawbacks of the pagan ethos, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tom Holland is a historian who wrote several fine books of classical history, like “Persian Fire.” Gradually he became more and more appalled by many of those ancient pagans — those Caesars who could slaughter innocent human beings by the hundreds of thousands while everyone thought this was totally fine.",
+      "reason": "This paragraph introduces a historian's perspective on ancient paganism, indirectly related to the article's theme.",
+      "label": 0
+    },
+    {
+      "paragraph": "“This is a really terrifyingly alien world, and the more you look at it, the more you realize that it is built on systematic exploitation,” Holland told the writer Justin Brierley. “In almost every way, this is a world that is unspeakably cruel to our way of thinking. And this worried me more and more.”",
+      "reason": "The quote provides a perspective on the perceived cruelty and exploitation in the current world, relevant to the theme of surviving challenging times.",
+      "label": 1
+    },
+    {
+      "paragraph": "The callous tolerance of cruelty is a river that runs through human history. It was dammed up, somewhat, only by millenniums of hard civilizational work. The pagan ethos — ancient or modern — always threatens to unleash brutality once again. The pagan ethos does not believe that every human was made in the image of God, does not believe in human equality, is not concerned about preserving the dignity of the poor. It does not care much about the universal feelings of benevolence, empathy and faithfulness toward one another, which, it turns out, are absolutely required for a democracy to function.",
+      "reason": "This paragraph provides context on the historical and philosophical underpinnings of cruelty and its relevance to democracy, aligning with the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "We seem to be entering a pagan century. It’s not only Trump. It’s the whole phalanx of authoritarians, all those greatness-obsessed macho men like Vladimir Putin and Xi Jinping. It’s the tech bros. It’s Christian nationalism, which is paganism with worship music. (If you ever doubt the seductive power of paganism, remember it has conquered many of the churches that were explicitly founded to reject it.)",
+      "reason": "The paragraph discusses the rise of authoritarian figures and ideologies, directly relating to the article's focus on surviving the Trump era.",
+      "label": 1
+    },
+    {
+      "paragraph": "If paganism is a grand but dehumanizing value system, I’ve found it necessary, in this increasingly pagan age, to root myself in anything that feels rehumanizing, whether it’s art or literature or learning. I’ve found it incredibly replenishing to be spending time around selfless, humble people who are still doing the work of serving the homeless, mentoring a lost kid who’s joined a gang. These days I need these moral antidotes to feel healthy, resilient and inspired.",
+      "reason": "This paragraph offers personal strategies for maintaining one's spirit, directly addressing the article's theme of surviving challenging times.",
+      "label": 1
+    },
+    {
+      "paragraph": "In his book “The Year of Our Lord 1943,” Alan Jacobs shows how many people during World War II felt the exact same impulse. With the bomb blasts of savagery growing greater in their ears, people like C.S. Lewis and the University of Chicago president Robert Maynard Hutchins recommitted themselves to humane education, to the task of raising generations that would never again fall for the strongman’s seductive promise of domination. That era eventually produced a golden age of public theology — Reinhold Niebuhr, Abraham Joshua Heschel, Martin Luther King — and so much else.",
+      "reason": "This paragraph provides historical context and examples of resilience, relevant to the article's theme of maintaining one's spirit.",
+      "label": 1
+    },
+    {
+      "paragraph": "Many great moral traditions have always stood against paganism and rebutted it. If paganism stands for manly dominance, Judaism, for example, stands for piety, learning and strictness of conscience. Think of the words so highly valued in Jewish life: chesed (loving kindness), simcha (joy, especially communal joy), anavah (humility), tzedek (justice and charity), limud (study and learning) and kedushah (holiness). Those words lift us up to an entirely different moral realm.",
+      "reason": "The paragraph provides background on moral traditions, not directly related to surviving the Trump years.",
+      "label": 0
+    },
+    {
+      "paragraph": "For the Romans, the cross was a symbol of their power — their power to crucify. The early Christians took the cross as their symbol, too, but as a symbol for compassion, grace and self-sacrificial love. Christianity is built on a series of inversions that make paganism look pompous and soulless: Blessed are the meek. Blessed are the poor in spirit. The last shall be first. The poor are closer to God than the rich. Jesus was perpetually performing outrageous acts of radical generosity, without calculating the cost.",
+      "reason": "The paragraph discusses Christian values but does not directly relate to the main premise of surviving the Trump years.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Judeo-Christian ethos showed the world something loftier than paganism. As G.K. Chesterton put it in “The Everlasting Man,” “One of the strange marks of the strength of Christianity is that, since it came, no pagan in our civilization has been able to be really human.”",
+      "reason": "This paragraph provides a historical perspective on Christianity, not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Judaism and Christianity confront paganism with rival visions of the good. The contrast could not be starker. Paganism says: Make yourself the center of the universe. Serve yourself and force others to serve you. The biblical metaphysic says: Serve others, and you will find joy. Serve God, and you will delight in his love.",
+      "reason": "The paragraph contrasts religious philosophies but does not directly address surviving the Trump years.",
+      "label": 0
+    },
+    {
+      "paragraph": "You may be a person of faith or a person of no faith, but which moral atmosphere do you want to live in? The cultural atmosphere you immerse yourself in will slowly form who you are. I don’t fault those pagans for sucking down all those muscle-building diet supplements, but I know the kind of nourishment I need these days for the strength of my mind and the health of my soul.",
+      "reason": "The paragraph offers a personal reflection on moral atmosphere, not directly related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Apparently, I’m not alone. Something’s going on in our culture. The decline of religious participation, which was so rapid between 2010 and 2020, seems to have stopped. There has been a relative surge in religious interest among young men. According to research by the evangelical Christian polling group Barna, 66 percent of Americans say they have made a personal commitment to Jesus — a 12-percentage-point jump since 2021.",
+      "reason": "This paragraph provides relevant data on religious trends, which is pertinent to the article's theme of spiritual survival.",
+      "label": 1
+    },
+    {
+      "paragraph": "Similar things may be happening in Europe. In France the Catholic Church saw a 45 percent increase in new catechumens this Easter compared with last year, and it has baptized more than 17,000 people, the highest yearly number of entrants in over 20 years. According to an April report by the Bible Institute, the percentage of British adults age 18 to 24 who attend church at least monthly increased from 4 percent in 2018 to 16 percent today, including a 21 percent gain among young men. I’ve been predicting a revival among the religious left, but that seems not to be happening. The Christian resurgence in Britain is not among the progressive mainline denominations; it’s primarily among Catholics and Pentecostals, with two million more people attending church than six years ago.",
+      "reason": "This paragraph provides additional context on religious trends in Europe, supporting the article's exploration of spiritual revival.",
+      "label": 1
+    },
+    {
+      "paragraph": "In his book “The Surprising Rebirth of Belief in God,” Brierley notes that the New Atheists were all the rage several years ago, but now it’s unlikely believers like Ayaan Hirsi Ali, Jordan Peterson and the rock star Nick Cave. Vanity Fair recently ran a story headlined “Christianity Was ‘Borderline Illegal’ in Silicon Valley. Now It’s the New Religion.”",
+      "reason": "This paragraph offers relevant commentary on the shift in cultural attitudes towards religion, aligning with the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "This movement was already underway before Trump was elected to a second term. It’s a response to a series of gods that failed: The belief that science and tech could solve our quest for meaning. The belief that we can live like hyperindividualists and still experience a sense of communal belonging. The belief that the right B.M.I. could lead to purpose and peace.",
+      "reason": "This paragraph provides context on the motivations behind the religious movement, relevant to the article's exploration of spiritual survival.",
+      "label": 1
+    },
+    {
+      "paragraph": "Are we on the cusp of a new religious revival? The evidence is still much too flimsy and fresh to justify that kind of sweeping assertion, so color me skeptical. I think it’s more accurate to say that there is currently a great spiritual yearning in the populace, which the religious institutions have not yet risen to meet.",
+      "reason": "This paragraph offers a critical perspective on the potential for a religious revival, contributing to the article's analysis.",
+      "label": 1
+    },
+    {
+      "paragraph": "But I do think we’re on the cusp of a great cultural transition. On the one hand, the eternal forces of dehumanization are blowing strong right now: concentrated power; authoritarianism; materialism; runaway technology; a presidential administration at war with the arts, universities and sciences; a president who guts Christianity while pretending to govern in its name.",
+      "reason": "This paragraph provides context about the current political and cultural climate under Trump's administration.",
+      "label": 1
+    },
+    {
+      "paragraph": "On the other hand, there are millions of humanists — secular and religious — repulsed by what they see. History is often driven by those people who are quietly repulsed for a while and then find their voice. I suspect different kinds of humanists will gather and invent other cultural movements. They will ask the eternal humanistic questions: What does it mean to be human? What is the best way to live? What is the nature of the common humanity that binds us together? As these questions are answered in new ways, there will be new cultural movements and forms.",
+      "reason": "This paragraph discusses potential cultural responses to the current political climate, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "As the theologian Dallas Willard put it, there has been, over the past decades of neglect, a loss of moral knowledge. We came to a spot in 2024 in which 77 million Americans took a look at Trump’s moral character and didn’t have a problem with what they saw. But the consequences of those character failings are becoming evident in concrete ways.",
+      "reason": "This paragraph provides specific commentary on the moral implications of Trump's presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "New winds are going to blow.",
+      "reason": "This is a vague generalization without specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "David Brooks is an Opinion columnist for The Times, writing about political, social and cultural trends.  @nytdavidbrooks",
+      "reason": "This is background information about the author.",
+      "label": 0
+    },
+    {
+      "paragraph": "A version of this article appears in print on  , Section",
+      "reason": "This is a print edition reference and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "A",
+      "reason": "This is a print edition reference and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": ", Page",
+      "reason": "This is a print edition reference and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "26",
+      "reason": "This is a print edition reference and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "of the New York edition",
+      "reason": "This is a print edition reference and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "with the headline:",
+      "reason": "This is a meta reference to the article's headline and does not contribute to the content.",
+      "label": 0
+    },
+    {
+      "paragraph": "How to Survive the Trump Years With Your Spirit Intact. Order Reprints | Today’s Paper | Subscribe",
+      "reason": "This is a navigation and subscription prompt, not content.",
+      "label": 0
+    }
+  ]
+}

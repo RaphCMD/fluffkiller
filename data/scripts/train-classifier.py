@@ -8,6 +8,7 @@ from typing import List, Dict, Any
 import numpy as np
 import torch
 from sklearn.metrics import accuracy_score, f1_score
+from sklearn.model_selection import train_test_split
 from sklearn.utils.class_weight import compute_class_weight
 from torch import nn
 from torch.utils.data import DataLoader, Dataset
@@ -18,7 +19,7 @@ DATA_PATH = Path("./data/annotated/merged_annotations.json")
 OUTPUT_DIR = Path("fluff-model")
 MODEL_NAME = "microsoft/MiniLM-L12-H384-uncased"
 MAX_LEN = 256
-EPOCHS = 10
+EPOCHS = 5  # reduced to curb overfitting
 TRAIN_BATCH_SIZE = 16
 EVAL_BATCH_SIZE = 32
 LR = 2e-5
@@ -36,7 +37,7 @@ class ArticleDataset(Dataset):
 
     def __getitem__(self, idx):
         rec = self.records[idx]
-        return rec["text"], int(rec["label"])
+        return (rec["headline"], rec["text"]), int(rec["label"])
 
 
 def load_data():
@@ -54,19 +55,19 @@ def load_data():
             }
         )
 
-    rng = np.random.default_rng(seed=42)
-    rng.shuffle(records)
-
-    split_idx = int(0.8 * len(records))
-    train_records = records[:split_idx]
-    test_records = records[split_idx:]
-    return train_records, test_records
+    labels = [r["label"] for r in records]
+    train_records, test_records = train_test_split(
+        records, test_size=0.2, random_state=42, stratify=labels
+    )
+    return list(train_records), list(test_records)
 
 
 def make_collate(tokenizer):
     def collate(batch):
-        texts, labels = zip(*batch)
+        pairs, labels = zip(*batch)
+        headlines, texts = zip(*pairs)
         enc = tokenizer(
+            list(headlines),
             list(texts),
             padding=True,
             truncation=True,
@@ -165,6 +166,7 @@ def main():
     )
 
     best_metrics = None
+    best_loss = float("inf")
 
     for epoch in range(1, EPOCHS + 1):
         print(f"\nEpoch {epoch}/{EPOCHS}")
@@ -180,11 +182,13 @@ def main():
             f"f1={metrics['f1']:.4f}"
         )
 
-        best_metrics = metrics
-
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    model.save_pretrained(OUTPUT_DIR)
-    tokenizer.save_pretrained(OUTPUT_DIR)
+        if metrics["loss"] < best_loss:
+            best_loss = metrics["loss"]
+            best_metrics = metrics
+            OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+            model.save_pretrained(OUTPUT_DIR)
+            tokenizer.save_pretrained(OUTPUT_DIR)
+            print(f"  Saved new best model (eval_loss={best_loss:.4f})")
 
     results_path = OUTPUT_DIR / "eval_results.json"
     serializable = {k: float(v) for k, v in best_metrics.items()}

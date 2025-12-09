@@ -1,0 +1,19 @@
+{
+  "headline": "NASA’s OSIRIS-REx nabbed over 120 grams of space rocks from asteroid Bennu",
+  "context": [
+    "Mission member Harold Connolly shares how the team finally got the capsule open and what’s next",
+    "Pieces of the asteroid Bennu fill the sample container (shown) of NASA’s OSIRIS-REx mission. In January, engineers finally removed two stuck screws to access the full sample."
+  ],
+  "annotations": [
+    {
+      "paragraph": "NASA, Erika Blumenfeld and Joseph Aebersold",
+      "reason": "This is an image credit and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "It’s official: NASA’s OSIRIS-REx spacecraft snagged 121.6 grams of pristine space rocks when it bopped the asteroid Bennu four years ago, more than double the mission’s official science goal, the agency confirmed February 15.",
+      "reason": "This paragraph provides essential information about the mission's success and the amount of material collected.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "headline": "The possibilities for dark matter have just shrunk — by a lot ",
+  "context": [
+    "The LZ experiment reports no signs of dark matter in their latest search",
+    "The LZ experiment is designed to detect light from interactions of dark matter particles using photomultiplier tubes (shown)."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Matthew Kapust/Sanford Underground Research Facility",
+      "reason": "This is an image credit and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Scientists have just slashed the potential hiding spaces for dark matter particles.",
+      "reason": "This sentence provides a summary of the main finding related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The LUX-ZEPLIN, or LZ, experiment has searched for and ruled out the existence of dark matter particles with a wide swath of properties, researchers report August 26 at two conferences.",
+      "reason": "This paragraph provides specific details about the LZ experiment's findings, directly related to the headline.",
+      "label": 1
+    }
+  ]
+}

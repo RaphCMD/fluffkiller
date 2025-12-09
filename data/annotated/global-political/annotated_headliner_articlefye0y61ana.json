@@ -1,0 +1,69 @@
+{
+  "headline": "News - Nottingham researcher wins prestigious global prize for ‘ground-breaking’ research into early Christian and Jewish scriptures - University of Nottingham",
+  "context": [
+    "A Nottingham researcher has received a prestigious international award for her ground-breaking research into male-centric representations of maternity and women’s bodies and souls in early Christian and Jewish scriptures.",
+    "Dr Emily Gathergood has been granted the 2023 Manfred Lautenschlaeger Award for Theological Promise. The annual honour is given to ten young scholars from all over the world for outstanding dissertations or first post-doctoral work."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Dr Gathergood’s dissertation, ‘The Midwifery of God,’ explores the relationship between maternity and divinity. It argues that certain neglected texts conceptualise God in feminine terms, as a heavenly midwife who delivers women through the difficulties of childbearing. The study also reframes traditional accounts of birth as ‘cursed’ by focusing on alternative visions of birthgiving as ‘blessed’.",
+      "reason": "This paragraph provides specific details about Dr. Gathergood's research, which is directly related to the award she received.",
+      "label": 1
+    },
+    {
+      "paragraph": "Commenting further on her research, Dr Gathergood added: \"Canonical and apocryphal Christian scriptures have profoundly shaped the identities and experiences of billions of Christian women throughout history and today. My research reframes traditional generic and male-centric construals of salvation by attending to neglected sources which foreground the divine deliverance of the female body and soul. I’m grateful to the Forschungszentrum Internationale und Interdisziplinaere Theologie for their recognition of my work, and to my mentors, colleagues, and student cohort for their support during its development.”",
+      "reason": "This paragraph includes a direct quote from Dr. Gathergood that elaborates on the significance of her research and acknowledges the support she received.",
+      "label": 1
+    },
+    {
+      "paragraph": "The awards are issued by the Research Centre for International and Interdisciplinary Theology at the University of Heidelberg in Germany. Twenty reviewers from fifteen countries select the awardees. The laureates are honoured in a festive ceremony in the Old Auditorium of Heidelberg University, followed by a colloquium with the award winners at the International Science Forum Heidelberg (IWH), where they present their next research projects.",
+      "reason": "This paragraph provides context about the award and the selection process, which is relevant to understanding the significance of Dr. Gathergood's achievement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr Gathergood is currently revising her dissertation for publication and researching her second book project, ‘Birthing Disciples: Divine and Human Transformation in Early Christianity’, a study of gender, embodiment, and perfection in and beyond the New Testament.",
+      "reason": "This paragraph provides information about Dr. Gathergood's ongoing and future research projects, which is relevant to her academic career and contributions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Notes to editors:",
+      "reason": "This is a placeholder for additional information for editors and does not contribute to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "About the University of Nottingham",
+      "reason": "This paragraph is a heading and does not provide any new information related to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ranked 24 in Europe and 15th in the UK by the QS World University Rankings: Europe 2024, the University of Nottingham is a founding member of Russell Group of research-intensive universities. Studying at the University of Nottingham is a life-changing experience, and we pride ourselves on unlocking the potential of our students. We have a pioneering spirit, expressed in the vision of our founder Sir Jesse Boot, which has seen us lead the way in establishing campuses in China and Malaysia - part of a globally connected network of education, research and industrial engagement.",
+      "reason": "This paragraph provides general information about the university, not directly related to the researcher's award.",
+      "label": 0
+    },
+    {
+      "paragraph": "Nottingham was crowned Sports University of the Year by The Times and Sunday Times Good University Guide 2024  – the third time it has been given the honour since 2018 – and by the Daily Mail University Guide 2024.",
+      "reason": "This paragraph discusses the university's sports achievements, unrelated to the research award.",
+      "label": 0
+    },
+    {
+      "paragraph": "The university is among the best universities in the UK for the strength of our research, positioned seventh for research power in the UK according to REF 2021. The birthplace of discoveries such as MRI and ibuprofen, our innovations transform lives and tackle global problems such as sustainable food supplies, ending modern slavery, developing greener transport, and reducing reliance on fossil fuels.",
+      "reason": "This paragraph provides general information about the university's research achievements, not specific to the award.",
+      "label": 0
+    },
+    {
+      "paragraph": "The university is a major employer and industry partner - locally and globally - and our graduates are the third most targeted by the UK's top employers, according to The Graduate Market in 2024 report by High Fliers Research.",
+      "reason": "This paragraph discusses the university's employment and industry partnerships, not related to the research award.",
+      "label": 0
+    },
+    {
+      "paragraph": "We lead the Universities for Nottingham initiative, in partnership with Nottingham Trent University, a pioneering collaboration between the city’s two world-class institutions to improve levels of prosperity, opportunity, sustainability, health and wellbeing for residents in the city and region we are proud to call home.",
+      "reason": "This paragraph is unrelated to the researcher's award and focuses on a separate initiative.",
+      "label": 0
+    },
+    {
+      "paragraph": "More news…",
+      "reason": "This is a placeholder for additional news and does not provide information relevant to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

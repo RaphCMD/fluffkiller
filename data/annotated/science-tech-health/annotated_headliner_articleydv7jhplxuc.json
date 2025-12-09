@@ -1,0 +1,19 @@
+{
+  "headline": "Here’s how we might generate electricity from rain",
+  "context": [
+    "In one experiment, dripping water continuously powered 12 LED lightbulbs",
+    "Raindrops falling into narrow tubes might offer a clean source of electrical energy, new experiments suggest."
+  ],
+  "annotations": [
+    {
+      "paragraph": "A new way of generating clean power could run your lights with rain.",
+      "reason": "This paragraph introduces the concept of generating power from rain, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hydropower typically relies on the movement of water to create electricity through mechanical energy, such as spinning turbines in a dam. But a new method, described April 16 in ACS Central Science, skips the mechanics and harnesses tiny bursts of energy sparked when rain plunks into a narrow tube.",
+      "reason": "This paragraph provides essential context and details about the new method of generating electricity from rain.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "headline": "Scientists find oceans of water on Mars. It's just too deep to tap. - Berkeley News",
+  "context": [
+    "Seismic data from NASA's Insight lander indicate deep, porous rock filled with liquid water",
+    "NASA, ESA, STScI"
+  ],
+  "annotations": [
+    {
+      "paragraph": "August 12, 2024",
+      "reason": "The date does not contribute to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Using seismic activity to probe the interior of Mars, geophysicists have found evidence for a large underground reservoir of liquid water — enough to fill oceans on the planet’s surface.",
+      "reason": "Introduces the main discovery of underground water on Mars.",
+      "label": 1
+    },
+    {
+      "paragraph": "The data from NASA’s Insight lander allowed the scientists to estimate that the amount of groundwater could cover the entire planet to a depth of between 1 and 2 kilometers, or about a mile.",
+      "reason": "Provides specific details about the extent of the water reservoir.",
+      "label": 1
+    },
+    {
+      "paragraph": "While that’s good news for those tracking the fate of water on the planet after its oceans disappeared more than 3 billion years ago, the reservoir won’t be of much use to anyone trying to tap into it to supply a future Mars colony. It’s located in tiny cracks and pores in rock in the middle of the Martian crust, between 11.5 and 20 kilometers (7 to 13 miles) below the surface. Even on Earth, drilling that deep would be a challenge.",
+      "reason": "Explains the challenges of accessing the water, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The finding does pinpoint another promising place to look for life on Mars, however, if the reservoir can be accessed. For the moment, it helps answer questions about the geological history of the planet.",
+      "reason": "Discusses implications for life and geological history, relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Understanding the Martian water cycle is critical for understanding the evolution of the climate, surface and interior,” said Vashan Wright, a former UC Berkeley postdoctoral fellow who is now an assistant professor at UC San Diego’s Scripps Institution of Oceanography. “A useful starting point is to identify where water is and how much is there.”",
+      "reason": "The quote provides context on the importance of understanding the Martian water cycle, which is relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Wright, alongside colleagues Michael Manga of UC Berkeley and Matthias Morzfeld of Scripps Oceanography, detailed their analysis in a paper that will appear this week in the journal Proceedings of the National Academy of Sciences.",
+      "reason": "This paragraph provides publication information about the research, which is relevant to the credibility and dissemination of the findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "James Tuttle Keane and Aaron Rodriquez, courtesy of Scripps Institution of Oceanography",
+      "reason": "This is an attribution for an image or contribution, not relevant to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The scientists employed a mathematical model of rock physics, identical to models used on Earth to map underground aquifers and oil fields, to conclude that the seismic data from Insight are best explained by a deep layer of fractured igneous rock saturated with liquid water. Igneous rocks are cooled hot magma, like the granite of the Sierra Nevada.",
+      "reason": "This paragraph explains the methodology used to identify the water, which is directly relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Establishing that there is a big reservoir of liquid water provides some window into what the climate was like or could be like,” said Manga, a UC Berkeley professor of earth and planetary science. “And water is necessary for life as we know it. I don’t see why [the underground reservoir] is not a habitable environment. It’s certainly true on Earth — deep, deep mines host life, the bottom of the ocean hosts life. We haven’t found any evidence for life on Mars, but at least we have identified a place that should, in principle, be able to sustain life.”",
+      "reason": "The quote discusses the implications of the discovery for potential habitability, which is relevant to the significance of the finding.",
+      "label": 1
+    },
+    {
+      "paragraph": "Manga was Wright’s postdoctoral adviser. Morzfeld was a former postdoctoral fellow in UC Berkeley’s mathematics department and is now an associate professor of geophysics at Scripps Oceanography.",
+      "reason": "This paragraph provides background information on individuals not directly related to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Manga noted that lots of evidence — river channels, deltas and lake deposits, as well as water-altered rock — supports the hypothesis that water once flowed on the planet’s surface. But that wet period ended more than 3 billion years ago, after Mars lost its atmosphere. Planetary scientists on Earth have sent many probes and landers to the planet to find out what happened to that water — the water frozen in Mars’ polar ice caps can’t account for it all — as well as when it happened, and whether life exists or used to exist on the planet.",
+      "reason": "This paragraph provides essential context about the history of water on Mars and the scientific efforts to understand it.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new findings are an indication that much of the water did not escape into space but filtered down into the crust.",
+      "reason": "This paragraph directly relates to the headline by explaining the significance of the new findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Insight lander was sent by NASA to Mars in 2018 to investigate the crust, mantle, core and atmosphere, and it recorded invaluable information about Mars’ interior before the mission ended in 2022.",
+      "reason": "This paragraph provides relevant information about the mission that led to the findings discussed in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The mission greatly exceeded my expectations,” Manga said. “From looking at all the seismic data that Insight collected, they’ve figured out the thickness of the crust, the depth of the core, the composition of the core, even a little bit about the temperature within the mantle.”",
+      "reason": "Provides direct commentary on the mission's findings related to Mars' interior.",
+      "label": 1
+    },
+    {
+      "paragraph": "Insight detected Mars quakes up to about a magnitude of 5, meteor impacts and rumblings from volcanic areas, all of which produced seismic waves that allowed geophysicists to probe the interior.",
+      "reason": "Describes how Insight's data was used to study Mars' interior, relevant to the discovery of water.",
+      "label": 1
+    },
+    {
+      "paragraph": "An earlier paper reported that above a depth of about 5 kilometers, the upper crust did not contain water ice, as Manga and others suspected. That may mean that there’s little accessible frozen groundwater outside the polar regions.",
+      "reason": "Provides context on the distribution of water ice in Mars' crust, relevant to the water discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new paper analyzed the deeper crust and concluded that the “available data are best explained by a water-saturated mid-crust” below Insight’s location. Assuming the crust is similar throughout the planet, the team argued, there should be more water in this mid-crust zone than the “volumes proposed to have filled hypothesized ancient Martian oceans.”",
+      "reason": "Directly discusses the findings of water in Mars' mid-crust, central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Canadian Institute for Advanced Research, the National Science Foundation and the U.S. Office of Naval Research supported the work.",
+      "reason": "Mentions funding sources, which is not directly relevant to the discovery of water on Mars.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "headline": "A dull May Day - Editorial - The Jakarta Post",
+  "context": [
+    "For many, there was not much to celebrate on May Day this year.",
+    "The general mood on factory floors and offices around the country is somber as concerns about mass layoffs, a lack of competitiveness and accelerating automation are all too present in employees’ minds."
+  ],
+  "annotations": [
+    {
+      "paragraph": "A recent stream of incessant news reports about factory closures, ranging from textile giant Sritex and shoemakers for global brands, to piano builder Yamaha and electric equipment maker Sanken, are eating away at workers’ confidence, raising concerns about the financial security of their families.",
+      "reason": "This paragraph provides specific examples of factory closures affecting workers' confidence, directly relating to the somber mood on May Day.",
+      "label": 1
+    },
+    {
+      "paragraph": "The government, true to form for this administration, has created a task force to address layoffs and other employment issues, but workers remain wary as to whether or not it will address the underlying issues.",
+      "reason": "This paragraph discusses the government's response to employment issues, relevant to the concerns highlighted in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The task force was announced by the President on Thursday as he addressed hundreds of thousands of workers rallying to mark May 1 at the National Monument (Monas) in Central Jakarta.",
+      "reason": "This paragraph provides context about the announcement of the task force on May Day, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The task force would prevent arbitrary dismissals and ensure that companies adhere to fair labor practices, prompting business groups on the same day to express concern that employers may be criminalized for management decisions.",
+      "reason": "This paragraph details the intended function of the task force and the concerns it raises, relevant to the employment issues discussed.",
+      "label": 1
+    },
+    {
+      "paragraph": "Whether you're looking to broaden your horizons or stay informed on the latest developments, \"Viewpoint\" is the perfect source for anyone seeking to engage with the issues that matter most.",
+      "reason": "This paragraph is promotional and does not contribute to the main story about May Day.",
+      "label": 0
+    },
+    {
+      "paragraph": "Please check your email for your newsletter subscription.",
+      "reason": "This is an unrelated call to action for newsletter subscription.",
+      "label": 0
+    },
+    {
+      "paragraph": "View More Newsletter",
+      "reason": "This is an unrelated call to action for viewing more newsletters.",
+      "label": 0
+    },
+    {
+      "paragraph": "Such a task force might prevent the odd layoff here or there, but it might also keep companies from hiring more than the bare minimum, as they worry about being able to again reduce headcount if needed.",
+      "reason": "This paragraph discusses potential impacts of a task force on employment, relevant to the concerns about layoffs mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Maybe this is one of those problems for which there is no solution, at least not on the national level, because even solid economic growth does not guarantee solid employment growth.",
+      "reason": "This paragraph provides context on the complexity of solving employment issues, relevant to the headline's theme of economic concerns.",
+      "label": 1
+    },
+    {
+      "paragraph": "We certainly must encourage more investment, both from home and abroad, to drive economic activity, but that could still prove insufficient to create enough proper jobs.",
+      "reason": "This paragraph discusses investment as a potential solution to employment issues, directly related to the headline's focus on economic concerns.",
+      "label": 1
+    },
+    {
+      "paragraph": "New investors who may be interested in taking over the assets of bankrupt textile firms, for instance, will bring with them new technology to produce the same or even more output with a much smaller workforce.",
+      "reason": "This paragraph provides specific information about the impact of new technology on employment in the textile industry.",
+      "label": 1
+    },
+    {
+      "paragraph": "The so-called lights-out factories in China show us how to play in the global top league of mass manufacturing. We can bring back production, but the jobs are gone.",
+      "reason": "This paragraph offers context on global manufacturing trends and their impact on jobs.",
+      "label": 1
+    },
+    {
+      "paragraph": "The same is true for other sectors. Massive efficiency gains wait to be realized in our agriculture and fisheries industries.",
+      "reason": "This paragraph generalizes the impact of efficiency gains across sectors without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "By conducting structural reforms and bringing technology to bear, we could make more competitive products to increase our exports or substitute imports, but at the price of making redundant a vast share of the current workforce in those sectors.",
+      "reason": "This paragraph discusses the trade-off between competitiveness and job loss, directly related to the main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "If the policy choice is between losing jobs in uncompetitive industries or making industries competitive by slashing jobs, then employees get the short end of the stick either way.",
+      "reason": "This paragraph summarizes the dilemma faced by employees, aligning with the article's main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Little wonder, then, that the mood among the workforce is subdued.",
+      "reason": "This is a vague generalization that does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "A decade or so ago, unions emboldened by their bargaining power would demand minimum wage hikes of 20 percent or more. For 2025, they accepted a 6.5 percent increase without much grumbling.",
+      "reason": "This provides historical context and comparison relevant to the current situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here is the lead paragraph of a story published by this paper 11 years ago: “Thousands of workers have demanded that the minimum wage be increased 30 percent starting next year. During Labor Day rallies on Thursday, workers presented a list of 'Ten Public Demands', among them pay increases.”",
+      "reason": "This offers historical context and illustrates changes in labor demands over time.",
+      "label": 1
+    },
+    {
+      "paragraph": "Today, most workers, whether unionized or not, whether in a factory or an office, or in a government ministry, are more concerned about holding onto their jobs than about large pay raises, even if they struggle to make a living from one payday to the next.",
+      "reason": "This provides current context about workers' priorities and concerns.",
+      "label": 1
+    },
+    {
+      "paragraph": "Instead of joining rallies and thrusting their fists up, they stay at their workplaces and keep their heads down.",
+      "reason": "This describes the current behavior of workers, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "To some degree, this has been a recurring theme around the world at times of economic downturn.",
+      "reason": "This paragraph provides a generalization about economic downturns without adding specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "But there is a widespread feeling that the current pace of technological progress, where automation is amplified by artificial intelligence, is not just a matter of waiting for new jobs to spring up in new industries.",
+      "reason": "This paragraph introduces relevant context about the impact of technological progress on employment, directly related to the concerns mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "When machines produce machines and programs program programs, there is fear in the air about just how redundant we might be. In that context, one thing is perhaps more relevant than ever: Workers of the world, unite!",
+      "reason": "This paragraph provides relevant commentary on the fear of redundancy due to automation, tying back to the theme of worker unity.",
+      "label": 1
+    }
+  ]
+}

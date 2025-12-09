@@ -1,0 +1,44 @@
+{
+  "headline": "WHO comments on United States’ announcement of intent to withdraw",
+  "context": [
+    "WHO\n                    Preparation of baby Sofia for transfer from Ukraine to a hospital in Germany for care, 2024",
+    "©\n            Credits"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The World Health Organization regrets the announcement that the United States of America intends to withdraw from the Organization.",
+      "reason": "This paragraph directly addresses the main premise of the article regarding the US's intent to withdraw from WHO.",
+      "label": 1
+    },
+    {
+      "paragraph": "WHO plays a crucial role in protecting the health and security of the world’s people, including Americans, by addressing the root causes of disease, building stronger health systems, and detecting, preventing and responding to health emergencies, including disease outbreaks, often in dangerous places where others cannot go.",
+      "reason": "This paragraph provides context on WHO's role, which is relevant to understanding the impact of the US withdrawal.",
+      "label": 1
+    },
+    {
+      "paragraph": "The United States was a founding member of WHO in 1948 and has participated in shaping and governing WHO’s work ever since, alongside 193 other Member States, including through its active participation in the World Health Assembly and Executive Board. For over seven decades, WHO and the USA have saved countless lives and protected Americans and all people from health threats. Together, we ended smallpox, and together we have brought polio to the brink of eradication. American institutions have contributed to and benefited from membership in WHO.",
+      "reason": "This paragraph provides historical context on the US's involvement with WHO, relevant to the withdrawal announcement.",
+      "label": 1
+    },
+    {
+      "paragraph": "With the participation of the United States and other Member States, WHO has over the past 7 years implemented the largest set of reforms in its history, to transform our accountability, cost-effectiveness, and impact in countries. This work continues.",
+      "reason": "This paragraph discusses recent reforms involving the US, relevant to the context of the withdrawal.",
+      "label": 1
+    },
+    {
+      "paragraph": "We hope the United States will reconsider and we look forward to engaging in constructive dialogue to maintain the partnership between the USA and WHO, for the benefit of the health and well-being of millions of people around the globe.",
+      "reason": "This paragraph expresses WHO's hope for continued partnership, directly related to the withdrawal announcement.",
+      "label": 1
+    },
+    {
+      "paragraph": "WHO Media Team",
+      "reason": "This is a credit line and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "World Health Organization",
+      "reason": "This is a general mention of the organization and does not provide new information or context.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "headline": "'We are breaking the bodies and minds of children of Gaza', says WHO Executive Director | Reuters",
+  "context": [
+    "Palestinian kids stand at the site of an Israeli strike on a house, amid the ongoing conflict between Israel and the Palestinian Islamist group Hamas, in Rafah in the southern Gaza Strip, February 7, 2024. REUTERS/Ibraheem Abu Mustafa Purchase Licensing Rights, opens new tab",
+    "GENEVA, May 1 (Reuters) - The minds and bodies of children in Gaza are being broken following two months of aid blockade and renewed strikes, the Executive Director of the World Health Organization Emergencies programmes said on Thursday."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Since March 2 Israel has blocked the entry of medical, fuel, and food supplies into Gaza.",
+      "reason": "This paragraph provides essential context about the blockade affecting Gaza, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Reuters Tariff Watch newsletter is your daily guide to the latest global trade and tariff news. Sign up  here.",
+      "reason": "This paragraph is an advertisement for a newsletter and unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We are breaking the bodies and minds of the children of Gaza. We are starving the children of Gaza. We are complicit,\" Deputy Director General Michael Ryan told reporters at the WHO's headquarters.",
+      "reason": "This paragraph contains a direct quote from a WHO official, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"As a physician I am angry. It is an abomination,\" he said.",
+      "reason": "This quote provides direct commentary from a WHO official, adding depth to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israel says the decision to block the supplies was aimed at pressuring Hamas to free hostages as the ceasefire agreement stalled.",
+      "reason": "This paragraph provides context on Israel's reasoning for the blockade, relevant to the article's topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The current level of malnutrition is causing a collapse in immunity,\" Ryan said, warning that cases of pneumonia and meningitis in women and children could increase.",
+      "reason": "This paragraph provides specific information about the health impact on children in Gaza, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israel has previously denied that Gaza was facing a hunger crisis. It has not made clear when and how aid will be resumed.",
+      "reason": "This paragraph provides context about Israel's stance on the crisis, which is relevant to the situation in Gaza.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israel's military accuses Hamas of diverting aid, which Hamas denies.",
+      "reason": "This paragraph provides context about the conflict between Israel and Hamas, relevant to the aid situation in Gaza.",
+      "label": 1
+    },
+    {
+      "paragraph": "The United Nations warned this week that acute malnutrition among Gaza's children was worsening.",
+      "reason": "This paragraph provides additional relevant information about the worsening malnutrition situation in Gaza.",
+      "label": 1
+    },
+    {
+      "paragraph": "Reporting by Olivia Le Poidevin; Editing by Alex Richardson and Ed Osmond",
+      "reason": "This is a standard reporting credit and does not contribute to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Our Standards: The Thomson Reuters Trust Principles., opens new tab",
+      "reason": "This paragraph is a standard disclaimer about Reuters' principles and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

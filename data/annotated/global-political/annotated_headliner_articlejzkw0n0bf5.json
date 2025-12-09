@@ -1,0 +1,184 @@
+{
+  "headline": "Record-breakers, from the world’s tallest bridge to the world’s smallest park | CNN",
+  "context": [
+    "Editor’s note: Sign up for Unlocking the World, CNN Travel’s weekly newsletter. Get news about destinations, plus the latest in aviation, food and drink, and where to stay.",
+    "CNN\n         —"
+  ],
+  "annotations": [
+    {
+      "paragraph": "In travel news this week: the world’s smallest park, Spain’s greatest food, plus North Americans who started new lives in Mexico and Germany.",
+      "reason": "This paragraph provides an overview of the topics covered in the article, setting the stage for the main content.",
+      "label": 1
+    },
+    {
+      "paragraph": "Taller, higher, larger, bigger: This week we bring you a roundup of new record-breaking projects and endeavors around the world.",
+      "reason": "This paragraph introduces the theme of record-breaking projects, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The world’s tallest bridge will open in China’s Guizhou province this June, a mountainous region that is already home to nearly half of the world’s top 100 tallest bridges.",
+      "reason": "This paragraph provides specific information about the world's tallest bridge, directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Huajiang Grand Canyon Bridge stands 2,051 feet (625 meters) above river level, which is 947 feet taller than France’s Millau Viaduct, the current bridge title holder.",
+      "reason": "This paragraph gives detailed facts about the height of the new bridge, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "China says its new bridge will reduce travel time over the canyon from two hours to one minute.",
+      "reason": "This paragraph provides additional context on the impact of the new bridge, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Singaporean watering hole LeVel33 was last month named the world’s highest microbrewery inside a building.",
+      "reason": "This paragraph introduces a record-breaking location relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Beer-brewing equipment, including 12 tanks, two copper brewhouse kettles and a cooling machine, had to be brought up to the 33rd floor of Marina Bay Financial Centre Tower by crane, but for guests, the epic views over the Singapore skyline are worth it.",
+      "reason": "Provides specific details about the microbrewery's unique features and challenges, relevant to the record-breaking theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "A more unusual new Guinness World Record holder can be found in the Philippines: the largest building shaped like a chicken.",
+      "reason": "Introduces another record-breaking structure, directly relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s also a hotel, which is fine if you like fully air-conditioned 114-foot-tall avian sculptures but don’t care so much about windows.",
+      "reason": "Provides additional context about the record-breaking building, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Disney’s biggest ever cruise ship will set off on its maiden voyage later this year.",
+      "reason": "Mentions a record-breaking cruise ship, relevant to the article's theme of record-breaking structures.",
+      "label": 1
+    },
+    {
+      "paragraph": "Most Americans will have to take a long flight to experience the 6,000-passenger Disney Adventure, which will be the cruise line’s first ship to homeport in Asia.",
+      "reason": "This paragraph provides information about a significant travel-related development, relevant to the theme of record-breaking or notable travel experiences.",
+      "label": 1
+    },
+    {
+      "paragraph": "From big to small, the world’s tiniest park has been recognized by Guinness World Records. Found in the Japanese town of Nagaizumi, about 68 miles southwest of Tokyo, the park is just 2.6 square feet and comprises an itty bitty stool and a fun-size patch of greenery.",
+      "reason": "This paragraph directly discusses a record-breaking location, which is central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Finally, a couple of epic missions: Saudi explorer Badr Al Shaibani trekked 600 kilometers (370 miles) solo across his home country’s Empty Quarter, the largest area of continuous sand in the world. Watch here.",
+      "reason": "This paragraph introduces a notable achievement related to exploration, fitting the article's theme of record-breaking feats.",
+      "label": 1
+    },
+    {
+      "paragraph": "If that sounds like thirsty work, Irishman Colm Dalton has just the ticket. He’s set himself the task of visiting every Irish pub in the world and has made it to 47 countries so far.",
+      "reason": "This paragraph describes a unique personal challenge, aligning with the article's focus on record-breaking or unusual endeavors.",
+      "label": 1
+    },
+    {
+      "paragraph": "After losing her job, Canadian woman Brooke Gazer convinced her husband Rick to move to Mexico and open up a bed-and-breakfast together. “Everybody else was terrified for us,” says Brooke, but here’s what happened next.",
+      "reason": "This paragraph does not relate to record-breaking or notable achievements, making it less relevant to the article's main theme.",
+      "label": 0
+    },
+    {
+      "paragraph": "Two other Canadians didn’t travel so far for their hospitality adventure. Sisters Kristen and Kathryn Groom, aged 27 and 35, bought a century-old inn in Ontario, despite having no industry experience. Three years on, business is thriving, thanks to the pair becoming an international social media hit.",
+      "reason": "This paragraph is not directly related to the headline about record-breaking structures or parks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Some people are turning their homes into their fortunes by swapping their residences with strangers instead of using hotels or Airbnbs. Many see it as a solution to the overtourism problem driving up rents everywhere from New York to Barcelona.",
+      "reason": "This paragraph does not relate to the headline about record-breaking structures or parks.",
+      "label": 0
+    },
+    {
+      "paragraph": "You can trick out your own vacation rental with the help of these tips from our partners at CNN Underscored, a product reviews and recommendations guide owned by CNN. From candles to white noise sound machines, it has everything you need to get fully stocked.",
+      "reason": "This paragraph is promotional content unrelated to the headline about record-breaking structures or parks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Video Ad Feedback",
+      "reason": "This is a placeholder for video content and does not contribute to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "World’s most influential chef wows Eva Longoria with fisherman's stew",
+      "reason": "This paragraph is unrelated to the headline about record-breaking structures or parks.",
+      "label": 0
+    },
+    {
+      "paragraph": "01:26\n                            \n                             - Source:\n            \n                CNN",
+      "reason": "This is a timestamp and source label, not contributing to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "World’s most influential chef wows Eva Longoria with fisherman's stew",
+      "reason": "This is a headline for a different topic, not related to the main article about record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "01:26",
+      "reason": "This is a timestamp, not contributing to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "In CNN’s new original eight-part series “Eva Longoria: Searching for Spain,” the award-winning actor, producer, director and activist goes on a gastronomic pilgrimage around her ancestral homeland.",
+      "reason": "This paragraph introduces a TV series unrelated to the article's main topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "From pintxos in San Sebastián to blonde beef in Galicia to cider in Asturias, she samples the finest dishes Spain has to offer, and also catches up with family who still live in her namesake town of Longoria.",
+      "reason": "This paragraph describes culinary experiences in Spain, unrelated to the article's focus on record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "Audiences also get a peek into her new Spanish home in Marbella as she hosts friends for a feast of local delicacies.",
+      "reason": "This paragraph is unrelated to the topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "The show premiers on Sunday, April 27, at 9 p.m. ET/PT on CNN.",
+      "reason": "This paragraph is promotional content unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Here’s the truth about “chalet girls.”",
+      "reason": "This paragraph is unrelated to the topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "What it’s like tending to the needs of Europe’s wealthy skiers.",
+      "reason": "This paragraph is unrelated to the topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "A New Yorker ditched the United States for Germany.",
+      "reason": "This paragraph is unrelated to the topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "She says it was the “best decision” she ever made.",
+      "reason": "This paragraph lacks context and does not contribute to the main premise of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "First class isn’t dead.",
+      "reason": "This statement is unrelated to the topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "Meet the airlines keeping the long-haul luxury dream alive.",
+      "reason": "This paragraph is unrelated to the topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Special forces travelers” are mobilizing in China.",
+      "reason": "This paragraph does not relate to the topic of record-breaking structures.",
+      "label": 0
+    },
+    {
+      "paragraph": "They can make or break a tourist destination.",
+      "reason": "This is a vague generalization not directly related to the topic of record-breaking structures.",
+      "label": 0
+    }
+  ]
+}

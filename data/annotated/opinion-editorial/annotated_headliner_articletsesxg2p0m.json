@@ -1,0 +1,104 @@
+{
+  "headline": "Opinion | Biden got subpoenas, Trump gets a pass - The Washington Post",
+  "context": [
+    "One of the more striking aspects of Elon Musk’s rampage through the federal government has been that it is, at least in theory, redundant. There already exist congressional bodies and powers that are ostensibly focused on waste and corruption. The House Oversight Committee, for example, declares as its mission to “ensure the efficiency, effectiveness, and accountability of the federal government and all its agencies.” Why deal with Musk’s messiness when Republicans control how the House exercises that power?",
+    "We are not so naive that we cannot summon some answers to that question. One reason for this approach, for example, is that Musk was tasked with operating outside  the system by design, pushing for sweeping cuts to congressionally appropriated spending specifically  to get around the system of checks and balances."
+  ],
+  "annotations": [
+    {
+      "paragraph": "A more important reason, though, is that the majority of members on the House Oversight Committee and, in particular, Chairman James Comer (R-Kentucky.) have a specific vision for how their power should be deployed. Their mission is not to work across the aisle to make government faster and cleaner. As has been made very clear in the two years since Republicans retook the majority, their mission instead is to generate allegations of impropriety by their political opponents while shielding their allies.",
+      "reason": "This paragraph provides context on the political motivations of the House Oversight Committee, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "End of carousel",
+      "reason": "This is a navigation instruction and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Nowhere is this more obvious than in the conflicting approach Comer and his committee have taken to allegations of self-enrichment by the nation’s chief executive.",
+      "reason": "This paragraph introduces a specific example relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Days after Republicans won their majority in November 2022, Comer held a news conference in which he sought to draw attention to claims — stoked in right-wing media and embraced by his party while in the minority — that President Joe Biden had benefited from his son Hunter Biden’s consulting work. He insisted that “the Biden family swindled investors of hundreds of thousands of dollars — all with Joe Biden’s participation and knowledge” and suggested that the sitting president (and presumed 2024 Democratic presidential nominee) might be “a national security risk” who was “compromised by foreign governments.”",
+      "reason": "This paragraph provides specific details about Comer's actions and allegations against Biden, directly relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "What ensued over the next 16 months was far less “Law & Order” than “Keystone Kops.” Comer and other Republican leaders made little progress in tying Biden to his son’s business beyond the vaguest of connections, like that Hunter Biden would put his father on speakerphone during business meetings. Countervailing evidence for the idea that Joe Biden was entwined with Hunter’s foreign partners was ignored or spun away. One particular allegation hyped by Comer backfired spectacularly.",
+      "reason": "This paragraph describes the lack of progress and issues with the allegations against Biden, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "House Speaker Kevin McCarthy (R-California) was eventually pressured into announcing an impeachment probe targeting the president mostly centered on the same things Comer had been claiming since 2022. It went nowhere.",
+      "reason": "This paragraph provides narrative progression and context about the impeachment probe against Biden.",
+      "label": 1
+    },
+    {
+      "paragraph": "To put a fine point on it, two years of searching and subpoenas and depositions provided no concrete evidence (and very little circumstantial evidence!) that Joe Biden had used his position for his own personal benefit. Two seconds into Donald Trump’s second term in office, by contrast, there could have been any number of ripe targets for a similarly focused investigation.",
+      "reason": "This paragraph contrasts the investigations into Biden and Trump, contributing to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Comer very obviously has no interest in doing so. When he inherited the Oversight Committee in 2023, in fact, he quietly ended an investigation into Trump’s finances, despite the committee having prevailed in a legal fight to obtain documentation from Trump’s accounting firm. Even with the former president pushing for the 2024 Republican presidential nomination, the various ways in which Comer’s allegations against Biden were much more obviously applicable to the Trumps attracted no interest from House Republicans.",
+      "reason": "This paragraph provides relevant information about the lack of investigation into Trump's finances.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since the inauguration in January, viable avenues for investigation have  become only more numerous.",
+      "reason": "This paragraph is vague and does not provide specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "On Tuesday, the New York Times published an exhaustive look at the Trumps’ creation of a crypto-centered investment structure called World Liberty Financial. It has explicit manifestations of nearly everything Comer was unable to prove about Biden and his family: exercising presidential power for the benefit of the company (and by extension himself and his sons), allowing partners to assume the trappings of the federal government for private financial discussions, foreign investors admitting that their interest is driven by the president’s participation.",
+      "reason": "This paragraph provides specific details about the Trumps' financial dealings, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Washington Post recently detailed Trump’s rollout of a different cryptoworld product: a bespoke coin that serves as little more than a speculative vehicle — one from which Trump and his family can directly profit. Trump recently announced that top investors in the coin would be granted an audience with him. At around the same time he did so, the federal government registered the domain thetrilliondollardinner.gov.",
+      "reason": "This paragraph provides specific information about Trump's actions related to a cryptocurrency product and potential conflicts of interest.",
+      "label": 1
+    },
+    {
+      "paragraph": "“He’s actually selling access, personal access, to him and to the White House if people invest in this meme coin, which really has no intrinsic value,” Virginia Canter, the chief ethics counsel for the watchdog group State Democracy Defenders Action, told The Post. “If you are a foreign government burdened by tariffs, will you be enticed to invest? If you’re a criminal felon, will you maybe invest in hopes of they’ll give you an opportunity to make your case for a pardon?”",
+      "reason": "This paragraph includes a relevant quote from an ethics expert discussing the implications of Trump's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Oh, that reminds me: At least two investors in World Liberty Financial have already received presidential pardons.",
+      "reason": "This paragraph provides relevant information about the connection between investors and presidential pardons.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then there was the announcement last month that Donald Trump Jr. is the co-founder of a new private club in D.C. For a membership fee of $500,000, you can mingle with MAGAworld luminaries and — if the kickoff event is any indicator — members of the Trump administration. None of this rinky-dink “I’ll put my dad on speakerphone if he calls” stuff. Aptly enough, the club is called Executive Branch.",
+      "reason": "This paragraph provides information about a new venture by Donald Trump Jr. that relates to access and influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those are just recent reports, mind you. The Trump Organization (which directly enriches the president) still operates private businesses around the world, at times in partnership with foreign governments. Trump himself has visited properties run by his private company on 42 of his 102 days in office, giving customers a decent shot at getting face-time with the president. Even when he isn’t at a Trump Organization property, he’s still selling pro-Trump merchandise (like a “Trump 2028” hat) both directly through the Trump Organization and through licensing deals.",
+      "reason": "This paragraph provides context on Trump's ongoing business activities and potential conflicts of interest.",
+      "label": 1
+    },
+    {
+      "paragraph": "Comer, meanwhile, has been focused not on investigating the obvious questions about Trump but, instead, on probing ActBlue — a fundraising system used by Democratic politicians. In an egregious break with the tradition of presidents avoiding interference in the Justice Department, Trump used the pretext of the House probe to demand that ActBlue face criminal investigation.",
+      "reason": "This paragraph provides relevant information about the focus of Comer's investigations and Trump's interference, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Wednesday morning, Comer appeared on Fox Business to discuss Republican efforts to draft a budget bill. He began by asserting that his committee had identified billions in potential budgetary savings (which he later explained would come from targeting federal employee benefits, not from any robust investigation unearthing fraud or waste). Asked about articles of impeachment filed against Trump this week, he leveled a deeply ironic charge at his colleagues across the aisle.",
+      "reason": "This paragraph provides context on Comer's activities and comments related to Trump, which is relevant to the article's focus on differing treatments of Biden and Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Harassing, obstructing — that’s all the Democrats know,” Comer said, while insisting that impeachment would go nowhere. “They don’t have any ideas or vision for the future.”",
+      "reason": "This quote from Comer is relevant as it reflects the partisan dynamics and rhetoric surrounding the investigations, which is pertinent to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "If there is one thing that can be said of Trump, it is that he has a vision for the future — in particular as it relates to the robustness of his own bank account. Comer and his colleagues in the House have proved to be more than happy to not stand in his way.",
+      "reason": "This paragraph provides commentary on Trump's motivations and the House's lack of opposition, which is relevant to the article's argument about differing treatments.",
+      "label": 1
+    }
+  ]
+}

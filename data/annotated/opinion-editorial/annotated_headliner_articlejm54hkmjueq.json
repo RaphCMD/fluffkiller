@@ -1,0 +1,109 @@
+{
+  "headline": "Left trashes men endlessly. It's no wonder they chose Trump | Opinion",
+  "context": [
+    "A teacher called me a few years ago about my youngest son, who was still in elementary school. She wanted to tell me about an incident in her class. I braced for a bad report. But then she said my son had raised his hand, said something funny and made the class laugh. She scolded him, to no avail.",
+    "\"Is that it?\" I said, a bit flummoxed. I encouraged her to maintain order in the classroom as necessary, but also suggested she appreciate his humor and energy, especially as a coping skill."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Before this incident, the teacher had insinuated that she thought my son had attention deficit hyperactivity disorder and needed medication because he was so active and spirited. I declined.",
+      "reason": "This paragraph provides context about the author's personal experience with societal attitudes towards boys.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a mom of two boys, including one who is now 18, I'm tired of seeing teachers, school administrators and society in general treat boys with disdain and even as symbols of toxicity. I've observed all kinds of people struggle with the energy, busyness and spirit of my boys.",
+      "reason": "This paragraph expresses the author's personal perspective on societal treatment of boys, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The war on boys − and men − has gone on for years. And it has discouraged and exhausted them. Now, many young men are moving to the right, politically and culturally. That's because, at least in part, conservatives accept young men for who they are.",
+      "reason": "This paragraph directly addresses the article's main premise about the political shift of young men.",
+      "label": 1
+    },
+    {
+      "paragraph": "I thought of my son's school incident again when I saw a clip recently resurface on social media from Chris Williamson's popular \"Modern Wisdom\" podcast, Williamson asked guest Eric Weinstein, an investor and financial executive, if he had seen the data on teenage boys becoming more politically conservative.",
+      "reason": "This paragraph introduces a relevant example that ties into the article's theme of political shifts among young men.",
+      "label": 1
+    },
+    {
+      "paragraph": "Weinstein's reply resonated closely with my own experiences as a mom. \"I had a teenage boy. I still have one,\" Weinstein said. \"He's 18 now. And I watched them be pushed farther and farther right by their schools.\"",
+      "reason": "This paragraph provides a supporting quote that aligns with the article's argument about societal influence on young men's political views.",
+      "label": 1
+    },
+    {
+      "paragraph": "Weinstein then described the progressive narrative that's targeted loudly and clearly at young men and boys: \"'You suck. All of your instincts are bad. These girls are amazing. Look at you. You're pathetic. Be less masculine.'\"",
+      "reason": "This paragraph provides a direct quote that illustrates the article's main premise about the negative narrative towards men.",
+      "label": 1
+    },
+    {
+      "paragraph": "Weinstein continued: \"You're just barking at them constantly. They're not moving right. They're moving out of your stupid way. You've given them, what? Nothing.\"",
+      "reason": "This paragraph continues the direct quote, further supporting the article's argument about the negative treatment of men.",
+      "label": 1
+    },
+    {
+      "paragraph": "Weinstein is right that men have shifted rightward politically. In the 2024 election, 56% of men ages 18 to 29 voted for Donald Trump for president. In 2020, Joe Biden won 56% of the votes cast by young men.",
+      "reason": "This paragraph provides statistical evidence supporting the article's claim about the political shift among men.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a mom and a columnist, I agree with Weinstein that men have become more conservative because of a progressive culture that often presents itself as anti-traditional male.",
+      "reason": "This paragraph offers personal commentary that aligns with the article's main argument about the cultural impact on men's political views.",
+      "label": 1
+    },
+    {
+      "paragraph": "Men, and working-class men especially, are often portrayed as stupid, selfish, violent, abusive and bigoted in entertainment, on social media and even in mainstream news media. The message sent and received by millions of hardworking husbands and fathers − and their sons − is that there's something inherently wrong with them because they are males.",
+      "reason": "This paragraph provides context and examples of how men are portrayed negatively, supporting the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the 2024 election, Democratic presidential nominee Kamala Harris did little to appeal to male voters. She surrounded herself with female icons like Beyoncé and Oprah Winfrey, ran on a platform of women's \"reproductive rights\" and chatted on the \"Call Her Daddy\" podcast, a platform by a woman for women.",
+      "reason": "This paragraph provides context on Kamala Harris's campaign strategy and its focus, which is relevant to the article's premise about male voters.",
+      "label": 1
+    },
+    {
+      "paragraph": "But she turned down an invitation to appear on Joe Rogan's popular podcast, which has an enormous audience of young men.",
+      "reason": "This paragraph highlights a specific decision by Harris that relates to the article's theme of male voter engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "In contrast, Trump and Republican vice presidential nominee JD Vance spent hours talking to Rogan in the final days of the hectic campaign season.",
+      "reason": "This paragraph contrasts the approaches of the two political sides, directly relating to the article's focus on male voter appeal.",
+      "label": 1
+    },
+    {
+      "paragraph": "Progressives' record of either ignoring young men, stereotyping them as a toxic threat or turning them into weak and infantile caricatures isn't new. In 2013, a progressive outfit called Organizing for America gave us Pajama Boy, a onesie-wearing young man who regaled his family at the holidays on the wonders of Obamacare.",
+      "reason": "This paragraph provides historical context on the portrayal of young men by progressives, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "As writer Rich Lowry noted, \"Never has the difference between what Chris Matthews memorably dubbed the Mommy party and the Daddy party been so stark. Pajama Boy’s mom probably still tucks him in at night, and when she isn’t there for him, Obamacare will be.\"",
+      "reason": "This paragraph includes a quote that emphasizes the perceived differences between political parties, relevant to the article's discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Millions of men saw the left's portrayal of the ideal male and said, \"That's not me. And I don't want that to be me.\"",
+      "reason": "This paragraph provides a perspective on why some men may feel alienated by the left's portrayal of masculinity.",
+      "label": 1
+    },
+    {
+      "paragraph": "The right has its flaws. Trump is no paradigm of male virtue. He has repeatedly mistreated women in his personal life. He also has nominated and hired sharp, talented women like White House Chief of Staff Susie Wiles, Supreme Court Justice Amy Coney Barrett and Agriculture Secretary Brooke Rollins.",
+      "reason": "This paragraph discusses Trump's complex relationship with women, providing context for his appeal to some men.",
+      "label": 1
+    },
+    {
+      "paragraph": "But in Trump, men see the leader of a political and cultural movement that doesn't hate them for being male.",
+      "reason": "This paragraph directly addresses the main premise of why some men support Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "I'm sick of how progressives view my boys. Millions of men who voted for Trump apparently feel the same way.",
+      "reason": "This paragraph expresses a personal sentiment that aligns with the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nicole Russell is a columnist at USA TODAY and a mother of four who lives in Texas. Contact her at nrussell@gannett.com and follow her on X, formerly Twitter: @russell_nm. Sign up for her weekly newsletter, The Right Track, here.",
+      "reason": "This paragraph is an author bio and contact information, which is not relevant to the article's main argument.",
+      "label": 0
+    }
+  ]
+}

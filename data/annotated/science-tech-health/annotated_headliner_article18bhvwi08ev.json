@@ -1,0 +1,44 @@
+{
+  "headline": "Scientists make surprising discovery about the health impacts of drinking tea: 'Unrecognized potential'",
+  "context": [
+    "Great news for tea lovers — the brewing process can remove about 15% of lead from water, according to a new study.",
+    "CNN summarized the research, which looked at how brewing tea could naturally adsorb heavy metals such as lead, chromium, copper, and cadmium. Adsorption is when a solid material holds molecules of a gas, liquid, or dissolved substance as a thin film on its outside surface or within internal surfaces including crevices, the news site explained."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The team tested tea leaves and bags, finding that cellulose bags performed the best, while cotton and nylon bags barely absorbed any of the metals. However, the scientists noted that nylon bags are already problematic since they release microplastics.",
+      "reason": "This paragraph provides specific findings from the study about the effectiveness of different tea bags in absorbing metals.",
+      "label": 1
+    },
+    {
+      "paragraph": "The researchers also found that finely ground leaves, especially those of black tea, adsorbed more contaminants than whole leaves. All that said, the scientists discovered that the longer they steeped the tea, the better the metal absorption was, no matter the tea or bag type.",
+      "reason": "This paragraph offers additional details on the study's findings regarding tea leaf types and steeping time.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to the Environmental Protection Agency, lead in drinking water can cause a variety of negative health impacts in adults, including decreased kidney function and reproductive problems. Lead is even more impactful in children — low levels in the blood can cause problems such as slowed growth, hearing problems, and anemia, the agency reports. Pregnant women also are at high risk, including via premature births and reduced growth of fetuses.",
+      "reason": "This paragraph provides general background information on the health impacts of lead, not directly related to the study.",
+      "label": 0
+    },
+    {
+      "paragraph": "Unfortunately, heavy metals aren't the only dangerous contaminants in our drinking water. According to one study, more than 20% of the U.S. population may rely on groundwater with detectable levels of PFAS, or \"forever chemicals,\" before treatment. Another study in France found disturbing levels of microplastics in both bottle and tap water.",
+      "reason": "This paragraph discusses other contaminants in water, which is not directly related to the tea study.",
+      "label": 0
+    },
+    {
+      "paragraph": "As for the tea bag study, lead author Vinayak Dravid, the Abraham Harris Professor of Materials Science and Engineering at Northwestern University, told CNN that it is \"one of very few 'systematic' studies that provide rational control, meaningful statistics and 'nanotechnology'-level of sophistication brought to a seemingly mundane topic of tea brewing. So little is studied about its capture potential, over and beyond 'release.'\"",
+      "reason": "This paragraph includes a direct quote from the lead author about the significance and uniqueness of the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We're not suggesting that everyone starts using tea leaves as a water filter,\" he added in a statement from the university. \"… Our work highlights the unrecognized potential for tea consumption to passively contribute to reduced heavy metal exposure in populations worldwide.\"",
+      "reason": "The paragraph provides a direct quote from a researcher, highlighting the potential health benefits of tea consumption related to heavy metal exposure.",
+      "label": 1
+    },
+    {
+      "paragraph": "Join our free newsletter for weekly updates on the latest innovations improving our lives and shaping our future, and don't miss this cool list of easy ways to help yourself while helping the planet.",
+      "reason": "The paragraph is promotional content unrelated to the main topic of the article.",
+      "label": 0
+    }
+  ]
+}

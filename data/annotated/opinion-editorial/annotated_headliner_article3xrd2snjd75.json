@@ -1,0 +1,64 @@
+{
+  "headline": "The Art of a Second Iran Deal | Opinion - Newsweek",
+  "context": [
+    "President Donald Trump's first 100 days, which he celebrated this week with a characteristically electric campaign-style rally in Michigan, were the fastest and most frenzied 100 days in modern presidential history. And if Thursday's presidential personnel drama is any indication, the next 100 days could offer more of the same.",
+    "On Thursday, embattled Trump administration National Security Advisor Mike Waltz and Deputy National Security Advisor Alex Wong resigned their posts. Reading the not-so-subtle tea leaves out of Washington, one does not get the sense that these resignations were offered voluntarily. Frustration within the administration—and especially the Pentagon—with Waltz and his team grew following the March \"Signalgate\" controversy, in which a group chat organized by Waltz's office to discuss attack plans on Iran-backed Houthi jihadists in Yemen inadvertently included the Trump-skeptical editor-in-chief of The Atlantic, Jeffrey Goldberg. For a while, Waltz was able to maintain his perch despite vocal pushback. But his day has now come."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Or has it? In a shocking announcement just a few hours later on Thursday, Trump announced that Waltz—who, along with Secretary of Defense Pete Hegseth, was one of the leaked group chat's stronger voices advocating for U.S. military strikes on the Houthis—would instead be nominated for U.S. ambassador to the United Nations. Waltz, a highly decorated combat veteran who in 2018 became the first Army Special Forces soldier ever elected to Congress, was seemingly thus able to stay in Trump's good graces, despite Signalgate. If anything, U.S. ambassador to the UN is an arguably more prestigious—or, at minimum, equivalent—position than that of national security advisor. It seems, then, that Trump just wanted the air cleared in the office of the national security advisor, rather than intending to leave Waltz out to dry.",
+      "reason": "This paragraph provides new information about Waltz's nomination and its implications, which is relevant to the article's focus on U.S. foreign policy dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "In an equally shocking development, Trump also announced on Thursday that Secretary of State Marco Rubio, who has long held similarly hawkish views with respect to the terrorist Iranian regime, will temporarily also fill the role of national security advisor. In the hours after Waltz's national security advisor resignation, some had speculated that Middle East special envoy Steve Witkoff, a longtime Trump personal friend and foreign policy dilettante who seems to hold considerably more dovish views on Iran, might have been in the mix for the post. Clearly, such speculation did not materialize—at least for now. For the time being, Witkoff will have to settle for his role leading the administration's ongoing, high-stakes Iran nuclear negotiations overseas.",
+      "reason": "This paragraph provides relevant information about personnel changes and their potential impact on Iran negotiations, which is central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "That's a lot of executive branch personnel turmoil for a Thursday! What in the world is going on here?",
+      "reason": "This paragraph is a rhetorical question and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Truth is, it's difficult to tell. Waltz had his share of disputes with some Pentagon officials, so perhaps Trump simply thought it prudent to reassign him to New York City. Certainly, Waltz will serve his country well in Turtle Bay as he fights back against what former U.S. Ambassador to the UN Jeane Kirkpatrick memorably once called the institution's \"jackals.\" Regardless, it is notable that Rubio, a one-time Trump foe turned staunch ally who has never wavered on his disdain for Iran's mullahs, will temporarily serve multiple crucial foreign policy or national security roles at such a critical time. That Rubio is now serving as both secretary of state and interim national security advisor while Witkoff, a favorite of commentator Tucker Carlson and other isolationists, is nominally leading the nuclear negotiations with Iran evinces the at-times schizophrenic nature of the administration's foreign policy.",
+      "reason": "This paragraph provides analysis and context about the implications of personnel changes on U.S. foreign policy, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ultimately, when it comes to any potential second Iran nuclear deal, the principal is Trump himself. Advisors are important, but those advisors are ultimately only agents acting on behalf of the principal.",
+      "reason": "This paragraph provides a general conclusion about Trump's role, which is not directly informative about the specific developments discussed.",
+      "label": 0
+    },
+    {
+      "paragraph": "It is unclear what exactly the principal believes when it comes to the Iranian regime and its harrowing nuclear aspirations. On the one hand, Trump is the consummate real estate dealmaker—the literal former author of The Art of the Deal. And some of the recent things that Trump and Witkoff have said about Iran do seem to indicate that they care most about securing a deal with Iran—at least when the alternative scenario is (disingenuously) framed as a \"forever war.\" But on the other hand, Trump knows that Iran has, in the not-so-distant past, personally tried to kill him. That is no small deal. Trump, furthermore, is the same president who once took out top Islamic Revolutionary Guard Corps baddie Qasem Soleimani via drone strike. And he is the same president who ordered recent strikes on the Iran-backed Houthis in Yemen.",
+      "reason": "The paragraph provides context on Trump's past actions and perspectives regarding Iran, relevant to the topic of negotiating a second Iran deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "More than anything else, it is crucial that Trump and his nuclear negotiating team understand that a deal—any deal, just for the sake of a deal—is not the goal of this exercise. The goal is to ensure that Iran, the world's No. 1 state supporter of terrorism for nearly five decades running, does not acquire the most dangerous weapons known to man. The goal is to ensure that a regime that regularly chants \"death to America\" in its national legislature and directs its various regional proxies to murder Americans whenever they can does not acquire the means to hold the world hostage by risking nuclear Armageddon. Right now, Iran is largely a paper tiger. But that changes overnight if such a fanatical regime acquires nuclear weapons and the means to deliver them across continents.",
+      "reason": "The paragraph discusses the strategic goals of a potential Iran deal, directly related to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "A deal—a real deal, one with teeth and which earnestly verifies that Iran's nuclear facilities and nuclear capacities have been entirely dismantled—is one possible means to accomplish that goal. But there are other available means too—kinetic ones. And those alternative means of securing the desired end goal—that of a demonstrably, verifiably nonnuclear Iran—must not be written off yet. On the contrary, they must be carefully considered.",
+      "reason": "The paragraph explores alternative strategies to achieve a nonnuclear Iran, relevant to the discussion of a second Iran deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "In such situations, everyone—yes, everyone—prefers diplomacy to kinetic action. Maybe there is an acceptable deal to be had with Iran. But it is entirely possible, perhaps likely, that there is not such a deal to be had. Let's see that dealmaking prowess, Mr. President. But let's also not commit the cardinal logical fallacy of confusing means and ends—especially when the stakes are so high.",
+      "reason": "The paragraph emphasizes the importance of diplomacy and the challenges of securing a deal, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Josh Hammer is Newsweek senior editor-at-large, host of \"The Josh Hammer Show,\" senior counsel for the Article III Project, a research fellow with the Edmund Burke Foundation, and author of the new book, Israel and Civilization: The Fate of the Jewish Nation and the Destiny of the West (Radius Book Group). Subscribe to \"The Josh Hammer Report,\" a Newsweek newsletter. X: @josh_hammer.",
+      "reason": "This paragraph is author information and promotional content, not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The views expressed in this article are the writer's own.",
+      "reason": "This is a standard disclaimer and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

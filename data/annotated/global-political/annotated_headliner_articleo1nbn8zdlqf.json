@@ -1,0 +1,34 @@
+{
+  "headline": "Trump to rename Veterans Day as ‘Victory Day for World War I’ - POLITICO",
+  "context": [
+    "President Donald Trump said Thursday the United States is \"going to start celebrating our victories again!” | Anna Moneymaker/Getty Images",
+    "President Donald Trump on Thursday announced he would rename Veterans Day as “Victory Day for World War I” in an attempt to purportedly celebrate U.S. military victories."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In a late-night Truth Social post, Trump wrote that the move was needed to honor the unique U.S. sacrifices in both World Wars. Trump also announced he would rename Victory in Europe Day, which is commemorated on May 8, to “Victory in World War II Day” to recognize that “we did more than any other Country, by far, in producing a victorious result on World War II.”",
+      "reason": "This paragraph provides specific details about Trump's announcement and his reasoning behind the renaming of the holidays.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We won both Wars, nobody was close to us in terms of strength, bravery, or military brilliance, but we never celebrate anything,” Trump wrote. “That’s because we don’t have leaders anymore, that know how to do so! We are going to start celebrating our victories again!”",
+      "reason": "This paragraph includes a direct quote from Trump, providing insight into his perspective and rationale.",
+      "label": 1
+    },
+    {
+      "paragraph": "The move to rename Veterans Day is surprising. The holiday was originally established in the aftermath of World War I as Armistice Day to honor American veterans who served in the bloody conflict. In the 1950s, the holiday was broadened to honor all American veterans, including those who served in World War II and the Korean War. Veterans Day was made a federal holiday in 1968 and current commemorations honor U.S. servicemembers from the Vietnam War, Gulf War and the wars in Afghanistan and Iraq, among other U.S. military operations.",
+      "reason": "This paragraph provides historical context about Veterans Day, which is relevant to understanding the significance of Trump's proposed change.",
+      "label": 1
+    },
+    {
+      "paragraph": "May 8 does correspond with the end of fighting against Nazi Germany. But the U.S. continued fighting against Japan until September 1945, after Japan surrendered in the wake of the United States dropping two atomic bombs on the Japanese cities of Hiroshima and Nagasaki. Unlike Veterans Day, Victory in Europe Day is not a federal holiday.",
+      "reason": "This paragraph provides context about Victory in Europe Day and its historical significance, relevant to Trump's proposed renaming.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump’s claim that the U.S. did more to secure victory in World War II may face sharp resistance from Russia, which has long emphasized heavy Soviet military casualties suffered during what is remembered as the “Great Patriotic War.” Almost 9 million Soviet troops and 19 million Soviet civilians were killed while fighting off Nazi Germany’s military campaigns on the European war’s eastern front. The United Kingdom also weathered considerable damage from German bombing raids.",
+      "reason": "This paragraph provides potential international reactions to Trump's claims, adding depth to the implications of his announcement.",
+      "label": 1
+    }
+  ]
+}

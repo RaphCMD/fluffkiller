@@ -280,13 +280,9 @@ async function detectFluffParagraphs() {
   });
 
   const paragraphResults = [];
-  const headlineEmbedding = await model(headline, {
-    pooling: "mean",
-    normalize: true,
-  });
 
   for (const paragraph of articleParagraphs) {
-    const output = await model(paragraph);
+    const output = await model({ text: headline, text_pair: paragraph });
     if (!output || !Array.isArray(output) || output.length === 0) continue;
 
     const result = output[0];

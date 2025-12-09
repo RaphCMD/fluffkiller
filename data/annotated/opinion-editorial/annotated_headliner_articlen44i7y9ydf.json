@@ -1,0 +1,184 @@
+{
+  "headline": "Editorial: Anthony Albanese must be punished for a poor three years | The Nightly",
+  "context": [
+    "Voters can be forgiven for thinking this election is all a bit of a waste of time. One mob is just as bad as the other; Anthony Albanese is a bit of a goose and Peter Dutton gives off thug vibes.",
+    "Both are multimillionaires and each of them is out of touch with the struggles of families in the suburbs. Neither of them really gets Western Australia, they don’t understand business, and certainly have no idea how young people think."
+  ],
+  "annotations": [
+    {
+      "paragraph": "These guys — and their mates — are in it for themselves.",
+      "reason": "This paragraph is a vague generalization and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Sign up to The Nightly's newsletters.",
+      "reason": "This is a promotional statement unrelated to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Get the first look at the digital newspaper, curated daily stories and breaking headlines delivered to your inbox.",
+      "reason": "This is a promotional statement unrelated to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "By continuing you agree to our Terms and Privacy Policy.",
+      "reason": "This is a legal disclaimer unrelated to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "They don’t really care about us, so why should we care about them.",
+      "reason": "This is a vague generalization and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Once a great day to celebrate and come together as a nation, election day is now a burden.",
+      "reason": "This paragraph is a general statement about election day and does not directly relate to the headline about Anthony Albanese.",
+      "label": 0
+    },
+    {
+      "paragraph": "The narrative, promulgated throughout the nation by the lazy and the louche in the media and in broader public life, is a cop out.",
+      "reason": "This paragraph criticizes the media narrative but does not directly address Anthony Albanese's performance.",
+      "label": 0
+    },
+    {
+      "paragraph": "It’s an excuse adopted by far too many Australians and it allows our politicians to get away with the mediocrity they are serving up day in day out.",
+      "reason": "This paragraph discusses general political mediocrity without specific reference to Anthony Albanese.",
+      "label": 0
+    },
+    {
+      "paragraph": "If we want our political class to be better, we must demand more of them. Actively.",
+      "reason": "This paragraph is a call to action for voters and does not provide specific commentary on Anthony Albanese.",
+      "label": 0
+    },
+    {
+      "paragraph": "If we want to be bored and have the wool pulled over our eyes, if we want average people doing average stuff, then carry on.",
+      "reason": "This paragraph is a general statement about political engagement and does not directly relate to Anthony Albanese.",
+      "label": 0
+    },
+    {
+      "paragraph": "If we want word games and scare campaigns, then carry on.",
+      "reason": "This paragraph is a vague generalization and does not contribute new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "If we are happy to listen to lies then we can’t complain when we elect liars.",
+      "reason": "This paragraph is a moralizing statement and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "But in order to effect change, voters cannot accept that that lot are just as bad as the other mob and so we wave you through for another term in power.",
+      "reason": "This paragraph discusses the need for change and voter responsibility, which is relevant to the editorial's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "If we are being asked to decide who should govern Australia for the next three years — who should draw up the budgets and manage our economy, who should control the borders and run our immigration policy, who should head to Washington and negotiate with Donald Trump, who should oversee the defence of our nation and who should decide how the highest tax take in history should be spent — based on the past five weeks, the official election campaign, then it would be a straightforward proposition.",
+      "reason": "This paragraph outlines the responsibilities of the government, which is relevant to the discussion of leadership and governance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unfortunately too many Australians are not paying attention to the detail, choosing instead to rely on the vibe. And the vibe over the past month has been Albanese good enough, Dutton a shambles.",
+      "reason": "This paragraph provides commentary on public perception, which is relevant to the editorial's critique of Albanese.",
+      "label": 1
+    },
+    {
+      "paragraph": "The reality is, the past three years of the Albanese Government has been dreadful. It’s almost as though it has been so bad for so long that we are suffering an extended outbreak of repressed memory.",
+      "reason": "This paragraph provides a direct critique of the Albanese Government's performance over the past three years.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Voice. (Oh yeah, forgot about that.) Your power bills through the roof. (Shit that’s right.) Your spending power shot to pieces. (Hang on hasn’t it always been this bad) Your local businesses up against the wall. (It’s always tough). Your mortgage payments careering out of control. (Come on interest rates were much higher in the 1990s).",
+      "reason": "This paragraph lists specific issues attributed to the Albanese Government, contributing to the article's critique.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s trite but as a nation we have been gaslit by the Albanese Government on so many levels.",
+      "reason": "This paragraph accuses the government of misleading the public, supporting the article's critical stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "They have created the economic conditions — surging power bills, a diabolical crash in the standard of living for every household only to turn around and claim to be delivering the relief to the crisis of their own making.",
+      "reason": "This paragraph provides specific accusations against the government regarding economic conditions.",
+      "label": 1
+    },
+    {
+      "paragraph": "We ramped your power prices. But we are giving you a rebate to cover a fraction. And we won’t tell you how in the medium term any of this will be different when the money runs out to give you a tickly little top up.",
+      "reason": "This paragraph criticizes the government's handling of power prices and rebates, relevant to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Coalition have failed over the past 5 weeks of the election campaign to successful make the case of how and why the Albanese Government has failed the previous three years.",
+      "reason": "This paragraph provides context on the Coalition's failure to highlight the Albanese Government's shortcomings.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s not an insignificant thing. If you can’t run a good campaign, can you run a good government.",
+      "reason": "This paragraph raises a rhetorical question but does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "It’s a legitimate question, and ultimately it is why the polls are showing the Albanese government, rather than being punished for their poor record, will be rewarded for their exceptional, and exceptionally misleading, campaign.",
+      "reason": "This paragraph provides insight into the current polling situation and the effectiveness of the Albanese government's campaign.",
+      "label": 1
+    },
+    {
+      "paragraph": "The truth is the Labor Party are expert at manipulating the left-leaning media, skewing the narrative and turning student politics games into our reality.",
+      "reason": "This paragraph offers commentary on the Labor Party's media strategy.",
+      "label": 1
+    },
+    {
+      "paragraph": "They have expertly exploited an Australian electorate disengaged in politics.",
+      "reason": "This paragraph comments on the electorate's disengagement and the Labor Party's exploitation of it.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr Albanese has talked a lot about Peter Dutton adopting US-style policies, when in fact it is Labor who have imported the very worst of American politics — campaign lies and misinformation. The list in this campaign is long and ludicrous.",
+      "reason": "This paragraph provides specific criticism of Anthony Albanese's campaign tactics, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rewarding that behaviour would unleash the beast in subsequent elections in Australia.",
+      "reason": "This paragraph offers a generalization about the consequences of rewarding certain political behaviors, which is not directly relevant to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Blatant rubbish coming out of the mouths of the Prime Minister, the Treasurer and others should be punished at the polls, not encouraged.",
+      "reason": "This paragraph directly calls for punishment at the polls, aligning with the headline's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Substance has given way to spin and we will all pay the price over time.",
+      "reason": "This paragraph provides a vague generalization about political spin, which does not directly contribute to the headline's focus.",
+      "label": 0
+    },
+    {
+      "paragraph": "In WA, we backed Mr Albanese in during the 2022 campaign, in large part because Mark McGowan reassured us that it was the right thing to do, and also because Scott Morrison, despite delivering the GST deal for our state, had let us down and we couldn’t forgive him for it.",
+      "reason": "This paragraph provides context about past support for Albanese, which is relevant to evaluating his performance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr Albanese insisted that our status as the economic engine-room of the nation would not be undermined — he would protect the industries and the jobs that are so important to the lifestyle we enjoy in this great state of ours.",
+      "reason": "This paragraph provides direct commentary on Albanese's promises regarding economic protection, relevant to the editorial's critique.",
+      "label": 1
+    },
+    {
+      "paragraph": "And then he unleashed a Minister who secretly worked away on outrageous environmental laws never mentioned before the election and was only stopped through the exceptional journalism from The West Australian journalists and our sister national publication The Nightly.",
+      "reason": "This paragraph offers narrative progression about Albanese's actions and the role of journalism, relevant to the editorial's critique.",
+      "label": 1
+    },
+    {
+      "paragraph": "He also told WA that industrial relations reforms would not impact key businesses in our state before militant unions used those very unscripted changes to march back into the Pilbara to cause unnecessary and unwanted upheaval.",
+      "reason": "This paragraph provides specific examples of Albanese's actions affecting industrial relations, relevant to the editorial's critique.",
+      "label": 1
+    },
+    {
+      "paragraph": "We have been fortunate here that the breakdown in social cohesion, and the rise in racism and anti-Semitism under Mr Albanese’s watch has not been as rampant as elsewhere. But it is shocking and shameful and raises questions about our national character.",
+      "reason": "This paragraph discusses social issues under Albanese's leadership, relevant to the editorial's critique.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Opposition have been disappointing during this campaign, but when we vote on Saturday it’s a judgment on the past three years of compounding failure. And Anthony Albanese should be punished for it.",
+      "reason": "This paragraph summarizes the editorial's main argument about punishing Albanese for his leadership.",
+      "label": 1
+    }
+  ]
+}

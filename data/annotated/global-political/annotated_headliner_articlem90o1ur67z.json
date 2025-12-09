@@ -1,0 +1,44 @@
+{
+  "headline": "Demand for electric cars is booming, with sales expected to leap 35% this year after a record-breaking 2022 - News - IEA",
+  "context": [
+    "Global sales of electric cars are set to surge to yet another record this year, expanding their share of the overall car market to close to one-fifth and leading a major transformation of the auto industry that has implications for the energy sector, especially oil.",
+    "The new edition of the IEA’s annual Global Electric Vehicle Outlook shows that more than 10 million electric cars were sold worldwide in 2022 and that sales are expected to grow by another 35% this year to reach 14 million. This explosive growth means electric cars’ share of the overall car market has risen from around 4% in 2020 to 14% in 2022 and is set to increase further to 18% this year, based on the latest IEA projections."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Electric vehicles are one of the driving forces in the new global energy economy that is rapidly emerging – and they are bringing about a historic transformation of the car manufacturing industry worldwide,” said IEA Executive Director Fatih Birol. “The trends we are witnessing have significant implications for global oil demand. The internal combustion engine has gone unrivalled for over a century, but electric vehicles are changing the status quo. By 2030, they will avoid the need for at least 5 million barrels a day of oil. Cars are just the first wave: electric buses and trucks will follow soon.”",
+      "reason": "This paragraph provides direct commentary from the IEA Executive Director on the impact of electric vehicles on the global energy economy and oil demand.",
+      "label": 1
+    },
+    {
+      "paragraph": "The overwhelming majority of electric car sales to date are mainly concentrated in three markets – China, Europe and the United States. China is the frontrunner, with 60% of global electric car sales taking place there in 2022. Today, more than half of all electric cars on the road worldwide are in China. Europe and the United States, the second and third largest markets, both saw strong growth with sales increasing 15% and 55% respectively in 2022.",
+      "reason": "This paragraph provides specific data on the concentration of electric car sales in major markets, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ambitious policy programmes in major economies, such as the Fit for 55 package in the European Union and the Inflation Reduction Act in the United States, are expected to further increase market share for electric vehicles this decade and beyond. By 2030, the average share of electric cars in total sales across China, the EU and the United States is set to rise to around 60%.",
+      "reason": "This paragraph discusses policy impacts on electric vehicle market share, directly relating to the growth mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The encouraging trends are also having positive knock-on effects for battery production and supply chains. The new report highlights that announced battery manufacturing projects would be more than enough to meet demand for electric vehicles to 2030 in the IEA’s Net Zero Emissions by 2050 Scenario. However, manufacturing remains highly concentrated, with China dominating the battery and component trade – and increasing its share of global electric car exports to more than 35% last year.",
+      "reason": "This paragraph provides context on battery production and supply chains, which are crucial for supporting the growth of electric vehicles.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other economies have announced policies to foster domestic industries that will improve their competitiveness in the EV market in years to come. The EU’s Net Zero Industry Act aims for nearly 90% of annual battery demand to be met by domestic battery manufacturers. Similarly, the US Inflation Reduction Act places emphasis on strengthening domestic supply chains for EVs, batteries and minerals. Between August 2022, when the Inflation Reduction Act was passed, and March 2023, major EV and battery makers announced investments totalling at least USD 52 billion in EV supply chains in North America.",
+      "reason": "This paragraph provides information on policy measures and investments aimed at enhancing domestic EV supply chains, relevant to the growth of the electric vehicle market.",
+      "label": 1
+    },
+    {
+      "paragraph": "Despite a concentration of electric car sales and manufacturing in only a few big markets, there are promising signs in other regions. Electric car sales more than tripled in India and Indonesia last year, albeit from a low base, and they more than doubled in Thailand. The share of electric cars in total sales rose to 3% in Thailand, and to 1.5% in India and Indonesia. A combination of effective policies and private sector investment is likely to increase these shares in the future. In India, the government’s USD 3.2 billion incentive programme, which has attracted investments worth USD 8.3 billion, is expected to increasing battery manufacturing and EV rollout substantially in the coming years.",
+      "reason": "Provides specific data and projections on electric car sales growth in emerging markets, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "In emerging and developing economies, the most dynamic area of electric mobility is two- or three-wheel vehicles, which outnumber cars. For example, over half of India’s three-wheeler registrations in 2022 were electric, demonstrating their growing popularity. In many developing economies, two- or three-wheelers offer an affordable way to get access to mobility, meaning their electrification is important to support sustainable development.",
+      "reason": "Focuses on two- or three-wheel vehicles rather than electric cars, which is tangential to the headline.",
+      "label": 0
+    }
+  ]
+}

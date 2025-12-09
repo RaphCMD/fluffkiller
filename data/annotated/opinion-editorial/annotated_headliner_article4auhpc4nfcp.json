@@ -1,0 +1,49 @@
+{
+  "headline": "Opinion | Pam Bondi is wrong to rescind DOJ guidance on pursuing reporter files - The Washington Post",
+  "context": [
+    "Attorney General Pam Bondi fired a warning shot at the free press last week, on the eve of the White House Correspondents’ Association dinner, by rescinding Justice Department regulations that limited the government’s ability to seek phone or email records and compel testimony from journalists. Most chillingly, Bondi’s new guidelines allow investigators to go after members of the media who obtain “privileged and other sensitive information,” not just classified material, “that undermine President [Donald] Trump’s policies.”",
+    "Bondi is canceling a thoughtful policy that Attorney General Merrick Garland formulated in 2021 to address overreach not only by the first Trump administration, which carried into Joe Biden’s term, but also by President Barack Obama. Garland’s policy included exceptions for activities not related to newsgathering. And his rules did not apply in cases of “an imminent or concrete risk of death or serious bodily harm.”"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Last year, the House of Representatives unanimously passed the Press Act (Protect Reporters from Exploitative State Spying Act), which effectively would have codified Garland’s regulations. It had the votes to pass the Senate, but it was doomed during the lame-duck session when Trump, after winning the November election, called on Republicans to kill the bill.",
+      "reason": "This paragraph provides relevant context about legislative efforts related to the DOJ guidance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The effort had bipartisan support because both parties have an interest in exposing wrongdoing inside government, especially when they are in the opposition. A lasting stain on Obama’s presidential legacy is his administration’s ruthless pursuit of journalists’ records, including seizing Associated Press phone records in 2013 and conducting electronic surveillance of a Fox News journalist. The Obama administration also brought more leak prosecutions than all previous administrations combined.",
+      "reason": "This paragraph provides historical context on government actions against journalists, relevant to the discussion of DOJ guidance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Notably, Bondi focused her memo on federal employees who “intentionally” leak sensitive information to the media. Perhaps this wording is meant to protect Defense Secretary Pete Hegseth and others who put information they shouldn’t have in a Signal group chat that unwittingly included a magazine editor. Of course, other top administration officials have also been careless in their handling of classified material. Trump himself was indicted on charges of storing top-secret files in nonsecure settings at Mar-a-Lago and obstructing government efforts to retrieve the material. This case was dismissed after he won the election.",
+      "reason": "This paragraph discusses Bondi's memo and its implications, directly related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the president has long been fixated on hunting leakers who make him look bad. During his first term, the Justice Department secretly obtained the phone records of three Post journalists and tried unsuccessfully to obtain records of people they had been emailing. Recently, at Director Kash Patel’s direction, the FBI has begun administering polygraph tests to search for sources. So has the Department of Homeland Security and even the Federal Emergency Management Agency.",
+      "reason": "This paragraph provides relevant information on the administration's actions against leakers, related to the DOJ guidance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bondi’s memo alleges that an April 17 article in The Post included classified information. This scoop, by reporters John Hudson and Warren P. Strobel, revealed that the U.S. intelligence community determined that the Venezuelan government was not directing an invasion of the United States by the criminal gang Tren de Aragua. This contradicts Trump’s public statement and undermines his legal rationale for deporting suspected gang members without due process under the Alien Enemies Act of 1798.",
+      "reason": "This paragraph provides specific details about an article targeted by Bondi's memo, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bondi acknowledges that “a free and independent press is vital to the functioning of our democracy.” She promises that her department will continue to limit the use of subpoenas — by considering whether the government has made reasonable attempts to obtain the information it wants elsewhere and has pursued negotiations. Bondi also says she must personally “approve efforts to question or arrest members of the news media.” Importantly, obtaining a subpoena for records will also continue to require showing a judge that there is probable cause to think a crime has been committed. (Leaking negative information about the government is not necessarily against the law.)",
+      "reason": "This paragraph provides Bondi's perspective and details on how the new guidelines will be implemented, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Saturday is World Press Freedom Day — an annual reminder to governments of their duty under the United Nations’ Universal Declaration of Human Rights to respect and uphold free expression. Lamentably, this year, the U.S. government is among the countries that need reminding. The First Amendment remains the global standard for protecting freedom to report the truth. Meddling in this pursuit threatens the independent press essential to democratic government.",
+      "reason": "This paragraph is a general commentary on press freedom and does not provide new information specific to Bondi's actions.",
+      "label": 0
+    },
+    {
+      "paragraph": "This newspaper routinely relies on confidential sources to bring readers important stories. The Post offers several ways for people to securely send our journalists information and documents. Regardless of the government’s posture, keeping sources’ identities confidential will always be a top priority — under Trump and every president who follows him.",
+      "reason": "This paragraph discusses The Post's practices and priorities, which is not directly related to Bondi's actions.",
+      "label": 0
+    }
+  ]
+}

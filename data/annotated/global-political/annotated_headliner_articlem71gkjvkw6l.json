@@ -1,0 +1,304 @@
+{
+  "headline": "Kremlin told U.S. it didn't want Trump's Ukraine-Russia envoy at peace talks",
+  "context": [
+    "EXCLUSIVE",
+    "Keith Kellogg “is a former American general, too close to Ukraine. Not our kind of person, not of the caliber we are looking for,” a Russian official told NBC News."
+  ],
+  "annotations": [
+    {
+      "paragraph": "0 seconds of 1 minute, 44 secondsVolume 0%",
+      "reason": "This is a technical instruction for video playback and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Press shift question mark to access a list of keyboard shortcuts",
+      "reason": "This is a technical instruction for accessing keyboard shortcuts and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Play/PauseSPACE",
+      "reason": "This is a technical instruction for video playback and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Increase Volume↑",
+      "reason": "This is a technical instruction for adjusting volume and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Decrease Volume↓",
+      "reason": "This is a technical instruction for adjusting volume and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Seek Forward→",
+      "reason": "This is a navigation instruction, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Seek Backward←",
+      "reason": "This is a navigation instruction, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Captions On/Offc",
+      "reason": "This is a navigation instruction, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fullscreen/Exit Fullscreenf",
+      "reason": "This is a navigation instruction, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mute/Unmutem",
+      "reason": "This is a navigation instruction, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Decrease Caption Size-",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Increase Caption Size+ or =",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Seek %0-9",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "00:00",
+      "reason": "This is a timestamp unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "01:44",
+      "reason": "This is a timestamp unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "01:44",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "01:44",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Get more newsLiveon",
+      "reason": "This is a promotional line and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "March 13, 2025, 1:55 PM EDT",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "President Donald Trump’s special envoy for Ukraine and Russia was excluded from high-level talks on ending the war after the Kremlin said it didn't want him there, a U.S. administration official and a Russian official told NBC News.",
+      "reason": "This paragraph provides essential information about the exclusion of Trump's envoy from peace talks, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Retired Lt. Gen. Keith Kellogg was conspicuously absent from two recent summits in Saudi Arabia — one with Russian officials and the other with Ukrainians — even though the talks come under his remit.",
+      "reason": "This paragraph provides context about Kellogg's absence from important summits, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Together,” Trump said in announcing Kellogg’s nomination in November, “we will secure PEACE THROUGH STRENGTH.”",
+      "reason": "This paragraph is a general statement from Trump that does not add new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "But Kellogg did not attend U.S.-Russia talks in Riyadh, the Saudi capital, on Feb. 18. Russian President Vladimir Putin thought he was too pro-Ukraine, a senior Russian official with direct knowledge of the Kremlin’s thinking told NBC News.",
+      "reason": "This paragraph provides specific information about Kellogg's absence and the Kremlin's reasoning, which is central to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Kellogg is a former American general, too close to Ukraine. Not our kind of person, not of the caliber we are looking for,” according to the official, who is not authorized to speak publicly on the matter.",
+      "reason": "This paragraph includes a direct quote from a Russian official explaining why Kellogg was not wanted, which is relevant to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "A U.S. official in the Trump administration, who is also not authorized to speak publicly, confirmed that Russia did not want Kellogg involved. The official did not know when that was communicated to the White House.",
+      "reason": "This paragraph confirms the Kremlin's stance and adds information about the communication timeline, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Where this leaves Kellogg is unclear.",
+      "reason": "This paragraph is vague and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Kellogg's office did not respond to requests for comment on why he has not been involved in the negotiations and whether Russia had requested that he not attend.",
+      "reason": "This paragraph provides relevant information about the lack of response from Kellogg's office.",
+      "label": 1
+    },
+    {
+      "paragraph": "National Security Council spokesman James Hewitt said Trump had “utilized the talents of multiple senior administration officials to assist in the bringing the war in Ukraine to a peaceful resolution.” He added that Kellogg remained “a valued part of the team, especially as it relates to talks with our European allies.”",
+      "reason": "This paragraph provides relevant commentary from a National Security Council spokesman about Kellogg's role.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kellogg, 80, is a staunch Trump loyalist who served in various roles in Trump’s first term, including a stint as Vice President Mike Pence’s national security adviser.",
+      "reason": "This paragraph provides background information on Kellogg's political alignment and past roles.",
+      "label": 1
+    },
+    {
+      "paragraph": "Before he was confirmed as Trump’s envoy for Russia-Ukraine peace in January, he wrote about what he called the Biden administration’s “incompetent” foreign policies.",
+      "reason": "This paragraph provides context on Kellogg's views and actions prior to his confirmation.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a paper for the America First Policy Institute, which was founded to promote Trump’s policies, he suggested that to end the war the United States should arm Ukraine and strengthen its defenses, thus ensuring that “Russia will make no further advances and will not attack again after a cease-fire or peace agreement.”",
+      "reason": "This paragraph provides context on Kellogg's stance on the Ukraine-Russia conflict, relevant to his role as a potential envoy.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Future American military aid, however, will require Ukraine to participate in peace talks with Russia,” Kellogg and his co-author, Fred Fleit, wrote.",
+      "reason": "This paragraph offers insight into Kellogg's conditions for military aid, relevant to peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "During his presidential campaign, Trump said that it was a top priority to end the war, which started in February 2022 when Russia launched a full-scale invasion of its smaller neighbor, and that he would halt hostilities “24 hours” after taking office.",
+      "reason": "This paragraph provides context on Trump's stance on the Ukraine-Russia conflict, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "The war has raged on after Trump became president for a second time, with Russia making slow progress on the battlefield in Ukraine and pressing Ukrainian forces that had taken a sliver of Russian territory across the border in Kursk.",
+      "reason": "This paragraph provides narrative progression on the ongoing conflict, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Feb. 11, Trump’s special envoy to the Middle East, Steve Witkoff, went to Moscow and spent 3½ hours with Putin.",
+      "reason": "This paragraph is a tangential detail about a different envoy and not directly related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "There is no official account of their meeting. Witkoff had traveled to Russia to help secure the release of Marc Fogel, an American teacher held for 3½ years for a minor medical cannabis infraction.",
+      "reason": "This paragraph provides background on Witkoff's visit to Russia, which is not directly related to the main premise about the envoy at peace talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "In a CBS News interview, Witkoff, a New York real estate developer and a friend of Trump’s, called his hourslong meeting with Putin a “trust building” assignment from Trump. He said that he was the only U.S. official present at the meeting and that he carried a message for Putin from Trump. Witkoff also said Putin “had something for me to transmit back to the president” but did not say what it was.",
+      "reason": "This paragraph provides relevant details about Witkoff's role and the nature of his meeting with Putin, which is related to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The following day, Trump wrote on Truth Social that he had spoken with Putin and that they had “agreed to have our respective teams start negotiations immediately.”",
+      "reason": "This paragraph is relevant as it provides information on the outcome of the meeting and the initiation of negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We agreed to work together, very closely, including visiting each other’s Nations,” he added.",
+      "reason": "This paragraph adds relevant information about the nature of the agreement between Trump and Putin.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kremlin spokesperson Dmitry Peskov later said that during the 90-minute call, Putin “expressed readiness to receive American officials in Russia regarding areas of mutual interest, including, of course, the topic of Ukrainian settlement.”",
+      "reason": "This paragraph is relevant as it provides official commentary from the Kremlin on the discussions related to Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Feb. 13, Trump announced a list of diplomats who would attend the talks with Russia. Witkoff, CIA Director John Ratcliffe and national security adviser Michael Waltz were on the team led by Secretary of State Marco Rubio",
+      "reason": "This paragraph provides essential context about the U.S. delegation to the talks, which is directly related to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kellogg was not on the list. A second U.S. official told NBC News at the time that the decision stung him.",
+      "reason": "This paragraph provides relevant information about Kellogg's exclusion and his reaction, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "A representative for Witkoff would not comment when NBC News asked whether his boss discussed Kellogg’s exclusion with Putin.",
+      "reason": "This paragraph is relevant as it addresses potential discussions about Kellogg's exclusion, which is part of the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Asked last week whether Russian officials had requested that Kellogg not be included in the high-level talks, Russian Foreign Affairs Ministry spokeswoman Maria Zakharova said that it was up to American leaders to “fix their delegation” and that Russia’s diplomats had “great experience of dealing with different envoys.”",
+      "reason": "This paragraph provides direct commentary from a Russian official, contributing to the narrative about Kellogg's exclusion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Andrei Fedorov, a former deputy foreign minister who maintains close ties with the Kremlin, went further, telling NBC News that Kellogg was “not the person with whom Russia will negotiate with” because his position on the talks was to freeze the front line in Ukraine.",
+      "reason": "This paragraph offers a direct quote from a knowledgeable source, adding depth to the reasons behind Kellogg's exclusion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia wants Kyiv’s forces to withdraw from Ukrainian regions where there is still fighting, including the southern Kherson and Zaporizhzhia administrative regions, known as oblasts, Fedorov, said.",
+      "reason": "Provides specific demands from Russia related to the conflict, relevant to peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia illegally annexed the regions, along with Donetsk and Luhansk, in September 2022.",
+      "reason": "Offers essential context about the regions involved in the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "Little was said about the war in Ukraine after Rubio and his team met with Russian officials in Riyadh on Feb. 18, although Rubio did announce that the countries had agreed to restore embassy staffing.",
+      "reason": "Mentions diplomatic developments but lacks direct relevance to the envoy issue.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump has since played hardball with Ukrainian President Volodymyr Zelenskyy, with relations reaching a low point after their extraordinary Oval Office spat on Feb. 28. The United States subsequently paused intelligence sharing and providing security assistance to Ukraine.",
+      "reason": "Describes U.S.-Ukraine relations, relevant to the broader context of peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "The pause was lifted Tuesday after a Ukrainian delegation agreed to a proposal for a 30-day interim ceasefire at a meeting in Saudi Arabia with Rubio and his team",
+      "reason": "Details a significant development in the peace process, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kellogg was not present.",
+      "reason": "This confirms the absence of Kellogg, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Thursday, Trump dispatched Witkoff to Russia again.",
+      "reason": "This provides narrative progression about the U.S. response to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Shortly after he arrived, Putin said at a news conference that he agreed “with the proposals to stop the hostilities” but that there were issues that needed to be discussed. He added that he may need to “have a phone call with Trump.”",
+      "reason": "This offers direct commentary from Putin, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keir Simmons is chief international correspondent for NBC News, based in Dubai.",
+      "reason": "This is background information about a journalist, not relevant to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Courtney Kube is a correspondent covering national security and the military for the NBC News Investigative Unit.",
+      "reason": "This is background information about a journalist, not relevant to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Natasha Lebedeva is NBC's Senior Director for International Affairs, based in Washington.",
+      "reason": "This is a biographical note about an NBC staff member, not related to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Peter Alexander is chief White House correspondent for NBC News.",
+      "reason": "This is a biographical note about an NBC staff member, not related to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "contributed",
+      "reason": "This is an incomplete sentence and does not provide any information related to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": ".",
+      "reason": "This is a punctuation mark and does not provide any information.",
+      "label": 0
+    }
+  ]
+}

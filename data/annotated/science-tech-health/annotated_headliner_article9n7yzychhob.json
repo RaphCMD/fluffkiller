@@ -1,0 +1,79 @@
+{
+  "headline": "Over 1,900 researchers describe 'assault' on science by White House: 'We see real danger' - ABC News",
+  "context": [
+    "Nearly 2,000 scientists, engineers and researchers penned an open letter this week to President Donald Trump's administration, calling for a stop to its \"assault\" on science.",
+    "The letter was signed by elected members of the National Academies of Sciences, Engineering and Medicine, a congressional chartered organization that provides independent analysis and helps inform public policy decisions."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The group made clear the signatories are expressing their own views and not those of the National Academies or their home institutions.",
+      "reason": "This paragraph provides context about the independence of the signatories' views.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We are speaking out as individuals. We see real danger in this moment,\" the letter said, in part. \"We hold diverse political beliefs, but we are united as researchers in wanting to protect independent scientific inquiry. We are sending this SOS to sound a clear warning: the nation's scientific enterprise is being decimated.\"",
+      "reason": "This paragraph contains direct quotes from the letter, highlighting the urgency and unity among researchers.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We call on the administration to cease its wholesale assault on U.S. science, and we urge the public to join this call,\" the letter continued.",
+      "reason": "This paragraph includes a direct call to action from the letter, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "President Donald Trump walks from the Oval Office to board Marine One on the South Lawn of the White House en route to Florida, March 28, 2025, in Washington.",
+      "reason": "This is an image caption unrelated to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mark Schiefelbein/AP",
+      "reason": "This is a photo credit and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The group called out the Trump administration for actions including the ending funding for research, firing scientists and removing public access to data.",
+      "reason": "This paragraph provides specific actions taken by the Trump administration that are relevant to the scientists' claims.",
+      "label": 1
+    },
+    {
+      "paragraph": "Recently, several active research grants related to studies involving LGBTQ+ issues, as well as gender identity and diversity, equity and inclusion, were canceled at the National Institutes of Health. According to termination letters sent to researchers at various universities that were reviewed by ABC News, the projects were canceled because they did not serve the \"priorities\" of the current administration.",
+      "reason": "This paragraph provides specific examples of research funding being cut, which supports the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Additionally, earlier this year staff were laid off across the Department of Health and Human Services as part of Elon Musk's Department of Government Efficiency effort to shrink the size of the federal government.",
+      "reason": "This paragraph is not directly related to the assault on science but rather a general government efficiency effort.",
+      "label": 0
+    },
+    {
+      "paragraph": "Earlier this month, HHS also appeared to have taken down a webpage from the Office of the Surgeon General that included an advisory on gun violence. In a statement to ABC News, the HHS said that the department \"and the Office of the Surgeon General are complying with President Trump's Executive Order on Protecting Second Amendment Rights.\"",
+      "reason": "This paragraph provides an example of information removal, which is relevant to the article's theme of restricting access to scientific data.",
+      "label": 1
+    },
+    {
+      "paragraph": "The White House did not immediately respond to ABC News' request for comment on the letter.",
+      "reason": "This paragraph provides information on the White House's lack of response, which is relevant to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"If our country's research enterprise is dismantled, we will lose our scientific edge,\" the letter goes on. \"Other countries will lead the development of novel disease treatments, clean energy sources, and the new technologies of the future. Their populations will be healthier, and their economies will surpass us in business, defense, intelligence gathering, and monitoring our planet's health. The damage to our nation's scientific enterprise could take decades to reverse.\"",
+      "reason": "The paragraph provides direct quotes from the letter, highlighting the potential consequences of the administration's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The letter comes as layoffs begin at HHS, including at the National Institutes of Health, the Centers for Disease Control and Prevention, and the Food and Drug Administration.",
+      "reason": "This paragraph provides relevant context about the timing of the letter in relation to layoffs at key health agencies.",
+      "label": 1
+    },
+    {
+      "paragraph": "Up to 10,000 people are expected to lose their jobs in this round of layoffs, an amount that could significantly alter the department's roles and abilities. That's in addition to the nearly 10,000 who have already left the agency in the last few months through buyout offers or early retirements.",
+      "reason": "The paragraph provides specific details about the scale of layoffs, which is relevant to the impact on science and health agencies.",
+      "label": 1
+    },
+    {
+      "paragraph": "ABC News' Hannah Demissie, Cheyenne Haslett and Etic Strauss contributed to this report.",
+      "reason": "This is a standard attribution line and does not contribute to the core story.",
+      "label": 0
+    }
+  ]
+}

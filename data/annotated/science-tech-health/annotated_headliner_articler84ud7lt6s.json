@@ -1,0 +1,69 @@
+{
+  "headline": "Distinguished Molecular Biologist Delivers 2025 Kimberly Prize Lecture - News Center",
+  "context": [
+    "Esteemed molecular biologist Ron Evans, PhD, known for his groundbreaking discovery of the nuclear receptor superfamily, delivered the third  Kimberly Prize in Biochemistry and Molecular Genetics Lecture to a crowded auditorium of Feinberg faculty, staff, fellows and students on April 30.",
+    "Evans, professor and director of the Gene Expression Laboratory and March of Dimes Chair in Molecular and Developmental Biology at the Salk Institute for Biological Studies, was selected to receive the prize for his fundamental discovery and characterization of nuclear hormone receptors and their applications for drug development and human health."
+  ],
+  "annotations": [
+    {
+      "paragraph": "His discovery marked the creation of the field of endocrine physiology and subsequently advanced understanding of transcription networks and identified previously unknown nuclear receptors and ligands. This breakthrough ultimately led to the development of new drugs to treat human illnesses ranging from leukemia to liver disease, inflammation, type 2 diabetes and cancer.",
+      "reason": "This paragraph provides essential context about Evans' discovery and its impact on medicine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ali Shilatifard, PhD, the Robert Francis Furchgott Professor and chair of Biochemistry and Molecular Genetics and director of the Simpson Querrey Institute for Epigenetics, introduced Evans to the crowd.",
+      "reason": "This paragraph is a low-information detail about the event's introduction.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Almost every drug that makes its successful way to the clinic has got its start in the hands of a biochemist and molecular geneticist,” Shilatifard said. “There is no advancement in medicine without biochemistry and molecular genetics and that’s what we are here today to celebrate.”",
+      "reason": "This quote is a general statement about the importance of biochemistry and molecular genetics.",
+      "label": 0
+    },
+    {
+      "paragraph": "During his lecture, Evans detailed his journey as a scientist and his lab’s characterization of the complete structure of the human glucocorticoid receptor, which led to the discovery of a nuclear receptor superfamily for steroids, vitamins A and D, thyroid hormone, bile acids, fatty acids and cholesterol metabolites. These hormones activate transcriptional networks that control sugar, salt, calcium and fat metabolism, thereby influencing daily health and unlocking new avenues for the treatment of disease.",
+      "reason": "This paragraph provides detailed information about Evans' scientific contributions and their implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Another way of looking at this superfamily is basically like a Rosetta Stone,” Evans said. “This is how you decode physiology. With each receptor, we learn a little bit more about who we are.”",
+      "reason": "This quote provides insight into the significance of Evans' discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Building on earlier discoveries, Evans’ laboratory is now exploring the role of PPAR-delta—a nuclear receptor involved in lipid and glucose metabolism—in exercise and endurance. Their research suggests that drugs targeting this receptor could enhance physical performance in mice. By suppressing glucose metabolism and compelling the body to burn fat instead, these drugs may enable non-athletically trained mice to outperform their trained counterparts in endurance tests. The approach could be dubbed “exercise in a pill,” Evans said.",
+      "reason": "This paragraph provides specific details about Evans' current research, which is directly relevant to his recognition and the lecture.",
+      "label": 1
+    },
+    {
+      "paragraph": "“These cortical receptors turned out to be a paradigm shift in science in health and have led to major advancements,” Evans said. “We started off with a receptor, but now we’ve really transitioned into a different way of thinking about how we interact with our environment and how we can take advantage of that knowledge. We’re working out entirely physiologic mechanisms, new aspects of science and new generations of therapeutics.”",
+      "reason": "This paragraph contains a direct quote from Evans that provides insight into the significance of his work and its impact on science.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Kimberly Prize in Biochemistry and Molecular Genetics, the largest biochemistry award offered in the U.S., is given by Kimberly Querrey in honor of her late husband, Lou Simpson, a Northwestern trustee, alumnus and benefactor. The award is given each year to a scientist who has made outstanding research contributions to understanding the molecular basis of life with a direct demonstrated link of their discovery to the clinic for the betterment of humankind.",
+      "reason": "This paragraph provides context about the significance and purpose of the Kimberly Prize, which is relevant to the article's focus on the lecture.",
+      "label": 1
+    },
+    {
+      "paragraph": "The inaugural prize was awarded in 2023 to Jennifer A. Doudna, PhD, the Li Ka Shing Chancellor’s Chair in Biomedical and Health Sciences and professor of Biochemistry, Biophysics and Structural Biology at the University of California, Berkeley. Doudna, a co-winner of the Nobel Prize in Chemistry, was recognized for her fundamental biochemical research providing molecular insight into the function of CRISPR/Cas9 systems as tools for genome editing and the application of her work to science and medicine.",
+      "reason": "This paragraph provides historical context about previous recipients of the prize, which is not directly relevant to Evans' lecture.",
+      "label": 0
+    },
+    {
+      "paragraph": "Craig Crews, PhD, the John C. Malone Professor of Molecular, Cellular and Developmental Biology and professor of Chemistry, of Pharmacology, and of Management at Yale University, received the 2024 award. He received the prize for his pioneering work in the pharmaceutical field of targeted protein degradation.",
+      "reason": "This paragraph provides information about another recipient of the prize, which is not directly relevant to the main focus on Evans' lecture.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prize recipients are nominated and reviewed by the dean of Northwestern University Feinberg School of Medicine, the director of the Simpson Querrey Institute for Epigenetics and other luminaries. The annual prize of $250,000 is given by the Simpson Querrey Institute for Epigenetics and administered by the Feinberg School of Medicine.",
+      "reason": "This paragraph provides relevant information about the nomination process and the prize details.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Biochemists can’t do their studies just anywhere,” Shilatifard said. “They require state-of-the-art facilities, they require instrumentation. And for that, Northwestern University is very grateful to Kimberly Querrey and Lou Simpson for their generous support of Northwestern Medicine and the University.”",
+      "reason": "This paragraph is fluff as it provides general gratitude and does not add new information about the lecture or the prize.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "headline": "Building to Last vs. Tearing Down Fast—The True Legacy Test of Presidential Power | Opinion - Newsweek",
+  "context": [
+    "Who will leave a more permanent mark on the federal government—Franklin Delano Roosevelt (FDR) or Donald Trump? That's the question this presidential historian kept hoping to explore during Wednesday's 100-day media marathon, but the stopwatch kept running out.",
+    "Consider this: FDR built an entirely new governmental architecture during the Great Depression. Trump has spent his first 100 days wielding a wrecking ball against that architecture during relative prosperity. The question isn't who changed more during this artificial timeframe, but whose transformation will ultimately become woven into the fabric of American governance?"
+  ],
+  "annotations": [
+    {
+      "paragraph": "We have this marker because Roosevelt's historic 100 days in 1933 produced 15 major pieces of legislation. These weren't temporary fixes. The Tennessee Valley Authority lit up rural communities across seven states—lights that still burn nearly a century later. The Civilian Conservation Corps put young men to work on projects we still benefit from today. They are permanent fixtures in American life.",
+      "reason": "Provides historical context and examples of FDR's lasting impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's approach couldn't be more different. Republicans always talk about shrinking the government. None have dared assign a foreign-born tech billionaire to oversee wholesale demolition. Elon Musk's Department of Government Efficiency—DOGE, invoking both Silicon Valley disruption and royal decree—systematically eliminates what FDR built. Ironically, DOGE itself represents growth—it's a new agency.",
+      "reason": "Describes Trump's contrasting approach and introduces a new agency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Raw numbers tell an interesting story. Roosevelt's transformation required patience. The Civilian Conservation Corps would eventually employ 250,000 Americans. During those first hundred days, most positions existed only on paper. Historians estimate actual personnel expansion at 25,000-50,000 employees. Substantial, but merely foundational.",
+      "reason": "Provides quantitative data on FDR's initial impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's dismantling delivers immediate results. The Guardian reported Musk has slashed \"programs, jobs and entire agencies\" with unprecedented speed. Veterans Affairs facilities lost \"critical workers\" overnight. Research institutions lost scientific talent developed over decades. Conservative estimates place workforce reduction at 60,000-80,000 positions. Trump accomplished in weeks what historically takes years.",
+      "reason": "Offers specific examples and data on Trump's rapid changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "But long-term viability remains untested. \"The problem,\" noted former Defense Secretary Leon Panetta, \"is that he goes ahead and takes actions that can cause tremendous disruption.\" This disruption gives Trump the edge in transformation metrics. Even Roosevelt admirers must acknowledge this. But immediate change doesn't guarantee lasting impact.",
+      "reason": "Discusses the potential long-term impact and challenges of Trump's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Roosevelt's ghost might be smiling knowingly at Trump's shallow victory. FDR's expansion rested on legislative authority—15 landmark bills that created institutions with democratic legitimacy. These bodies have weathered wars, recessions, and hostile administrations. They stand today as essential components of American governance, not temporary policy preferences.",
+      "reason": "Provides essential context on FDR's legislative achievements and their lasting impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's revolution balances on executive authority alone—which means tomorrow's president can undo today's with a signature. His 135-plus executive orders face over 150 legal challenges. Courts have consistently checked his executive overreach. This creates inconsistent enforcement. Many targeted programs enjoy statutory protection no presidential order can overcome.",
+      "reason": "Discusses the limitations and challenges of Trump's reliance on executive orders.",
+      "label": 1
+    },
+    {
+      "paragraph": "The legislative scorecard is stark: Roosevelt, 15 transformative laws; Trump, zero. This vacuum may prove Trump's undoing. Future administrations can reverse with a pen what was done by pen. Roosevelt's achievements require congressional repeal—a far higher barrier.",
+      "reason": "Highlights the contrast in legislative achievements between Roosevelt and Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "These first 100 days reveal different understandings of presidential power itself. Roosevelt saw the presidency as a platform for building coalitions. His landmark legislation passed with substantial bipartisan support. This created buy-in across the political spectrum that helped his innovations endure.",
+      "reason": "Explains Roosevelt's approach to presidential power and its enduring impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Roosevelt used his first 100 days to demonstrate democratic process at its most effective. Trump's reliance on executive orders reflects not just congressional gridlock but a different theory of governance. His style of executive power is much more concentrated—swift, unilateral action.",
+      "reason": "Contrasts the governance styles of Roosevelt and Trump, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "This CEO-style presidency—where Trump asserts unchecked authority within the executive branch—has enabled him to engineer a sweeping transformation within his hundred-day window. Yet Roosevelt's patient institutional construction has already outlasted 12 presidencies. Will Trump's rapid deconstruction, built entirely on executive fiat, survive even one?",
+      "reason": "The paragraph directly compares the presidential styles and potential legacies of Trump and FDR, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "America isn't built—or unbuilt—in 100 days. Trump's executive orders may dominate headlines today, but Roosevelt's legislative landmarks have outlasted depressions, wars, and generations of political opposition. The true test of presidential transformation isn't the ability to sign papers in the Oval Office—it's creating change that survives long after you've left it. FDR's legacy has already passed that test. Trump's executive orders aren't even surviving their first court challenges.",
+      "reason": "This paragraph provides a direct comparison of the lasting impacts of FDR's and Trump's actions, relevant to the article's main question.",
+      "label": 1
+    },
+    {
+      "paragraph": "In this contest between building and demolition, history has already rendered its verdict with brutal clarity: The wrecking ball swings faster than the architect's pen. But institutions forged through democratic consensus stand resilient across generations while executive decrees crumble with each transfer of power. That isn't just Roosevelt's legacy—it's his lasting triumph.",
+      "reason": "The paragraph discusses the enduring nature of Roosevelt's legacy compared to Trump's, which is central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Alexis Coe is a presidential historian, senior fellow at New America, and New York Times bestselling author of Young Jack: John F. Kennedy, 1917-1957 (2026), You Never Forget Your First: A Biography of George Washington (2020), and Alice+Freda Forever: A Murder in Memphis (2014).",
+      "reason": "This paragraph provides background information about the author, which is not relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The views expressed in this article are the writer's own.",
+      "reason": "This is a standard disclaimer and does not contribute to the article's main content.",
+      "label": 0
+    }
+  ]
+}

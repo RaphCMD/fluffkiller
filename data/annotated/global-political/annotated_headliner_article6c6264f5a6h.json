@@ -1,0 +1,59 @@
+{
+  "headline": "Calgary police looking for 2 break-and-enter suspects - Calgary | Globalnews.ca",
+  "context": [
+    "By \tPaula Tran\n\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tGlobal News",
+    "Posted May 14, 2024 7:41 pm"
+  ],
+  "annotations": [
+    {
+      "paragraph": "1 min read",
+      "reason": "This is a reading time estimate and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Calgary police officers are looking for two men who are believed to be involved in several break-and-enter incidents that occurred last month in Calgary and Red Deer.",
+      "reason": "This paragraph introduces the main subject of the article, which is the search for two break-and-enter suspects.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to a Calgary Police Service release on Tuesday, six commercial break-and-enters were reported to police between April 2 to April 12. Police said the same two suspects were allegedly responsible for each incident.",
+      "reason": "This paragraph provides specific details about the incidents and the suspects' alleged involvement.",
+      "label": 1
+    },
+    {
+      "paragraph": "CPS also said the two suspects are allegedly responsible for a break-and-enter at a jewelry store in Red Deer.",
+      "reason": "This paragraph adds information about another incident linked to the suspects.",
+      "label": 1
+    },
+    {
+      "paragraph": "Officers said the two suspects targeted businesses that sold high-end jewelry, bicycles and tools. The two men allegedly used a stolen white Mercedes-Benz van during each of the incidents, which police have since recovered.",
+      "reason": "This paragraph provides further details on the suspects' targets and methods.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get the day's top stories from Toronto and surrounding communities, delivered to your inbox once a day.",
+      "reason": "This is a promotional paragraph unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "The first suspect is described as around 40 to 60 years old, between five-feet-10-inches and six feet tall and around 220 pounds with a medium build. Police said he has light-coloured or grey medium-length hair with slight balding.",
+      "reason": "This paragraph provides a detailed description of one of the suspects, which is directly relevant to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The second suspect is described as around 20 to 30 years old, between five-feet-six-inches and five-feet-nine-inches tall and around 170 pounds, with a slim build. Police said he has brown hair and a beard.",
+      "reason": "This paragraph provides a detailed description of the second suspect, which is directly relevant to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "© 2024 Global News, a division of Corus Entertainment Inc.",
+      "reason": "This is a copyright notice and does not contribute to the article's content.",
+      "label": 0
+    }
+  ]
+}

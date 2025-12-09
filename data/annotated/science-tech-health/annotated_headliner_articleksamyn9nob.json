@@ -1,0 +1,34 @@
+{
+  "headline": "How dogs boost our mental health and recovery, according to science - Axios NW Arkansas",
+  "context": [
+    "A pair of sisters walk their dogs Rosemary and Magnolia near their home in Fayetteville in 2022. Photo: Terra Fondriest for The Washington Post via Getty Images",
+    "Dogs aren't just loyal companions — they're also powerful allies in improving mental health."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Why it matters: This is good news for Arkansas, which has above average rates of pet ownership with approximately 69% of households owning pets, according to this World Population Review analysis.",
+      "reason": "Provides relevant context about pet ownership rates in Arkansas, linking it to the article's focus on dogs and mental health.",
+      "label": 1
+    },
+    {
+      "paragraph": "Zoom out: At a time when loneliness has become a serious health concern, recent research suggests there's something special about the way canine buddies boost our mood and longevity, writes Axios' Carly Mallenbaum.",
+      "reason": "Introduces relevant research about dogs' impact on mood and longevity, directly related to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Studies suggest that dogs help their humans with…",
+      "reason": "Introduces studies about dogs helping humans, directly relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Reality check: Humans are good for dogs, too.",
+      "reason": "This is a tangential statement that does not contribute to the main focus on dogs boosting human mental health.",
+      "label": 0
+    },
+    {
+      "paragraph": "Go deeper",
+      "reason": "This is a prompt to explore further information, not providing new content.",
+      "label": 0
+    }
+  ]
+}

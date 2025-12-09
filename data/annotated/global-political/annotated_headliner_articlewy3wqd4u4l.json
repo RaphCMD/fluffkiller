@@ -1,0 +1,69 @@
+{
+  "headline": "2024: record-breaking watershed year for global climate - Met Office",
+  "context": [
+    "2024 was the warmest year on record globally and the first year that was likely more than 1.5°C above pre-industrial levels: a stark reminder global temperatures are continuing to rise.",
+    "Last year recorded the highest temperature in any year since 1850, and it will be the eleventh year in succession in the HadCRUT data series that has equalled or exceeded 1.0°C above the pre-industrial average period (1850-1900)."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The global average temperature for 2024 was 1.53±0.08°C above the 1850-1900 global average, according to the HadCRUT5 temperature series, collated by the Met Office, the University of East Anglia and the National Centre for Atmospheric Science. 2024 is therefore the warmest year on record and is likely the first calendar year exceeding 1.5°C. 2023’s value of 1.46°C exceeded the previous warmest year – 2016 - by 0.17°C, making 2024 and 2023 the warmest and second-warmest years on record.",
+      "reason": "Provides specific data and context about 2024's record-breaking temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "A number of global climate centres will be releasing their 2024 average temperature figures today.",
+      "reason": "Mentions upcoming data releases but does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The latest figures highlight how the world is getting closer to breaching the Paris Agreement target of 1.5°C, which considers the longer-term average temperature.",
+      "reason": "Connects the data to the Paris Agreement, providing relevant context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Commenting on the 2024 global temperature announcement, Minister for Climate Kerry McCarthy said: “There is much more work to be done to keep 1.5°C within reach and prevent climate catastrophe. The scale of the challenge is huge, but through collective action we can deliver change at the scale and pace required.\"",
+      "reason": "Offers a political perspective on the implications of the temperature data.",
+      "label": 1
+    },
+    {
+      "paragraph": "Colin Morice of the Met Office said: “A single year exceeding 1.5°C above pre-industrial does not mean a breach of the Paris Agreement 1.5°C guard rail – that would require a temperature of at least 1.5°C on average over a longer period. However, it does show that the headroom to avoid an exceedance of 1.5°C, over a sustained period, is now wafer thin.”",
+      "reason": "Provides expert commentary on the significance of the temperature data.",
+      "label": 1
+    },
+    {
+      "paragraph": "Professor Rowan Sutton, Director of the Met Office Hadley Centre added: “By itself 1.5°C does not represent a cliff edge in terms of climate impacts, but every fraction of a degree rise in global temperature increases the frequency and severity of extreme weather events, commits the world to greater rises in sea level and increases the risk of crossing potential planet-altering tipping points such as breakdown of the Amazon rainforest biome or ice sheet collapse in Greenland or the Antarctic.”",
+      "reason": "The paragraph provides expert commentary on the implications of the temperature rise, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This notable landmark further highlights the urgency of efforts to minimise future warming.”",
+      "reason": "The paragraph is a vague generalization about the urgency of climate action without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The current global warming level (relevant to the Paris Agreement), is a measure of global warming since pre-industrial conditions without the influence of the ups and downs of year-to-year temperature variations. Multiple estimates point towards a current global warming level of 1.3°C. A Met Office-led paper on the methodology of the current global warming level assessment can be found here. Most of the additional temperature rise since pre-industrial times is associated with the rise in atmospheric greenhouse gases from human activities.",
+      "reason": "The paragraph provides context on current global warming levels and their causes, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Professor Tim Osborn, Director of UEA's Climatic Research Unit, said: “The world as a whole has not yet begun to reduce its use of fossil gas, oil and coal, so emissions of CO2 have not yet peaked and as a result the global temperature continues to rise as predicted by climate scientists.\"",
+      "reason": "The paragraph offers expert commentary on the ongoing rise in global temperatures due to fossil fuel use, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Superimposed on the long-term trend are small ups and downs that typically last a year or two and arise mostly from natural variability. These small variations of 0.1 to 0.2°C can temporarily push the global temperature above or below its underlying warming trend and make an individual year such as 2024 exceed 1.5°C even though the underlying warming has not quite reached that level yet.”",
+      "reason": "The paragraph explains the natural variability in temperature trends, relevant to understanding the 2024 temperature record.",
+      "label": 1
+    },
+    {
+      "paragraph": "A key source of this natural variability is El Niño Southern Oscillation (ENSO) – a pattern of climate variability in the tropical Pacific – that drives modest year-to-year warming and cooling of the global climate. An El Niño event adds about 0.2°C to the annual global temperature. El Niño affected the temperature values for both 2024 and 2023. La Niña events – which bring cooler conditions – slightly suppressed temperature values in 2021 and 2022 with ENSO conditions being neutral during the last part of 2024. Despite the modest tropical Pacific cooling, the surface temperature of the oceans was record-breaking in 2024.",
+      "reason": "Provides context on climate variability factors affecting 2024 temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Met Office outlook for 2025 suggests that it is likely to be one of the three warmest years for global average temperature, falling in line just behind 2024 and 2023.",
+      "reason": "Offers a forecast related to the ongoing trend of rising global temperatures.",
+      "label": 1
+    }
+  ]
+}

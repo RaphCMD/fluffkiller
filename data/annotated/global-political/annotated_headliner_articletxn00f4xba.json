@@ -1,0 +1,154 @@
+{
+  "headline": "Man jailed for 53 years for hate-crime killing of Palestinian American boy",
+  "context": [
+    "A landlord in the US who killed a six-year-old Muslim boy and severely injured the boy’s mother in a brutal hate-crime attack, days after the war in Gaza began, was sentenced on Friday to 53 years in prison.",
+    "Joseph Czuba, 73, of Illinois, was found guilty in February of murder, attempted murder and hate-crime charges over the death of Wadee Alfayoumi and the wounding of his mother, Hanan Shaheen."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Judge Amy Bertani-Tomczak sentenced Czuba to 30 years for the boy’s death and another 20 years consecutively for the attack on Ms Shaheen.",
+      "reason": "This paragraph provides specific details about the sentencing, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The judge also sentenced him to three years imprisonment for hate crimes. The length of the sentence makes it all but certain he will die behind bars.",
+      "reason": "This paragraph adds further details about the sentencing and its implications, which are relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“No sentence can restore what was taken, but today’s outcome delivers a necessary measure of justice,” said Ahmed Rehab, executive director of not-for-profit Muslim civil rights organisation CAIR-Chicago.",
+      "reason": "This quote provides a perspective on the sentencing's impact, which is relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Wadee was an innocent child. He was targeted because of who he was, Muslim, Palestinian and loved.”",
+      "reason": "This quote highlights the motive behind the crime, which is relevant to the hate-crime aspect of the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Czuba did not speak during the sentencing. His lawyer declined to comment.",
+      "reason": "This paragraph provides information about the defendant's reaction, which is relevant to the sentencing.",
+      "label": 1
+    },
+    {
+      "paragraph": "Will County state’s attorney James Glasgow’s office issued a statement calling Czuba a “morally reprehensible killer” and the impact of his actions “truly unfathomable”.",
+      "reason": "The paragraph provides a statement from the state’s attorney's office, adding context to the severity of the crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "The boy’s great-uncle, Mahmoud Yousef, was the only family member who spoke during the hearing.",
+      "reason": "This paragraph provides relevant information about the family’s involvement in the hearing.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said that no matter the sentence length it would n0pt be enough. The boy’s parents had plans for him and Czuba robbed them of that, he said.",
+      "reason": "The paragraph includes a quote from the family expressing the impact of the crime, which is relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr Yousef asked Czuba to explain why he attacked the boy and his mother, asking him what news he heard that provoked him, but Czuba did not respond, the Chicago Tribune reported.",
+      "reason": "This paragraph provides direct commentary on the interaction during the hearing, relevant to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Czuba targeted them in October 2023 because of their Islamic faith and as a response to the war between Israel and Hamas, prosecutors said during the trial.",
+      "reason": "The paragraph provides essential context about the motive behind the crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "Evidence included harrowing testimony from Ms Shaheen and her frantic 911 call, along with bloody crime scene photos and police video. Jurors deliberated less than 90 minutes before handing in a verdict.",
+      "reason": "Provides details about the evidence and trial process.",
+      "label": 1
+    },
+    {
+      "paragraph": "The family had been renting rooms in Czuba’s home in Plainfield, about 40 miles from Chicago, when the attack happened.",
+      "reason": "Gives context about the living situation and location of the crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "Central to prosecutors’ case was harrowing testimony from the boy’s mother, who said Czuba attacked her before moving on to her son, insisting they had to leave because they were Muslim.",
+      "reason": "Highlights key testimony and motive related to the hate crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "Prosecutors also played the 911 call and showed police footage. Czuba’s wife, Mary, whom he has since divorced, also gave evidence for the prosecution, saying he had become agitated about the Israel-Hamas war, which had erupted days earlier.",
+      "reason": "Provides additional evidence and context about Czuba's state of mind.",
+      "label": 1
+    },
+    {
+      "paragraph": "Police said Czuba pulled a knife from a holder on a belt and stabbed the boy 26 times, leaving the knife in the child’s body.",
+      "reason": "Describes the brutal nature of the crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some of the bloody crime scene photos were so explicit that the judge agreed to turn television screens showing them away from the audience, which included Wadee’s relatives.",
+      "reason": "This paragraph provides specific details about the trial proceedings related to the crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "“He could not escape,” Michael Fitzgerald, a Will County assistant state’s attorney, told jurors.",
+      "reason": "This quote from the prosecutor adds direct commentary on the nature of the crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "“If it wasn’t enough that this defendant killed that little boy, he left the knife in the little boy’s body.”",
+      "reason": "This quote provides a graphic detail about the crime, emphasizing its brutality.",
+      "label": 1
+    },
+    {
+      "paragraph": "The attack renewed fears of anti-Muslim discrimination and hit particularly hard in Plainfield and surrounding suburbs, which have a large and established Palestinian community.",
+      "reason": "This paragraph provides context about the broader impact of the crime on the community.",
+      "label": 1
+    },
+    {
+      "paragraph": "Wadee’s funeral drew large crowds and Plainfield officials have dedicated a park playground in his honour.",
+      "reason": "This paragraph provides information on the community's response and tribute to the victim.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ms Shaheen had more than a dozen stab wounds and it took her weeks to recover.",
+      "reason": "Provides details about the severity of the attack on the boy's mother.",
+      "label": 1
+    },
+    {
+      "paragraph": "She said there were no prior issues in the two years she rented from the Czubas, even sharing a kitchen and a living room.",
+      "reason": "Offers context about the relationship between the victim and the perpetrator before the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then after the start of the war, Czuba told her that they had to move out because Muslims were not welcome. He later confronted Ms Shaheen and attacked her, holding her down, stabbing her and trying to break her teeth.",
+      "reason": "Describes the events leading up to and including the attack, relevant to the hate-crime aspect.",
+      "label": 1
+    },
+    {
+      "paragraph": "“He told me ‘You, as a Muslim, must die’,” said Ms Shaheen, who gave evidence in English and Arabic though a translator.",
+      "reason": "Includes a direct quote that highlights the hate-crime motivation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Police said that officers found Czuba outside the house, sitting on the ground with blood on his body and hands.",
+      "reason": "Provides information about the immediate aftermath of the crime.",
+      "label": 1
+    },
+    {
+      "paragraph": "Separately, lawsuits have been filed over the boy’s death, including by his father, Odai Alfayoumi, who is divorced from Ms Shaheen and was not living with them. The US Department of Justice also launched a federal hate crimes investigation.",
+      "reason": "This paragraph provides additional legal actions and investigations related to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr Yousef told reporters after the hearing that Czuba was a grandfather figure to Wadee and the family does not understand what “fake news” Czuba may have heard about the war in Gaza that caused him to attack the boy and his mother.",
+      "reason": "This paragraph offers insight into the relationship between the victim and the perpetrator and speculates on the motive.",
+      "label": 1
+    },
+    {
+      "paragraph": "People need to understand Muslims before judging them, he said.",
+      "reason": "This is a general statement without direct relevance to the specific case.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Some people are bringing this war to this country,” Mr Yousef said. “We cannot do that. We can’t bring the war here. We cannot bring hatred to this country, we need that to stop.”",
+      "reason": "This is a general commentary on the broader implications of the crime, not specific to the case details.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "headline": "Man rescued after small plane makes emergency landing in Lake Ontario, Toronto police say | CBC News",
+  "context": [
+    "Toronto",
+    "Investigators say a 49-year-old man escaped with minor injuries after attempting an emergency landing at Billy Bishop Toronto City Airport and instead landing in the water a few hundred metres from downtown Toronto."
+  ],
+  "annotations": [
+    {
+      "paragraph": "A man has been rescued after a small, private plane was forced to do an emergency landing in Lake Ontario near downtown Toronto Friday, according to police.",
+      "reason": "This paragraph provides a summary of the incident, confirming the emergency landing and rescue.",
+      "label": 1
+    },
+    {
+      "paragraph": "Shortly after 2 p.m., Toronto police received a call from Billy Bishop Toronto City Airport that air traffic control had lost contact with an aircraft that was attempting to land there, Duty Insp. Lhawang Jongdong told reporters Friday afternoon.",
+      "reason": "This paragraph provides a timeline and details about the initial loss of contact with the aircraft.",
+      "label": 1
+    },
+    {
+      "paragraph": "Police also received calls from civilians at that time that a small plane was seen landing on the water near Ashbridges Bay, he said.",
+      "reason": "This paragraph adds information about civilian reports of the plane landing on water.",
+      "label": 1
+    },
+    {
+      "paragraph": "Toronto police's marine unit dispatched boats immediately, Jongdong said, and found an aircraft with a parachute attached to its tail submerged in the water.",
+      "reason": "This paragraph describes the police response and the condition of the aircraft when found.",
+      "label": 1
+    },
+    {
+      "paragraph": "The pilot, a 49-year-old man and the plane's sole occupant, had been picked up by a sailboat, Jongdong said. Toronto police then transported him to shore where paramedics determined he had only minor injuries.",
+      "reason": "This paragraph provides details about the rescue and the pilot's condition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jongdong said it was \"very fortunate\" that the pilot was able to walk away from the crash without being seriously injured.",
+      "reason": "This paragraph offers a low-information quote without adding new facts.",
+      "label": 0
+    },
+    {
+      "paragraph": "Police have been liaising with Transportation Canada, Ontario's Environment Ministry and a local marina as the emergency landing is investigated, he said. The Coast Guard has also been notified.",
+      "reason": "This paragraph provides information about the ongoing investigation and involved parties.",
+      "label": 1
+    },
+    {
+      "paragraph": "The pilot, who is also a doctor, told police he had taken off from Billy Bishop on his way to an emergency medical call in Pembroke, Ont., when he experienced an engine failure, Jongdong said. He was attempting to return to the downtown island airport, but was forced to deploy a parachute attached to the plane and land in the water about 200 to 300 metres from shore.",
+      "reason": "This paragraph gives essential context about the flight's purpose and the emergency situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The pilot has since been released, Jongdong said.",
+      "reason": "This paragraph provides an update on the pilot's status after the incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "The plane remains submerged about nine metres under water, he said, and the marine unit will work with a local marina to remove it Saturday. Police are working with the environment ministry to ensure there was no oil spillage, Dongjong said.",
+      "reason": "This paragraph provides relevant information about the current status of the plane and the actions being taken to address potential environmental concerns.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ethan Lang is a reporter for CBC Toronto. Ethan has also worked in Whitehorse, where he covered the Yukon Legislative Assembly, and Halifax, where he wrote on housing and forestry for the Halifax Examiner.",
+      "reason": "This paragraph is background information about the reporter and does not contribute to the main story.",
+      "label": 0
+    }
+  ]
+}

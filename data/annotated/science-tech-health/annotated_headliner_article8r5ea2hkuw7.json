@@ -1,0 +1,64 @@
+{
+  "headline": "Playing this Minecraft game hints at how we learn in real life",
+  "context": [
+    "The study suggests video games may be great tools for digging into human behavior",
+    "A custom-built Minecraft world helped researchers study how people shift strategies when hunting for pumpkins or watermelons. Thankfully, no chicken jockeys were present to interfere."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Even in a blocky world with zombified piglin chicken jockeys, human ingenuity still stands out.",
+      "reason": "This is a general statement about human ingenuity in Minecraft, not directly related to the study's findings.",
+      "label": 0
+    },
+    {
+      "paragraph": "A Minecraft video game tweaked by scientists revealed clues about what makes people such good learners. The results, published April 25 in Nature Communications, suggest that people who change strategies at opportune moments come out on top.",
+      "reason": "This paragraph introduces the study and its findings, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The main thing where we’re really interested in is, ‘What makes human social learning so special?’” says Charley Wu, a cognitive scientist at the University of Tübingen in Germany. “Many animals learn from one another, but there’s something kind of fundamentally different about the way that we humans do it.”",
+      "reason": "This quote provides insight into the research question and context for the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "This particular study used Minecraft, a digital gaming world that allows players to build, explore and create. The strategy illustrates the power of video games as experiments, says Natalia Vélez, a cognitive scientist at Princeton University. “The thing that I find most exciting is what this paper means for the promise of using video games as a tool in behavioral science.”",
+      "reason": "This paragraph discusses the significance of using video games in research, relevant to the study's implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the experiment, 128 participants foraged for rewards in a modified game, searching for resources hidden in blocks. Blasting a block apart would occasionally reveal a pumpkin or watermelon, a prize marked by blue floating circles that formed a flare visible to other players. There were two versions of the game: In one, the treats were randomly distributed. In the other, prizes were clustered, so that when a player found a pumpkin, odds were good that other pumpkins were nearby. In this version, it paid off to search where other people had success.",
+      "reason": "This paragraph details the experiment's methodology, directly related to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Players either searched alone or in a group of four on either type of game. The best foragers, researchers found, fluidly shifted strategies, both when searching alone or with others. Working alone in an environment where rewards were clustered, for instance, a player might spend more time searching near the spot where a pumpkin had just been found. But when the rewards were randomly spread out, the player would move farther afield from a previous reward. Shifts in strategy occurred when players were searching in a group, too; players smartly figured out which player to copy.",
+      "reason": "This paragraph provides specific findings from the study about strategy shifts in the game, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "And these strategies interact, further mathematical modeling experiments suggest. Individual learning and social learning “actually inform one another and actually mutually enhance and amplify one another,” Wu says.",
+      "reason": "This paragraph offers insights into how individual and social learning strategies interact, which is relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The results run counter to binary thinking, Vélez says. “We assume that when people decide whether they’re going to learn socially by copying other people or learn asocially by seeking out information firsthand, that they’re doing something like flipping a switch, where they’re either totally copying what another person is doing, or totally ignoring them and just exploring information on their own,” she says. This new study shows that people use much more complex strategies, she says.",
+      "reason": "This paragraph discusses the complexity of learning strategies revealed by the study, which is relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "How much a person is able to adapt — both learning on their own and learning from fellow players — are “the best predictors of individual performance in this task,” Wu says. “So the people who do the best are the ones who are the most flexible.”",
+      "reason": "This paragraph highlights key findings about adaptability and performance, directly related to the study's conclusions.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the game, a watermelon is a limited resource. If a fellow forager finds a watermelon, you can’t have it too. That sort of zero-sum scenario is not always the case in real life, Vélez says.",
+      "reason": "This paragraph provides a specific game scenario and its comparison to real life, which is relevant to understanding the study's context.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It’s important to be careful in applying that dichotomy too literally when drawing parallels to real-world processes,” she says, where collaborations can grow in additive ways. Learning from others, she says, is “actually one of the main ways that we generate new ideas and discover new knowledge out in the world.”",
+      "reason": "The paragraph provides a general statement about learning from others but does not directly relate to the Minecraft study or its findings.",
+      "label": 0
+    }
+  ]
+}

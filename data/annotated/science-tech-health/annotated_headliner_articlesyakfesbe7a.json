@@ -1,0 +1,154 @@
+{
+  "headline": "We finally know how life on Earth started, staggering new asteroid discovery suggests | BBC Science Focus Magazine",
+  "context": [
+    "A tiny piece of space rock has revealed that life on Earth may have come from an asteroid – and hints that extraterrestrial life is one step closer than we thought.",
+    "Five years ago, a daring NASA mission known as OSIRIS-REx intersected Bennu, an asteroid on a near-collision course with Earth, grabbing a small sample of it in the process. In late 2023, a tiny capsule containing 120g (4oz) of the asteroid landed in the Utah desert, in the US."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Ever since, the world’s been waiting to hear what the capsule contained. Now, scientists have confirmed that the asteroid not only contains organic matter, but all of the ingredients that make up DNA.",
+      "reason": "This paragraph provides new information about the contents of the asteroid sample, which is directly related to the discovery of life's origins.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bennu – an object currently travelling around the Sun in an orbit close to Earth – is an ancient fragment of our Solar System, its parent asteroid forming around 4.5 billion years ago.",
+      "reason": "This paragraph provides context about Bennu's origin and its relevance to the Solar System, which is pertinent to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We now know from Bennu that the raw ingredients of life were combining in really interesting and complex ways on Bennu’s parent body,” said Dr Tim McCoy, curator of meteorites at the Smithsonian’s National Museum of Natural History, in the US, and the co-lead author on the new paper.",
+      "reason": "This quote provides expert commentary on the significance of the discovery related to the origins of life.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We have discovered that next step on a pathway to life.”",
+      "reason": "This quote is vague and does not add substantial information to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The breakthrough suggests that life formed on Earth after an asteroid collision – but it’s also a sign that somewhere in the Universe, on Bennu’s parent body or through other asteroid collisions, life has all it needs to begin.",
+      "reason": "This paragraph ties the discovery to the broader implications for life in the universe, directly relating to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The most crucial finding is that Bennu seems to have hosted a ‘briny broth’ that allowed minerals and salts to intermingle. It’s this concoction that developed into the complex structures that form the crucial ingredients of life.",
+      "reason": "This paragraph provides essential information about the discovery related to the formation of life.",
+      "label": 1
+    },
+    {
+      "paragraph": "Extraterrestrial brines like this, the researchers say, could be the essential birthing place of organic compounds all over the Universe, including Earth. Along with the potential presence of water, these brines could spark a process known as prebiotic organic synthesis – in other words, the building blocks for life joining together.",
+      "reason": "This paragraph explains the significance of the discovery in the context of life formation in the universe.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yet, surprisingly, it’s actually the absence of water that’s played such an important role here. While liquid water is essential for life, the researchers say the chemical reactions needed for the complex structures to form require water to be lost in the process.",
+      "reason": "This paragraph provides a counterintuitive finding that is relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Publishing their findings in journals Nature and Nature Astronomy, researchers across the world analysed tiny portions of the sample using electron microscopes. These can inspect objects at the resolution of a single human hair’s width.",
+      "reason": "This paragraph provides context about the research methods used in the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "One of the papers, led by NASA scientists, discovered that Bennu actually boasts an even richer selection of organic matter than we have on Earth.",
+      "reason": "This paragraph provides a significant finding about the organic matter on Bennu.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It may seem natural to think of life-bearing Earth as having the most wide-ranging collection of organic material in the solar system,” Dr Douglas Vakoch, president of research organisation Messaging Extraterrestrial Intelligence (METI), told BBC Science Focus.",
+      "reason": "This quote provides context about the common perception of Earth's organic material but does not add new information about the discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "“In reality, Bennu boasts an even more complex array of organic molecules than Earth. By transporting these raw materials from an asteroid to laboratories on Earth, we can better understand the sort of molecules that serve as the basic building blocks of life as we know it.”",
+      "reason": "This paragraph provides relevant information about the complexity of organic molecules on Bennu and their significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The asteroid’s impressive collection includes 14 of the 20 amino acids (the building blocks of proteins) found in all life forms on Earth – but also 19 non-protein amino acids that are rare or even absent in known biology. Astoundingly, the sample contains all five nucleobases (adenine, guanine, cytosine, thymine and uracil) that form the code of DNA and RNA.",
+      "reason": "This paragraph provides specific details about the organic compounds found on Bennu, which are directly relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "“There’s no indication that the amino acids on Bennu were created from living creatures, but they do show that some of the key building blocks of life as we know it are abundant in this asteroid,” Vakoch said.",
+      "reason": "This quote clarifies the significance of the amino acids found on Bennu in relation to life.",
+      "label": 1
+    },
+    {
+      "paragraph": "The researchers do not yet know whether the complex structures formed on Bennu’s parent body or after Bennu broke off from it.",
+      "reason": "This paragraph provides relevant information about the current understanding and ongoing research regarding the formation of complex structures on Bennu.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We now know we have the basic building blocks to move along this pathway towards life, but we don’t know how far along that pathway this environment could allow things to progress,” McCoy said.",
+      "reason": "This quote provides direct commentary on the significance of the discovery related to the origin of life.",
+      "label": 1
+    },
+    {
+      "paragraph": "In other words, it’s not yet clear whether the conditions on Bennu’s parent body could jumpstart the next stage of biological evolution.",
+      "reason": "This sentence clarifies the current limitations of the discovery in terms of biological evolution.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"What life needs isn't just amino acids,\" astrobiologist Prof Lewis Dartnell told BBC Science Focus. \"Those acids need to join together into a great, long chain to start making a protein – or for the nucleotide bases to join together into DNA. The next step towards the origin of life is not just having simple organics, the building blocks, but for those blocks to be put together.\"",
+      "reason": "This quote provides expert insight into the complexity of forming life from basic building blocks.",
+      "label": 1
+    },
+    {
+      "paragraph": "He added: \"To create life, those building blocks would need to start producing molecules like proteins and DNA, and then form them into a cell. Once you’ve got a cell, you’ve got life. But a cell is complicated compared to just the blocks on their own.\"",
+      "reason": "This quote elaborates on the complexity of forming life, adding depth to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "So what would it take to get there, beyond organic molecules and water? \"The thing missing is an energy source, whether that’s sunlight for photosynthesis or sources of chemical energy,\" said Dartnell. \"You also need long, long periods of time to get from boring amino acids up to proteins, DNA, cells and then life.\"",
+      "reason": "This paragraph discusses the additional requirements for life formation, contributing to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "The discovery is a huge leap towards finding out more about Bennu's parent body.",
+      "reason": "This paragraph provides a general statement without specific details or new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "“By scrutinizing the chemical composition of Bennu as it exists today, we find clues about where its parent body formed, with the latest findings pointing towards an origin in the outer Solar System,” Vakoch said.",
+      "reason": "This paragraph provides specific information about the origin of Bennu's parent body, which is relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bennu's contents may also provide a new baseline of what to look for in other space rocks. The sample was preserved incredibly well before analysis, meaning its salts were still intact.",
+      "reason": "This paragraph offers new information about the preservation of the sample and its potential implications for future research.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There’s no substitute for travelling to an asteroid, collecting a pristine sample, then safely bringing it back to laboratories on Earth,\" said Vakoch. \"OSIRIS-Rex is a testament to the profound discoveries that come from sample return missions.\"",
+      "reason": "This paragraph provides a quote that emphasizes the importance of the mission, adding context to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Had the fragment fallen to Earth on its own, these salts would have broken down in Earth's atmosphere. But now they know what to look for, McCoy and his colleagues may find evidence of this brine in their existing library of meteorites.",
+      "reason": "This paragraph explains the significance of the preserved salts and their potential impact on future research.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This is the kind of finding you hope you’re going to make on a mission,” McCoy said. “We found something we didn’t expect, and that’s the best reward for any kind of exploration.”",
+      "reason": "The quote highlights the unexpected and significant nature of the discovery, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr Douglas Vakoch is the president of Messaging Extraterrestrial Intelligence (METI), a research and educational organisation that transmits signals to nearby stars. He is an elected member of the International Institute for Space Law and a general editor of Springer’s Space and Society series.",
+      "reason": "This paragraph provides background information on an individual not directly related to the asteroid discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prof Lewis Dartnell holds the professorship in science communication at the University of Westminster, where he specialises in the field of astrobiology and the search for microbial life on Mars. His books include Origins: How the Earth Made Us and Being Human: How our Biology shaped World History.",
+      "reason": "This paragraph provides background information on an individual not directly related to the asteroid discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "Read more:",
+      "reason": "This is a prompt to read further and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

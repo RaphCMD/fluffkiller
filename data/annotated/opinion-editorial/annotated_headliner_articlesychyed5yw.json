@@ -1,0 +1,69 @@
+{
+  "headline": "Opinion | The Vietnam War Ended 50 Years Ago. People Still Get It Wrong. | Common Dreams",
+  "context": [
+    "April 30th marks the 50th anniversary of the Vietnam War's end when Vietnamese tanks rolled into Saigon, soon to be renamed Ho Chi Minh City. The war was a terrible experience for the United States, but even more so for the people of Vietnam and much of the rest of Southeast Asia. Estimates are that up to 3 million Vietnamese perished, as well many many thousands of Cambodians and Laotians. Fifty-eight thousand American died, and a trillion American tax dollars were wasted.",
+    "Many of us who were there are still trying to understand and come to grips with it. Based on years of study, here is what I think people still get wrong about the war. What I write will be controversial, but it is based on what I saw and learned. If I seem angry, it is because I still am."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In nearly all wars, the other side is demonized and made into evil caricatures of human beings; doing so makes it easier to kill them. From the U.S. perspective, the Vietnam War was no exception. Even the Vietnamese who were supposedly on our side were commonly referred to as gooks, zips (Zero Intelligence Personnel), slants, slopes and more, often to their faces. In my experience, the U.S. military chain of command made no effort to correct this. Given the pervasive racism among American troops, it should come as no surprise that violence against Vietnamese civilians was common. It is hard to understand how anyone thought the Vietnamese people would rally to the U.S. side while being badly treated.",
+      "reason": "The paragraph provides specific examples of racism and violence during the Vietnam War, contributing to the article's premise about misconceptions and wrongdoings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The lesson to be learned is that U.S. military leaders, if they care about the troops at all, should do all they can to prevent war crimes through training, clear orders, and prosecutions.",
+      "reason": "This paragraph offers a moral lesson rather than new information or context about the Vietnam War.",
+      "label": 0
+    },
+    {
+      "paragraph": "In Vietnam many of us learned to be quite skeptical of the media and the U.S. government. To cite just one example out of hundreds, as the advancing NVA/VC forces began to overrun the South (mid-1970's), U.S. officials and media warned of a bloodbath to come. Secretary of Defense James Schlesinger warned that 200,000 would be killed if the communists won. The American armed forces newspaper Stars and Stripes, in one of the last issues to arrive in Saigon, carried a headline: \"At Least a Million Vietnamese Will Be Slaughtered.\" But that never happened. When it came to allegations of massacres, whether by the enemy in Hue during Tet, or the Americans at My Lai, the truth was regularly mangled by the U.S. government and media.",
+      "reason": "The paragraph provides specific examples of misinformation during the Vietnam War, supporting the article's theme of misconceptions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The leak of the Pentagon Papers, which so infuriated then-President Richard Nixon, revealed many other falsehoods, even as to when the war started. The Papers show that it was in 1945 that the French government decided to reclaim its Vietnam colony from the Japanese occupiers. Then the U.S. got involved under President Harry Truman. From that time the U.S. provided air transport, weapons, advisers, and funding without which the French reoccupation would not have been possible. So the Vietnamese are correct in calling it the Ten Thousand Day War—the 30 years from 1945 to 1975.",
+      "reason": "This paragraph provides historical context and information about the origins of the Vietnam War, relevant to the article's discussion of misconceptions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Pentagon Papers also reveal that U.S. leaders all the way from Truman to Nixon and Gerald Ford were advised that the U.S. could not win the war. They all knew that defeat was on the horizon, or perhaps just over the horizon. But except for Ford, all the presidents decided that, while the war was a lost cause, it would not be lost on their watch—so they kept it going by kicking the can down the road to the next president. So the death and destruction continued.",
+      "reason": "The paragraph provides insight into the decisions of U.S. leaders during the Vietnam War, contributing to the article's theme of misconceptions and wrong decisions.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 1968, Richard Nixon ran for president declaring that he had a \"secret plan\" to end the war. In actuality, his secret was to covertly sabotage ongoing peace talks to prolong the war. It went on for four more years, and another 25,000 U.S. soldiers died in a war Nixon knew could not be won.",
+      "reason": "This paragraph provides specific historical information about Nixon's actions during the Vietnam War.",
+      "label": 1
+    },
+    {
+      "paragraph": "During and after the war we learned a good deal about war-related post traumatic stress. Tens of thousands of returning Vietnam veterans began showing alarming signs of acute mental distress, often leading to harming others or themselves. Thanks to cutting edge research by Veterans Affairs, we learned that troops serving in support roles (which is most of them) had rates of PTSD about the same as the general population, around 6%. On the other hand, troops who were involved in abusing civilians or prisoners had rates of PTSD of over 50%. There are treatments available, but none seem to be especially effective. The lesson to be learned is that U.S. military leaders, if they care about the troops at all, should do all they can to prevent war crimes through training, clear orders, and prosecutions.",
+      "reason": "This paragraph provides insights into the psychological impact of the Vietnam War on veterans and the importance of preventing war crimes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Today, most Americans think of the anti-war movement as mostly long-haired, pot-smoking hippies—with a Doctor Spock or a Jane Fonda occasionally thrown in. But that was not the reality. Instead, by 1967 thousands of veterans who had served in Vietnam returned home and eagerly joined the anti-war movement, especially on college campuses, quickly taking leadership positions. Tom Grace, in his book on the Kent State shootings, carefully documents that the leadership of the campus protesters there was almost entirely made up of returned working class veterans. This was typical. The largest of the veteran anti-war groups was the Vietnam Veterans Against the War with 20,000 to 50,000 members at its height. They were active in colleges and universities across the country.",
+      "reason": "This paragraph corrects misconceptions about the anti-war movement and highlights the role of veterans in it.",
+      "label": 1
+    },
+    {
+      "paragraph": "There were also protests and some sabotage from within the active duty forces. In the face of widespread refusals to obey, ships could not put to sea, and aircraft could not fly. Racial tensions ran high.",
+      "reason": "This paragraph provides information on internal dissent within the military during the Vietnam War.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even with a half million troops in Vietnam, the U.S. could not prevail against a rising tide of nationalism in Vietnam, or even control most of the country. As the Pentagon Papers explained, the U.S. never had a chance.",
+      "reason": "This paragraph discusses the strategic challenges faced by the U.S. in Vietnam, referencing the Pentagon Papers.",
+      "label": 1
+    },
+    {
+      "paragraph": "Based on subsequent events, sadly it appears that America did not learn much from the Vietnam experience.",
+      "reason": "This paragraph provides a direct commentary on the consequences of the Vietnam War, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Anger alone solves little. If you want peace, you will have to organize to get it.",
+      "reason": "This paragraph is a vague generalization and does not contribute new information or context to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

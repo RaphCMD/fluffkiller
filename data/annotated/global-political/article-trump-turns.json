@@ -1,0 +1,164 @@
+{
+    "headline": "Trump turns civil rights upside down in ‘biggest rollback’ since Reconstruction | CNN Politics",
+    "context": [
+        "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.",
+        "CNN —"
+    ],
+    "annotations": [
+        {
+            "paragraph": "The government under President Donald Trump is bending the arc of US history in a new direction, away from the civil rights focus of the past 60 plus years.",
+            "reason": "Introduces the main shift in civil rights policy under Trump.",
+            "label": 1
+        },
+        {
+            "paragraph": "Addressing or even acknowledging racial injustice toward people of color is out.",
+            "reason": "Describes a core policy change regarding racial injustice.",
+            "label": 1
+        },
+        {
+            "paragraph": "Separating church and state is out, according to Trump.",
+            "reason": "Highlights another significant policy reversal.",
+            "label": 1
+        },
+        {
+            "paragraph": "Exposing anti-Christian bias and being ‘anti-woke’ is in.",
+            "reason": "Details the themes the administration is promoting.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Department of Justice division created by the landmark 1957 Civil Rights Act to defend American’s rights has a new mission: rooting out anti-Christian bias, antisemitism and “woke ideology,” the head of the division, Harmeet Dhillon, recently told conservative commentator Glenn Beck.",
+            "reason": "Specifies the new mission of the Civil Rights division.",
+            "label": 1
+        },
+        {
+            "paragraph": "A majority of the lawyers at the Civil Rights division – people who got jobs there to ensure equal access to the ballot box, perhaps – are expected to resign with pay until September.",
+            "reason": "Reports on the expected resignations within the division.",
+            "label": 1
+        },
+        {
+            "paragraph": "At a White House Cabinet meeting Wednesday, secretaries repeatedly sought praise from Trump for purging diversity efforts from the government.",
+            "reason": "Describes internal administration discussions on diversity rollbacks.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We’re not organizing money based on the color of skin,” said Agriculture Secretary Brooke Rollins, referring to contracts cancelled at USDA.",
+            "reason": "Provides a specific example of diversity policy removal.",
+            "label": 1
+        },
+        {
+            "paragraph": "“If you’re having DEI policies, we’re not going to fund your projects,” said Transportation Secretary Sean Duffy, bragging about how the administration will use taxpayer dollars to kill diversity efforts in states.",
+            "reason": "Another concrete example of DEI policy enforcement.",
+            "label": 1
+        },
+        {
+            "paragraph": "Office of Management and Budget Director Russell Vought told Trump the administration had forgiven money a Chicago lender paid as part of a discrimination settlement.",
+            "reason": "Notes a reversal on a discrimination settlement.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We’ve ripped wokeness out of the military, sir, DEI, trans. And it’s Fort Benning and Fort Bragg again at the DOD,” said Defense Secretary Pete Hegseth, referring to bases that again share names with Confederate generals.",
+            "reason": "Highlights changes in military diversity initiatives.",
+            "label": 1
+        },
+        {
+            "paragraph": "The administration is also working to strong-arm elite universities into dropping DEI programs by threatening billions in funding, including for scientific research. Harvard, so far, has decided to fight back.",
+            "reason": "Describes efforts to pressure universities on DEI programs.",
+            "label": 1
+        },
+        {
+            "paragraph": "But there are other examples, such as the fact that while the US has stopped accepting refugees for the most part, it is accepting White South Africans who claim they are the victims of racism in their country.",
+            "reason": "Gives an example of selective refugee policy.",
+            "label": 1
+        },
+        {
+            "paragraph": "It’s a much larger pivot than simply changing hiring practices and stopping so-called DEI efforts.",
+            "reason": "Summarizes the broader scope of the policy shift.",
+            "label": 1
+        },
+        {
+            "paragraph": "“This is certainly the biggest rollback of civil rights since Reconstruction,” according to Mark Updegrove, a presidential historian and CEO of the LBJ Foundation.",
+            "reason": "Frames the rollback in historical context.",
+            "label": 1
+        },
+        {
+            "paragraph": "Trump’s policies and the way he’s orienting his government combine as an assault on the Great Society legislation Johnson pushed through in the 1960s, including the Voting Rights Act, the Civil Rights Act of 1964 and the Immigration and Nationality Act of 1965.",
+            "reason": "Connects current policies to Great Society legislation.",
+            "label": 1
+        },
+        {
+            "paragraph": "Comparing Trump’s effort to purge the country of diversity efforts and deconstruct the Great Society legislation, Updegrove drew a parallel between now and the period beginning during Reconstruction when post-Civil War advances like the 13th Amendment were hurt by the rise of White Supremacy and Jim Crow.",
+            "reason": "Elaborates on the historical parallel to Reconstruction.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We’re seeing something very similar now, rolling back the advances of the 1960s,” he said. While those Great Society laws were meant to be temporary measures to create a more equal society, Updegrove said the US is not yet there. “So called anti-wokeism,” he argued, is “essentially permission to accept racism.”",
+            "reason": "Provides quoted analysis reinforcing the rollback comparison.",
+            "label": 1
+        },
+        {
+            "paragraph": "Cuts to Medicaid spending, higher education programs like Pell Grants, or Head Start programs would also hurt efforts at making the US a more equitable society.",
+            "reason": "Highlights policy impacts on social programs.",
+            "label": 1
+        },
+        {
+            "paragraph": "“If you ultimately look at what Trump is doing, it is aimed at taking down the laws of the Great Society, which are effectively, in my view, the foundation of modern America and the path to a plural democracy for the first time in our history.”",
+            "reason": "Summarizes the long-term impact on Great Society foundations.",
+            "label": 1
+        },
+        {
+            "paragraph": "While Trump’s government is retreating from any effort by the federal government to pursue racial justice, it is leaning hard into ending what it sees as anti-Christian bias.",
+            "reason": "Transitions to the administration’s focus on anti-Christian bias.",
+            "label": 1
+        },
+        {
+            "paragraph": "A task force helmed by Attorney General Pam Bondi and focused on “eradicating” anti-Christian bias in the government held its first meeting this week.",
+            "reason": "Reports on the formation of the anti-Christian bias task force.",
+            "label": 1
+        },
+        {
+            "paragraph": "At the majority-Catholic Supreme Court, justices were re-evaluating the separation of church and state this week. Conservative justices seemed open during oral arguments to the idea of taxpayer dollars going to fund a Catholic charter school in Oklahoma. The conservative Justice Amy Coney Barrett recused herself from the arguments, leaving the outcome likely up to Chief Justice John Roberts.",
+            "reason": "Details Supreme Court deliberations on church-state separation.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Solicitor General of the United States, D. John Sauer, who previously represented Trump before the court, argued on behalf of the Catholic charter school.",
+            "reason": "Notes the Solicitor General’s role in the case.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We’re bringing religion back to our country,” Trump promised at a prayer breakfast in Washington on Thursday, where he said he will also sign a new executive order to create another commission, this one focused on religious liberty.",
+            "reason": "Quotes Trump’s pledge on religious policy.",
+            "label": 1
+        },
+        {
+            "paragraph": "Trump seemed to acknowledge that some people might be surprised to hear that there is bias against Christians in a country that is majority Christian.",
+            "reason": "Summarizes Trump’s acknowledgment of perceived bias.",
+            "label": 1
+        },
+        {
+            "paragraph": "“You haven’t heard that, but there’s anti-Christian bias, also,” he said.",
+            "reason": "Provides Trump’s direct quote reinforcing the bias claim.",
+            "label": 1
+        },
+        {
+            "paragraph": "Even many Christians say it does not exist in the widespread way it is being portrayed by Trump’s administration.",
+            "reason": "Introduces a counter-perspective on anti-Christian bias.",
+            "label": 1
+        },
+        {
+            "paragraph": "“When he discusses anti-Christian bias, he isn’t referring to Christianity at large or mainstream Christianity, which includes Episcopalians, Catholics, Lutherans, Quakers, and even the LDS Church,” said Rev. Paul Brandeis Raushenbush of the Interfaith Alliance during an appearance on CNN after the announcement of the commission to eradicate anti-Christian bias.",
+            "reason": "Quotes a religious leader’s clarification on the bias scope.",
+            "label": 1
+        },
+        {
+            "paragraph": "Brandeis is among those who worry of a slide away from the freedom of religion envisioned at the nation’s founding and toward a Christian nationalism.",
+            "reason": "Highlights concerns about Christian nationalism.",
+            "label": 1
+        },
+        {
+            "paragraph": "“This White House exploits faith for power, following a Christian nationalist playbook,” he said.",
+            "reason": "Concludes with a strong critique of the administration’s religious agenda.",
+            "label": 1
+        }
+    ]
+}

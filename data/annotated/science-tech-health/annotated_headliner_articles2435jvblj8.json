@@ -1,0 +1,64 @@
+{
+  "headline": "Discovery of new class of particles could take quantum mechanics one step further | Brown University",
+  "context": [
+    "PROVIDENCE, R.I. [Brown University] — Amid the many mysteries of quantum physics, subatomic particles don’t always follow the rules of the physical world. They can exist in two places at once, pass through solid barriers and even communicate across vast distances instantaneously. These behaviors may seem impossible, but in the quantum realm, scientists are exploring an array properties once thought impossible.",
+    "In a new study, physicists at Brown University have now observed a novel class of quantum particles called fractional excitons, which behave in unexpected ways and could significantly expand scientists’ understanding of the quantum realm."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Our findings point toward an entirely new class of quantum particles that carry no overall charge but follow unique quantum statistics,” said Jia Li, an associate professor of physics at Brown. “The most exciting part is that this discovery unlocks a range of novel quantum phases of matter, presenting a new frontier for future research, deepening our understanding of fundamental physics, and even opening up new possibilities in quantum computation.”",
+      "reason": "The paragraph provides a direct quote from a researcher explaining the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Along with Li, the research was carried out by three graduate students — Naiyuan Zhang, Ron Nguyen and Navketan Batra — and Dima Feldman, a professor of physics at Brown. Zhang, Nguyen and Batra are co-first authors of the paper, which was published in Nature on Wednesday, Jan. 8.",
+      "reason": "This paragraph provides background information about the research team and publication details.",
+      "label": 0
+    },
+    {
+      "paragraph": "The team’s discovery centers around a phenomenon known as the fractional quantum Hall effect, which builds on the classical Hall effect, where a magnetic field is applied to a material with an electric current to create a sideways voltage. The quantum Hall effect, occurring at extremely low temperatures and high magnetic fields, shows that this sideways voltage increases in clear, separate jumps. In the fractional quantum Hall effect, these steps become even more peculiar, increasing by only fractional amounts — carrying a fraction of an electron's charge.",
+      "reason": "The paragraph explains the scientific phenomenon central to the discovery, providing essential context.",
+      "label": 1
+    },
+    {
+      "paragraph": "In their experiments, the researchers built a structure with two thin layers of graphene, a two-dimensional nanomaterial, separated by an insulating crystal of hexagonal boron nitride. This setup allowed them to carefully control the movement of electrical charges. It also allowed them to generate particles known as excitons, which are formed by combining an electron and the absence of an electron known as a hole. They then exposed the system to incredibly strong magnetic fields that are millions of times stronger than Earth's. This helped the team observe the novel fractional excitons, which showed an unusual set of behaviors.",
+      "reason": "The paragraph details the experimental setup and observations, which are crucial to understanding the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fundamental particles typically fall into two categories. Bosons are particles that can share the same quantum state, meaning many of them can exist together without restrictions. Fermions, on the other hand, follow what’s known as the Pauli exclusion principle, which says no two fermions can occupy the same quantum state.",
+      "reason": "The paragraph provides general background information on particle types, not directly related to the discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "The fractional excitons observed in the experiment, however, didn’t fit cleanly into either category. While they had the fractional charges expected in the experiment, their behavior showed tendencies of both bosons and fermions, acting almost like a hybrid of the two. That made them more like anyons, a particle type that sits between fermions and bosons — yet the fractional excitons had unique properties that set them apart from anyons, as well.",
+      "reason": "This paragraph provides specific details about the unique behavior of fractional excitons, contributing to the understanding of the new class of particles.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This unexpected behavior suggests fractional excitons could represent an entirely new class of particles with unique quantum properties,” Zhang said. “We show that excitons can exist in the fractional quantum Hall regime and that some of these excitons arise from the pairing of fractionally charged particles, creating fractional excitons that don’t behave like bosons.”",
+      "reason": "This paragraph includes a direct quote explaining the significance of the discovery and its implications for quantum physics.",
+      "label": 1
+    },
+    {
+      "paragraph": "The existence of a new class of particles could one day help improve the way information is stored and manipulated at the quantum level, leading to faster and more reliable quantum computers, the team noted.",
+      "reason": "This paragraph provides potential applications of the discovery, linking it to advancements in quantum computing.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’ve essentially unlocked a new dimension for exploring and manipulating this phenomenon, and we’re only beginning to scratch the surface,” Li said. “This is the first time we’ve shown that these types of particles exist experimentally, and now we are delving deeper into what might come from them.”",
+      "reason": "This paragraph includes a quote that emphasizes the novelty and future potential of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "The team’s next steps will involve studying how these fractional excitons interact and whether their behavior can be controlled.",
+      "reason": "This paragraph outlines the future research directions, contributing to the narrative progression of the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This feels like we have our finger right on the knob of quantum mechanics,” Feldman said. “It's an aspect of quantum mechanics that we didn't know about or, at least, we didn't appreciate before now.”",
+      "reason": "The quote provides direct commentary on the significance of the discovery of fractional excitons.",
+      "label": 1
+    }
+  ]
+}

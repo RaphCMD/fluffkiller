@@ -1,0 +1,94 @@
+{
+  "headline": "Trump defunding NPR, PBS is vengeful. And alarming | Opinion",
+  "context": [
+    "Don’t worry, fans of public broadcasting, for now you can still watch “Masterpiece Theatre” and listen to “Fresh Air.”",
+    "But Donald Trump’s executive order directing the Corporation for Public Broadcasting and other federal agencies to end federal funding for NPR and PBS, signed on May 1, is genuinely frightening."
+  ],
+  "annotations": [
+    {
+      "paragraph": "His excuse, of course, is bias, defined by Trump and his followers as any reporting that criticizes him, or doesn’t flatter him. The order points to coverage of COVID-19, for instance, and of Hunter Biden, as examples of the media outlets’ bias. A White House social-media post claims NPR and PBS “receive millions from taxpayers to spread radical, woke propaganda disguised as ‘news.’”",
+      "reason": "This paragraph provides specific reasons and examples cited by Trump for defunding NPR and PBS, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Oh please. NPR and PBS are respected media outlets. You can tell by the examples in the order that this isn't based on bias. It’s a brazenly political act based on personal retribution, pure and simple.",
+      "reason": "This paragraph offers an opinion on the motivation behind Trump's order, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is trying to starve out legitimate media outlets that do a lot more than just report — fairly — on the news. It is another chilling example of trying to control the media, to have say over what can and can’t be reported. And that is really scary.",
+      "reason": "The paragraph discusses the broader implications of the defunding, which is relevant to the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s not the only attempt, of course. We have seen this by the Trump-friendly clowns disguised as journalists White House Press Secretary Karoline Leavitt props up at briefings. And this is far worse.",
+      "reason": "This paragraph provides additional context on similar actions by Trump, which supports the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The effects of the order aren’t yet known — nor is the legality. Not that this has stopped Trump before.",
+      "reason": "This paragraph discusses the uncertainty and potential consequences of the order, which is relevant to the article's topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The President’s blatantly unlawful Executive Order, issued in the middle of the night, threatens our ability to serve the American public with educational programming, as we have for the past 50-plus years,” PBS president and chief executive Paula Kerger said in a statement.",
+      "reason": "This paragraph provides a direct quote from the PBS president, which is relevant to the impact of Trump's executive order.",
+      "label": 1
+    },
+    {
+      "paragraph": "Meanwhile, Patricia Harrison, the president and CEO of the Corporation for Public Broadcasting, said in a statement that, “CPB is not a federal executive agency subject to the President’s authority. Congress directly authorized and funded CPB to be a private nonprofit corporation wholly independent of the federal government. In creating CPB, Congress expressly forbade ‘any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over educational television or radio broadcasting, or over (CPB) or any of its grantees or contractors.’”",
+      "reason": "This paragraph provides a detailed statement from the CPB president, explaining the legal and structural independence of CPB from federal control, which is directly relevant to the executive order.",
+      "label": 1
+    },
+    {
+      "paragraph": "Locally, Jon Hoban, the general manager of KJZZ and KBAQ, said the impact of the orders is uncertain, but for now they’re holding steady.",
+      "reason": "This paragraph provides a local perspective on the impact of the executive order, which is relevant to the overall story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We've been proactively planning for a variety of scenarios,” Hoban told The Arizona Republic. “We are committed to providing the community with the trusted news and information they need as well as the music and arts programming they expect. We're not planning on any changes to programming and shows no matter what comes from these actions.”",
+      "reason": "This paragraph includes a quote from a local station manager about their response to the executive order, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Good.",
+      "reason": "This paragraph is a single word that does not add any new information or context to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Arizona PBS, like all PBS stations, relies on federal funding to fulfill its mission providing essential services to the people of Arizona,\" Scott Woelful, the general manager of Arizona PBS, said in a statement. \"In addition to our vital educational programming, Arizona PBS staff work with families and teachers all over the state to bolster early childhood education. Plus, our broadcast infrastructure allows emergency alerts to reach areas of Arizona not well served by commercial communication providers. These services and more are at risk if federal funds are cut. We look forward to working with PBS and CPB to demonstrate the value of this crucial federal investment.”",
+      "reason": "The paragraph provides specific information about the impact of defunding on Arizona PBS and its services.",
+      "label": 1
+    },
+    {
+      "paragraph": "I also like NPR’s statement: “We will vigorously defend our right to provide essential news, information and life-saving services to the American public. We will challenge this Executive Order using all means available.”",
+      "reason": "The paragraph includes NPR's response to the defunding, which is directly relevant to the topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "As they should. Shooting the messenger has become far too common a reaction in the Trump administration. Or, more accurately, trying to discredit the messenger.",
+      "reason": "The paragraph provides opinionated commentary on the Trump administration's approach to media.",
+      "label": 0
+    },
+    {
+      "paragraph": "I don’t think Trump wants a true state media. I think he wants existing media to simply bow to him, report only what he wants them to report — thus his various frivolous lawsuits against media companies, which are by and large showing cowardice instead of standing up to him. Good for NPR and PBS for fighting back.",
+      "reason": "The paragraph offers personal opinion and speculation about Trump's intentions, not new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Because if you can silence the media, or at least convince enough people that seeking the truth is not in your best interest, you are free to do whatever you like without any oversight, without any responsibility. When you strike blows against free speech and the First Amendment, again and again, it becomes increasingly clear that you are not only trying to control the message but also dictate how that message is delivered.",
+      "reason": "The paragraph provides a general opinion on the implications of media control, not specific to the defunding action.",
+      "label": 0
+    },
+    {
+      "paragraph": "And when you try to prevent truth from being reported, it makes you wonder: What are you so afraid of? What do you have to hide?",
+      "reason": "This paragraph is a rhetorical question that does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Reach Goodykoontz at bill.goodykoontz@arizonarepublic.com. Facebook: facebook.com/GoodyOnFilm. Subscribe to the weekly Watchlist newsletter.",
+      "reason": "This paragraph is contact information and promotional content, not relevant to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

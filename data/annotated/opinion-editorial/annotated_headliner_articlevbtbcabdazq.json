@@ -1,0 +1,59 @@
+{
+  "headline": "The Irish Independent’s view: The need to defend independent journalism has never been more critical | Irish Independent",
+  "context": [
+    "“He who does not weep does not see,” wrote Victor Hugo. Today, World Press Freedom Day, is a chance to think about all those who are forced to keep silent where the truth about injustice is suppressed and concealed from the world’s gaze.",
+    "According to the Global Conflict Index, in the past five years, levels of conflict have almost doubled. In 2020, it recorded 104,371 conflict events; last year, it logged nearly 200,000. The suffering endured by the people represented in those figures would never be known about were it not for the work of journalists who bear witness to it."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Highlighting the crucial role of media in championing democracy, transparency and human rights matters, not merely in terms of recognition, but for their protection. Bringing dark truths to the surface, which autocratic regimes want to bury, has taken a grievous toll. It can be thankless and dangerous work.",
+      "reason": "This paragraph discusses the essential role of media in democracy and the dangers faced by journalists, directly relating to the need to defend independent journalism.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unsurprisingly, the war in Gaza has been the deadliest conflict for journalists in the 21st century. More were killed last year than in any other since the Committee to Protect Journalists began collecting data more than three decades ago. At least 124 journalists and media workers have died, nearly two-thirds of them Palestinians killed by Israel. Maintaining a spotlight on such deaths needs to be constant so those responsible are held to account.",
+      "reason": "This paragraph provides specific data on journalist casualties in conflict zones, emphasizing the risks faced by journalists, which is relevant to the defense of independent journalism.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is also the media’s job to explain the causes for these conflicts. As war correspondent John Pilger said: “It is not enough for journalists to see themselves as mere messengers without understanding the hidden agendas of the message and the myths that surround it.”",
+      "reason": "This paragraph highlights the media's role in providing context and understanding of conflicts, which is relevant to the importance of independent journalism.",
+      "label": 1
+    },
+    {
+      "paragraph": "Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech",
+      "reason": "This is a general statement about the importance of free speech, which is relevant to the defense of independent journalism.",
+      "label": 1
+    },
+    {
+      "paragraph": "The challenges facing journalists have never been greater. We have seen what happens to those who dare to speak against Vladimir Putin in Russia.",
+      "reason": "This paragraph mentions the specific challenges faced by journalists in Russia, which is relevant to the article's focus on defending independent journalism.",
+      "label": 1
+    },
+    {
+      "paragraph": "But all over the world, journalists must battle censor­ship, violence, imprisonment and mass disinformation. Even in the “Home of the Free”, the White House announced plans to determine which news outlets may have access to Donald Trump. It was the first time in more than a century that any US administration had exercised such control.",
+      "reason": "This paragraph provides specific examples of challenges faced by journalists, which is relevant to the need to defend independent journalism.",
+      "label": 1
+    },
+    {
+      "paragraph": "Benjamin Franklin once warned: “Whoever would overthrow the liberty of a nation must begin by sub­duing the freeness of speech.”",
+      "reason": "This is a historical quote that does not add new information or context to the current state of journalism.",
+      "label": 0
+    },
+    {
+      "paragraph": "This year, the focus is on the impact of AI on press freedom and the media. The National Union of Journ­alists has appealed for greater protections for journalists. Their hope is that the use of AI will be ethical and solely as an assistive tool with human oversight.",
+      "reason": "This paragraph introduces a new aspect of the discussion by focusing on AI's impact on press freedom.",
+      "label": 1
+    },
+    {
+      "paragraph": "The fight against misinformation and the need to defend authentic journalism – aiming to inform, not mislead – has never been more critical. The value of trust remains priceless. But the liberty to work without intimidation must also be held as sacrosanct.",
+      "reason": "This paragraph emphasizes the importance of defending journalism and the challenges it faces, aligning with the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "An independent media is vital for any society to function fairly. As Albert Camus wrote: “A free press can, of course, be good or bad, but, most certainly without freedom, the press will never be anything but bad.”",
+      "reason": "This paragraph provides a general statement about the importance of independent media without adding new information.",
+      "label": 0
+    }
+  ]
+}

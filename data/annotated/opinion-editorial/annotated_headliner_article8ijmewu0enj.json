@@ -1,0 +1,94 @@
+{
+  "headline": "Trump's Jobs Plan for Shipbuilding is a Win for Democrats | US News Opinion",
+  "context": [
+    "Scott Olson|Getty Images",
+    "President Donald Trump visited a Wisconsin shipyard that was awarded a $5.5 billion contract to build ships for the U.S. Navy in 2020."
+  ],
+  "annotations": [
+    {
+      "paragraph": "You may not have noticed it amid the headlines over President Donald Trump’s assault on migrants and elite universities and his demotion of his national security adviser, Mike Waltz, but the president recently came out in favor of some core policy priorities of the Democratic Party: job training programs, combating climate change and bringing economic growth to low-income areas.",
+      "reason": "The paragraph provides context on Trump's alignment with Democratic priorities, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Okay, he didn’t do that explicitly, but he did assist every one of those objectives with the executive order he signed last month on “Restoring America’s Maritime Dominance.” The order, designed to bring American shipbuilding back from its current failing state, would – unlike the president’s nonsensical tariff policy – encourage manufacturing growth in the United States.",
+      "reason": "The paragraph explains the executive order's impact on shipbuilding, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "It may also open the door to more bipartisanship, as it would earn Trump the praise he so badly wants – but, in this case, for working on goals that serve the Democratic Party’s agenda too.",
+      "reason": "The paragraph discusses potential bipartisanship, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Democrats may be loath to credit Trump with any “win,” but this is a case where our party would win from a presidential initiative, and so would America.",
+      "reason": "The paragraph provides opinion on the political implications, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "No matter how distasteful it feels to work with Trump, it is our responsibility to vigorously support his effort to restore American shipbuilding. This week, we were given the perfect bipartisan vehicle to do so: Sen. Mark Kelly, an Arizona Democrat, and Sen. Todd Young, an Indiana Republican, introduced the SHIPS for America Act on April 30, proposing the funding to make the president’s executive order successful. Congressional Democrats should make it a critical legislative priority and to pass this bill and bring American shipbuilding back from the brink of extinction.",
+      "reason": "The paragraph discusses legislative actions supporting the executive order, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "America led the world in shipbuilding as recently as the 1980s, but the industry is now a shell of its former self. China dominates the market and we produce just 0.1% of the world’s ships by weight. A host of factors have led to this sorry state of affairs. The federal government stopped funding the Construction Differential Subsidy, which reimbursed U.S. shipbuilders for up to half the cost difference between constructing ships in the U.S. and abroad. Over the years, all three branches of government, plus states and local counties, have made domestic ship production harder by adding numerous regulations and community and environmental reviews that made it difficult to expand and modernize shipyards. Our high schools, community colleges, technical schools and universities have failed to produce the workforce necessary for a world-class shipbuilding industry.",
+      "reason": "Provides context on the decline of the U.S. shipbuilding industry, relevant to understanding the significance of Trump's plan.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new bipartisan bill addresses many of the problems that got us here and reads as if Democrats wrote it. Democrats have championed federal job training programs since the presidency of Franklin Delano Roosevelt, and the SHIPS for America Act builds on that legacy by funding scholarships for careers in the shipbuilding industry, by allocating money to expand maritime academies and by providing student loan forgiveness for people who enter the field.",
+      "reason": "Explains how the SHIPS for America Act aligns with Democratic priorities, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The landmark 2021 AUKUS submarine manufacturing deal – which lets Australia buy powerful nuclear-powered submarines and other naval technologies from the U.S. and the U.K. – will require 100,000 more American workers alone. A revitalized shipbuilding industry could one day train and employ hundreds of thousands of Americans in skilled, blue-collar work.",
+      "reason": "Provides context on potential job creation in the shipbuilding industry, relevant to the article's focus on job plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump is a longtime skeptic of climate change science, but a side benefit of his shipbuilding initiative is that it could prevent millions of tons of carbon emissions. That’s because America is home to some of the world’s best inland waterways, and inland barges used to ship domestic goods produce just half the carbon emissions that trains do, and just a ninth of the emissions from trucks. Medium and heavy-duty trucks in the U.S. emit more than 410 million tons of carbon a year; even partially replacing them with barges could have a significant impact.",
+      "reason": "Discusses environmental benefits of the shipbuilding initiative, adding depth to the article's analysis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unfortunately, we don’t use inland waterways nearly as much as we should because we don’t have enough barges. The SHIPS for America Act would help solve that problem, and would achieve another Democratic priority that dates back to FDR: creating economic opportunity for low-income people and under-resourced towns.",
+      "reason": "Links the SHIPS for America Act to Democratic goals, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Providing federal money to expand existing shipyards, easing regulations for building new facilities and signaling to private investors that shipbuilding is a priority would funnel funds and growth to regions and people that need it.",
+      "reason": "This paragraph provides specific actions related to Trump's shipbuilding plan.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Great Lakes states, the Gulf Coast and port cities such as Baltimore and Philadelphia that are ideal sites for new shipyards and expanded ports would see economic growth and new jobs.",
+      "reason": "This paragraph offers context on potential economic impacts of the shipbuilding plan.",
+      "label": 1
+    },
+    {
+      "paragraph": "Finally, the SHIPS for America Act could help protect America from the worst excesses of the Trump presidency so far. Remember, Trump loves praise. But so far, he’s gotten kudos only from his right flank, and much of that has been for actions that trample checks and balances and democratic cornerstones. Wouldn’t it be better if we could praise him for working with Congress to develop intelligent policies that achieve bipartisan goals for revitalizing the economy?",
+      "reason": "This paragraph is a moralizing conclusion and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Passing the shipbuilding act would force Trump to work with both sides of the aisle to achieve his goal. It would be his job to strong-arm enough Republicans to pass a bill that spends money on job training programs and carbon solutions.",
+      "reason": "This paragraph discusses the political implications of passing the shipbuilding act.",
+      "label": 1
+    },
+    {
+      "paragraph": "If Trump wants to revitalize American shipbuilding, support from Democrats will be essential. The SHIPS for America Act costs money, and if enough House Republicans maintain their pledge to not spend another dime, the bill will die without Democratic votes. Passing the bill would be a genuine example of the bipartisan center holding against partisan extremes.",
+      "reason": "This paragraph explains the necessity of bipartisan support for the shipbuilding plan.",
+      "label": 1
+    },
+    {
+      "paragraph": "We Democrats face a sad reality: We won’t get much of what we want over the next four years. But we can continue to push for two realistic objectives. We can move the ball forward on the most important issues, and we can try to contain the damage Trump inflicts upon the nation. Supporting the SHIPS for America Act does both.",
+      "reason": "The paragraph discusses the strategic importance of supporting the SHIPS for America Act, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Neal Urwitz served as a speechwriter for and advisor to the Secretary of the Navy from 2021-2023. He is currently a public relations executive in Washington.",
+      "reason": "This paragraph provides background information about the author, which is not directly relevant to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "headline": "Hamas held me hostage. My heart remains imprisoned in Gaza | Opinion",
+  "context": [
+    "As Israel celebrates its Independence Day, the word \"freedom\" rings hollow for me.",
+    "More than 550 days have passed since Hamas terrorists tore through our communities, and even though I was released after 55 days in captivity, I still don't feel free."
+  ],
+  "annotations": [
+    {
+      "paragraph": "How could I? Matan Zangauker, my boyfriend, remains in Gaza − and my heart remains imprisoned with him.",
+      "reason": "This paragraph directly relates to the emotional impact of the situation on the author.",
+      "label": 1
+    },
+    {
+      "paragraph": "Matan and I chose a quiet life in Kibbutz Nir Oz. We loved our mornings together − coffee, a cigarette and the peace of the countryside, far from the noise of the city.",
+      "reason": "This paragraph provides background on the author's life before the incident.",
+      "label": 0
+    },
+    {
+      "paragraph": "After immigrating to Israel from Mexico in my teens and launching a confectionery business, I eventually found my way to the kibbutz and began working at a medical cannabis farm. That’s where I met Matan. Life was simple. Peaceful. Until Oct. 7, 2023.",
+      "reason": "This paragraph gives personal background information not directly related to the main event.",
+      "label": 0
+    },
+    {
+      "paragraph": "That morning, everything shattered. Terrorists stormed our kibbutz, going house to house − murdering, burning − until they reached ours. We jumped out of the safe room window as bullets tore through the door. We ran in different directions. I lost sight of Matan. Moments later, I was captured.",
+      "reason": "This paragraph describes the critical event of the attack and capture.",
+      "label": 1
+    },
+    {
+      "paragraph": "They beat me and forced me onto a motorcycle, wedged between two gunmen. They covered my head with tarpaulin and pressed my leg against the exhaust pipe, burning it. One of them groped me under my shirt. I passed out before we crossed into Gaza.",
+      "reason": "This paragraph provides details of the author's capture and treatment.",
+      "label": 1
+    },
+    {
+      "paragraph": "I woke up on the floor, half naked and with seven terrorists standing over me. I still don’t know what happened while I was unconscious. I told them – in English − that I had my period. I don’t think I’ve ever been so thankful for my period. I believe it saved me from worse.",
+      "reason": "This paragraph provides a personal account of the author's experience during captivity, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "For 55 days, they moved me from place to place: private homes, a hospital and eventually a tunnel. Despite telling them I had a chronic digestive illness, I received no medication.",
+      "reason": "This paragraph details the author's movements and lack of medical care during captivity, adding to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "When I was released during the November 2023 ceasefire, I was so flooded with adrenaline I didn’t sleep for two days. Coming back from captivity, you don’t understand that it’s really over. You don’t know who you are. You barely remember your name.",
+      "reason": "This paragraph describes the author's emotional state upon release, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "I returned with a broken hip and jaw, hearing loss in one ear, and was dangerously underweight. These health issues still haunt me. I live with chronic pain, I’m prediabetic, but I can’t focus on healing. How can I, when Matan is still there? He’s been held more than 10 times longer than I was.",
+      "reason": "This paragraph provides details on the author's ongoing health issues and emotional struggle, relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "In December 2024, Hamas released a video of Matan. It was the first time I’ve seen him since the attack. It wasn’t the man I knew. He was thin, terrified, eyes pleading silently to be saved. It broke me. But it also gave me hope. He’s alive.",
+      "reason": "This paragraph updates on Matan's situation, adding to the narrative and emotional context.",
+      "label": 1
+    },
+    {
+      "paragraph": "I live with the question: Why me and not them? I have no answer. But I believe that if I made it out, it’s because I have a role to play − to speak out, to fight for the living and to help return those who were murdered for a proper burial.",
+      "reason": "The paragraph provides personal insight into the author's feelings and motivations after being held hostage.",
+      "label": 1
+    },
+    {
+      "paragraph": "I recently returned from the United States, where I met with U.S. senior officials, spoke to Jewish communities and addressed a rally in Central Park. With the release of 38 hostages during the first 100 days of the Trump administration, I've felt something I hadn't in a long time − hope. It reminded me that progress is still possible.",
+      "reason": "The paragraph discusses the author's recent activities and feelings of hope related to hostage releases, relevant to the main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Watching so many families reunite over the past couple of months pierces my heart with both joy and pain − joy for them, and desperate longing for my own reunion with Matan. I'm still not really able to take care of myself. I don’t think my brain has fully grasped everything I’ve gone through. How could it, when my story is still unfinished? Each morning I wake up knowing Matan is still there − waiting, hoping, for someone to bring him home.",
+      "reason": "The paragraph provides personal narrative and emotional context related to the author's experience and ongoing struggle.",
+      "label": 1
+    },
+    {
+      "paragraph": "The 100th day of Donald Trump's presidency on April 30 coincided with a deeply personal convergence of moments − Israel's Memorial Day, Israel's Independence Day and also my birthday. This will be my second birthday since being released without Matan by my side.",
+      "reason": "The paragraph connects personal milestones with national events, adding depth to the author's experience.",
+      "label": 1
+    },
+    {
+      "paragraph": "As the entire nation of Israel pauses to honor Memorial Day and celebrate Independence Day, the contrast between national reflection and personal grief is overwhelming. We mourn not only our fallen heroes, but also all the victims of that terrible, bloody massacre. We remember those who were slaughtered in their homes and at the Nova music festival, and we pray for those still held in darkness.",
+      "reason": "The paragraph provides context on national mourning and personal grief, relevant to the author's experience.",
+      "label": 1
+    },
+    {
+      "paragraph": "Can we truly celebrate freedom when our people are still in captivity? Can we fully honor the fallen when some haven't even been buried? On a day when I should be celebrating both national freedom and my own life, so many families remain in limbo. What does freedom really mean when those we love remain imprisoned?",
+      "reason": "The paragraph provides personal reflection and context on the ongoing impact of captivity, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "I will not stop fighting until I can hold Matan in my arms again. Until every hostage comes home. Until that happens, my freedom − and in many ways, Israel’s independence − remains incomplete. Each day that passes is another day stolen from Matan. Another day that I, and 58 other families, live suspended between hope and despair.",
+      "reason": "The paragraph offers personal commitment and context about the ongoing struggle for freedom, relevant to the main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "They’re still there, many of them alive. But they won’t be for much longer without action.",
+      "reason": "The paragraph emphasizes urgency and the need for action, contributing to the narrative of captivity.",
+      "label": 1
+    },
+    {
+      "paragraph": "Don't forget those still denied their freedom. Don't forget Matan.",
+      "reason": "The paragraph is a call to remember the captives, directly related to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ilana Gritzewsky was kidnapped from Kibbutz Nir Oz on Oct. 7, 2023, and held by Hamas for 55 days. Her partner, Matan Zangauker, is still in captivity.",
+      "reason": "The paragraph provides factual background about the author's experience, relevant to the headline.",
+      "label": 1
+    }
+  ]
+}

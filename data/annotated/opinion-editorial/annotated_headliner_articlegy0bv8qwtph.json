@@ -1,0 +1,84 @@
+{
+  "headline": "Trump Is Not Hitler | Opinion - Newsweek",
+  "context": [
+    "After a recent dinner with President Donald Trump, on his show, political commentator Bill Maher said he'd observed him to be a good listener, willing to laugh at himself, gracious, willing to take criticism—and more self-aware than he lets on in public. This description riled up many of those who prefer to view Trump as a cartoon villain (the kind who twirls his mustache while plotting global domination). In other words: Adolf Hitler.",
+    "Yet Maher had met Trump before and once described him differently: a charming conman. This time, that caveat was missing."
+  ],
+  "annotations": [
+    {
+      "paragraph": "It's easy to be swayed by one's personal charm—or get distracted by someone's softer side. (Hitler, after all, was fond of his dogs, though it didn't stop him from testing cyanide on his German Shepherd, Blondi.). But private kindness doesn't erase public harm, and Maher seems to acknowledge it with: \"Look, I get it, it doesn't matter who he is in a private dinner with a comedian, it matters who he is on the world stage. I'm just taking it as a positive that this person exists because everything I have not liked about him, I swear to God, [was] absent, at least on this night with this guy.\"",
+      "reason": "The paragraph provides context and commentary on the contrast between private behavior and public actions, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Plenty of people are generous with friends, donate to charities, and make great dinner companions. They can be smart, funny, and engaging—and still inflict real damage on others or the world at large. And vice versa. It's a dynamic worth remembering, especially in politics, where emotions run high and public figures are flattened into heroes or villains. Like Trump, who enjoys frequent comparisons to one of history's chief villains. But we do ourselves no favors by falling into the habit of labeling every political figure we dislike as a new Hitler.",
+      "reason": "The paragraph discusses the dangers of oversimplifying political figures, directly relating to the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's not that I like Trump—I don't (his bombastic approach toward tariffs, antagonism of international partners, and treatment of Ukraine are among just a few of my most recent grievances). It's that I consider it to be a lazy, sensationalist, and manipulative comparison that stirs emotions, bypasses critical thinking, and ultimately damages the quality of public discourse.",
+      "reason": "This paragraph provides a personal opinion on the comparison between Trump and Hitler, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump may be fond of deportations, but unlike Hitler, he has never indicated any kind of desire to strip American citizens of their rights based on their ethnicity, nor has he launched a war of territorial conquest or instituted death camps.",
+      "reason": "The paragraph provides factual distinctions between Trump and Hitler, directly addressing the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "While some of his rhetoric is troubling—particularly around immigration, nationalism, and the media—these tendencies are not unique to him, nor are they remotely on the same scale as the atrocities committed under Hitler's regime.",
+      "reason": "This paragraph offers a comparison of rhetoric and actions, relevant to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "There are some parallels, sure. \"America First\" nationalism, populist rhetoric against the \"elite,\" and the \"deep state,\" championing the forgotten American worker—these things sound familiar. Add in scapegoating illegal immigrants, media bashing (some of it deserved, some not), and excessive reliance on executive power, and there's enough to draw comparisons. But guess what? These are not unique to Trump. Nor are they remotely on the same scale as the atrocities committed under Hitler's regime.",
+      "reason": "The paragraph provides context and analysis on why comparisons between Trump and Hitler are not valid.",
+      "label": 1
+    },
+    {
+      "paragraph": "When we casually throw around the Hitler comparison, we trivialize the industrialized slaughter of millions and the global devastation caused by that particularly monstrous figure. Worse, we shut down any possibility of a thoughtful, fact-based critique of today's political leaders. Instead of holding them accountable for their specific actions and policies, we reduce the conversation to cartoonish hysteria.",
+      "reason": "The paragraph discusses the consequences of making hyperbolic comparisons, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "If the goal is to persuade others—or even simply to have a productive discussion—hyperbole is counterproductive. Imagine being someone who supports Trump or is on the fence about him. Once you hear the Hitler comparison, you're not likely to listen to anything else, right? Any legitimate critique that might have resonated is drowned out by outrage.",
+      "reason": "The paragraph explains why hyperbolic comparisons are ineffective, contributing to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Similarly, labeling entire groups of voters as \"deplorables\" or equating political opponents with supporters of a Hitler-like figure doesn't change minds. It only hardens divisions, fuels resentment, and drives people deeper into their respective camps.",
+      "reason": "The paragraph discusses the impact of divisive language, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "We need to move away from the hysteria, the catastrophizing, and the knee-jerk reactions. Trump isn't Hitler. Trump is ... well ... Trump. That doesn't mean that legitimate concerns should be swept away or that we should ignore problematic behavior. On the contrary, Trump's policies and conduct deserve rigorous scrutiny. But we are better off providing precise critiques grounded in facts and rationality, recognizing complexity rather than indulging in hysteria and emotionally-charged comparisons.",
+      "reason": "The paragraph summarizes the article's main argument and calls for rational critique.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump isn't Hitler, but it doesn't mean you have to like him. You should, however, be able to explain precisely why you don't.",
+      "reason": "This paragraph provides a direct commentary on the headline's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "But so long as we keep relying on extreme labels and comparisons, we're only going to continue deepening the political divide and making it even harder to find any common ground. And that? That's not likely to lead anywhere good.",
+      "reason": "This paragraph offers a generalization about political discourse without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "We must keep talking to each other, not just slinging mud across the aisle.",
+      "reason": "This is a vague generalization about political discourse.",
+      "label": 0
+    },
+    {
+      "paragraph": "Katherine Brodsky is a commentator and writer who has contributed to Newsweek, Variety, WIRED, The Washington Post, The Guardian, Playboy, The Independent, Mashable, and others. She is the author of No Apologies: How to Find and Free Your Voice in the Age of Outrage—Lessons for the Silenced Majority and is active on X @mysteriouskat and Substack: katherinebrodsky.substack.com.",
+      "reason": "This paragraph is background information about the author.",
+      "label": 0
+    },
+    {
+      "paragraph": "The views expressed in this article are the writer's own.",
+      "reason": "This is a standard disclaimer about the author's views.",
+      "label": 0
+    }
+  ]
+}

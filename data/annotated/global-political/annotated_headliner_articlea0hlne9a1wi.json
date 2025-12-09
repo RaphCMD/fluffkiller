@@ -1,0 +1,104 @@
+{
+  "headline": "Trump signs executive order to block funding to National Public Radio",
+  "context": [
+    "US President Donald Trump has issued an executive order calling for all federal funding to the Public Broadcasting Service (PBS) and National Public Radio (NPR) to be blocked.",
+    "On Thursday evening, Trump alleged that both organisations have engaged with \"biased and partisan news coverage\"."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The order instructs the board of the Corporation of Public Broadcasting (CPB), which distributes funding to PBS and NPR stations, to \"cease direct funding\" to the \"maximum extent allowed by law\".",
+      "reason": "This paragraph provides specific details about the executive order's instructions.",
+      "label": 1
+    },
+    {
+      "paragraph": "PBS called the order \"blatantly unlawful\", while CPB said the organisation is not \"a federal executive agency subject to the President's authority\".",
+      "reason": "This paragraph includes reactions from PBS and CPB, which are directly relevant to the executive order.",
+      "label": 1
+    },
+    {
+      "paragraph": "Meanwhile, Radio Free Asia, which receives funding from the government, said on Friday it was shutting down most of its news broadcasts and letting most staff go.",
+      "reason": "This paragraph is not directly related to the executive order concerning PBS and NPR.",
+      "label": 0
+    },
+    {
+      "paragraph": "CEO Bay Fang said the cuts were due to the Trump administration withholding congressionally allocated funding, even though a federal judge sided with the broadcaster last week.",
+      "reason": "This paragraph provides context about funding cuts but is not directly related to the executive order on PBS and NPR.",
+      "label": 0
+    },
+    {
+      "paragraph": "The executive order says the board should \"decline to provide future funding\" to the news organisations.",
+      "reason": "This paragraph reiterates the executive order's directive, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Which viewpoints NPR and PBS promote does not matter,\" it continues.",
+      "reason": "This quote is vague and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"What does matter is that neither entity presents a fair, accurate, or unbiased portrayal of current events to taxpaying citizens.\"",
+      "reason": "This quote reiterates the accusation of bias but does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Paula Kerger, CEO of PBS, called the president's order \"blatantly unlawful\" and said it \"threatens our ability to serve the American public with educational programming, as we have for the past 50-plus years\".",
+      "reason": "This provides a direct response from PBS, adding relevant commentary.",
+      "label": 1
+    },
+    {
+      "paragraph": "The White House has said that funding of news media is \"not only outdated and unnecessary but corrosive to the appearance of journalistic independence\" and that the media landscape has become more \"diverse\".",
+      "reason": "This paragraph provides the White House's rationale for the executive order.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the CPB budget has already been approved by Congress through 2027.",
+      "reason": "This provides important context about the current funding status.",
+      "label": 1
+    },
+    {
+      "paragraph": "Patricia Harrison, CEO of the CPB, said the organisation is not \"a federal executive agency subject to the President's authority\".",
+      "reason": "Provides direct commentary on the independence of CPB from presidential authority.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Congress directly authorised and funded CPB to be a private nonprofit corporation wholly independent of the federal government,\" she said.",
+      "reason": "Offers essential context about CPB's legal status and independence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"In creating CPB, Congress expressly forbade 'any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over educational television or radio broadcasting'.\"",
+      "reason": "Provides legal context relevant to the executive order's implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "More than 40 million Americans listen to NPR public radio each week, and 36 million watch a local television station from the PBS network each month, according to their estimates.",
+      "reason": "Offers general audience statistics without direct relevance to the executive order.",
+      "label": 0
+    },
+    {
+      "paragraph": "NPR director Katherine Maher estimated in March that the radio station would receive about $120m (£90m) from the CPB in 2025, \"less than 5% of its budget.\"",
+      "reason": "Provides specific financial context relevant to the impact of the funding block.",
+      "label": 1
+    },
+    {
+      "paragraph": "Both organisations have previously said that Trump's effort to cut funding could have a \"devastating impact\" on those who rely on them for credible news, including during emergency situations.",
+      "reason": "This paragraph provides direct commentary from the organizations affected by the executive order.",
+      "label": 1
+    },
+    {
+      "paragraph": "Media rights group RSF warned on Friday about \"an alarming deterioration in press freedom\" in the United States under Trump and \"unprecedented\" difficulties for independent journalists around the world.",
+      "reason": "This paragraph offers context on the broader implications of Trump's actions on press freedom.",
+      "label": 1
+    },
+    {
+      "paragraph": "Following the news of Trump's executive order, REM singer Michael Stipe was among the figures offering support to the journalists affected.",
+      "reason": "This paragraph is a tangential mention of a celebrity's reaction, not directly related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"Whether it's music or a free press – censorship anywhere is a threat to the truth everywhere,\" he said in a statement. \"On World Press Freedom Day, I'm sending a shout-out to the brave journalists at Radio Free Europe.\"",
+      "reason": "This quote is a general statement on censorship and not directly related to the executive order.",
+      "label": 0
+    }
+  ]
+}

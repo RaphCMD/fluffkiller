@@ -1,0 +1,84 @@
+{
+  "headline": "Opinion | When government becomes a religion, justice is replaced by control",
+  "context": [
+    "There’s a quiet transformation underway in Alabama: lawmakers are turning government into a kind of religion. Not one rooted in grace, humility or justice — but in control, fear and exclusion. Not the faith of Jesus — but the rigidity of the scribes and Pharisees He condemned.",
+    "Instead of caring for the people, they are commanding them. Instead of lifting burdens, they are legislating them."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The Legislature mandates the Ten Commandments in classrooms, yet refuses to fund the schools that house them. It criminalizes drag shows, censors libraries, and silences honest discussions of identity and history. Most recently, it passed SB1, a law that makes it a crime to help someone obtain or deliver an absentee ballot. It’s a direct attack on the elderly, the disabled, rural voters and faith-based groups who see civic participation as part of their ministry. That’s not governance — it’s suppression.",
+      "reason": "This paragraph provides specific examples of legislative actions in Alabama that support the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Woe unto you, scribes and Pharisees, hypocrites!” Jesus said. “For ye tithe mint and anise and cummin, and have omitted the weightier matters of the law—judgment, mercy, and faith.” \n— Matthew 23:23",
+      "reason": "This paragraph is a biblical quote that serves as a moral critique but does not add new information to the article's argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "Where is the mercy in these laws? Where is the judgment guided by wisdom? Where is the faith that calls us to love our neighbors, clothe the naked, feed the hungry and heal the broken?",
+      "reason": "This paragraph poses rhetorical questions that emphasize the article's moral stance but do not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "What we are seeing is not faith in action—it is control disguised as conviction. A government that rewards allegiance and punishes dissent. That praises God with its lips but hardens its heart to the poor, the sick and the different. If this is what passes for Christian government, then it’s a gospel rewritten by power — not by Christ.",
+      "reason": "This paragraph critiques the government's actions, aligning with the article's theme, but does not introduce new facts.",
+      "label": 0
+    },
+    {
+      "paragraph": "President Ulysses S. Grant warned us plainly: “Leave the matter of religion to the family altar, the church, and the private school… Keep the church and state forever separate.” But Alabama’s government increasingly elevates one religion above all others, turning personal belief into public mandate and erasing anyone who falls outside the narrow mold.",
+      "reason": "This paragraph provides historical context and a quote that supports the article's argument about the separation of church and state.",
+      "label": 1
+    },
+    {
+      "paragraph": "And the consequences are plain. Alabama ranks near the top in gun violence, and near the bottom in maternal health, education and child well-being. While lawmakers boast of Christian values, the people they claim to serve are left behind—sick, struggling and unheard.",
+      "reason": "This paragraph provides specific consequences of the government's actions, directly supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "This isn’t what Jesus called his people to be. It’s not justice. It is not love. It’s not even strength. It’s fear cloaked in righteousness and political theater mistaken for moral clarity.",
+      "reason": "This paragraph offers a critique of the government's actions, aligning with the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "What Alabama needs now is not more displays of religiosity but more demonstrations of moral courage. We need leaders who are more passionate about doing what’s right than winning the next election. Leaders who are guided by conscience — not crowds. Leaders who aren’t afraid to be convicted by truth the way Jesus convicted the self-righteous of His time—with words that pierced, not pandered.",
+      "reason": "This paragraph suggests solutions and calls for change, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Civil Rights Movement taught us what faith looks like in action. Fannie Lou Hamer, who risked her life for justice, said: “You can pray until you faint, but if you don’t get up and try to do something, God is not going to put it in your lap.” And Dr. Martin Luther King Jr. reminded us that “the church must be reminded that it is not the master or the servant of the state, but the conscience of the state.”",
+      "reason": "This paragraph provides historical context and quotes that support the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Today, Alabama needs that conscience more than ever.",
+      "reason": "This paragraph is a vague generalization and does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "When lawmakers invoke the name of Christ in their governing, let them also carry His cross. That means bearing the weight of justice. That means siding with the oppressed, not the powerful. That means washing feet, not pointing fingers.",
+      "reason": "The paragraph provides direct commentary on the main premise of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "Émile Zola, a prominent 19th-century French novelist and political activist, warned of this very danger. Known for his staunch defense of secular republicanism, Zola condemned the corruption and injustice of institutions that suppressed individual freedom. In his famous open letter “J’accuse,” he exposed the wrongful conviction of Alfred Dreyfus and the moral decay of a political system gripped by dogma and fear. Zola believed that when politics adopt the inflexibility of religion, they become resistant to progress and dangerously oppressive.",
+      "reason": "The paragraph provides historical context that supports the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Because faith without compassion is hollow.",
+      "reason": "The paragraph is a vague generalization without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "And government cloaked in religion but void of mercy is neither righteous or just — it is simply rule by another name.",
+      "reason": "The paragraph reiterates the article's main argument without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bill Britt is editor-in-chief at the Alabama Political Reporter and host of The Voice of Alabama Politics. You can email him at bbritt@alreporter.com or follow him on Twitter.",
+      "reason": "The paragraph is an author bio and contact information.",
+      "label": 0
+    }
+  ]
+}

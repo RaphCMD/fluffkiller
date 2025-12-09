@@ -1,0 +1,104 @@
+{
+  "headline": "Caitlin Clark Effect will lead to more WNBA sellouts, cash | Opinion",
+  "context": [
+    "Sheldon H. Jacobson",
+    "The 2024 WNBA season was historic, enjoying unprecedented growth. Much of this attention is attributed to Indiana Fever guard Caitlin Clark."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In college, she single-handedly elevated college basketball. Her transition to the WNBA was remarkably smooth, setting multiple WNBA records en route to being named WNBA Rookie of the Year.",
+      "reason": "This paragraph provides relevant information about Caitlin Clark's impact and achievements, supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The numbers tell a story that places Clark among some of the most influential players ever to play not only in the WNBA, but also in the same stratosphere as NBA players who left indelible marks on their game.",
+      "reason": "This paragraph offers relevant context by comparing Clark's influence to other significant players, reinforcing her impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Prior to the 2024 season, the highest average home attendance ever for any WNBA team was 16,202, set in 2002 by the Washington Mystics. This record was not eclipsed until 2024, with the Fever averaging 17,036 per game.",
+      "reason": "This paragraph provides relevant data on attendance records, illustrating the impact of Caitlin Clark on the WNBA.",
+      "label": 1
+    },
+    {
+      "paragraph": "To put this number into perspective, the second-highest average home attendance in 2024 was 12,729 for the New York Liberty, the reigning WNBA champion. In addition, the Fever’s average home attendance in 2023 was 4,066, ranking it second-to-last amongst all WNBA teams. This means that the Fever’s 2024 average home attendance was over four times higher than their 2023 average home attendance.",
+      "reason": "This paragraph provides relevant comparative data, highlighting the significant increase in attendance due to Clark's influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "This captures the Caitlin Clark Effect.",
+      "reason": "This paragraph is a summary statement that does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "It follows the Fever on the road. Their 2024 average road attendance was 15,131, over 4,400 more people than the second-highest road attendance average (for the Chicago Sky, 10,676, with rookie phenom Angel Reese on their roster). Not surprisingly, the largest home attendances for eight of the other 11 WNBA teams occurred when they played the Fever.",
+      "reason": "Provides specific data on attendance figures, illustrating the impact of Caitlin Clark on WNBA attendance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The scarcity of tickets for Fever games has pushed ticket prices in the secondary market to unprecedented levels.",
+      "reason": "Highlights the economic impact of Caitlin Clark's popularity on ticket prices.",
+      "label": 1
+    },
+    {
+      "paragraph": "How can a single person have such an enormous influence on a team, let alone an entire sport?",
+      "reason": "Poses a rhetorical question without providing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Anyone who has watched Clark play knows why. She thrills fans with creative passing and a willingness to take long-range threes. Every possession has the potential to be magical.",
+      "reason": "Describes Caitlin Clark's playing style, contributing to understanding her influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Caitlin Clark Effect extends beyond the Fever and even the WNBA. Women’s basketball is already very popular in high school and at the college level. Clark will give even more young girls and women a reason to pursue the opportunity to “play like Cait.\"",
+      "reason": "Discusses the broader impact of Caitlin Clark on women's basketball, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yet, Clark's arrival has highlighted several issues of fairness.",
+      "reason": "This paragraph introduces a new issue related to Clark's impact, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Objectively, arguments that WNBA and NBA players should be paid the same are misguided. Salaries ultimately come from revenue streams, and if revenue streams for the NBA are 100 times higher than for the WNBA, then salaries will be similarly affected. The gap is so large that the highest paid WNBA player earns less money than the lowest paid NBA player. Such a disparity cannot be overcome in one season.",
+      "reason": "This paragraph provides context on the salary disparity between WNBA and NBA players, which is relevant to the discussion of financial impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Clark has the potential to make a dent in this situation, though, as she is single-handedly moving attendance numbers for the Fever to be on par with average home attendance for NBA teams.",
+      "reason": "This paragraph directly discusses Clark's impact on attendance, aligning with the article's focus on her influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "In fact, the 2024 Fever average home attendance was higher than the average home attendance for five NBA teams (Hornets, Pacers, Grizzlies, Wizards, Hawks) in the 2023-2024 season and seven teams in the 2024-2025 season (Hawks, Kings, Pelicans, Wizards, Grizzlies, Pacers, and Clippers).",
+      "reason": "This paragraph provides specific data supporting the claim of increased attendance due to Clark's influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "As more revenue flows to WNBA teams, it will lead to higher contracts for all players.",
+      "reason": "This paragraph discusses the potential financial impact of increased revenue, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then there are endorsement deals. Clark had numerous NIL contracts while in college that netted her an estimated $3.1 million. Such deals accelerated once she jumped to the WNBA.",
+      "reason": "Provides specific information about Caitlin Clark's financial impact through endorsement deals.",
+      "label": 1
+    },
+    {
+      "paragraph": "Of course, NBA teams play twice as many games as WNBA teams. NBA ticket prices are also higher than WNBA ticket prices, and the NBA has lucrative television agreements, all providing tailwinds for higher player contracts.",
+      "reason": "Offers a comparison between NBA and WNBA, but does not directly relate to Caitlin Clark's impact.",
+      "label": 0
+    },
+    {
+      "paragraph": "It remains to be seen if the Caitlin Clark Effect is sustainable for the Fever, and most importantly, for other teams. Professional sports, including women’s basketball, is entertainment, with grownups playing a child’s sport.",
+      "reason": "Discusses the potential sustainability of Caitlin Clark's impact on the WNBA.",
+      "label": 1
+    },
+    {
+      "paragraph": "If the entertainment level can be enhanced, then the rising tide will benefit all teams and the league. Right now, Clark is carrying the weight of the WNBA on her shoulders. If she can get some help to ease her burden, the WNBA is in store for a wild ride.",
+      "reason": "Speculates on the future impact of Caitlin Clark on the WNBA.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "headline": "Amid trade war, automaker Stellantis explores U.S. supply chain growth | Windsor Star",
+  "context": [
+    "After reporting a 14-per-cent dip in first-quarter earnings, automaker Stellantis confirmed to analysts on Wednesday it was exploring production and supply chain movement to reduce tariff costs.",
+    "The company, which has Canadian assembly plants in Windsor and Brampton, also announced it will postpone any financial forecasts for the remainder of the year due to the uncertainty created by U.S. President Donald Trump’s tariff policies."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“As the situation evolves, we’ll need to calibrate our North American investments, footprint and employment to ensure the profitability of our company,” chief financial officer Doug Ostermann said in a call to analysts.",
+      "reason": "The quote provides direct commentary on the company's strategy in response to the trade situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "He didn’t elaborate on the timelines needed to move production or supply chains to the U.S.",
+      "reason": "This sentence provides a specific detail about the lack of timeline information, relevant to the company's plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "The global automaker reported revenues down 14 per cent to $55.2 billion in the first quarter of 2025. In scrapping its financial forecasts, Stellantis joins Mercedes and General Motors in noting tariff uncertainty makes it impossible to predict with any certainty what the rest of the year will bring.",
+      "reason": "This paragraph provides important financial context and industry comparison related to the trade war's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Stellantis had suspended its European product imports as it continues trying to navigate through the 25 per cent tariff Trump has imposed on all imported vehicles to the U.S., but the company said it had resumed those imports this week.",
+      "reason": "This paragraph gives specific actions taken by Stellantis in response to tariffs, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The tariff policies are evolving,” Osterman said.",
+      "reason": "The quote is vague and does not add new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "“It’s a good sign, right? Because we have a regular dialogue with the (Trump) administration and they are modeling the tariff policies in ways, particularly the announcement that we heard (Tuesday), that are very beneficial to our transition.”",
+      "reason": "The quote provides insight into Stellantis's interactions with the Trump administration regarding tariff policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "Windsor Assembly Plant, which employs thousands of autoworkers, produces the Pacifica, Grand Caravan and Voyager minivan lineup and multiple models of the new Dodge Charger. Brampton is currently being retooled, but that operation has been paused as the company studies the tariff scenarios and market demand.",
+      "reason": "This paragraph provides specific information about Stellantis's operations and how they are affected by tariff scenarios.",
+      "label": 1
+    },
+    {
+      "paragraph": "Stellantis also has extensive relationships with Canadian Tier I automotive parts suppliers such as Magna and Linamar, but also with numerous Tier IIs and IIIs in the Windsor region and southwestern Ontario.",
+      "reason": "This paragraph provides context about Stellantis's supply chain relationships in Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "The company is trying to bump its American parts content up about five per cent to 85 per cent in its U.S.-finished vehicles to qualify for a tariff reduction.",
+      "reason": "This paragraph details Stellantis's strategy to increase American parts content to reduce tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, Trump’s tariffs were only a portion of the problems facing Stellantis in the first quarter.",
+      "reason": "This paragraph hints at broader issues but lacks specific information.",
+      "label": 0
+    }
+  ]
+}

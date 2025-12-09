@@ -1,0 +1,204 @@
+{
+  "headline": "Co-op cyber attack includes customer data, firm admits",
+  "context": [
+    "Cyber correspondent, BBC World Service",
+    "Cyber criminals have told BBC News their hack against Co-op is far more serious than the company previously admitted."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Hackers contacted the BBC with proof they had infiltrated IT networks and stolen huge amounts of customer and employee data.",
+      "reason": "This paragraph provides new information about the hackers' actions and the extent of the data breach.",
+      "label": 1
+    },
+    {
+      "paragraph": "After being approached on Friday, a Co-op spokesperson said the hackers \"accessed data relating to a significant number of our current and past members\".",
+      "reason": "This paragraph includes a direct quote from Co-op acknowledging the data breach.",
+      "label": 1
+    },
+    {
+      "paragraph": "Co-op had previously said that it had taken \"proactive measures\" to fend off hackers and that it was only having a \"small impact\" on its operations.",
+      "reason": "This paragraph provides context on Co-op's initial response to the cyber attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "It also assured the public that there was \"no evidence that customer data was compromised\".",
+      "reason": "This paragraph highlights Co-op's earlier assurance about customer data, contrasting with new admissions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The cyber criminals claim to have the private information of 20 million people who signed up to Co-op's membership scheme, but the firm would not confirm that number.",
+      "reason": "This paragraph presents the hackers' claim about the scale of the data breach.",
+      "label": 1
+    },
+    {
+      "paragraph": "The criminals, who are using the name DragonForce, say they are also responsible for the ongoing attack on M&S and an attempted hack of Harrods.",
+      "reason": "This paragraph provides additional context about the hackers' activities beyond Co-op.",
+      "label": 1
+    },
+    {
+      "paragraph": "The attacks have led government minister Pat McFadden to warn companies to \"treat cyber security as an absolute priority\".",
+      "reason": "This paragraph includes a relevant quote from a government minister about the importance of cybersecurity.",
+      "label": 1
+    },
+    {
+      "paragraph": "The anonymous hackers showed the BBC screenshots of the first extortion message they sent to Co-op's head of cyber security in an internal Microsoft Teams chat on 25 April.",
+      "reason": "This paragraph provides specific details about the hackers' communication with Co-op.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Hello, we exfiltrated the data from your company,\" the chat says.",
+      "reason": "This paragraph contains a direct quote from the hackers' extortion message.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We have customer database, and Co-op member card data.\"",
+      "reason": "This paragraph reveals the type of data the hackers claim to have stolen.",
+      "label": 1
+    },
+    {
+      "paragraph": "They also showed screenshots of a call with the head of security which took place around a week ago.",
+      "reason": "This paragraph provides evidence of the hackers' claims, contributing to the seriousness of the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "The hackers say they messaged other members of the executive committee too as part of their scheme to blackmail the firm.",
+      "reason": "This paragraph adds details about the hackers' methods and intentions, relevant to the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "Co-op has more than 2,500 supermarkets as well as 800 funeral homes and an insurance business.",
+      "reason": "This paragraph provides background information about Co-op, which is not directly related to the cyber attack.",
+      "label": 0
+    },
+    {
+      "paragraph": "It employs around 70,000 staff nationwide.",
+      "reason": "This paragraph offers general information about Co-op's size, not directly related to the cyber attack.",
+      "label": 0
+    },
+    {
+      "paragraph": "The cyber attack was announced by the company on Wednesday.",
+      "reason": "This paragraph provides a timeline of the announcement, relevant to the progression of the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Thursday, it was revealed Co-op staff were being urged to keep their cameras on during Teams meetings, ordered not to record or transcribe calls, and to verify that all participants were genuine Co-op staff.",
+      "reason": "This paragraph provides specific security measures taken by Co-op in response to the cyber attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "The security measure now appears to be a direct result of the hackers having access to internal Teams chats and calls.",
+      "reason": "This paragraph explains the reason behind the security measures, linking it to the cyber attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "DragonForce shared databases with the BBC that includes usernames and passwords of all employees.",
+      "reason": "This paragraph provides critical information about the data breach involving employee credentials.",
+      "label": 1
+    },
+    {
+      "paragraph": "They also sent a sample of 10,000 customers data including Co-op membership card numbers, names, home addresses, emails and phone numbers.",
+      "reason": "This paragraph reveals the extent of the customer data breach, which is central to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "The BBC has destroyed the data it received, and is not publishing or sharing these documents.",
+      "reason": "This paragraph provides information on the handling of the leaked data by the BBC.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Co-op membership database is thought to be highly valuable to the company.",
+      "reason": "This paragraph provides context about the value of the database but does not directly relate to the breach details.",
+      "label": 0
+    },
+    {
+      "paragraph": "Since the BBC contacted Co-op about the hackers' evidence, the firm has disclosed the full extent of the breach to its staff and the stock market.",
+      "reason": "This paragraph provides relevant information about the company's response to the breach.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This data includes Co-op Group members' personal data such as names and contact details, and did not include members' passwords, bank or credit card details, transactions or information relating to any members' or customers' products or services with the Co-op Group,\" a spokesperson said.",
+      "reason": "This paragraph contains specific details about the data involved in the breach.",
+      "label": 1
+    },
+    {
+      "paragraph": "DragonForce want the BBC to report the hack - they are apparently trying to extort the company for money.",
+      "reason": "This paragraph provides relevant information about the hackers' intentions.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the criminals wouldn't say what they plan to do with the data if they don't get paid.",
+      "reason": "This paragraph adds relevant information about the uncertainty of the hackers' plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "They refused to talk about M&S or Harrods and when asked about how they feel about causing so much distress and damage to business and customers, they refused to answer.",
+      "reason": "The paragraph does not provide new information about the Co-op cyber attack.",
+      "label": 0
+    },
+    {
+      "paragraph": "DragonForce is a ransomware group known for scrambling victims' data and demanding a ransom is paid to get the key to unscramble it. They are also known to have stolen data as part of their extortion tactics.",
+      "reason": "This paragraph provides relevant information about the group responsible for the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "DragonForce operates an affiliate cyber crime service so anyone can use their malicious software and website to carry out attacks and extortions.",
+      "reason": "This paragraph gives context on how the ransomware group operates, which is relevant to the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's not known who is ultimately using the DragonForce service to attack the retailers, but some security experts say the tactics seen are similar to that of a loosely coordinated group of hackers who have been called Scattered Spider or Octo Tempest.",
+      "reason": "This paragraph provides relevant speculation about the identity of the attackers.",
+      "label": 1
+    },
+    {
+      "paragraph": "The gang operates on Telegram and Discord channels and is English-speaking and young – in some cases only teenagers.",
+      "reason": "This paragraph offers relevant details about the characteristics of the group involved in the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "Conversations with the Co-op hackers were carried out in text form - but it is clear the hacker, who called himself a spokesperson, was a fluent English speaker.",
+      "reason": "This paragraph provides context about the communication with the hackers.",
+      "label": 1
+    },
+    {
+      "paragraph": "They say two of the hackers want to be known as \"Raymond Reddington\" and \"Dembe Zuma\" after characters from US crime thriller Blacklist which involves a wanted criminal helping police take down other criminals on a 'blacklist'.",
+      "reason": "This paragraph provides irrelevant details about the hackers' chosen pseudonyms.",
+      "label": 0
+    },
+    {
+      "paragraph": "The hackers say \"we're putting UK retailers on the Blacklist\".",
+      "reason": "This quote from the hackers is relevant as it indicates their intent.",
+      "label": 1
+    },
+    {
+      "paragraph": "Co-op says it is working with the NCSC and the NCA and said in a statement it is very sorry this situation has arisen.",
+      "reason": "This paragraph provides information about Co-op's response to the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "UK government officials have met over the cyber attacks, with national security staff and the chief executive of the National Cyber Security Centre discussing support for retailers.",
+      "reason": "This paragraph provides relevant information about the government's response to the cyber attacks.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a keynote speech next week setting out government action, minister Pat McFadden - who has responsibility for cyber security - will say the attacks need to be a \"wake-up call\" for every UK business.",
+      "reason": "The paragraph provides context about government response to cyber attacks, but does not directly relate to the Co-op incident.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"In a world where the cybercriminals targeting us are relentless in their pursuit of profit - with attempts being made every hour of every day - companies must treat cyber security as an absolute priority.",
+      "reason": "This is a general statement about cyber security and does not provide specific information about the Co-op attack.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We've watched in real-time the disruption these attacks have caused - including to working families going about their everyday lives.",
+      "reason": "The paragraph is a general observation about the impact of cyber attacks and does not provide specific details about the Co-op incident.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"It serves as a powerful reminder that just as you would never leave your car or your house unlocked on your way to work. We have to treat our digital shop fronts the same way.\"",
+      "reason": "This is a metaphorical statement about cyber security and does not provide specific information about the Co-op attack.",
+      "label": 0
+    }
+  ]
+}

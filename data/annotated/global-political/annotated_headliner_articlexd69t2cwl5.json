@@ -1,0 +1,74 @@
+{
+  "headline": "Chile-Argentina earthquake: 7.4 magnitude quake hits coasts",
+  "context": [
+    "SANTIAGO, Chile — An earthquake with a magnitude of 7.4 struck off the southern coasts of Chile and Argentina on Friday, prompting the evacuation of the Chilean coastline throughout the Magallanes region and the suspension of water activities and navigation in Argentina’s Tierra del Fuego province.",
+    "No damage or casualties were initially reported."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The United States Geological Survey said the quake’s epicenter was under the ocean 219 kilometers (173 miles) south of the Argentine city of Ushuaia.",
+      "reason": "Provides specific details about the location of the earthquake's epicenter.",
+      "label": 1
+    },
+    {
+      "paragraph": "Chilean authorities issued an evacuation alert for the entire coastal section of the Strait of Magellan, in the far south of the country.",
+      "reason": "Describes the official response and specific area affected by the evacuation alert.",
+      "label": 1
+    },
+    {
+      "paragraph": "Due to a “tsunami alert, evacuation to a safe zone is being ordered for the coastal sectors of the Magallanes region,” Chile’s National Service for Disaster Prevention and Response said in a message sent to the public.",
+      "reason": "Details the tsunami alert and evacuation orders, which are directly related to the earthquake.",
+      "label": 1
+    },
+    {
+      "paragraph": "It also requested that all beach areas in the Chilean Antarctic territory be abandoned.",
+      "reason": "Expands on the evacuation orders to include the Chilean Antarctic territory.",
+      "label": 1
+    },
+    {
+      "paragraph": "Chilean President Gabriel Boric wrote on X that “all resources are available” to respond to potential emergencies.",
+      "reason": "Provides a statement from the Chilean President about the readiness to handle emergencies.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We are calling for the evacuation of the coastline throughout the Magallanes region,” Boric wrote. “Right now, our duty is to be prepared and heed the authorities.”",
+      "reason": "This paragraph provides a direct quote from an authority figure about the evacuation, which is relevant to the earthquake's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Punta Arenas, located in Chilean Patagonia and on the Strait of Magellan, which connects the Atlantic and Pacific Oceans, the streets quickly filled with residents searching for shelters, according to images broadcast on local television. Many of them were carrying bags.",
+      "reason": "This paragraph describes the immediate reaction of residents in a specific area affected by the earthquake, adding context to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The evacuation proceeded calmly and without panic. “We received the alert and we had to evacuate at work, but people are calm and well prepared,” Roberto Ramirez told the 24-hour channel.",
+      "reason": "This paragraph provides a firsthand account of the evacuation process, contributing to the narrative of the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Hydrographic and Oceanographic Service of the Chilean Navy, or SHOA, reported that waves could reach Antarctica as early as next hour, while it could take up to 12 hours to reach more remote locations.",
+      "reason": "This paragraph offers specific information about the potential impact of the earthquake on ocean waves, relevant to the event's consequences.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the Argentine city of Ushuaia, considered the world’s southernmost, local authorities suspended all types of water activities and navigation in the Beagle Channel for at least three hours. No material damage or evacuations were reported.",
+      "reason": "This paragraph provides details on the response in Argentina, which is directly related to the earthquake's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The earthquake was felt primarily in the city of Ushuaia and, to a lesser extent, in towns across the province,” the local government reported. “In the face of these types of events, it is important to remain calm.”",
+      "reason": "This paragraph provides specific information about the areas affected by the earthquake and includes a relevant quote from the local government.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nayara Batschke, The Associated Press",
+      "reason": "This is a byline and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Deborah Rey in Buenos Aires contributed.",
+      "reason": "This is an attribution note and does not add new information to the article.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "headline": "Scientists discover new part of the immune system",
+  "context": [
+    "5 March 2025",
+    "A new part of the immune system has been discovered and it is a goldmine of potential antibiotics, scientists have said."
+  ],
+  "annotations": [
+    {
+      "paragraph": "They've shown a part of the body known to recycle proteins has a secret mode that can spew out an arsenal of bacteria-killing chemicals.",
+      "reason": "This paragraph provides new information about the discovery related to the immune system.",
+      "label": 1
+    },
+    {
+      "paragraph": "The researchers in Israel say it transforms our understanding of how we are protected against infection.",
+      "reason": "This paragraph offers direct commentary on the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "And gives a new place to look for antibiotics to tackle the growing problem of superbugs that resist our current drugs.",
+      "reason": "This paragraph highlights the potential application of the discovery in addressing antibiotic resistance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The discovery centres on the proteasome – a tiny structure that is found in every cell of the body.",
+      "reason": "This paragraph introduces the specific part of the body involved in the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Its main role is to chop up old proteins into smaller chunks so they can be recycled to make new ones.",
+      "reason": "This paragraph provides background information on the proteasome's known function.",
+      "label": 1
+    },
+    {
+      "paragraph": "But a series of experiments, detailed in the journal Nature, shows the proteasome detects when a cell has been infected by bacteria.",
+      "reason": "Provides specific details about the experiments and findings related to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "It then changes structure and role. It starts transforming old proteins into weapons that can rip open the outer layer of bacteria to kill them.",
+      "reason": "Describes the mechanism of how the newly discovered immune system component functions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Weizmann Institute of Science",
+      "reason": "This is an isolated mention of an institution without context or relevance.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prof Yifat Merbl, from the Weizmann Institute of Science, told me: \"This is really exciting, because we never knew that this was happening.",
+      "reason": "Includes a direct quote from a scientist expressing the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We discovered a novel mechanism of immunity that is allowing us to have a defence against bacterial infection.",
+      "reason": "Provides a summary of the discovery's impact on understanding immunity.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's happening throughout our body in all the cells, and generates a whole new class of potential natural antibiotics.\"",
+      "reason": "This quote provides direct commentary on the discovery's significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The research team went through a process they called \"dumpster diving\" to find these natural antibiotics.",
+      "reason": "This sentence describes the method used in the discovery process.",
+      "label": 1
+    },
+    {
+      "paragraph": "They were tested on bacteria growing in the laboratory and on mice with pneumonia and sepsis. The researchers said they were getting results comparable to some established antibiotics.",
+      "reason": "This paragraph provides information on the testing and effectiveness of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "And when the researchers took cells in the laboratory and disabled the proteasome they were far easier to infect with bacteria like Salmonella.",
+      "reason": "This sentence gives insight into the function and importance of the discovered system.",
+      "label": 1
+    },
+    {
+      "paragraph": "Weizmann Institute of Science",
+      "reason": "This is a mention of an institution without additional context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prof Daniel Davis, the head of life sciences and an immunologist at Imperial College London, said the findings were \"extremely provocative and very interesting\" as they changed our understanding of how our body fights infection.",
+      "reason": "The quote from Prof Daniel Davis provides expert commentary on the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"What's really exciting about this, is it's a totally undiscovered process by which anti-germ molecules are made inside our cells, it feels profoundly important and surprising.\"",
+      "reason": "This quote elaborates on the novelty and importance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "But he cautioned that turning this into a new source of antibiotics is an idea that \"still needs to be tested\" and that will take time.",
+      "reason": "This provides important context about the future implications and challenges of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "More than a million people a year are estimated to die from infections that are resistant to drugs like antibiotics.",
+      "reason": "This provides context on the urgency and relevance of developing new antibiotics.",
+      "label": 1
+    },
+    {
+      "paragraph": "But despite the need, there has been a lack of research into developing new antibiotics to keep up with demand.",
+      "reason": "This highlights the gap in research and the importance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Against that bleak background, having somewhere new to look is a source of optimism for some scientists.",
+      "reason": "This paragraph provides a vague generalization and does not add specific information about the discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dr Lindsey Edwards, a senior lecturer in microbiology at King's College London, told the BBC: \"It's a potential goldmine for new antibiotics, that's quite exciting.",
+      "reason": "This paragraph includes a direct quote from a scientist emphasizing the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"In previous years it's been digging up soil [to find new antibiotics], it is wild that it's something we have within us, but comes down to having the technology to be able to detect these things.\"",
+      "reason": "This paragraph provides context on how the discovery differs from past methods of finding antibiotics.",
+      "label": 1
+    },
+    {
+      "paragraph": "She also says there could be fewer issues with developing them into drugs because they are already products of the human body so the \"safety side of it might be a lot easier\".",
+      "reason": "This paragraph offers relevant commentary on the potential advantages of developing these antibiotics.",
+      "label": 1
+    }
+  ]
+}

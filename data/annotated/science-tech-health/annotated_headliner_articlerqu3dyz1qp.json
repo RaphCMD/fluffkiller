@@ -1,0 +1,114 @@
+{
+  "headline": "Scientists find promising hints of life on distant planet K2-18b",
+  "context": [
+    "Scientists have found new but tentative evidence that a faraway world orbiting another star may be home to life.",
+    "A Cambridge team studying the atmosphere of a planet called K2-18b has detected signs of molecules which on Earth are only produced by simple organisms."
+  ],
+  "annotations": [
+    {
+      "paragraph": "This is the second, and more promising, time chemicals associated with life have been detected in the planet's atmosphere by Nasa's James Webb Space Telescope (JWST).",
+      "reason": "Provides specific information about the detection of life-associated chemicals on K2-18b.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the team and independent astronomers stress that more data is needed to confirm these results.",
+      "reason": "Highlights the need for further data to confirm the findings, which is relevant to the main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The lead researcher, Prof Nikku Madhusudhan, told me at his lab at Cambridge University's Institute of Astronomy that he hopes to obtain the clinching evidence soon.",
+      "reason": "Provides a direct quote from the lead researcher about future expectations.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This is the strongest evidence yet there is possibly life out there. I can realistically say that we can confirm this signal within one to two years.\"",
+      "reason": "Contains a significant quote from the lead researcher about the potential confirmation timeline.",
+      "label": 1
+    },
+    {
+      "paragraph": "K2-18b is two-and-a-half times the size of Earth and is 700 trillion miles, or 124 light years, away from us - a distance far beyond what any human could travel in a lifetime.",
+      "reason": "Provides context about the size and distance of K2-18b, relevant to understanding the challenges of studying it.",
+      "label": 1
+    },
+    {
+      "paragraph": "JWST is so powerful that it can analyse the chemical composition of the planet's atmosphere from the light that passes through from the small red Sun it orbits.",
+      "reason": "Provides context on how the chemical analysis of the planet's atmosphere is conducted.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Cambridge group has found that the atmosphere seems to contain the chemical signature of at least one of two molecules that are associated with life: dimethyl sulphide (DMS) and dimethyl disulphide (DMDS). On Earth, these gases are produced by marine phytoplankton and bacteria.",
+      "reason": "Directly relates to the discovery of potential life-indicating molecules on K2-18b.",
+      "label": 1
+    },
+    {
+      "paragraph": "Prof Madhusudhan said he was surprised by how much gas was apparently detected during a single observation window.",
+      "reason": "Provides a direct quote from a scientist involved, adding credibility and insight.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The amount we estimate of this gas in the atmosphere is thousands of times higher than what we have on Earth,\" he said.",
+      "reason": "Offers specific data about the gas levels, which is relevant to the potential for life.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"So, if the association with life is real, then this planet will be teeming with life,\" he added.",
+      "reason": "Speculates on the implications of the findings, directly related to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Prof Madhusudhan went further: \"If we confirm that there is life on K2-18b, it should basically confirm that life is very common in the galaxy.\"",
+      "reason": "The paragraph provides a significant implication of the discovery, relating it to the broader context of life in the galaxy.",
+      "label": 1
+    },
+    {
+      "paragraph": "He told BBC Radio 5Live on Thursday: \"This is a very important moment in science, but also very important to us as a species.",
+      "reason": "The paragraph offers a general statement about the importance of the discovery without adding specific new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"If there is one example, and the universe being infinite, there is a chance for life on many more planets.\"",
+      "reason": "This is a speculative statement that doesn't provide new information about the discovery itself.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dr Subir Sarkar, a lecturer in astrophysics at Cardiff University and part of the research team, said the research suggests K2-18b could have an ocean which could be potentially full of life - though he cautioned scientists \"don't know for sure\".",
+      "reason": "The paragraph provides specific information about the potential for life on K2-18b, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "He added that the research team's work will continue to focus on looking for life on other planets: \"Keep watching this space.\"",
+      "reason": "The paragraph indicates future research directions but does not add new information about the current discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "There are lots of \"ifs\" and \"buts\" at this stage, as Prof Madhusudhan's team freely admits.",
+      "reason": "This paragraph provides context about the uncertainty of the findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Firstly, this latest detection is not at the standard required to claim a discovery.",
+      "reason": "This paragraph explains the current status of the detection's reliability.",
+      "label": 1
+    },
+    {
+      "paragraph": "For that, the researchers need to be about 99.99999% sure that their results are correct and not a fluke reading. In scientific jargon, that is a five sigma result.",
+      "reason": "This paragraph provides essential context about the scientific standard for discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "These latest results are only three sigma, or 99.7%. Which sounds like a lot, but it is not enough to convince the scientific community. However, it is much more than the one sigma result of 68% the team obtained 18 months ago, which was greeted with much scepticism at the time.",
+      "reason": "This paragraph gives specific details about the progress and current status of the findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "But even if the Cambridge team obtains a five sigma result, that won't be conclusive proof that life exists on the planet, according to Prof Catherine Heymans of Edinburgh University and Scotland's Astronomer Royal, who is independent of the research team.",
+      "reason": "This paragraph provides expert commentary on the implications of the findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get our flagship newsletter with all the headlines you need to start the day. Sign up here.",
+      "reason": "This is a promotional paragraph unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "headline": "Opinion | Mike Smith cartoon on President Donald Trump and the economy - The Washington Post",
+  "context": [
+    "Democracy Dies in Darkness",
+    "OpinionsEditorialsColumnsGuest OpinionsCartoonsLetters to the EditorSubmit a Guest OpinionSubmit a Letter"
+  ],
+  "annotations": [
+    {
+      "paragraph": "OpinionsEditorialsColumnsGuest OpinionsCartoonsLetters to the EditorSubmit a Guest OpinionSubmit a Letter",
+      "reason": "This paragraph is a list of sections and submission options, not related to the cartoon or its content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Opinion",
+      "reason": "This is a section header and does not provide information about the cartoon or its content.",
+      "label": 0
+    },
+    {
+      "paragraph": "May 2, 2025 at 12:13 p.m. EDTToday at 12:13 p.m. EDT",
+      "reason": "This is a timestamp and does not provide information about the cartoon or its content.",
+      "label": 0
+    },
+    {
+      "paragraph": "By  Mike Smith",
+      "reason": "This is an author byline and does not provide information about the cartoon or its content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The latest editorial cartoons",
+      "reason": "This is a general statement about editorial cartoons and does not provide specific information about the cartoon in question.",
+      "label": 0
+    },
+    {
+      "paragraph": "HAND CURATED",
+      "reason": "This is a label or category tag, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Opinion",
+      "reason": "This is a label or category tag, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Cartoon by Matt Davies",
+      "reason": "This is a label or category tag, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Earlier today",
+      "reason": "This is an incomplete statement without context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Opinion",
+      "reason": "This is a label or category tag, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Met Gala checklist for attendees",
+      "reason": "The paragraph is unrelated to the headline about Mike Smith's cartoon on Trump and the economy.",
+      "label": 0
+    },
+    {
+      "paragraph": "Earlier today",
+      "reason": "The paragraph is too vague and does not provide any relevant information about the cartoon or the economy.",
+      "label": 0
+    },
+    {
+      "paragraph": "Opinion",
+      "reason": "The paragraph is a section header and does not provide any substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The diversion",
+      "reason": "The paragraph is too vague and does not provide any relevant information about the cartoon or the economy.",
+      "label": 0
+    },
+    {
+      "paragraph": "May 1, 2025",
+      "reason": "The paragraph is a date and does not provide any substantive content.",
+      "label": 0
+    }
+  ]
+}

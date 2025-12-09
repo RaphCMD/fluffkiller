@@ -1,0 +1,44 @@
+{
+  "headline": "Brand USA Shares News of Casey Canevari Passing | TravelPulse Canada",
+  "context": [
+    "Casey Canevari served as Director, Global Trade Development (Canada) for Brand USA (Photo Credit: Brand USA)",
+    "Messages of remembrance and condolences have begun pouring out as Brand USA announced the death of Director of Global Trade Development (Canada), Casey Canevari."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Canevari was in Toronto for a Brand USA event when he fell ill. In a statement, Jackie Ennis, Vice President Global Trade, shared the sad news.",
+      "reason": "Provides specific details about the circumstances of Canevari's passing.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It is with profound sadness that we share the heartbreaking news that, despite receiving the best possible care over the last four days in Toronto, Casey never regained consciousness and passed away peacefully yesterday, surrounded by his wife, Christine, his three sons, his brother, cousin, and father-in-law. We are sharing this news with his family’s blessing, and they remain in our thoughts during this incredibly difficult time.",
+      "reason": "Contains a direct quote providing details about Canevari's passing and family context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Casey was a cherished member of our team and the industry—known for his boundless energy, optimism, and genuine warmth. His passion for travel and his unwavering commitment to welcoming Canadian visitors to the USA were evident in everything he did. He showed up time and again, even in recent months, never wavering in his dedication or spirit.",
+      "reason": "Offers personal insights into Canevari's character and contributions to the industry.",
+      "label": 1
+    },
+    {
+      "paragraph": "We understand how difficult this news may be, especially for those of you who knew Casey well. Our community is built on compassion, and we are here for one another.",
+      "reason": "General statement of support and community, not directly related to the main news.",
+      "label": 0
+    },
+    {
+      "paragraph": "Thank you for your continued strength, care, and support during this deeply difficult time, especially Malcolm, Jackie, Katie, Phil, Jonas, Andrew, Dani.”",
+      "reason": "A general expression of gratitude, not directly related to the main news.",
+      "label": 0
+    },
+    {
+      "paragraph": "Messages on LinkedIn from industry friends and colleagues express a deep affection for Canevari, who call him a “champion for travel” and a “beloved member of the travel community.”",
+      "reason": "This paragraph provides specific reactions and sentiments from colleagues, adding depth to the news of Canevari's passing.",
+      "label": 1
+    },
+    {
+      "paragraph": "TravelPulse Canada extends our sympathies to Casey’s friends and family as they grieve.",
+      "reason": "This is a general expression of sympathy and does not add new information to the article.",
+      "label": 0
+    }
+  ]
+}

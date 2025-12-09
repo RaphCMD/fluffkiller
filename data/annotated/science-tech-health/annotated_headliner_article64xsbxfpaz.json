@@ -1,0 +1,439 @@
+{
+  "headline": "AI could transform health care, but will it live up to the hype?",
+  "context": [
+    "The U.S. health care system is rife with problems — as many Americans have experienced firsthand. Access to quality care is patchy, and medical costs can leave people with lifelong debt for treatments that don’t always work. Frustration and anger at the system’s failures were a flash point in the presidential election and may have factored in the December murder of UnitedHealthcare’s CEO.",
+    "True progress in transforming health care will require solutions across the political, scientific and medical sectors. But new forms of artificial intelligence have the potential to help. Innovators are racing to deploy AI technologies to make health care more effective, equitable and humane."
+  ],
+  "annotations": [
+    {
+      "paragraph": "AI could spot cancer early, design lifesaving drugs, assist doctors in surgery and even peer into people’s futures to predict and prevent disease. The potential to help people live longer, healthier lives is vast. But physicians and researchers must overcome a legion of challenges to harness AI’s potential.",
+      "reason": "This paragraph outlines the potential applications and challenges of AI in health care, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "How do doctors ensure that AI is accurate, accessible to all patients, free from bias, respectful of patient privacy and not used for nefarious purposes? “Will it work everywhere? Will it work for everyone?” artificial intelligence expert Rama Chellappa asked at a workshop at the Johns Hopkins University Bloomberg Center last August.",
+      "reason": "This paragraph raises important questions about the implementation of AI in health care, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "We talked with dozens of scientists and physicians about where AI in medicine stands. Again and again, researchers told us that in most medical areas, AI is still in its infancy, or toddlerhood at best. But the field is growing fast. And though AI-enabled medical devices have been in use since the 1990s, the level of interest, investment and technologies has soared in the last few years.",
+      "reason": "This paragraph provides context on the current state and growth of AI in medicine, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some clinics now use AI to analyze mammograms and other medical images, scrutinize heartbeats and diagnose eye diseases, but there are many more opportunities for improving care. AI is unlikely to replace doctors, though. Instead, in many cases, it would be a tool used alongside human hands, hearts and minds.",
+      "reason": "This paragraph discusses current uses and future potential of AI in health care, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The stakes are high. If efforts fail, it means billions of dollars wasted and diverted from other interventions that could have saved lives. But some researchers, clinicians and engineers say that AI’s potential for making lives better is so high, we have to try.",
+      "reason": "This paragraph highlights the risks and potential benefits of AI in health care, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "To grasp its magnitude, we’ve envisioned six scenarios where patients could encounter AI. Six fictional people at six points in life, six glimpses into the galaxy of ways artificial intelligence may improve health — and a heap of hurdles researchers may face along the way.",
+      "reason": "This paragraph introduces the concept of using scenarios to explore AI's impact on health care, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Will AI’s promise be fulfilled? Time will tell.",
+      "reason": "This is a vague generalization and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "When Miranda was born so was her digital twin, Mirabella. As Miranda grew, her twin did, too. Every aspect of the girl’s life was digitized and analyzed in Mirabella’s computer code.",
+      "reason": "This paragraph introduces a specific scenario illustrating AI's potential impact on health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Doctors read Miranda’s genetic instruction book, or genome, from cover to cover. Cells taken from her umbilical cord were reprogrammed into stem cells and then into organoids and tissues that were doused with thousands of drugs and chemicals. Those data were fed into Mirabella so doctors could run computer simulations to see how Miranda might respond later in life to medications or accidental exposure to chemicals.",
+      "reason": "This paragraph provides detailed information on how AI could be used in personalized medicine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Periodic stool samples and skin swabs tracked which bacteria, viruses, fungi and other microbes lived in and on Miranda. Those data formed Mirabella’s digital microbe collection and helped to forecast Miranda’s gut development, skin conditions, food sensitivities and even her brain health.",
+      "reason": "This paragraph gives specific examples of AI's application in monitoring and predicting health conditions.",
+      "label": 1
+    },
+    {
+      "paragraph": "As an adult, Miranda developed pancreatic cancer. Simulations run on Mirabella had predicted the possibility, and Miranda’s doctors caught the tumor early. Doctors examined the tumor’s genome and how the cancer cells responded to treatment. Mirabella got a digital replica tumor. Mirabella and the virtual tumor participated in simulated clinical trials testing prospective treatments. The results helped doctors choose therapies that banished Miranda’s cancer.",
+      "reason": "This paragraph provides a narrative example of how AI could potentially transform health care by predicting and treating diseases.",
+      "label": 1
+    },
+    {
+      "paragraph": "Thanks to aging interventions suggested by virtual experiments, Miranda enjoyed a healthy old age. When Miranda died at 102, Mirabella lived on as a perpetual clinical trial participant helping to improve other people’s health.",
+      "reason": "This paragraph continues the narrative example, illustrating the long-term benefits of AI in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ability to create such complete digital twins doesn’t exist, at least not yet. Building such virtual humans will require merging and analyzing wildly different types of data to craft a truly personalized representation of the patient. But researchers are working on it. Today’s digital twins aren’t full-body representations. Some represent a single organ, such as the heart. Those twins may help design customized medical devices, plan complex heart surgeries or understand how sex hormones may affect heart rhythms. Other still experimental twins model the immune or nervous system.",
+      "reason": "This paragraph provides relevant context about the current state and potential of digital twins in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "And it may never be possible to exactly replicate a person, says Roozbeh Jafari, an electrical engineer and computer scientist at MIT Lincoln Laboratory in Lexington, Mass. But digital twins could help doctors better personalize health care. Doctors “have a lot of data, but the knowledge that they apply when they take readings from you is based on the studies that have been conducted on groups, on communities. Best-case scenario, those groups would be representative of you,” he says. But often data from study groups isn’t representative of a patient, and even when it is, aggregated data still aren’t truly personalized.",
+      "reason": "This paragraph provides expert commentary on the limitations and potential of digital twins in personalizing health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Digital twins would be more than personal data repositories, says Tina Hernandez-Boussard, a medical informatician at Stanford University. They should forecast health in the same way multi­faceted simulations can predict the path of a hurricane. And they’d go beyond precision medicine based on genetic data toward precision care. That type of care considers social and environmental factors that may also influence health, factors such as living in a food desert.",
+      "reason": "This paragraph offers expert insight into the future potential of digital twins in providing comprehensive health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "That holistic view is important, says Joseph Wu, a cardiologist at Stanford. “The human mind is the major player in our human health,” he says. Our mind-set determines what foods we’ll eat and how much, who we socialize with and the quality of those relationships, our exercise patterns, jobs, stress levels, whether we’ll get vaccinations and take our prescribed medications and so much more. DNA and stem cell data can’t predict what type of society a person will be born into or which infectious diseases they might be exposed to. A true digital twin would incorporate those factors and change as a person’s circumstances change, Wu says.",
+      "reason": "The paragraph provides context on the complexity of health factors and the potential role of AI in creating digital twins.",
+      "label": 1
+    },
+    {
+      "paragraph": "Such data are hard to come by for vulnerable populations, including the uninsured and people from marginalized or underserved communities. Some people may not feel comfortable sharing their data. “This notion of a virtual you, a digital you, can be scary,” Hernandez-Boussard says. Others lack comprehensive data because they can’t take time off work, get a ride to appointments or afford additional testing not covered by insurance.",
+      "reason": "The paragraph highlights challenges in data collection for AI in health care, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Transparency about what data AI are using and why is also important, Hernandez-Boussard says. For instance, being Hispanic or Black is a predictor for bad outcomes of pregnancy. But race alone is the wrong data point to explain the connection. “There’s not a genetic or an ancestral component to why it’s linked,” she says. “When we start breaking that down, we see, well, wait, it’s related to nutrition. It’s related to chronic hypertension. It’s related to prenatal care.” Explaining to clinicians and patients what information goes into these models and how they’re built, she says, is important for building trust. — Tina Hesman Saey",
+      "reason": "The paragraph discusses the importance of transparency in AI data use, relevant to AI's role in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "After a wrestling tournament, a high schooler named Esteban noticed that one of the scrapes on his shoulder wasn’t healing. The skin was hot, red and hard. A doctor diagnosed him with a bacterial skin infection and prescribed antibiotics. The drugs didn’t work.",
+      "reason": "The paragraph sets up a narrative about a health care scenario involving AI, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The bacteria were the dreaded “superbug” methicillin-resistant Staphylococcus aureus, or MRSA, which don’t respond to antibiotics commonly used against them. If the doctor couldn’t find an effective drug, the bacteria might spread to the bloodstream, which could be deadly. Fortunately, an AI identified a new antibiotic that squashed the infection. Esteban soon healed, and he went back to the mats.",
+      "reason": "The paragraph illustrates a successful application of AI in health care, directly relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "AI already scours databases of millions of chemical compounds for drugs that could treat a variety of illnesses, including superbug infections. Computer algorithms have been used since the 1990s to predict chemical structures and their functions, says Erin Duffy, chief of research and development for CARB-X, a global nonprofit that supports development of new antibiotics.",
+      "reason": "The paragraph provides specific examples of how AI is currently being used in drug discovery, relevant to the potential transformation of health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "But tools for finding new antivirals, antifungal drugs and bacteria-killing antibiotics are sorely needed. The ranks of bacteria resistant to antibiotics are growing, and they killed more than a million people worldwide in 2019. Still, most people give the drugs little thought. “Antibiotics are considered almost like water,” Duffy says. “Nobody thinks about it until you don’t have them.”",
+      "reason": "The paragraph highlights the urgent need for new antibiotics and the potential role of AI, which is relevant to the article's focus on AI's impact on health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Many pharmaceutical companies have dropped out of the business of developing antibiotics, citing the expense of drug development and lack of profitability. But AI may streamline discovery, development and design enough to get big drug companies back in the game, Duffy says.",
+      "reason": "This paragraph discusses the potential of AI to make antibiotic development more viable, directly relating to the article's theme of AI transforming health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the last decade or so, deep learning, which is based on artificial neural networks, has been the AI approach of choice for many drug hunters, says Jim Collins, a bioengineer at MIT. He and colleagues recently tested large collections of chemical compounds to find ones that could kill specific types of bacteria and trained a graph neural network on that data. These tools, used for processing data that can be described in graphs, are good at recognizing connections in images and in chemical compounds. The researchers then asked the AI to comb through millions of chemicals it had never seen before and flag which ones might be good antibiotics.",
+      "reason": "The paragraph provides detailed information on how AI is being used in drug discovery, relevant to the article's focus on AI's potential in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "AI models trained to find antibiotics against different bacteria discovered two new classes of antibiotics. Halicin — named for the rogue AI in the movie 2001: A Space Odyssey — can kill a wide range of bacteria, Collins and colleagues reported in Cell in 2020. And abaucin can kill Acinetobacter baumannii, a pathogen that has developed resistance to many drugs, the researchers reported in Nature Chemical Biology in 2023.",
+      "reason": "This paragraph provides specific examples of successful AI-driven discoveries in antibiotics, directly relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "One problem is no one really knows exactly how any given AI model decides whether a molecule would make a good antibiotic. Researchers may be hesitant to trust something they can’t probe and understand. “AI today … is a black box,” says Rama Chellappa, a computer and biological engineer and interim codirector of the Data Science and AI Institute at Johns Hopkins University. “You wonder, how is it doing it? If it makes a mistake, you want to be able to explain.”",
+      "reason": "The paragraph discusses the challenges of understanding AI decision-making in healthcare, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Collins, who cofounded the nonprofit Phare Bio based in Boston, wants to understand the patterns AI sees. Demystifying the process may allow researchers to find and refine new classes of antibiotics. And it might reassure scientists wary of black box predictions. “Many of my colleagues are dissatisfied with simply a number without a mechanistic explanation or without a justification for that number,” Collins says.",
+      "reason": "The paragraph provides insight into efforts to make AI processes more transparent, relevant to AI's role in healthcare.",
+      "label": 1
+    },
+    {
+      "paragraph": "To get AI to show its work, he and colleagues made a new graph algorithm. The AI was fed data about a library of chemicals that can kill bacteria and that the AI predicted won’t harm human cells. It assigned values to the arrangement of atoms and bonds inside each chemical, mapping their structures. Once it had learned what an antibiotic should look like, the researchers had the AI sift through more than 12 million compounds it had never seen before.",
+      "reason": "The paragraph details a specific method used to improve AI transparency in drug discovery, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "It found some potential antibiotics that contained ring structures already known to kill bacteria. It also discovered others with chemical structures that scientists previously didn’t know had antibacterial activity, Collins and colleagues reported in Nature in 2024. Those include two compounds that killed S. aureus and Bacillus subtilis almost as well as the powerful antibiotic vancomycin does. In other experiments, this new class of antibiotics also killed MRSA and some other antibiotic-resistant bacteria.",
+      "reason": "The paragraph provides specific results of AI research in discovering new antibiotics, directly relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "AI holds promise for finding new antibiotics and predicting whether the drugs will poison people along with bacteria, but the toxicity predictor comes with ethical concerns, Collins says. “These tools potentially make it easier to identify compounds with new mechanisms of action that are toxic for which we don’t have antidotes.”",
+      "reason": "The paragraph discusses ethical concerns related to AI in healthcare, relevant to the article's exploration of AI's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "But he doesn’t think that should limit the use of AI tools. “It’s really important to have them open and widely available so that they can be used by groups around the world for good.” At the same time, scientists should develop countermeasures to things that could be dreamed up by nefarious AI, as well as to natural toxins. Collins is already working on an AI for marine toxin antidotes. — Tina Hesman Saey",
+      "reason": "The paragraph discusses the potential and ethical considerations of AI in health care, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Emma is 21 years old and has a history of eating disorders. Her doctor has referred her for inpatient treatment for anorexia, but the estimated wait time is a month. To help bridge the gap, Emma downloads a mental health AI chatbot. But instead of helping change her troubling thoughts and behaviors about food, the chatbot gives her diet tips.",
+      "reason": "This paragraph provides a narrative example of AI's potential pitfalls in health care, directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The woman in this story is fictitious, but the scenario comes straight from reality. In 2023, the National Eating Disorders Association shut down its chatbot, Tessa, after it gave inappropriate diet advice to a user.",
+      "reason": "This paragraph provides factual context about real-world issues with AI in health care, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s one concern about using chatbots for mental health issues, says Gemma Sharp, an eating disorders researcher and clinical psychologist at the University of Queensland in Brisbane, Australia. “A chatbot is only as good as the data it’s trained on,” she says. If a bot never learned how to respond to certain questions, it could spit out answers that are wrong — or even dangerous.",
+      "reason": "The paragraph discusses a specific concern about AI in health care, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sharp and others in the field can tick off a litany of other potential concerns with AI chatbots, including how to safeguard people’s privacy, whether a chatbot can recognize an imminent crisis and provide appropriate help, and the possibility of unnatural responses to people’s queries.",
+      "reason": "This paragraph lists potential issues with AI in health care, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "But these less-than-perfect helpers do have some built-in benefits. They’re widely accessible, available 24/7 and may help people feel comfortable discussing sensitive information.",
+      "reason": "The paragraph provides context on the benefits of AI chatbots in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Users today can pick from a long list of mental health chatbot apps, with names including Woebot, Mello and Earkick. Cute avatars often bely sophisticated computation. AI chatbots use natural language processing, a type of artificial intelligence that lets computers communicate using human language. Many use large language models like ChatGPT, which scientists trained on vast stores of data, including text from web pages, articles and books on the internet.",
+      "reason": "The paragraph provides specific examples and technical details about AI chatbots in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Alternatively, researchers like Sharp can train the AI on actual conversations between therapists and patients, so it can respond in a way that feels more natural than a scripted response. Sharp’s latest bot is geared toward supporting people wait-listed for eating disorder treatment. She wrapped up a clinical trial in December and plans to make the bot available early this year.",
+      "reason": "The paragraph discusses a specific AI application in health care and its development status.",
+      "label": 1
+    },
+    {
+      "paragraph": "Chatbots are also being adopted in other areas of mental health. Luke MacNeill, a digital health researcher at the University of New Brunswick in Canada, tested the mental health chatbot Wysa on people with arthritis and diabetes. In a trial with 68 people, those who used Wysa for four weeks felt less anxiety and depression than before they started using the app, MacNeill and colleagues reported in JMIR Formative Research in 2024. Those who didn’t use Wysa saw no change.",
+      "reason": "The paragraph provides evidence of AI's impact on mental health care through a specific study.",
+      "label": 1
+    },
+    {
+      "paragraph": "People liked the bot’s convenience, MacNeill says, and “the fact that they could basically say anything to the chatbot and not have to worry about being judged.” But Wysa’s answers could get repetitive, and users sometimes felt as if the chatbot didn’t understand what they were saying.",
+      "reason": "The paragraph offers user feedback on AI chatbots, highlighting both benefits and limitations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those findings echo what computer scientist Sabirat Rubya discovered when analyzing over 6,000 user reviews of 10 mental health chatbot apps. But overall, users liked the bots’ humanlike way of interacting, Rubya’s team at Marquette University in Milwaukee reported in 2023.",
+      "reason": "The paragraph provides specific findings from a study on AI in health care, relevant to the article's focus on AI's potential impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "These apps are still “far — way far — from perfect,” Rubya says. The responses can feel very one-size-fits-all. For instance, most chatbots tend to overlook whether people have a physical disability, which can be frustrating for users unable to do certain exercises the bots recommend. And bots tend to speak to people in the same way, regardless of age, gender or cultural differences.",
+      "reason": "The paragraph discusses limitations of AI in health care, directly relevant to the article's exploration of AI's potential and challenges.",
+      "label": 1
+    },
+    {
+      "paragraph": "Asking users to fill out a questionnaire before chatting could help bots understand who they’re talking to, Rubya says. In the future, more chatbots will likely rely on ChatGPT, which could make conversations even more humanlike. But dialog currently generated with these chatbots is prone to bias and can contain errors.",
+      "reason": "The paragraph offers potential solutions and future developments for AI in health care, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "MacNeill says he wouldn’t trust a chatbot with mental health emergencies. Something could go wrong. Instead, “you should probably go seek out a real mental health professional,” he says.",
+      "reason": "The paragraph provides a critical perspective on AI's limitations in health care, relevant to the article's examination of AI's role.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sharp’s team trained its wait-list chatbot to send alerts to appropriate services if it detects a user having a mental health emergency. But even here, human help can offer what bots cannot. If a patient in her office is having a crisis, Sharp can drive them to the hospital. A chatbot “is never going to be able to do that,” she says.",
+      "reason": "The paragraph highlights both AI's capabilities and limitations in health care, directly relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Blending human and AI services may be best. Patients could receive personal support from clinicians when needed — or when clinicians are available — and electronic support from AI bots for the times in between. “I’m glad that we have this technology,” Sharp says. But “there’s something quite special about human-to-human contact that I think would be very hard to replace.” — Meghan Rosen",
+      "reason": "The paragraph discusses the potential integration of AI in healthcare, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The year is 2049. A small crew of astronauts is en route to Mars, the first time humans have embarked on a mission to the Red Planet. Deep in the shuttle’s bowels, Ava, a 40-year-old engineer, has noticed a flash of pain in her lower belly. It comes and goes at first, but then worsens when she walks. Appendicitis. Without an operation, Ava could die. But there’s no human surgeon on board. Instead, her life depends on artificial intelligence.",
+      "reason": "This paragraph is a fictional scenario unrelated to the current state of AI in healthcare.",
+      "label": 0
+    },
+    {
+      "paragraph": "An AI-enabled robot able to perform an appendectomy with no human oversight might sound like science fiction. Especially considering what’s available today. The most widely used surgical robot, called da Vinci, relies on human operators. A fully autonomous bot that slices, sutures and makes decisions all on its own “definitely is a ways away,” says Axel Krieger, a medical roboticist at Johns Hopkins University. But he and other scientists and doctors are laying the groundwork for such a system.",
+      "reason": "The paragraph provides relevant information about the current state and future potential of AI in surgical procedures.",
+      "label": 1
+    },
+    {
+      "paragraph": "Teams around the world are experimenting with ways AI can assist during surgery. Many of these technological assists rely on computer vision, a type of AI that interprets visual information, like the video feed of a laparoscopic surgery. Scientists recently tested one such system, SurgFlow, during an operation to remove a patient’s gallbladder. SurgFlow could recognize steps in the procedure, track surgical tools, identify anatomical structures and assess whether the surgeon had completed a crucial step, Pietro Mascagni and colleagues reported in a proof-of-concept demonstration in the British Journal of Surgery in 2024.",
+      "reason": "This paragraph provides specific examples of AI applications in surgery, directly relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "One day, such a system could be “an extra set of eyes that assist the surgeon,” says Mascagni, a surgical data scientist at France’s IHU-Strasbourg.",
+      "reason": "The paragraph offers a direct quote about the potential future role of AI in surgery, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Further along is Sturgeon, now used routinely during brain surgery in the Netherlands at the Princess Máxima Center for Pediatric Oncology in Utrecht. Rather than offer a second set of eyes, Sturgeon gives surgeons a kind of superpower: the ability to rapidly riffle through a tumor’s DNA and figure out its subtype. That information helps surgeons determine how much tissue needs to be carved away during surgery.",
+      "reason": "This paragraph provides specific information about how AI is being used in brain surgery, directly relating to the potential transformation of health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Pathologists typically identify tumor subtype by examining samples under a microscope, which can be inconclusive. Sturgeon can analyze DNA data in real time and come up with a diagnosis. The whole process takes about 90 minutes or less — fast enough for surgeons to get and use the intel during an operation, says Jeroen de Ridder, a bioinformatician at theUMC Utrecht and Oncode Institute.",
+      "reason": "This paragraph provides context on how AI improves the speed and accuracy of tumor diagnosis, relevant to the article's focus on AI in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 18 out of 25 surgeries, Sturgeon offered the correct diagnosis, de Ridder’s team reported in Nature in 2023. In the seven remaining cases, the AI abstained. That’s important, de Ridder says, because making the wrong diagnosis is “the worst thing that can happen.” It could lead to a surgeon cutting out too much brain tissue or leaving bits of an aggressive tumor behind.",
+      "reason": "This paragraph provides data on the effectiveness and cautionary use of AI in surgeries, relevant to the article's exploration of AI's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "But de Ridder is open-eyed about AI’s risks. When an algorithm like Sturgeon delivers an answer, it can seem black or white, with no shades of uncertainty. “It’s very easy to pretend it’s flawless, and it clearly is not,” he says.",
+      "reason": "This paragraph discusses the potential risks and limitations of AI, which is relevant to the article's examination of AI's role in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Krieger has been working on one AI-enabled surgeon, the Smart Tissue Autonomous Robot, for a decade. In 2022, Krieger and colleagues reported that STAR could stitch up a wound inside living pigs, suturing together the tubular halves of the small intestines, with no human help.",
+      "reason": "This paragraph introduces another AI application in surgery, contributing to the article's theme of AI's transformative potential in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Krieger’s team trained STAR by breaking down surgical tasks into steps and then teaching the AI to manipulate the robot correctly in each step. But these days, he’s excited about a different approach — one that combines the neural network architecture underlying ChatGPT with a type of AI training that relies on expert demonstrations. It’s called imitation learning, and it lets AI models learn directly from video data. Researchers fed the model videos of the da Vinci robot lifting a piece of tissue or tying a suture knot, and the model figured out how to perform the tasks by itself, Krieger’s team reported last November at the Conference on Robot Learning.",
+      "reason": "The paragraph provides specific information about AI advancements in surgical tasks, relevant to the potential transformation of health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now the team is testing its system on more complex surgical tasks. Krieger is optimistic. “I really believe it’s the most promising future direction for our field,” he says. Though there are already surgical procedures that have some autonomy (think LASIK for improving vision), perhaps one day Krieger’s approach could enable autonomous machines that perform complicated operations — even on different planets. — Meghan Rosen",
+      "reason": "The paragraph discusses the future potential of AI in health care, directly related to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Linda is in her 60s, retired and has just set out to play some morning pickleball.",
+      "reason": "The paragraph is an unrelated anecdote and does not contribute to the main topic of AI in health care.",
+      "label": 0
+    },
+    {
+      "paragraph": "As she walks to the courts, sensors woven into her clothing track body temperature, blood pressure, chemicals in her sweat and the rumblings of her stomach. The technology is nearly invisible. Linda doesn’t even notice the scanner built into her bra.",
+      "reason": "The paragraph introduces AI technology in health monitoring, relevant to the article's focus on AI in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Six months ago, doctors biopsied a lump in her breast. It was benign, but a subsequent scan revealed another lump nearby. Ever since, Linda has been wearing an UltraBra to monitor the new lump’s growth. The bra takes regular ultrasound images of her breast and an integrated AI flags anything concerning. So far, everything has looked good. The bra has saved her time (fewer trips to the doctor’s office) and given her peace of mind (if the AI spots something suspicious, she’ll find out from her doctor ASAP). Now, instead of worrying about cancer, Linda can focus on her dinks.",
+      "reason": "The paragraph provides a specific example of AI application in health care, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "That fictional scene (and bra) sounds like something out of a Marvel movie, like the artificial intelligence J.A.R.V.I.S. monitoring Tony Stark’s vitals and diagnosing an anxiety attack. “We’re nowhere near that level of technology,” says Emilio Ferrara, a computer scientist at the University of Southern California in Los Angeles. But we are marching down the path to wearable devices that offer those kinds of personalized health insights.",
+      "reason": "The paragraph provides context on the current state of AI technology in health care and its potential future, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the not-too-distant future, AI-enabled devices could act like virtual life coaches, fishing for insights in the data flooding from a person’s body and packaging them into suggestions for users, Ferrara says. One day, artificial intelligence could use an individual’s real-time data to forecast how their health may change six months or a year down the road if they modify their diet, activity or sleep habits.",
+      "reason": "This paragraph discusses potential future applications of AI in health care, directly relating to the article's focus on AI's transformative potential.",
+      "label": 1
+    },
+    {
+      "paragraph": "Scientists are experimenting with such ideas in the lab. And AI is already integrated into the Fitbits, Apple Watches and Pixel Watches that millions of people use every day. These devices can track heart rate, figure out when you’re asleep or awake and recognize physical activities. “Those are all AI models,” says Xin Liu, a Google research scientist based in Seattle.",
+      "reason": "The paragraph provides examples of current AI applications in health care, relevant to the article's exploration of AI's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "AI algorithms trained on human movement data, for example, let the devices classify people’s activities into categories, like running, cycling or walking. Other algorithms help separate the signal a device is trying to detect — like someone’s heartbeat — from other noise that’s coming in.",
+      "reason": "This paragraph explains how AI algorithms function in health-related devices, contributing to the article's discussion on AI in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "Liu is working on even more advanced AI-based systems. He is exploring ways to tap into the power of large language models. They “are extremely powerful architectures for learning patterns in data,” Ferrara says. Liu and colleagues recently reported a version of Google’s Gemini that can look through someone’s wearable data and offer recommendations on sleep and fitness.",
+      "reason": "The paragraph discusses ongoing advancements in AI technology relevant to health care, aligning with the article's theme of AI's potential impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "His team is also working on a system that combines Gemini with other computational tools to answer real-life open-ended queries about health, such as, “What are my sleep patterns during different seasons?” and “Tell me about anomalies in my steps last month.” In tests with such requests, responses were accurate more than 80 percent of the time, Liu and colleagues reported last year. But the research is still in an early stage, he says.",
+      "reason": "The paragraph provides specific examples of AI applications in health care and their current accuracy, contributing to the article's exploration of AI's potential.",
+      "label": 1
+    },
+    {
+      "paragraph": "One challenge, as with many health questions, is “there’s no single answer,” Liu says. “There are 10 different possible solutions, and they’re all reasonable.”",
+      "reason": "The paragraph highlights a challenge in applying AI to health care, which is relevant to the discussion of AI's potential and limitations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other teams are exploring AI-powered wearables for medical applications. Gastroenterologist Robert Hirten is working on a model that uses data from Fitbits, Apple Watches and Oura Rings to forecast when a person’s inflammatory bowel disease may flare up. These devices collect enough data for scientists to identify inflammation in people with the disease, Hirten’s team reported at the 2024 Digestive Disease Week meeting.",
+      "reason": "The paragraph provides a specific example of AI application in health care, relevant to the article's focus on AI's transformative potential.",
+      "label": 1
+    },
+    {
+      "paragraph": "An AI that monitors wearable data over time could give patients a heads-up weeks before symptoms manifest. “Instead of waiting until someone’s developing diarrhea or bleeding or pain, we can start getting ahead of it,” says Hirten, of the Icahn School of Medicine at Mount Sinai in New York City.",
+      "reason": "The paragraph discusses the potential benefits of AI in predicting health issues, directly related to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hirten points out that real-world validation of any AI tool for medicine is crucial. “We need to be very certain that it’s reliable and that the information it’s going to provide to doctors or patients is accurate,” he says.",
+      "reason": "The paragraph emphasizes the importance of validation in AI health tools, relevant to the article's exploration of AI's role in health care.",
+      "label": 1
+    },
+    {
+      "paragraph": "With so much health data streaming among our digital devices, privacy is another big area for caution, says Uttandaraman Sundararaj, a biomedical engineer at the University of Calgary in Canada. There’s a chance that personal health data could be hacked. It’s important to encrypt the data or otherwise protect it, Sundararaj says.",
+      "reason": "The paragraph discusses privacy concerns related to AI in health care, which is relevant to the potential transformation AI could bring.",
+      "label": 1
+    },
+    {
+      "paragraph": "He envisions secure AI systems one day weaving together streams of wearable data to perhaps predict when a heart attack or stroke might occur. That analytical power, Sundararaj says, “gives us the ability to actually see in the future.” — Meghan Rosen",
+      "reason": "The paragraph provides a specific example of how AI could transform health care by predicting medical events.",
+      "label": 1
+    },
+    {
+      "paragraph": "A retired Navy veteran caught what he thought was a cold from his great-grandson after taking the sniffling toddler to a petting zoo. The little guy bounced back, but GG-Pop kept feeling worse. He ended up in the emergency room with a cough, fever, muscle aches and difficulty breathing. A chest X-ray indicated he had pneumonia.",
+      "reason": "The paragraph provides a narrative setup but lacks direct relevance to AI's role in health care transformation.",
+      "label": 0
+    },
+    {
+      "paragraph": "An AI used to analyze his blood revealed that he was at risk of developing sepsis, a life-threatening condition in which the immune system overreacts to infection. More than 1.7 million adults in the United States develop sepsis each year, and without prompt treatment, the condition can lead to tissue or organ damage, hospitalization and death. About 350,000 people who develop sepsis while hospitalized die or are sent to hospice care.",
+      "reason": "The paragraph illustrates a specific application of AI in diagnosing and managing a critical health condition, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Doctors admitted GG-Pop to the hospital and gave him fluids and antibiotics. As a backup, his physicians also used another AI that sorted through his past and present electronic medical records and warned doctors that, despite treatment, the man was approaching a sepsis danger zone. The team gave him steroids to help calm his immune system. GG-Pop recovered and was soon onto other adventures with his great-grandson.",
+      "reason": "The paragraph continues the narrative of AI's role in patient care, showing its practical application in a medical setting.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some AI-based risk predictors for sepsis are already in clinical use or coming online soon, says Suchi Saria, an AI researcher at the Johns Hopkins Whiting School of Engineering. One, made by Chicago-based Prenosis, won authorization from the U.S. Food and Drug Administration last April. Such AI help is important because sepsis can be hard to spot. Standard tests can’t ID the infectious microbe in most pneumonia cases. And there is no hard dividing line between sepsis and not sepsis. “Because the early signs are not as well understood, it’s very easy to not notice,” Saria says. “In this scenario, every hour matters.”",
+      "reason": "Provides specific examples of AI applications in healthcare and their importance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Saria, who founded the company Bayesian Health, helped create an AI that sorts through electronic health records to detect early signs of sepsis. The AI, dubbed TREWS for Targeted Real-time Early Warning System, correctly flagged 82 percent of sepsis cases, Saria and colleagues reported in Nature Medicine in 2022.",
+      "reason": "Details a specific AI system and its effectiveness in detecting sepsis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sepsis patients whose doctors promptly responded to an alert from the AI were less likely to die and had shorter hospital stays than those whose doctors took over three hours to respond.",
+      "reason": "Provides evidence of the AI's impact on patient outcomes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Many sepsis predictors comb electronic health data, says Tim Sweeney, cofounder and CEO of Inflammatix. Alternatively, his company developed a machine learning blood test, under review by the FDA, that measures 29 messenger RNAs (molecules that act as blueprints to make proteins) from white blood cells to tell whether an infection is bacterial or viral and to predict whether the patient will develop sepsis in the next week.",
+      "reason": "Introduces another AI-based innovation and its potential application.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even if the test wins approval, the company will need to monitor its performance and update the test accordingly, Sweeney says. “It would be unethical not to have a mechanism to update the algorithm in some way with more data,” he says. Government approval may depend on having the right update plan. The FDA, Health Canada and the U.K. Medicines and Healthcare products Regulatory Agency have agreed on guidelines for updating medical devices that run on machine learning or more advanced AI.",
+      "reason": "Discusses regulatory considerations and the importance of updating AI systems.",
+      "label": 1
+    },
+    {
+      "paragraph": "AI is not a set-it-and-forget-it proposition, says Michael Matheny, a bioinformatician at Vanderbilt University Medical Center in Nashville. Matheny and colleagues built an AI that evaluates hospitals on how well they prevent acute kidney injury — a sudden drop in the kidneys’ ability to filter waste products from the blood — after cardiac catheterization, a procedure often used to find and clear blocked arteries. If U.S. hospitals consistently used good preventive strategies, about half of the 140,000 yearly acute kidney injuries could be avoided, some studies suggest.",
+      "reason": "The paragraph provides specific examples of AI applications in health care and their potential impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Matheny and colleagues trained the AI and made sure it worked in various settings. But over time, “we tried to use these models, and they kept breaking,” Matheny says. That’s because the data AI trains on aren’t always the same as the data it encounters in real life. Real-world data change, or “drift,” over time, so updates are needed.",
+      "reason": "The paragraph discusses challenges in AI implementation, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Matheny’s team wanted to avoid unnecessary overhauls. The researchers used another AI to supervise the first one and set off alarms when results seemed fishy. The value of the supervisor became obvious when the COVID-19 pandemic hit, bringing the ultimate data drift.",
+      "reason": "The paragraph explains a solution to a problem in AI application, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Before the pandemic, most cardiac catheterizations were elective outpatient procedures with lower risk of kidney injury. But then, in March 2020, “the data went crazy,” Matheny says. “All elective [catheterizations] were stopped for three or four months. The patients that were brought back into the cath lab after that were very different than your typical, average patient. And so the algorithm was broken.” But the supervisor flagged the issue, and the scientists corrected it.",
+      "reason": "The paragraph provides a real-world example of AI adaptation during the pandemic, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "“If we’d done a fixed strategy, we would have had a period of time where the model was just flat broken,” Matheny says.",
+      "reason": "The quote emphasizes the importance of adaptable AI strategies, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hospitals that used the AI maintained lower than expected rates of kidney injury. But those same hospitals stopped using the system after the study. That’s an indication that AI developers need to make sure their systems are useful and trustworthy and have a plan to keep them reliable, says Sharon Davis, an informatician and Matheny’s colleague at Vanderbilt. “You can make the most accurate model in the world, but if we don’t deliver it well, and it doesn’t provide actionable information to providers,” she says, “it’s not going to change anything.” — Tina Hesman Saey",
+      "reason": "The paragraph provides specific examples and expert commentary on the challenges of implementing AI in health care.",
+      "label": 1
+    }
+  ]
+}

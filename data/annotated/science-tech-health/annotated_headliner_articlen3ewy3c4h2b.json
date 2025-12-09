@@ -1,0 +1,89 @@
+{
+  "headline": "Pennington Biomedical highlights how cellular quality control contribute to insulin resistance related to type 2 diabetes | EurekAlert!",
+  "context": [
+    "image:",
+    "Journal of Cachexia, Sarcopenia and Muscle"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Researchers at Pennington Biomedical Research Center have revealed critical insights into how impaired mitochondrial dynamics and quality control mechanisms in skeletal muscle influence insulin sensitivity in patients with Type 2 Diabetes, or T2D. The study, titled \"Deubiquitinating Enzymes Regulate Skeletal Muscle Mitochondrial Quality Control and Insulin Sensitivity in Patients with Type 2 Diabetes,\" was recently published in the Journal of Cachexia, Sarcopenia and Muscle.​",
+      "reason": "This paragraph introduces the study and its relevance to insulin sensitivity in T2D, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The research team, led by Pennington Biomedical Executive Director Dr. John Kirwan, focused on the significance of deubiquitinating enzymes, or DUBs, in regulating mitochondrial dynamics within skeletal muscle. Findings suggest that mitochondrial fragmentation can bypass defects in mitophagy, the process by which cells remove damaged mitochondria, to sustain skeletal muscle quality control in patients with T2D. This adaptation may help maintain mitochondrial function despite impaired mitophagy.​",
+      "reason": "This paragraph provides detailed findings and mechanisms related to the study, contributing to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "In other words, the study shows that people with T2D have fewer healthy mitochondria, the parts of the cell that produce energy, because a certain protein – dynamin-related protein 1, or DRP1 – is working too much. In addition, another group of proteins – DUBs – are shown to interfere with a process that helps the body clean up damaged mitochondria. This interference makes it harder for muscles to use insulin properly, which is a key issue in diabetes.",
+      "reason": "This paragraph simplifies and explains the study's findings, making it relevant to understanding the research's implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "The research findings advance the understanding of how impaired mitochondrial dynamics and quality control may contribute to skeletal muscle insulin resistance and the manifestation of T2D, and also provides key evidence that DUB antagonists may play an important role in preventing or treating T2D.",
+      "reason": "This paragraph summarizes the significance of the findings and their potential impact on T2D treatment, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our research team examined how certain enzymes affect mitochondria in muscle cells of people with diabetes,\" said Dr. Kirwan Dr. Kirwan, Executive Director and George A. Bray, Jr. Endowed Super Chair in Nutrition at Pennington Biomedical. \"We found that when the normal cleanup process for damaged mitochondria isn't working well, the cells adapt by breaking mitochondria into smaller pieces. This alternative approach helps maintain muscle function despite the metabolic challenges of Type 2 diabetes. Our study highlights the complex interplay between mitochondria and insulin, paving the way for future interventions aimed at improving metabolic health.”",
+      "reason": "The paragraph provides specific findings and insights from the research, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Pennington Biomedical played a pivotal role in this study, with several key researchers from the Integrated Physiology and Molecular Medicine Laboratory contributing to the investigation. The Center's commitment to advancing metabolic research continues to drive discoveries that have significant implications for public health.",
+      "reason": "The paragraph provides context about the institution's role and its impact on public health, which is relevant to the research's significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "This research was supported by the National Institute of Diabetes and Digestive and Kidney Diseases (R01 DK108089 to J.P.K.), National Institute of General Medical Sciences (grant U54 GM104940 to J.P.K.) and Cleveland Clinic (UL1 RR024989) (Cleveland, OH). This project used core facilities at Pennington Biomedical Research Center that are supported, in part, by NIH awards P30GM118430, P20GM135002 and P30DK072476. W.S.D. was supported by the National Institute of Aging (K99AG083239-01).",
+      "reason": "The paragraph lists funding sources and grants, which is standard but not directly relevant to the core findings of the research.",
+      "label": 0
+    },
+    {
+      "paragraph": "For more information about this study and other groundbreaking research at Pennington Biomedical Research Center, please visit www.pbrc.edu.",
+      "reason": "The paragraph is a call to action for more information, not directly contributing to the article's core content.",
+      "label": 0
+    },
+    {
+      "paragraph": "About the Pennington Biomedical Research Center",
+      "reason": "The paragraph is likely an introduction or background about the institution, not directly related to the research findings.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Pennington Biomedical Research Center is at the forefront of medical discovery as it relates to understanding the triggers of obesity, diabetes, cardiovascular disease, cancer and dementia. Pennington Biomedical has the vision to lead the world in promoting metabolic health and eliminating metabolic disease through scientific discoveries that create solutions from cells to society. The center conducts basic, clinical, and population research, and is a campus in the LSU System.",
+      "reason": "This paragraph provides background information about the Pennington Biomedical Research Center, which is not directly related to the specific research on cellular quality control and insulin resistance.",
+      "label": 0
+    },
+    {
+      "paragraph": "The research enterprise at Pennington Biomedical includes over 600 employees within a network of 44 clinics and research laboratories, and 13 highly specialized core service facilities. Its scientists and physician/scientists are supported by research trainees, lab technicians, nurses, dietitians, and other support personnel. Pennington Biomedical is a globally recognized state-of-the-art research institution in Baton Rouge, Louisiana. For more information, see www.pbrc.edu.",
+      "reason": "This paragraph provides general information about the size and scope of the Pennington Biomedical Research Center, which is not directly related to the specific research on cellular quality control and insulin resistance.",
+      "label": 0
+    },
+    {
+      "paragraph": "Journal of Cachexia Sarcopenia and Muscle",
+      "reason": "This is a mention of a journal name without any context or information related to the research topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "People",
+      "reason": "This is a single word without context or information related to the research topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Deubiquitinating Enzymes Regulate Skeletal Muscle Mitochondrial Quality Control and Insulin Sensitivity in Patients With Type 2 Diabetes",
+      "reason": "This paragraph directly relates to the research topic by mentioning the role of deubiquitinating enzymes in regulating mitochondrial quality control and insulin sensitivity in type 2 diabetes.",
+      "label": 1
+    },
+    {
+      "paragraph": "4-Mar-2025",
+      "reason": "The paragraph is a date and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Conflicts of Interest\nC.E.F. is currently an investigator at Mission Therapeutics, a company with commercial interest in deubiquinating enzymes (DUB) drug discovery and development. Mission Therapeutics had no role in the design and conduct of the study, collection, analysis or interpretation of the data, manuscript preparation or review.",
+      "reason": "The paragraph provides conflict of interest information, which is not directly related to the main premise of the article.",
+      "label": 0
+    }
+  ]
+}

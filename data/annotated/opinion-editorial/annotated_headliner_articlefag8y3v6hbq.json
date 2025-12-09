@@ -1,0 +1,54 @@
+{
+  "headline": "Analysis: US cites QRIS as trade barrier, but US payment model unfit for Indonesia - Academia - The Jakarta Post",
+  "context": [
+    "A buyer pays his bill using Quick Response Indonesia Standard (QRIS) code at a street foodstall on Jl. Ampera Raya in South Jakarta on Feb. 6, 2021. Bank Indonesia estimated 12 million micro, small and medium enterprises (MSMEs) would shift to the cashless-payment method in 2021.  (Antara/Reno Esnir)",
+    "ndonesia’s efforts to strengthen trade ties with the United States have hit an unexpected roadblock, centered on the country’s QR code-based payment system—Quick Response Indonesia Standard (QRIS). The U.S. government has classified QRIS as a trade barrier, arguing that it has curtailed the dominance of Visa and Mastercard in Indonesia’s payment ecosystem, where both companies had expanded prior to QRIS’s launch in 2019."
+  ],
+  "annotations": [
+    {
+      "paragraph": "According to a report by the Office of the United States Trade Representative (USTR), QRIS was implemented without adequate international consultation, effectively sidelining foreign stakeholders. The claims international stakeholders were excluded from consultations and had no opportunity to weigh in on the policy. However, this claim is questionable. Visa, Mastercard, and Europay—all part of the global EMVCo consortium—are members of the Indonesian Payment System Association (ASPI), which was engaged throughout QRIS development. This undermines the U.S. assertion of a lack of international input.",
+      "reason": "The paragraph provides specific details about the U.S. claims and counters them with evidence of international involvement in QRIS development.",
+      "label": 1
+    },
+    {
+      "paragraph": "At the heart of the dispute is not a lack of consultation, but in the operational structure of Indonesia’s National Payment Gateway (NPG), which prevents Visa and Mastercard from building their own local switching networks. This exclusion is not incidental; it is enshrined in Bank Indonesia Regulation No. 19/8/PBI/2017, which mandates that all domestic card transactions be processed through switching institutions located in Indonesia. As a result, global card networks are restricted to cross-border transactions and barred from processing local payments through their international infrastructure.",
+      "reason": "This paragraph provides essential context about the regulatory framework affecting Visa and Mastercard in Indonesia.",
+      "label": 1
+    },
+    {
+      "paragraph": "From a practical standpoint, QRIS was developed with Indonesia’s unique market conditions in mind. It offers a low-cost, easy-to-adopt solution for micro, small, and medium enterprises (MSMEs), which form the backbone of the nation’s economy. In contrast, the Visa-Mastercard system introduces higher implementation costs and complexity—particularly if the U.S. expects Indonesia to adopt a system modeled after its own.",
+      "reason": "The paragraph explains why QRIS is suitable for Indonesia's market, contrasting it with the U.S. system.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the United States, contactless card payments dominate, relying on cards issued by major networks like Visa and Mastercard. But accessing these cards requires passing stringent Know-Your-Customer (KYC) and creditworthiness screenings. Such requirements would exclude large segments of Indonesia’s informal workforce, many of whom rely on peer-to-peer lending or “paylater” services, from accessing these systems.",
+      "reason": "This paragraph highlights the incompatibility of the U.S. payment model with Indonesia's economic conditions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Moreover, the physical and operational costs of distributing contactless cards and installing compatible terminals are significantly higher than QRIS, which requires only a printed QR code and a smartphone. This makes QRIS a more inclusive and scalable solution for Indonesia’s diverse payment needs.",
+      "reason": "The paragraph provides a comparison of costs and scalability between QRIS and the U.S. system.",
+      "label": 1
+    },
+    {
+      "paragraph": "Whether you're looking to broaden your horizons or stay informed on the latest developments, \"Viewpoint\" is the perfect source for anyone seeking to engage with the issues that matter most.",
+      "reason": "This paragraph is promotional and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Please check your email for your newsletter subscription.",
+      "reason": "This paragraph is a call to action for newsletter subscription and not relevant to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "View More Newsletter",
+      "reason": "This is a navigation prompt and does not provide information relevant to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Notably, the U.S. has expressed similar concerns elsewhere. India’s National Common Mobility Card (NCMC) was criticized in a similar way to the QRIS, with the report stating that their plan to utilize proprietary QR code standard was disadvantaging foreign businesses and that the Indian government explicitly avoided sharing the code’s specifications to prevent foreign firms from participating in the roll-out of the NCMC.",
+      "reason": "This paragraph provides relevant context by comparing the situation in Indonesia with a similar case in India, highlighting a pattern in U.S. trade concerns.",
+      "label": 1
+    }
+  ]
+}

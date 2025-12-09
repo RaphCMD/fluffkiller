@@ -1,0 +1,99 @@
+{
+  "headline": "Opinion | M.L.K. Wrote a Love Letter to a Nation Torn by Hate. Sound Familiar? - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "May 2, 2025"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Mr. Eig is the author of “King: A Life,” the winner of the 2024 Pulitzer Prize for biography.",
+      "reason": "This is background information about the author and not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Great waves of cruelty pound us. Government officials use the law to attack the weak and vulnerable. Out of fear or indifference, citizens turn a blind eye to suffering and injustice.",
+      "reason": "This paragraph sets the stage for the article's discussion on societal issues, relevant to the theme of MLK's letter.",
+      "label": 1
+    },
+    {
+      "paragraph": "These were the conditions the Rev. Dr. Martin Luther King Jr. described in the letter he wrote from a Birmingham, Ala., jail cell. First published in May 1963, the letter spread widely, no small feat for a nearly 7,000-word, philosophy-filled essay in the days before electronic media. Newspapers and magazines reprinted it, and churches handed out copies to worshipers.",
+      "reason": "This paragraph provides historical context about MLK's letter, directly related to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The letter struck a chord because, more than anything else, it was a love letter — a love letter written for a nation torn by hate. Dr. King’s message was rooted in the belief that love has the power to overcome cruelty, the power even to reform unjust systems and laws. His protests in Birmingham were intended not simply to condemn the city’s segregation laws but also to call Americans to action.",
+      "reason": "This paragraph explains the core message of MLK's letter, which is central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr. King believed most government leaders and ordinary Americans would choose mercy over meanness if they saw the meanness for themselves. It was a belief inspired by his Christian faith. That’s why he went to jail and why he asked hundreds of others to follow him there. And indeed, when Americans subsequently saw peaceful protesters thrashed by water cannons, attacked by police dogs and loaded in police wagons, the nation’s mood shifted, and politicians responded.",
+      "reason": "This paragraph provides insight into MLK's beliefs and the impact of his actions, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Today, as the Trump administration deports people without due process, cuts funding for education and science, fires federal workers by the thousands, disrupts global alliances and punishes perceived enemies, cruelty prevails. At the same time, President Trump’s approval ratings are falling.",
+      "reason": "Provides context on current political climate relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "For those who disapprove of his tactics, who prefer mercy for the marginalized and who wish to fight back but don’t know how, Dr. King’s “Letter From Birmingham Jail” shows the way.",
+      "reason": "Directly connects Dr. King's letter to the current situation, aligning with the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Episcopal bishop Mariann Edgar Budde demonstrated Dr. King’s form of peaceful protest in January when she directly asked Mr. Trump at an inauguration service to show compassion to immigrants and L.G.B.T.Q. people. Senator Chris Van Hollen of Maryland did the same last month when he met with Kilmar Armando Abrego Garcia, a Maryland man who was wrongly deported, in El Salvador. One might imagine a delegation of American religious leaders following the senator’s and Dr. King’s examples and marching in front of the prison where Mr. Abrego Garcia is detained and demanding his release, their number growing by the day and week as Americans recognize that one man’s arbitrary loss of rights threatens all of our rights.",
+      "reason": "Provides examples of modern actions inspired by Dr. King's methods, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Striking the balance between love and action was never easy for Dr. King. Some of his critics complained that he was too passive, because he insisted on working in and around the system, meeting and negotiating with the mayors and police chiefs and presidents who enforced the policies he protested, never calling for violence. Others accused him of seeking too much too soon, saying he needed to give government officials and white segregationists more time to change.",
+      "reason": "Offers historical context on Dr. King's approach, relevant to understanding his influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Dr. King almost always erred on the side of confrontation, which is why, rather than just wait for his release, he began scribbling his letter from the Birmingham jail on napkins, newspaper scraps and toilet paper.",
+      "reason": "Describes Dr. King's proactive approach, directly related to the article's focus on his letter.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We have not made a single gain in civil rights without determined legal and nonviolent pressure,” he wrote. People in power seldom give up their power voluntarily. “Individuals may see the moral light and voluntarily give up their unjust posture,” but “groups tend to be more immoral than individuals.”",
+      "reason": "This paragraph provides direct quotes from Dr. King that are relevant to the article's theme of civil rights and nonviolent pressure.",
+      "label": 1
+    },
+    {
+      "paragraph": "Democracy is a pact that depends on individuals for its survival. The moment one group decides that it no longer respects the pact, the system can collapse. Dr. King’s letter from the Birmingham jail is a tribute to democracy and a plea for the renewal of the contract that binds us. Black men and women, the descendants of enslaved people, showed the nation that they loved American democracy enough to fight for it. Those who faced arrest and assault for their lunch-counter protests in the South, Dr. King wrote, were “standing up for what is best in the American dream” and “bringing our nation back to those great wells of democracy which were dug deep by the founding fathers.”",
+      "reason": "This paragraph provides context and analysis of Dr. King's letter and its significance to democracy, directly relating to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr. King suffered to prove his faith in God and America. He was arrested 29 times before his assassination in 1968.",
+      "reason": "This paragraph provides historical context about Dr. King's personal sacrifices, relevant to understanding his commitment.",
+      "label": 1
+    },
+    {
+      "paragraph": "What would Dr. King do today? In his sermons, speeches and essays, he gave us the answer. He told us that while elected officials may try to divide us by stoking resentment and rage, we shouldn’t let them. He reminded us of our essential goodness and encouraged us to trust and rely on the goodness of others. He told us not to expect immediate results. We often forget, in telling Dr. King’s story today, how many of his organized protests were judged failures in their time, from Albany, Ga., to Chicago. Even his efforts in Birmingham were faltering for weeks, with participation falling off and media interest fading, until the city’s youth joined the protests and reinvigorated the movement.",
+      "reason": "This paragraph discusses Dr. King's teachings and their relevance today, directly contributing to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Today Dr. King would certainly call on elected leaders to change unjust policies, and he would get specific in his demands. He rejected counsels of gradualism or moderation, yet he didn’t dismiss his opponents as unreachable. He might call for economic boycotts to pressure business leaders, as he did in Birmingham. He might lean on the respectability of clergy, as he often did, to seize the moral high ground. That might mean asking clergy members to stand at schoolhouse doors to block the removal of children of undocumented immigrants.",
+      "reason": "This paragraph speculates on Dr. King's potential actions today, providing relevant analysis to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "As we consider our own actions, it’s worth remembering that Dr. King made the choice to get arrested on April 12, 1963, in Birmingham, intentionally violating a local court order that banned marches and protests. Yes, he was breaking the law, but with his action, he sought to demonstrate that American law itself was broken and in need of repair.",
+      "reason": "Provides historical context and narrative progression related to Dr. King's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "For everyone who believes Dr. King’s words, sitting on the sidelines is not an option.",
+      "reason": "Generalization that does not add new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I am in Birmingham because injustice is here,” he wrote. “Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny.”",
+      "reason": "Includes a direct quote from Dr. King that is relevant to the article's theme.",
+      "label": 1
+    }
+  ]
+}

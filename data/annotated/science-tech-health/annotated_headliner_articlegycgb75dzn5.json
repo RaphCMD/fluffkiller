@@ -1,0 +1,24 @@
+{
+  "headline": "A man let snakes bite him 202 times. His blood helped create a new antivenom",
+  "context": [
+    "To build immunity to bites from venomous snakes like this water cobra, Tim Friede injected himself with doses of venom over time.",
+    "Centivax"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Tim Friede remembers his worst snakebites in screaming detail.",
+      "reason": "This paragraph provides a personal anecdote but lacks new information about the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The first was from an Egyptian cobra. The second, an hour later, from a monocled cobra. Both bites occurred at his home in Wisconsin. Both were from highly venomous snakes. Neither bite was an accident.",
+      "reason": "This paragraph provides specific details about the snakebites, contributing to the narrative of the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Friede let the cobras bite him on purpose ­­— now, he’s logged 202 snakebites, in total.",
+      "reason": "This paragraph directly relates to the headline by summarizing Friede's actions and their significance.",
+      "label": 1
+    }
+  ]
+}

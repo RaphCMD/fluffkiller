@@ -1,0 +1,134 @@
+{
+  "headline": "Opinion: Canada is not as divided as some claim – or as its electoral system makes it appear - The Globe and Mail",
+  "context": [
+    "People wait in line to register to vote at a polling station in Toronto, on April 28.Arlyn McAdorey/Reuters",
+    "The election of 2025 is over, leaving a trail of division in its wake. Brother has been set against brother, region against region. The air is thick with cries of betrayal and threats of separation."
+  ],
+  "annotations": [
+    {
+      "paragraph": "But enough about the Conservative Party. Is the situation as dire for the country as a whole? To listen to some of the after-election analysis, you would think we had just weeks to live. Mark Carney’s Liberals may have won the election, runs this line of thinking, but now must attempt to bind the wounds of a bitterly divided country, polarized along every conceivable line.",
+      "reason": "This paragraph introduces the main argument about the perceived division in Canada post-election.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here’s pollster Darrell Bricker, writing for The Hub: “We are fractured by region, generation, class, and gender. Cities went Liberal. Rural ridings went Conservative. Older voters stuck with the status quo. Younger voters drifted right. Women leaned Carney. Men leaned away.”",
+      "reason": "This paragraph provides specific data and analysis on the divisions within the electorate.",
+      "label": 1
+    },
+    {
+      "paragraph": "Of course, poke through the entrails of any election and you will find similar divides. It is the nature of politics that partisan preferences are not distributed evenly through the population, but lumpily, depending on age, gender, class, region, etc.",
+      "reason": "This paragraph offers general commentary on the nature of political divisions, which is not directly related to the headline's argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "Still, it’s easy to look at the topline results of the election and conclude the country is in a particularly divided state. The election was one of the closest on record, both in terms of the popular vote (just 2.4 percentage points separated the Liberals and Conservatives) and seats. Liberal support remains narrowly based: just three cities – Toronto, Montreal and Vancouver – accounted for more than half their seats.",
+      "reason": "This paragraph provides specific election results and analysis relevant to the argument about perceived division.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even before the votes were counted, voices were being raised warning that a fourth straight Liberal victory would lead to a surge in support for separatism in the West, or at least Alberta – sentiments the Premier of Alberta appeared eager to amplify immediately after the election by lowering the threshold for citizen-initiated referendums. You may guess on what subject.",
+      "reason": "This paragraph discusses potential political consequences and reactions to the election, relevant to the theme of division.",
+      "label": 1
+    },
+    {
+      "paragraph": "But how real is any of this? Is division the same as polarization? Do a few intemperate voices speak for a whole region? Step back a few paces, and the picture does not look quite as bleak as it first appears.",
+      "reason": "The paragraph questions the perceived division and sets up the argument that the situation is not as dire as it seems.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is surely worth noting, if we are talking about division and polarization, that at a time of national crisis, with the country’s very existence under threat from its near neighbour, the people of Canada turned, in historic numbers, not to the sorts of extremist parties that have arisen lately in other countries, but to the two most moderate, mainstream parties.",
+      "reason": "This paragraph provides context about the political climate and voter behavior, supporting the argument against deep division.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Liberals and the Conservatives each took over 40 per cent of the vote. The last time that happened was 1930. (It had been 25 years since even one of them had managed it.) The two, moreover, offered not starkly different prescriptions for the country, but converged on the centre, offering broadly similar policies on all the major issues: taxes, housing, immigration, pipelines, defence and Donald Trump.",
+      "reason": "This paragraph provides factual information about the election results and policy similarities, reinforcing the argument of convergence rather than division.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s disappointing from a democratic choice standpoint – the election was notably deficient on new ideas or serious discussion about the difficult choices the country is facing, and was even before Mr. Trump – but if the contention is that the middle ground of Canadian politics has given way (an argument that could have been fairly made a couple of years ago) it was hard to find evidence of it in this election. We are divided, not polarized.",
+      "reason": "This paragraph critiques the lack of new ideas but supports the main argument that Canada is divided but not polarized.",
+      "label": 1
+    },
+    {
+      "paragraph": "Most of the demographic divisions mentioned are manageable. Indeed, you could argue they are evidence of the system at work. Liberals have forgotten how to speak to young men: the results are, or should be, a wakeup call to them. Conservatives, likewise, are clearly alienating young women. That, too, is something they can work on, if they choose to. At any rate, neither party can pretend to be unaware of its deficiencies.",
+      "reason": "This paragraph discusses demographic divisions and suggests they are manageable, aligning with the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The exception is region, which in this fractious, barely federated country is obviously rife with toxic potential. But even here, the results are, viewed in historical context, undismaying, even … heartening. By context, I mean: we do not have national parties in this country. We have regional parties – the Liberals in eastern Canada, the Conservatives in the West – masquerading as national parties. The last time the Liberals carried the West was in 1949. The Conservatives have won a majority of the seats in Quebec just three times since 1887.",
+      "reason": "Provides historical context and analysis of regional party dynamics in Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "But look here. The Liberals won over 40 per cent of the vote in British Columbia. They won 28 per cent of the vote in Alberta and 27 per cent in Saskatchewan. They have not posted numbers like this in those provinces since 1968. The Tories, for their part, took 24 per cent of the vote in Quebec – one of their best results in decades, exceeded only by the Mulroney sweeps. I don’t care what party you support, from a national unity standpoint these are comparatively good results – as is the sharp decline of the Bloc, though it was not nearly sharp enough.",
+      "reason": "Presents recent election results that challenge the narrative of division.",
+      "label": 1
+    },
+    {
+      "paragraph": "Why, then, is it still possible to speak of the Liberals having been largely “shut out” of Alberta and Saskatchewan, or the Conservatives of Quebec? Because of our electoral system: yes, our old friend First Past the Post. In return for winning nearly 30 per cent of the vote in Alberta the Liberals were rewarded with exactly two of the province’s 37 seats. In Saskatchewan they won just one.",
+      "reason": "Explains how the electoral system distorts representation despite significant vote shares.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Quebec, similarly, the Conservatives, with a quarter of the popular vote, took just 11 seats out of a total of 78. It’s not as bonkers as in some past elections – in 1980 the Liberals won just two seats west of Ontario, the Conservatives just one seat in Quebec – but it’s clearly a comically distorted picture of the country, one that plays into the hands of those seeking to mine our divisions for political advantage.",
+      "reason": "Highlights the impact of the electoral system on political representation and division.",
+      "label": 1
+    },
+    {
+      "paragraph": "Worse, these distortions, having exaggerated our differences, help to deepen them. There’s no doubt the Liberals have, over the years, been at best deaf to Alberta’s concerns, sometimes even hostile. But of course they are: election after election, they win next to no seats in the province. It’s a wonder they even bother to campaign there.",
+      "reason": "Discusses the consequences of electoral distortions on political behavior and regional relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "A Liberal might complain that they can’t win seats there, thanks to first past the post. But it’s at least as true to say that they don’t need to – again, thanks to first past the post. The same systemic bias in favour of parties that can “bunch” their votes geographically that works to their disadvantage in Alberta and Saskatchewan has tended to work in their favour in Ontario and Quebec.",
+      "reason": "This paragraph provides specific commentary on how the electoral system affects party success in different regions, directly relating to the headline's focus on perceived division.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s the same with Conservative voters in metropolitan centres, or Liberal voters in rural Canada: they exist, in significant numbers, but because they do not tend to be the most numerous group in any particular riding, they might as well not. Which means the parties do not bother to try appealing to them, which just confirms the trend. Liberals more and more confine themselves to representing the interests and outlook of large urban centres, Conservatives more and more to small towns and rural Canada. They fight it out in the suburbs.",
+      "reason": "This paragraph discusses the geographic distribution of party support and its impact on political strategy, relevant to the article's theme of division and electoral system effects.",
+      "label": 1
+    },
+    {
+      "paragraph": "First past the post has many other sins to its name: its habit of creating phoney “majority” governments, on the basis of 40 per cent or less of the vote (though even this is breaking down: this was the sixth election in the last eight to result in a hung Parliament); the strategic-voting dilemma in which it places too many voters, who are told they cannot vote for the party they prefer but must vote for a party they dislike, to prevent a party they detest from getting in; its tendency to leave many voters – a majority, in most elections – unrepresented, and so on.",
+      "reason": "This paragraph provides detailed criticism of the first-past-the-post system, which is central to the article's argument about perceived division.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the regional distortions to which it gives rise, in a country as far-flung and diverse as Canada, are surely the most grievous. The divisions in this country are real enough as it is. We hardly need our electoral system to rub salt in our wounds.",
+      "reason": "This paragraph emphasizes the impact of the electoral system on regional divisions, directly supporting the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Imagine, by contrast, what our politics might look like. Imagine a system in which every party could win seats in every part of the country. Imagine, therefore, a system in which every party had to win seats in every part of the country, no longer able to rely on racking up huge majorities in one part or another. Imagine a system of truly national parties, and truly national politics, where parties had to take into account the needs of the whole country, not just one part of it.",
+      "reason": "This paragraph presents a hypothetical alternative to the current system, contributing to the discussion on how to address perceived divisions.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s of particular concern at this historic moment. My unity concerns are not so much in the short term – I don’t think a referendum in Alberta would find many takers, just because the Liberals were elected – but over the longer haul. That’s precisely because of those difficult choices I mentioned were facing us. Those will inevitably involve costs, to someone, and as likely as not someone will be counting up those costs in regional terms.",
+      "reason": "The paragraph discusses concerns about regional unity and potential long-term impacts, which is relevant to the article's theme of perceived division.",
+      "label": 1
+    },
+    {
+      "paragraph": "It will be crucial, in such circumstances, that there be some means of gathering consensus, of providing assurance that the costs have been fairly allocated, of persuading people to accept choices that they might not have preferred. If only there were some institution, I’m thinking an assembly of some kind, to which all parts of the country elected representatives, and which fairly represented the divisions of opinion, not only in the country as a whole, but in each part of it, and which could serve as that kind of mediating and legitimating force; a body that, because of its widely acknowledged democratic legitimacy, would have real power to call the government to account, and to prevent any regionally concentrated party from imposing the desires of that region on the rest.",
+      "reason": "The paragraph suggests a solution to the perceived division, which is directly relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "We might call such a body “Parliament.”",
+      "reason": "This paragraph humorously concludes the previous argument about the role of Parliament, contributing to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keep your opinions sharp and informed with a helpful summary of The Globe’s most provocative columns, covering politics, world affairs, business, arts, health and the way we live",
+      "reason": "This is promotional content unrelated to the article's main theme.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is promotional content unrelated to the article's main theme.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "headline": "Climate change: 'Uncharted territory' fears after record hot March",
+  "context": [
+    "8 April 2024",
+    "Matt McGrath & Mark Poynting"
+  ],
+  "annotations": [
+    {
+      "paragraph": "BBC News Climate & Science",
+      "reason": "This is a section header and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Climate change could move \"into uncharted territory\" if temperatures don't fall by the end of the year, a leading scientist has told the BBC.",
+      "reason": "This paragraph introduces a key warning from a scientist about the potential future impact of climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "The warning came as data showed last month was the world's warmest March on record, extending the run of monthly temperature records to 10 in a row.",
+      "reason": "This paragraph provides specific data about the record-breaking temperatures in March, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's fuelled concerns among some that the world could be tipping into a new phase of even faster climate change.",
+      "reason": "This paragraph discusses the implications of the temperature data, contributing to the narrative of potential accelerated climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "A weather system called El Niño is behind some of the recent heat.",
+      "reason": "This paragraph provides context about the role of El Niño in the recent temperature increases.",
+      "label": 1
+    },
+    {
+      "paragraph": "Temperatures should temporarily come down after El Niño peters out in coming months, but some scientists are worried they might not.",
+      "reason": "This paragraph provides context about the potential temporary nature of temperature changes and scientists' concerns.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"By the end of the summer, if we're still looking at record breaking temperatures in the North Atlantic or elsewhere, then we really have kind of moved into uncharted territory,\" Gavin Schmidt, the director of Nasa's Goddard Institute for Space Studies, told BBC News.",
+      "reason": "This paragraph includes a direct quote from a relevant expert about the implications of continued high temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "March 2024 was 1.68C warmer than \"pre-industrial\" times - before humans started burning large amounts of fossil fuels - according to the EU's Copernicus Climate Change Service.",
+      "reason": "This paragraph provides specific data about the temperature increase in March 2024.",
+      "label": 1
+    },
+    {
+      "paragraph": "For now, longer term warming trends are still pretty much consistent with expectations, and most researchers don't yet believe that the climate has entered a new phase.",
+      "reason": "This paragraph offers context on the current understanding of climate trends among researchers.",
+      "label": 1
+    },
+    {
+      "paragraph": "But scientists are struggling to explain exactly why the end of 2023 was so warm.",
+      "reason": "This paragraph highlights the uncertainty and challenges scientists face in explaining recent temperature anomalies.",
+      "label": 1
+    },
+    {
+      "paragraph": "The March record was expected. El Niño, which began last June and peaked in December, has been adding heat to the warmth put into the atmosphere by the burning of fossil fuels, the main driver of high temperatures.",
+      "reason": "Provides context on the factors contributing to the record temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "But temperatures began breaking records by a particularly large margin around last September, and back then, El Niño was still developing, so can't explain all of the extra warmth.",
+      "reason": "Highlights the unusual nature of the temperature records, suggesting other factors at play.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr Schmidt is concerned about what this means for predictions going forward.",
+      "reason": "Introduces expert concern about future climate predictions.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Our predictions failed quite dramatically for the specifics of 2023, and if previous statistics don't work, then it becomes much harder to say what's going to happen in the future,\" he said.",
+      "reason": "Provides a direct quote illustrating the challenges in climate prediction.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We're still trying to understand why the situation changed so dramatically in the middle of last year, and how long this situation will continue, whether it is a phase shift or whether it's a blip in long-term climate trends,\" agrees Dr Samantha Burgess from Copernicus.",
+      "reason": "Offers expert insight into the uncertainty of current climate trends.",
+      "label": 1
+    },
+    {
+      "paragraph": "The current El Niño is now waning, and will likely end in the next couple of months.",
+      "reason": "Provides context on the current state of El Niño, relevant to climate conditions.",
+      "label": 1
+    },
+    {
+      "paragraph": "While scientists aren't sure exactly how conditions in the Pacific will evolve, current predictions suggest it could be replaced by a full La Niña cool phase later this year.",
+      "reason": "Offers predictions about future climate conditions, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "That cooling of the sea surface would normally see a temporary drop in global air temperatures, but it remains to be seen exactly how this will evolve.",
+      "reason": "Discusses potential impacts of La Niña on global temperatures, relevant to climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We're definitely seeing a weakening of El Niño, but the question is, where will we end up?\" says Michelle L'Heureux, a scientist with the NOAA climate prediction centre.",
+      "reason": "Includes a direct quote from a scientist, adding expert insight to the topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "But scientists are certain about one thing: the way to stop the world warming is to rapidly cut emissions of planet-warming gases.",
+      "reason": "Reiterates a general solution to climate change without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We have this window in the coming years to try and mitigate the impacts of climate change, by cutting emissions,\" says Dr Angélique Melet from Mercator Ocean International.",
+      "reason": "The quote provides direct commentary on the urgency of addressing climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I do understand the challenges but it's also true that if we don't act, we are committing ourselves towards a future where 2023 will be the new normal.\"",
+      "reason": "The quote emphasizes the consequences of inaction on climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"How fast will that happen? It depends on us.\"",
+      "reason": "The quote highlights the role of human action in determining the pace of climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "Graphics by Erwan Rivault and Mark Poynting",
+      "reason": "This is an image credit and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

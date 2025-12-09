@@ -1,0 +1,134 @@
+{
+  "headline": "Alberta premier says meeting with prime minister a 'positive first step' | CBC News",
+  "context": [
+    "Edmonton",
+    "The meeting between Danielle Smith and Mark Carney was the first since the Liberal Party won Monday's federal election, and the first since Smith warned the prime minister of any \"hostile acts\" his new government might take against her province."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Jack Farrell  · The Canadian Press",
+      "reason": "This is a byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Smith slams Ottawa’s clean energy plan, defends referendum move",
+      "reason": "This is a headline and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "1 day ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Alberta Premier Danielle Smith says she has had a \"positive\" meeting with Prime Minister Mark Carney.",
+      "reason": "This paragraph provides a direct quote from Smith about the meeting, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The meeting is the first since Carney's Liberals won Monday's election and Smith warned the prime minister of any \"hostile acts\" his new government might take against her province.",
+      "reason": "This paragraph provides context about the timing and significance of the meeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "Smith, who frequently diminished Carney throughout the election campaign in favour of Conservative Leader Pierre Poilievre, said on social media Friday that she and Carney had a lengthy conversation about policies and legislation that are holding back Alberta's energy economy.",
+      "reason": "This paragraph provides details about the topics discussed in the meeting, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We also discussed our ongoing trade dispute with the United States and how the federal government can work co-operatively with our province to advance both Canada's and Alberta's interests,\" Smith said.",
+      "reason": "This paragraph adds specific information about the trade dispute and cooperation, which is relevant to the meeting's outcomes.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Repairing the damage to Alberta's economy caused by Ottawa's last 10 years of anti-resource legislation and policies will take tremendous effort and co-operation, however, today's conversation was a positive first step.\"",
+      "reason": "This paragraph provides Smith's perspective on the meeting's significance and its potential impact on Alberta's economy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney thanked Smith on social media for the call.",
+      "reason": "This paragraph is a low-information quote that does not add substantial new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We're both focused on bringing down the cost of living and increasing opportunities in the energy sector for hard-working Albertans,\" he wrote Friday.",
+      "reason": "This paragraph provides Carney's perspective on the meeting's focus, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I look forward to working together — to break down interprovincial trade barriers and to build one strong Canadian economy.\"",
+      "reason": "This quote provides insight into the goals and tone of the meeting between the Alberta premier and the prime minister.",
+      "label": 1
+    },
+    {
+      "paragraph": "The conversation comes after Smith called on Carney to reset the relationship between Ottawa and Alberta.",
+      "reason": "This provides context on the purpose of the meeting and the relationship between the two parties.",
+      "label": 1
+    },
+    {
+      "paragraph": "It also comes after her government tabled legislation this week that lowers the bar for citizens to initiate referendums, including referendums on Alberta separating from Canada.",
+      "reason": "This paragraph provides relevant context about recent legislative actions by Smith's government that could impact federal-provincial relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | New proposed Alberta bill lowers threshold for recalls, referendums:",
+      "reason": "This is a prompt to watch a video and does not provide new information in the text.",
+      "label": 0
+    },
+    {
+      "paragraph": "Smith tables bill to make referendums easier as separationist sentiment grows",
+      "reason": "This headline provides context about the political climate in Alberta, relevant to the meeting's significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "1 day ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Indigenous leaders from across the province and country have condemned the move, saying Smith is stoking separatism and violating treaty commitments in the process.",
+      "reason": "This provides context on the reaction to Smith's actions, which is relevant to the political dynamics discussed in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Inviting individuals to vote on questions to take treaty land is absurd, and contrary to the nation-to-nation sacred covenants that we agreed to at the time of treaty making,\" said Sturgeon Lake Cree Nation Chief Sheldon Sunshine at a press conference Friday.",
+      "reason": "This quote provides a specific perspective on the controversy surrounding Smith's actions, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Smith has said the legislation makes it easier for Albertans to participate in democracy and that she didn't want to presuppose which referendum questions might arise.",
+      "reason": "This provides Smith's perspective on the legislation, which is relevant to understanding her stance in the political context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Leading up to the election, Smith had also issued a list of demands for the next prime minister and pledged to strike a panel to ask Albertans what they would want if the Liberals won a fourth consecutive term.",
+      "reason": "This provides background on Smith's political strategy and actions leading up to the meeting, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Analysis",
+      "reason": "The word 'Analysis' does not provide any new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "On Thursday, Smith's government also initiated court action against Ottawa — just three days into Carney's term and before he's appointed a cabinet — referring a question of constitutionality of the federal government's clean electricity grid regulations to the Alberta Court of Appeal.",
+      "reason": "This paragraph provides new information about Smith's government's legal actions against federal regulations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Smith has argued the regulations, which were finalized late last year, are an example of federal overreach and will do nothing but harm the affordability and reliability of Alberta's electricity grid.",
+      "reason": "This paragraph provides context on Smith's stance regarding federal regulations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Abandoning the regulations was one of Smith's nine demands, and she said Thursday that she had received no indication that Carney planned to take action on the file.",
+      "reason": "This paragraph provides specific details about Smith's demands and Carney's response.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another demand Smith had was for Ottawa to offer guarantees that pipelines could be built in every direction, and she said on social media Friday that Carney \"made it clear he intended to rapidly advance these kinds of nation-building projects in the coming weeks and months.\"",
+      "reason": "This paragraph provides information on another demand and Carney's response.",
+      "label": 1
+    }
+  ]
+}

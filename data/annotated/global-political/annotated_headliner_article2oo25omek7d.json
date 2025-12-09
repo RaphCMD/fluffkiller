@@ -1,0 +1,369 @@
+{
+  "headline": "A guide to Donald Trump's four criminal cases",
+  "context": [
+    "28 August 2024",
+    "in Washington"
+  ],
+  "annotations": [
+    {
+      "paragraph": "BBC",
+      "reason": "This is a source attribution and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Republican Donald Trump is facing off against Democratic presidential candidate and current Vice-President Kamala Harris in November's election. How might his criminal prosecutions affect his campaign?",
+      "reason": "This paragraph provides context about the political stakes and potential impact of the criminal cases on Trump's campaign.",
+      "label": 1
+    },
+    {
+      "paragraph": "The 78-year-old is the first former president in US history to be criminally convicted, having been found guilty of falsifying business records.",
+      "reason": "This paragraph provides a significant fact about Trump's criminal conviction, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "A few weeks later, the US Supreme Court ruled he had partial immunity in perhaps the most serious case he faces - that he tried to overturn the 2020 election result.",
+      "reason": "This paragraph provides important information about a legal ruling affecting one of Trump's criminal cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "And it was not long before the former president scored a further legal win, when a Florida judge dismissed a case related to his handling of classified documents.",
+      "reason": "This paragraph details a legal development in one of Trump's cases, contributing to the narrative of his legal battles.",
+      "label": 1
+    },
+    {
+      "paragraph": "So what might happen next in his four criminal cases and what is at stake as he seeks to return to the White House?",
+      "reason": "This paragraph introduces the main focus of the article, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "What's it about?",
+      "reason": "This paragraph is a vague question that does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Whether Trump illegally conspired to overturn his 2020 election defeat to Joe Biden.",
+      "reason": "This paragraph provides specific information about the nature of one of the criminal cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "Federal prosecutors allege he pressured officials to reverse the results, knowingly spread lies about election fraud and sought to exploit the Capitol riot on 6 January 2021 to delay the certification of Mr Biden's victory and stay in power.",
+      "reason": "This paragraph offers detailed allegations against Trump, directly related to the criminal cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "He's been charged with four criminal counts, including conspiracy to defraud the US and conspiracy against the rights of citizens.",
+      "reason": "This paragraph lists the specific charges, which is essential information for understanding the cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some had speculated he would be charged with insurrection, or aiding insurrection, but that is not one of the charges.",
+      "reason": "This paragraph provides context on the charges not included, which is relevant to understanding the scope of the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "US prosecutors in August issued revised charges in an attempt to navigate a ruling from the Supreme Court that had thrown the case into doubt.",
+      "reason": "This paragraph explains a significant development in the case related to the charges.",
+      "label": 1
+    },
+    {
+      "paragraph": "That Supreme Court ruling had said that presidents have broad immunity from criminal prosecution for official acts they undertake.",
+      "reason": "This paragraph provides essential context about the legal backdrop affecting the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "The revised indictment leaves in place the four criminal counts, but these now relate to the former president's status as a political candidate rather than a sitting president.",
+      "reason": "This paragraph details the nature of the charges, which is crucial to the case's understanding.",
+      "label": 1
+    },
+    {
+      "paragraph": "It argues Trump acted as a private citizen and not as a president when he undertook the alleged scheme to sway the election.",
+      "reason": "This paragraph provides specific information about the legal argument being made.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump has denied wrongdoing and claimed the Biden administration is behind the prosecution. He previously pled not guilty to all charges.",
+      "reason": "Provides Trump's response to the charges, relevant to understanding his stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "When's the trial?",
+      "reason": "Introduces a question about the trial timeline but lacks detail.",
+      "label": 0
+    },
+    {
+      "paragraph": "It doesn't look like it will happen any time soon.",
+      "reason": "Provides vague information about the trial timeline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump launched an appeal in this case, claiming he had broad immunity from prosecution as president, due to a 1982 precedent that recognised immunity in civil cases.",
+      "reason": "Details Trump's legal strategy and basis for appeal.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lower courts rejected Trump's claim but the Supreme Court ruled that Trump had limited immunity for official acts he carried out as president.",
+      "reason": "Explains the legal outcome of Trump's appeal.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the revised indictment shows that Department of Justice (DoJ) Special Counsel Jack Smith interprets the Supreme Court ruling to mean his case can still move forward.",
+      "reason": "This paragraph provides new information about the interpretation of a Supreme Court ruling affecting the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr Smith's office said the superseding indictment had been presented to a new grand jury that had not previously heard evidence in the case.",
+      "reason": "This paragraph offers relevant details about the legal proceedings and the involvement of a new grand jury.",
+      "label": 1
+    },
+    {
+      "paragraph": "But whether it would satisfy the Supreme Court's presidential immunity framework remains unclear.",
+      "reason": "This paragraph discusses the uncertainty surrounding the legal framework, which is relevant to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "There is a strong chance some of the charges may not survive.",
+      "reason": "This paragraph provides an assessment of the potential outcome of the charges, relevant to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "If Trump wins re-election, he could in theory pardon himself or order all these charges to be dismissed.",
+      "reason": "This paragraph discusses a potential future scenario directly related to the charges.",
+      "label": 1
+    },
+    {
+      "paragraph": "Could Trump go to prison?",
+      "reason": "This paragraph introduces a key question related to the potential outcomes of the criminal cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "Penalties for the charges include:",
+      "reason": "This paragraph likely introduces specific penalties, which are relevant to understanding the consequences of the cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "But there are logistical, security and political questions around whether Trump would actually serve time in jail even if convicted.",
+      "reason": "This paragraph discusses important considerations regarding the practical implications of a conviction.",
+      "label": 1
+    },
+    {
+      "paragraph": "A conviction at trial would take the US into uncharted territory.",
+      "reason": "This paragraph provides context about the unprecedented nature of a potential conviction.",
+      "label": 1
+    },
+    {
+      "paragraph": "What's it about?",
+      "reason": "This paragraph is vague and does not provide specific information related to the cases.",
+      "label": 0
+    },
+    {
+      "paragraph": "A payment made to the adult-film actress Stormy Daniels shortly before the 2016 election.",
+      "reason": "Introduces the context of the hush-money payment case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ms Daniels was paid $130,000 (£103,000) to keep quiet about her claim that she had sex with Trump, which he denies.",
+      "reason": "Provides specific details about the payment and the claim involved.",
+      "label": 1
+    },
+    {
+      "paragraph": "Providing so-called hush-money is not illegal.",
+      "reason": "Offers legal context relevant to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Instead, this case was more technical and centred on how Trump's former lawyer, who paid Ms Daniels, had his reimbursement recorded as legal fees in Trump's accounts.",
+      "reason": "Explains the technical legal issue at the heart of the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "What happened at trial?",
+      "reason": "Introduces the next section of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "The prosecution's key witness was ex-lawyer Michael Cohen, who testified that his former boss knew about the elaborate scheme to disguise the payment.",
+      "reason": "This paragraph provides specific information about a key witness and testimony in one of Trump's criminal cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "In days of heated cross-examination, Trump's lawyers sought to undermine Cohen and paint him as an unreliable witness and convicted liar.",
+      "reason": "This paragraph details the defense strategy in the case, which is relevant to understanding the legal proceedings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The jurors deliberated over two days before finding the former president guilty of all 34 counts of fraud under campaign finance laws.",
+      "reason": "This paragraph provides the outcome of the trial, which is crucial information about the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump has said the case is politically motivated.",
+      "reason": "This paragraph includes Trump's response to the case, which is relevant to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "His lawyers are requesting the conviction be overturned, citing the Supreme Court immunity ruling, according to a letter seen by US media including the BBC's partner network, CBS News.",
+      "reason": "This paragraph provides information on the legal actions being taken by Trump's lawyers post-conviction.",
+      "label": 1
+    },
+    {
+      "paragraph": "Could Trump go to prison?",
+      "reason": "This is a rhetorical question that does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Each of the charges carries a maximum of four years in prison, although a judge could sentence Trump to probation later this month.",
+      "reason": "This provides specific information about the potential legal consequences Trump faces.",
+      "label": 1
+    },
+    {
+      "paragraph": "Legal experts told the BBC they think it is unlikely Trump will be jailed and that a fine is the more likely outcome.",
+      "reason": "This offers expert opinion on the likely outcome of the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "What's it about?",
+      "reason": "This is a vague question that does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump and some 18 other defendants are accused of criminally conspiring to overturn his very narrow defeat in the state of Georgia in the 2020 election.",
+      "reason": "This provides essential context about the charges against Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "The racketeering investigation, led by Georgia prosecutor Fani Willis, was sparked in part by a leaked phone call in which the former president asked the state's top election official to \"find 11,780 votes\".",
+      "reason": "Provides specific context about the origin of the Georgia racketeering investigation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump was hit with 13 criminal counts, subsequently reduced to 10. They include one alleged violation of Georgia's Racketeering Influenced and Corrupt Organizations Act (Rico).",
+      "reason": "Details the charges against Trump in the Georgia case.",
+      "label": 1
+    },
+    {
+      "paragraph": "The former president has pleaded not guilty.",
+      "reason": "States Trump's plea, which is a key fact in the legal proceedings.",
+      "label": 1
+    },
+    {
+      "paragraph": "When's the trial?",
+      "reason": "Introduces the topic of the trial date, relevant to the case timeline.",
+      "label": 1
+    },
+    {
+      "paragraph": "A date has not been set. The timeline has been complicated by an effort by Trump and his allies to disqualify Ms Willis because of her romantic relationship with a man she hired to work on the case.",
+      "reason": "Explains the delay in setting a trial date and provides context on legal maneuvers.",
+      "label": 1
+    },
+    {
+      "paragraph": "An appeals court has tentatively set a date of 4 October to hear oral arguments in the bid to have Ms Willis removed.",
+      "reason": "Provides specific information about a legal proceeding related to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Could Trump go to prison?",
+      "reason": "Poses a question without providing new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "The racketeering charge carries a maximum 20-year jail sentence.",
+      "reason": "Offers specific legal consequences relevant to the charges against Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "Georgia prosecutors would need to prove that there was a pattern of corruption from Trump and his co-defendants aimed at overturning the election result in order to bring a conviction.",
+      "reason": "Explains the legal requirements for conviction, directly related to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "As for making false statements, that carries a penalty of between one to five years in prison or a fine.",
+      "reason": "Provides specific legal penalties relevant to the charges against Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "What's it about?",
+      "reason": "This is a vague introductory question without specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Whether Trump mishandled classified documents by taking them from the White House to his Mar-a-Lago residence after he left office.",
+      "reason": "This provides specific information about the nature of one of the criminal cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "The case against Trump is also about whether he obstructed the FBI's efforts to retrieve the files, as well as the criminal investigation into his handling of them.",
+      "reason": "This adds details about the obstruction aspect of the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "The majority of the counts are for the wilful retention of national defence information, which falls under the Espionage Act.",
+      "reason": "This provides specific legal context related to the charges.",
+      "label": 1
+    },
+    {
+      "paragraph": "There are then eight individual counts, which include conspiracy to obstruct justice, withholding a document or record and making false statements. Trump has pleaded not guilty on all counts.",
+      "reason": "This details the specific charges and Trump's plea, contributing to the case overview.",
+      "label": 1
+    },
+    {
+      "paragraph": "When's the trial?",
+      "reason": "The paragraph is a vague question without providing any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The case was dismissed by a Florida judge on 15 July, marking a significant legal victory for Trump just days after he survived an assassination attempt in Pennsylvania.",
+      "reason": "This paragraph provides specific details about a legal victory for Trump and a related event.",
+      "label": 1
+    },
+    {
+      "paragraph": "Judge Aileen Cannon, a Trump appointee, made the dismissal on the basis that the Justice Department's appointment of special prosecutor Jack Smith violated the US Constitution.",
+      "reason": "This paragraph gives essential context about the judge's decision and its constitutional basis.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Mr Smith appealed the decision, which came after Judge Cannon cancelled the 20 May trial date without giving a new one.",
+      "reason": "This paragraph provides information about the appeal and the status of the trial date.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr Smith argued the judge's view \"deviated\" from legal precedent.",
+      "reason": "This paragraph includes a direct quote about the legal argument in the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump and his lawyers have long tried to put the case off until after the November presidential election.",
+      "reason": "Provides context on Trump's legal strategy related to the timing of the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "The case now faces an uncertain future after the Supreme Court's immunity decision.",
+      "reason": "Mentions a significant development affecting the case's progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "Could Trump go to prison?",
+      "reason": "Poses a question without providing new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "If the case is restarted, these charges could, in theory, lead to substantial prison time if Trump is convicted.",
+      "reason": "Discusses potential legal consequences for Trump if convicted.",
+      "label": 1
+    },
+    {
+      "paragraph": "Looking at the letter of the law, the counts under the Espionage Act each carry a maximum sentence of 10 years. Other counts, related to conspiracy and withholding or concealing documents, each carry maximum sentences of 20 years.",
+      "reason": "Provides specific legal information about potential sentences.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the logistics of jailing a former president mean a conventional prison sentence is seen as unlikely by many experts.",
+      "reason": "Provides relevant context about the potential outcomes of Trump's criminal cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "North America correspondent Anthony Zurcher makes sense of the race for the White House in his weekly US Election Unspun newsletter. Readers in the UK can sign up here. Those outside the UK can sign up here.",
+      "reason": "This is promotional content unrelated to the main topic of Trump's criminal cases.",
+      "label": 0
+    }
+  ]
+}

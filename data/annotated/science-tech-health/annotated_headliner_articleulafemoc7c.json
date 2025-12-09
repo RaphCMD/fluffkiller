@@ -1,0 +1,59 @@
+{
+  "headline": "Purdue HTM faculty aim to enhance AI and data science discovery and learning through Edmondson HHS Faculty Development Award  – News | College of Health and Human Sciences",
+  "context": [
+    "April 26, 2025",
+    "Written By: Rebecca Hoffa, rhoffa@purdue.edu"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Jiyun Kang (left) and Jiong Sun (right)",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Jiyun Kang and Jiong Sun, associate professors in the Purdue University White Lodging-J.W. Marriott, Jr. School of Hospitality and Tourism Management (HTM), are the 2025 recipients of the Barbara H. and Ben R. Edmondson HHS Faculty Development Award.",
+      "reason": "This paragraph introduces the main subjects and their achievement, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Presented each year to a  College of Health and Human Sciences (HHS) faculty member, the award provides $10,000 to be expended over two years for purposes related to the faculty member’s own professional development within any of Purdue’s mission areas: discovery, learning and engagement. Funds for the award come from an endowment established by Purdue alumni Barbara H. (HHS ’64) and Ben R. (AG ’63) Edmondson.",
+      "reason": "This paragraph provides context about the award, which is relevant to understanding its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Both Kang and Sun will apply the funds toward costs associated with advancing their teaching and research by acquiring new skills and knowledge in artificial intelligence and data science.",
+      "reason": "This paragraph explains how the award will be used, directly relating to the article's focus on AI and data science.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kang plans to participate in the Massachusetts Institute of Technology’s (MIT) Applied Data Science Program, take an on-campus “Machine Learning for Big Data and Text Processing” course at MIT, meet with an MIT endowed professor with a focus on machine learning and social networks, and present at Stanford University’s Women in Data Science Conference. Through these experiences, Kang hopes to gain new insights that will continue to advance her research in consumer behavior and help her empower her doctoral students and undergraduate students using cutting-edge techniques.",
+      "reason": "This paragraph details specific plans for professional development, which is relevant to the article's theme of enhancing AI and data science learning.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sun plans to join Stanford University’s Artificial Intelligence Professional and Generative AI: Technology, Business, and Society programs as well as attending workshops on artificial intelligence and machine learning in management. With the knowledge he gains, Sun’s primary goal is to advance his supply chain research by leveraging AI-powered methodologies to enhance supply chain resilience in the face of emerging uncertainties and challenges. He also plans to explore the development of an introductory course on AI for Data Science, focusing on the theoretical foundations and business applications of AI tools for transforming data into insights.",
+      "reason": "This paragraph provides specific information about Sun's plans to enhance AI and data science learning, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "For more information, please contact Jiyun Kang, Jiong Sun or Susie Swithers.",
+      "reason": "This paragraph is a contact information section, which does not contribute to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "2024 recipient: Arielle Borovsky",
+      "reason": "This paragraph is a list of past recipients, which does not contribute to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "2023 recipient:  Qinglan “Priscilla” Ding",
+      "reason": "This paragraph is a list of past recipients, which does not contribute to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Subscribe to get the latest posts sent to your email.",
+      "reason": "This paragraph is a subscription prompt, which does not contribute to the core story.",
+      "label": 0
+    }
+  ]
+}

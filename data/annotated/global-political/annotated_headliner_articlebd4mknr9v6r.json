@@ -1,0 +1,119 @@
+{
+  "headline": "Man arrested in connection with distraction break-ins using child in Markham - Toronto | Globalnews.ca",
+  "context": [
+    "Police have arrested a man who allegedly broke into a home in Markham using a child to distract the homeowners after he tried a similar tact at another home on Friday afternoon.",
+    "York Regional Police say a man attended a home near Woodbine and 16th avenues around 2:45 p.m., and allegedly attempted to use a child as a distraction to enter the residence."
+  ],
+  "annotations": [
+    {
+      "paragraph": "However, police said the resident was “aware of this distraction technique due to public awareness through a media release” and contacted authorities.",
+      "reason": "This paragraph provides relevant information about how the resident was aware of the technique and took action.",
+      "label": 1
+    },
+    {
+      "paragraph": "Officers were able to locate the suspect and arrest him. As a result, 23-year-old Ivadar Padure of Oshawa has been charged with three counts of break and enter.",
+      "reason": "This paragraph provides essential details about the arrest and charges against the suspect.",
+      "label": 1
+    },
+    {
+      "paragraph": "The child was not charged due to being under the age of 12, police said.",
+      "reason": "This paragraph provides relevant legal context regarding the child's involvement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Padure’s arrest comes days after police say he allegedly broke into a couple’s home in Markham.",
+      "reason": "This paragraph provides narrative progression by linking the arrest to a previous incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "According to police, on Dec. 13, around noon, a boy of 10 to 12 years of age went to the front door of a house near Rodick Road and 16th Avenue.",
+      "reason": "Provides specific details about the incident involving the child used as a distraction.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get the day's top stories from Toronto and surrounding communities, delivered to your inbox once a day.",
+      "reason": "This is a promotional sentence unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "When the occupant of the home answered the door, the boy said he kicked a ball over the fence and needed to get into the backyard to retrieve it, police said.",
+      "reason": "Describes the method used by the child to distract the homeowner.",
+      "label": 1
+    },
+    {
+      "paragraph": "Police said the homeowner escorted the boy to the yard to look for the ball, but none was found.",
+      "reason": "Details the actions taken by the homeowner during the distraction.",
+      "label": 1
+    },
+    {
+      "paragraph": "The child then left and as the victim returned to the front of the house, an unknown man was seen leaving the home.",
+      "reason": "Describes the conclusion of the distraction and the presence of the suspect.",
+      "label": 1
+    },
+    {
+      "paragraph": "2:02\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA Markham couple is upset after being victims of a distraction theft",
+      "reason": "This paragraph is a vague generalization and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Police said the suspect allegedly snuck into the home as the homeowner was in the backyard with the child and went through rooms, stole cash from a purse, then left through the front door.",
+      "reason": "This paragraph provides specific details about the crime committed.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is an advertisement placeholder and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Following the incident, the 71-year-old homeowner, who asked to remain anonymous, told Global News he and his wife who were home at the time and felt “violated.”",
+      "reason": "This paragraph provides a direct quote from the victim, adding personal impact to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It’s just unfortunate that they used a kid,” he said.",
+      "reason": "This quote adds emotional context to the crime involving a child.",
+      "label": 1
+    },
+    {
+      "paragraph": "Police noted that a similar incident reportedly occurred on Dec. 6 at around 4:25 p.m. in the area of McCowan Road and Raymerville Drive in Markham.",
+      "reason": "Provides context about a similar incident related to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "A boy and a girl told the occupant of a home that they lost a ball in the backyard, but the occupant thought it was suspicious and didn’t cooperate, police said.",
+      "reason": "Details a specific incident related to the distraction tactic used in the break-ins.",
+      "label": 1
+    },
+    {
+      "paragraph": "The children left and a ball wasn’t found, police added.",
+      "reason": "Provides additional detail about the incident, confirming the suspicion.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Although no theft occurred, police are trying to determine if there is a link between the incidents,” officers said.",
+      "reason": "Indicates ongoing investigation and potential connection between incidents.",
+      "label": 1
+    },
+    {
+      "paragraph": "An investigation is ongoing and anyone with information or relevant video footage is asked to contact police or Crime Stoppers anonymously.",
+      "reason": "Encourages public assistance in the investigation, relevant to the ongoing case.",
+      "label": 1
+    },
+    {
+      "paragraph": "– With files from Global News’ Ryan Rocca and Catherine McDonald",
+      "reason": "This is a credit line for contributors and does not add new information to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "© 2023 Global News, a division of Corus Entertainment Inc.",
+      "reason": "This is a copyright notice and does not contribute to the story.",
+      "label": 0
+    }
+  ]
+}

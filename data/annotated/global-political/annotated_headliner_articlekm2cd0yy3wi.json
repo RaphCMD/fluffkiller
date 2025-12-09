@@ -1,0 +1,509 @@
+{
+  "headline": "Putin must stop 'unnecessary demands' in peace talks, Zelensky tells EU chiefs at meeting - BBC News",
+  "context": [
+    "Two sets of high-level talks took place in Europe today, focusing on future peace in Ukraine as talks continue over a ceasefire in its three-year war with Russia.",
+    "Here are the key developments from the day:"
+  ],
+  "annotations": [
+    {
+      "paragraph": "We're pausing our live coverage now - read our wrap-up story here:",
+      "reason": "This is a transition statement and does not provide new information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Earlier, Zelensky was asked if there were talks about the US potentially owning the Zaporizhzhia nuclear power plant.",
+      "reason": "This introduces a specific topic related to the peace talks and US involvement, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The question came after the White House said one topic in the call between Trump and Zelensky yesterday was US ownership of Ukraine's nuclear power plants - Zelensky later said the suggestion was only about the Zaporizhzhia plant.",
+      "reason": "This provides context and clarification about the discussions involving the US and Ukraine, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ukraine has five nuclear power plants, including Chernobyl. Zaporizhzhia is the closest to the eastern frontline of the war.",
+      "reason": "This offers relevant context about the strategic importance of the Zaporizhzhia plant in the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "See the map below for their locations.",
+      "reason": "This is a reference to a visual aid and does not provide new information in the text.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image source, Reuters",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keir Starmer and John Healey, secretary of state for defence, arriving at the Northwood base",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "As we've reported, UK Prime Minister Keir Starmer is meeting defence chiefs near London today, as they discuss a possible \"reassurance force\" in Ukraine after any ceasefire.",
+      "reason": "This paragraph provides relevant information about ongoing discussions related to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "(Our correspondent James Landale has more details on that here).",
+      "reason": "This is a reference to additional coverage and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "We can now bring you quotes from Starmer, who says he \"hopes\" there will be a peace deal in Ukraine.",
+      "reason": "This paragraph provides a direct quote from a key figure, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"What I do know is if there is a deal, the time for planning is now. It's not after a deal is reached.\"",
+      "reason": "This quote provides insight into the urgency and timing of planning for a peace deal, relevant to the ongoing talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "He adds: \"It is vitally important we do that work because we know one thing for certain which is a deal without anything behind it is something that Putin will breach.",
+      "reason": "This statement emphasizes the importance of preparation to ensure the deal's success, directly related to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We know that because it happened before. I'm absolutely clear in my mind it will happen again.\"",
+      "reason": "This provides context on past breaches by Putin, relevant to the current peace negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rich PrestonBBC News",
+      "reason": "This is a byline and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image source, PA Media",
+      "reason": "This is an image caption and does not provide relevant information to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keir Starmer speaks at a military base in England while meeting military planners mapping out next steps in the coalition of the willing",
+      "reason": "This paragraph does not provide new information directly related to the peace talks or the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "What's being described as the operational phase is really the nuts and bolts of what a peacekeeping force would actually mean for Ukraine.",
+      "reason": "This paragraph provides context about the operational phase of peacekeeping, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "We've heard a lot today about the \"coalition of the willing\" – and what that really comes down to is which country is willing to do what, and the practicalities of that.",
+      "reason": "This paragraph discusses the coalition of the willing, which is relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russian president Vladimir Putin has said he doesn't want forces from Nato countries anywhere near his borders. So will the forces go in under their respective national flags or the blue helmets of the United Nations peacekeeping troops?",
+      "reason": "This paragraph provides relevant information about Putin's stance on NATO forces, directly related to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "One country that may be notable by its absence at today's conference at Northwood military base is the United States. It is yet to be seen whether they will play any role in peacekeeping, but the US often provides vital air support to peacekeeping countries.",
+      "reason": "This paragraph discusses the potential role of the US in peacekeeping, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sir Keir Starmer has committed peacekeeping troops for \"as long as it takes\", but there are questions over how long British troops can stay in Ukraine, what the terms of engagement are – and who is going to foot the bill.",
+      "reason": "This paragraph provides relevant information about international involvement and concerns regarding peacekeeping efforts in Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Behind the secure doors of Northwood, lots of very difficult conversations are going on. This is not going to be a one-time meeting, that's for sure.",
+      "reason": "This paragraph is vague and does not provide specific information related to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image source, EPA",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russian leader Vladimir Putin has told Donald Trump he remains committed to ending the war in Ukraine peacefully.",
+      "reason": "This paragraph provides relevant information about Putin's stance on the peace process.",
+      "label": 1
+    },
+    {
+      "paragraph": "A Kremlin statement after their phone call on Tuesday suggested that Putin laid out key demands before agreeing to a ceasefire:",
+      "reason": "This paragraph introduces important context about the conditions for a ceasefire, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Responding to the demands, Ukraine's President Volodymyr Zelensky accused Putin of setting so many pre-conditions \"that nothing will work out at all\".",
+      "reason": "This paragraph provides a direct quote from Zelensky, which is relevant to the headline about peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image source, EPA",
+      "reason": "This is an image caption and does not contribute to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "The UK's Foreign Secretary David Lammy says Vladimir Putin must \"simply accept\" an unconditional ceasefire and not be given a veto over the presence of European peacekeepers in Ukraine.",
+      "reason": "This paragraph provides relevant commentary from a UK official on the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia has repeatedly rejected the idea of Nato or EU peacekeeping troops on the ground.",
+      "reason": "This paragraph provides context about Russia's stance on peacekeeping troops, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Speaking at a business conference in London, Lammy says: \"Putin should simply accept an unconditional ceasefire. That is the plan on the table, let's get on with it, what are we waiting for?\"",
+      "reason": "This paragraph includes a direct quote from Lammy, adding to the narrative about the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "He adds the Russian leader must not be given the option to veto the security architecture that will govern that peace, should a deal be struck to end the war.",
+      "reason": "This paragraph provides direct commentary on the conditions of the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image source, PA Media",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prime Minister Sir Keir Starmer tells the BBC's Phil Chapman that a meeting with security leaders this afternoon aims to construct plans to keep Ukraine safe following earlier \"political momentum\".",
+      "reason": "This paragraph provides relevant information about ongoing efforts to ensure Ukraine's security.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"What we're doing today is moving from political momentum that we had at the weekend... to the military planning so that is what is happening at headquarters today,\" he says during a visit to Barrow in Cumbria, north-west England.",
+      "reason": "This quote provides insight into the transition from political to military planning.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Going from the concept to the plans in particular looking at how we keep the skies, the seas, the borders safe in Ukraine.\"",
+      "reason": "This quote elaborates on specific security measures being planned for Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier today, the prime minister made a rare visit to a nuclear-armed submarine, saying that the Kremlin respects the UK's nuclear arsenal because \"we've got our own independent deterrent and we're committed to Nato\".",
+      "reason": "This paragraph is a tangent about the UK's nuclear deterrent and does not directly relate to the peace talks or Zelensky's message.",
+      "label": 0
+    },
+    {
+      "paragraph": "As we reported earlier, Ukrainian President Volodymyr Zelensky took a break from his visit to Oslo to speak to EU leaders via video call as they met at a summit.",
+      "reason": "This paragraph provides relevant context about Zelensky's engagement with EU leaders regarding the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here are some key points from what he said:",
+      "reason": "This paragraph introduces key points from Zelensky's speech, which is directly relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image source, EPA",
+      "reason": "This is an image caption and does not contribute to the narrative or context of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "All EU leaders except Hungary's Viktor Orbán voted to continue the bloc's \"unwavering support for Ukraine’s independence, sovereignty and territorial integrity\" at a summit today.",
+      "reason": "This paragraph provides relevant information about the EU's stance on Ukraine, which is pertinent to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "In an official statement released this afternoon, the EU says 26 of its 27 member countries also agreed to \"maintain its 'peace through strength' approach\", which means ensuring Ukraine has \"robust military and defence capabilities\".",
+      "reason": "This paragraph provides new information about the EU's stance and actions regarding Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "The EU \"remains ready to step up pressure on Russia\" and will keep giving Ukraine \"regular\" financial support as well as military support, the statement says.",
+      "reason": "This paragraph adds details about the EU's commitment to supporting Ukraine, which is relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier, Ukraine's leader Volodymyr Zelensky addressed the summit, saying it's \"simply anti-European when one person blocks decisions that are important for the entire continent or that have already been agreed upon\".",
+      "reason": "This paragraph includes a direct quote from Zelensky relevant to the peace talks and EU dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "While he made no direct reference to Orbán, Zelensky said it was wrong that \"European efforts that should be bringing more security and peace are also constantly being obstructed\".",
+      "reason": "This paragraph provides context on Zelensky's criticism of EU decision-making processes.",
+      "label": 1
+    },
+    {
+      "paragraph": "He added: \"Europe must have a way to prevent individual actors from blocking what’s necessary for all\".",
+      "reason": "This paragraph contains a relevant quote from Zelensky about EU decision-making.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rorey BosottiLive page editor",
+      "reason": "This is a byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image source, Getty Images",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Two people died in overnight Russian strikes on Ukraine",
+      "reason": "This provides new facts about the ongoing conflict, relevant to the article's focus on peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "A little earlier, Ukrainian President Volodymyr Zelensky spoke at a press conference in Oslo. There, he confirmed that Ukrainian and US officials will be meeting in Saudi Arabia next week.",
+      "reason": "This provides relevant information about upcoming diplomatic meetings related to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "If you’re only just joining our coverage, here’s a quick\nrecap of the latest developments in the war in Ukraine:",
+      "reason": "This is a transitional statement and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Frank GardnerSecurity correspondent",
+      "reason": "This is a byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "It is perfectly possible that, despite the best efforts of the UK and France, this Multinational Force now under discussion at Northwood never actually deploys to Ukraine.",
+      "reason": "This provides context on the potential deployment of a Multinational Force, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "First off, there isn’t yet a ceasefire and there might not be one for months to come. President Putin’s list of preconditions - nearly all unacceptable to Ukraine and its allies - is successfully stalling this.",
+      "reason": "This paragraph directly addresses the challenges in achieving a ceasefire, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then there is the Kremlin’s rigid opposition to the deployment of any Nato member troops to Ukraine, regardless of what badge or beret they are serving under. Unless that changes it is hard to envisage this force going into a potential war zone, opposed.",
+      "reason": "This provides insight into the Kremlin's stance on NATO troops, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then there is the question of US air support which is not so far forthcoming. Several countries have made their participation conditional on close air support from the US. They need to know that if they run into trouble that the metaphorical cavalry is going to ride to their rescue. Otherwise they risk sending their men and women into a highly dangerous situation.",
+      "reason": "This discusses the conditions for US air support, relevant to the potential deployment of forces.",
+      "label": 1
+    },
+    {
+      "paragraph": "Finally there is force generation - the task of finding sufficient troops and hardware for the mission. Britain, which is hosting today’s planning meeting in Northwood, now has its smallest army since Napoleonic times.",
+      "reason": "Provides context on military challenges related to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "To even generate a brigade (between 3000 to 5000 troops) would mean taking them away from elsewhere and committing them to an open-ended deployment that, even with rotation every few months, could last years.",
+      "reason": "Explains the logistical implications of troop deployment discussed in the talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "James LandaleDiplomatic correspondent, in Kyiv",
+      "reason": "This is a byline, not contributing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image source, Getty Images",
+      "reason": "This is an image caption, not contributing to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The potential Western troop deployment to Ukraine being discussed in London should be described as a \"reassurance force\" rather than a \"peacekeeping force\", defence and diplomatic sources say.",
+      "reason": "Provides specific information about the nature of the troop deployment discussed.",
+      "label": 1
+    },
+    {
+      "paragraph": "Currently dubbed the Multinational Force Ukraine or MFU, it would be sent to the country to cement any ceasefire and encourage long-term confidence in the country.",
+      "reason": "Provides information about a proposed multinational force related to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "The focus would be on providing Ukraine with air cover to keep its skies safe and a naval presence in the Black Sea to encourage trade.",
+      "reason": "Details specific military and strategic goals of the proposed force, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "The deployment of so-called \"boots on the ground\" - probably about 20,000 strong - would in terms of size not be big enough to enforce any peace.",
+      "reason": "Discusses the limitations of the proposed force, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Instead, the troops - provided by a so-called \"coalition of the willing\" - would most likely be deployed to protect cities, ports and major energy infrastructure.",
+      "reason": "Explains the intended role of the troops, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image source, EPA-EFE/REX/Shutterstock",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "That wraps up the news conference.",
+      "reason": "This is a closing statement with no new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Things have moved quickly – stay with us for a roundup of the key points.",
+      "reason": "This is a transitional statement with no new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Next up is a question about Nato membership.",
+      "reason": "This is a transitional statement introducing a topic without providing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Zelensky says it's a \"big gift to Russia\" that Nato membership has been taken off the table by Washington, after US officials ruled out Kyiv joining the alliance.",
+      "reason": "This provides a direct quote from Zelensky relevant to the peace talks and NATO membership.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nato has 32 members across Europe and North America – the original 12 founders plus 20 countries that have joined since 1949.",
+      "reason": "This is background information about NATO that does not directly relate to the current peace talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia has long opposed the idea of Ukraine becoming a member, fearing it would bring Nato forces too close to its borders.",
+      "reason": "Provides context on Russia's stance regarding Ukraine's potential NATO membership.",
+      "label": 1
+    },
+    {
+      "paragraph": "But in 2008, the alliance said Ukraine could eventually join, external.",
+      "reason": "Offers historical context on NATO's position regarding Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Asked if he's ready to make territorial concessions to Russia, particularly over recognising Crimea, Zelensky says: \"That is a Ukrainian peninsula.\"",
+      "reason": "Direct quote from Zelensky on a key issue in the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "He adds that he's spoken with US President Donald Trump about Ukrainians' love for Crimea, stressing it's an \"integral part\" of his country.",
+      "reason": "Provides additional context on Zelensky's stance and diplomatic efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a reminder - Crimea is internationally recognised as part of Ukraine, despite Russia's occupation and claimed annexation in 2014.",
+      "reason": "Offers essential context on the international status of Crimea.",
+      "label": 1
+    },
+    {
+      "paragraph": "More now from the news conference in Oslo, where a reporter has asked Zelensky if there are talks about the US potentially owning the Zaporizhzhia nuclear power plant.",
+      "reason": "Introduces a new topic related to the peace talks and Zelensky's stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"All nuclear power plants belong to the people of Ukraine,\" he replies.",
+      "reason": "Provides Zelensky's direct quote on the ownership of nuclear power plants.",
+      "label": 1
+    },
+    {
+      "paragraph": "Zelensky says he did not directly discuss the plant's ownership in his phone call with US President Donald Trump.",
+      "reason": "Clarifies the scope of Zelensky's discussion with Trump, relevant to the topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "But when Trump asked what he thought about the station, Zelensky said he replied, \"If it does not belong to Ukraine, it will not work for anybody.\"",
+      "reason": "Provides further context on Zelensky's stance regarding the nuclear plant.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image source, Reuters",
+      "reason": "This is an image caption and does not contribute to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Back at the news conference in Oslo, Zelensky has been asked what a ceasefire might look like.",
+      "reason": "This paragraph introduces Zelensky's perspective on the ceasefire, which is relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "He says the first step suggested was a ceasefire by land and sea, as Ukraine sees this as the only way to stop Russian aggression.",
+      "reason": "This paragraph provides specific details about Ukraine's stance on the ceasefire, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "But after meeting the US in Saudi Arabia, he immediately agreed to a 30-day ceasefire on land, at sea and in the air.",
+      "reason": "This paragraph offers new information about an agreement reached, which is relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "After that, the idea of a partial ceasefire was raised.",
+      "reason": "This paragraph introduces a new development in the ceasefire discussions, relevant to the ongoing talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Tuesday, during a call between Putin and Trump, Moscow and Washington discussed a temporary ceasefire on energy facilities.",
+      "reason": "This paragraph provides context on international discussions related to the ceasefire, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ukraine and US officials will meet in Saudi Arabia next Monday, but it will be separate from the talks between Russian and US officials on the same day, Zelensky says.",
+      "reason": "Provides specific information about upcoming diplomatic meetings relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "While we wait for key lines from Oslo, here are more comments from Ukraine's leader Volodymyr Zelensky's earlier address to EU leaders.",
+      "reason": "Serves as a transition without providing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "He says \"nothing has changed\" as Russia continues to strike Ukraine's energy infrastructure, despite Moscow agreeing yesterday to stop such attacks.",
+      "reason": "Reports on ongoing issues and broken agreements relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Yesterday evening, another Russian strike hit our energy infrastructure,\" he tells the summit.",
+      "reason": "Provides a specific example of continued aggression relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We in Ukraine face this every day and night, you know it. And despite (Russian leader Vladimir) Putin’s words about allegedly being ready to stop the attacks - nothing has changed.\"",
+      "reason": "Offers direct commentary from Zelensky on the situation, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a reminder, Putin agreed to halt attacks on energy targets after a call with US President Donald Trump yesterday.",
+      "reason": "Provides relevant information about a recent development in the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image source, Reuters",
+      "reason": "This is an image caption and does not contribute to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ukraine's President Zelensky and Norway's Prime Minister Jonas Gahr Støre are holding a news conference in Oslo after their meeting.",
+      "reason": "Mentions a relevant event related to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Stay with us for the latest updates. You can follow along by clicking Watch Live at the top of this page.",
+      "reason": "This is a call to action for readers to follow live updates, not relevant to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Breaking",
+      "reason": "This is a placeholder or transition word with no informational content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image source, Reuters",
+      "reason": "This is an image caption and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia must stop making \"unnecessary demands\" that drag out the war, Ukraine's President Volodymyr Zelensky has told EU leaders at the summit today.",
+      "reason": "This paragraph provides a direct quote from Zelensky relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Putin must stop making unnecessary demands that only prolong the war and must start fulfilling what he promises the world,\" Zelensky says via video call.",
+      "reason": "This paragraph includes a direct quote from Zelensky, adding to the narrative of the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "He urges the world to keep up the pressure on Putin because \"one moment they give their word, and a few hours later it means absolutely nothing\".",
+      "reason": "This paragraph provides Zelensky's commentary on the reliability of Russian promises, relevant to the peace talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Zelensky also says sanctions against Moscow must stay in place \"until Russia starts withdrawing from our land and fully compensates for the damage caused by its aggression\".",
+      "reason": "This paragraph offers Zelensky's stance on sanctions, directly related to the ongoing conflict and peace talks.",
+      "label": 1
+    }
+  ]
+}

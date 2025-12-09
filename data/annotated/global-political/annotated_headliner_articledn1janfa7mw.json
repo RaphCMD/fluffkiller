@@ -1,0 +1,184 @@
+{
+  "headline": "Ukraine in maps: Tracking the war with Russia",
+  "context": [
+    "15 April 2025",
+    "the Visual Journalism Team"
+  ],
+  "annotations": [
+    {
+      "paragraph": "BBC News",
+      "reason": "This is a source attribution and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "BBC",
+      "reason": "This is a source attribution and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fighting has raged in Ukraine since Russia launched a full-scale invasion more than three years ago. Russian forces have slowly expanded the amount of territory they control over the past year, mostly in the east of Ukraine.",
+      "reason": "Provides essential context about the duration and progression of the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "US President Donald Trump has been pushing for an end to the war since taking office in January and negotiations with Moscow are continuing. However, Russia has continued its attacks on Ukraine, including with a missile attack on the northern city of Sumy on 13 April that killed more than 30 people, and Kyiv believes it is preparing for a major spring offensive.",
+      "reason": "Offers new information on diplomatic efforts and recent military actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here is a recap of recent significant events and the situation in Ukraine.",
+      "reason": "Introduces the main content of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "In eastern Ukraine, Moscow's war machine has been churning mile by mile through the wide open fields of the Donbas, enveloping and overwhelming villages and towns.",
+      "reason": "Provides narrative progression and context about the current situation in eastern Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Despite this, Ukrainian forces claim to have recaptured a village in the Luhansk region - their first successful counter offensive in the east of the country for many months.",
+      "reason": "Reports a significant development in the conflict, indicating a Ukrainian counter-offensive.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia's biggest advantage is manpower and it has shown a willingness to throw soldiers at Ukrainian positions to gain a few metres at a time. Ukrainian military intelligence says about 620,000 Russian soldiers are operating in Ukraine and Kursk and Kyiv believes thousands of troops have entered Ukraine since the start of the year.",
+      "reason": "Provides important context about Russian military strategy and troop numbers.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fighting between Ukrainian and Russian troops has also intensified in the past week with assaults on the front line up by about 30%, according to Ukrainian military chiefs, who believe they are part of a spring offensive by Russia.",
+      "reason": "Offers new facts about the increase in fighting and potential Russian strategy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Until now Russian forces have been advancing slowly north and west of Donetsk, towards the city of Pokrovsk, and have recently been closing a Ukrainian pocket along the front line south west of Toretsk, according to experts at the Institute for the Study of War.",
+      "reason": "Provides specific details on Russian troop movements and strategic positions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Russian advance towards Pokrovsk is the most notable change in control of the front line near Donetsk for several months, but innovative tactics by Ukrainian forces, combining the use of drones and ground forces, have inflicted significant losses of troops and equipment and slowed the offensive.",
+      "reason": "Provides specific updates on military tactics and changes in the front line.",
+      "label": 1
+    },
+    {
+      "paragraph": "It has taken a year for Russia's troops to advance about 40km (25 miles) west - Ukraine was forced to withdraw from Avdiivka, just north of Donetsk, in February 2024 after months of fighting.",
+      "reason": "Offers historical context on the progression of the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "In addition to its operation on the eastern front, Russia began what the ISW describes as its \"subordinate main effort\" when it crossed the international border to the north of Ukraine's second-biggest city, Kharkiv, in May 2024. Several villages were seized and thousands of civilians fled.",
+      "reason": "Details a significant military operation and its impact on civilians.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Russian push took place at the end of a four-month period when the US was not supplying weapons to Ukraine, due to a stalemate in the US Congress which was resolved in April 2024.",
+      "reason": "Provides context on international factors affecting the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ukrainian forces eventually held firm and, even though the city of Kharkiv has come under repeated attack from glide bombs fired by Russian warplanes, it remains beyond the range of Russian artillery.",
+      "reason": "Updates on the current status of Kharkiv and Ukrainian defense efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Eastern Ukraine has been contested territory since 2014, when Russian-backed fighters seized large swathes of the eastern Donetsk and Luhansk regions. Russia had already seized the southern peninsula of Crimea in February 2014 before annexing it soon afterwards.",
+      "reason": "Provides historical context essential to understanding the current conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump has said it is unlikely Ukraine will return to its pre-2014 borders but, in response to a question from the BBC, he said \"some of that land will come back\".",
+      "reason": "Offers a relevant quote from a significant political figure about the territorial situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "In an interview with the Guardian, published on 11 February, Ukrainian President Volodymyr Zelensky suggested that Russian-held territory in Ukraine could be swapped for territory seized by Ukraine in Russia's western Kursk region in recent months as part of a peace deal.",
+      "reason": "Provides direct commentary from a key figure on potential peace negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ukraine seized control of part of the region in a surprise attack launched across the border by Ukrainian troops in August, advancing up to 18 miles (30km) into the Russian region.",
+      "reason": "Describes a significant military action relevant to the current conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "After two weeks, Ukraine's top commander claimed to control more than 1,200 sq km of Russian territory and 93 villages.",
+      "reason": "Provides specific details on territorial gains, contributing to the narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, by 13 March 2025 Russian President Vladimir Putin said the situation in the region was \"fully under our control\", adding Ukrainian equipment had been \"abandoned.\"",
+      "reason": "Provides a direct quote from Putin about the control of the region, relevant to the war's status.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russian forces have continued to advance in the area as they try to push Ukrainian forces out of their limited remaining positions.",
+      "reason": "Describes the current military movements and strategy in the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ukraine says Russian forces are continuing their attempts to invade the Sumy region, while Ukrainian soldiers have compared fighting in Russia's Kursk region to a \"horror movie\".",
+      "reason": "Provides specific details about ongoing battles and Ukrainian perspectives.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia took control of the city of Sudzha and cut the Ukrainian access to the Sudzha-Sumy highway, which was vital for the Ukraine troops logistics.",
+      "reason": "Details a strategic development in the conflict affecting logistics.",
+      "label": 1
+    },
+    {
+      "paragraph": "The US, Ukraine's strongest military ally, has been pursuing an end to the war - now in its fourth year - through negotiation since Trump took office at the start of the year. After a meeting between US envoy Steve Witkoff and Putin on 11 April, the US official said they \"might be on the verge of something that would be very, very important for the world at large\".",
+      "reason": "Discusses diplomatic efforts and potential developments in the conflict resolution.",
+      "label": 1
+    },
+    {
+      "paragraph": "In response, Zelensky invited Trump to visit Ukraine before any deal is struck with Russia to end the war. However, the pair have repeatedly clashed and tensions have been high since a heated confrontation at the White House in February during which Trump accused Zelensky of \"gambling with World War Three\" and chided him for not starting peace talks with Russia earlier.",
+      "reason": "This paragraph provides relevant information about diplomatic tensions and interactions related to the war.",
+      "label": 1
+    },
+    {
+      "paragraph": "By contrast, the US president has made efforts to improve relations with Moscow although he did say he was \"very angry\" with Putin at the end of March after talks between US and Russian officials failed to produce a ceasefire.",
+      "reason": "This paragraph offers relevant context on US-Russia relations impacting the war.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia's full-scale invasion began with dozens of missile strikes on cities all over Ukraine before dawn on 24 February 2022.",
+      "reason": "This paragraph provides essential historical context about the start of the invasion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russian ground troops moved in quickly and within a few weeks were in control of large areas of Ukraine and had advanced to the suburbs of Kyiv.",
+      "reason": "This paragraph details the initial military movements and territorial gains by Russia.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russian forces were bombarding Kharkiv, and they had taken territory in the east and south as far as Kherson, and surrounded the port city of Mariupol.",
+      "reason": "This paragraph provides specific information on the military situation and territorial control.",
+      "label": 1
+    },
+    {
+      "paragraph": "But they hit very strong Ukrainian resistance almost everywhere and faced serious logistical problems with poorly motivated Russian troops suffering shortages of food, water and ammunition.",
+      "reason": "Provides specific details about the challenges faced by Russian troops.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ukrainian forces were also quick to deploy Western supplied arms such as the Nlaw anti-tank system, which proved highly effective against the Russian advance.",
+      "reason": "Describes the strategic use of Western arms by Ukrainian forces.",
+      "label": 1
+    },
+    {
+      "paragraph": "By October 2022, the picture had changed dramatically and, having failed to take Kyiv, Russia withdrew completely from the north. The following month, Ukrainian forces recaptured the southern city of Kherson.",
+      "reason": "Narrates significant developments in the conflict timeline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since then, the battle has mostly been in the east of Ukraine with Russian forces slowly gaining ground over many months, with at least 70,000 Russian troops killed - and an estimated 500,000 being either killed or injured in total, according to the UK Ministry of Defence.",
+      "reason": "Provides updated casualty figures and current battle locations.",
+      "label": 1
+    },
+    {
+      "paragraph": "By Dominic Bailey, Mike Hills, Paul Sargeant, Chris Clayton, Kady Wardell, Camilla Costa, Mark Bryson, Sana Dionysiou, Gerry Fletcher, Kate Gaynor and Erwan Rivault",
+      "reason": "Lists the authors of the article.",
+      "label": 0
+    }
+  ]
+}

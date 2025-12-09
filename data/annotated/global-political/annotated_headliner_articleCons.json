@@ -1,0 +1,169 @@
+{
+  "headline": "Conservative MP will resign Alberta riding so Poilievre can run again | Globalnews.ca",
+  "context": [
+    "Poilievre lost his long-held seat in the Ottawa riding of Carleton in Monday’s federal election, leaving the Conservatives without a leader in the House of Commons despite forming the largest official Opposition in Canada’s history.",
+    "The resignation of Battle River-Crowfoot MP-elect Damien Kurek, who has held the seat since 2019, will allow Poilievre to run in a future by-election."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Pierre Poilievre just finished a remarkable national campaign that received the highest vote share since 1988,” Kurek said in a statement issued by the party.",
+      "reason": "Provides context on Poilievre's recent campaign success, relevant to his potential candidacy.",
+      "label": 1
+    },
+    {
+      "paragraph": "“An unstoppable movement has grown under his leadership, and I know we need Pierre fighting in the House of Commons to hold the Liberal minority government to account. This is what’s best for Canada, and is what’s best for Battle River-Crowfoot.”",
+      "reason": "Contains opinion and general statements without new factual information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Kurek said his resignation is only temporary, however, and that he intends to run in the same riding whenever the next federal election takes place.",
+      "reason": "Provides important information about Kurek's future political plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The people of Battle River-Crowfoot will be represented well by Pierre for the remainder of this Parliamentary session, and I will keep working with our incredible local team to do everything I can to remain the strong voice for you as I support him in the process, and then run again here in Battle River-Crowfoot in the next general election,” he said.",
+      "reason": "Reiterates Kurek's plans and support for Poilievre without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Poilievre said on social media he accepted Kurek’s offer to resign his seat with “humility and appreciation.”",
+      "reason": "This paragraph provides a direct quote from Poilievre, contributing to the narrative of his acceptance of the seat resignation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Damien’s selfless act to step aside temporarily as a Member of Parliament shows his commitment to change and restoring Canada’s promise,” he said.",
+      "reason": "This paragraph includes a quote from Poilievre that adds context to Kurek's resignation and its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "For news affecting Toronto and surrounding communities, sign up to receive Toronto news alerts when they break.",
+      "reason": "This is an unrelated call to action for news alerts, not contributing to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I will work to earn the trust of the good people of Battle River-Crowfoot and I will continue to hold the Liberal minority government to account until the next federal election, when we will bring real change to all Canadians.”",
+      "reason": "This paragraph contains a quote from Poilievre about his future intentions, relevant to his political plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "2:10\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada election 2025: What happens to the Conservatives now that Poilievre lost his seat?",
+      "reason": "This is a video caption unrelated to the main article content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prime Minister Mark Carney must call a by-election within 50 days after the writ is issued for the riding by the Chief Electoral Office, according to Elections Canada.",
+      "reason": "Provides essential procedural information about the by-election process.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not contributing to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "He told reporters earlier Friday he has spoken to Poilievre following his election win and assured him he won’t draw out the by-election call.",
+      "reason": "Offers direct commentary on the timing of the by-election call.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I’ve already indicated to Mr. Poilievre that if it’s the decision of him and the Conservative Party to trigger, if I can put it that way, a by-election, I will ensure that it happens as soon as possible,” he said.",
+      "reason": "Provides a direct quote relevant to the by-election timing.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the timing guarantees Poilievre won’t be in the House of Commons for the opening of the new session of Parliament, which Carney said will return later this month.",
+      "reason": "Gives context on the implications of the by-election timing for Poilievre.",
+      "label": 1
+    },
+    {
+      "paragraph": "Parliament will return on May 26, but Carney said the Speech from the Throne will be on May 27.",
+      "reason": "This paragraph provides information about parliamentary dates unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Another Canada Post strike could be coming in May. What we know",
+      "reason": "This paragraph is unrelated to the main story about Poilievre and the Conservative MP resignation.",
+      "label": 0
+    },
+    {
+      "paragraph": "King Charles III to open Parliament at end of May, Carney says",
+      "reason": "This paragraph is unrelated to the main story about Poilievre and the Conservative MP resignation.",
+      "label": 0
+    },
+    {
+      "paragraph": "Poilievre lost his Carleton riding to Liberal Bruce Fanjoy by less than five points, after holding the seat since 2004.",
+      "reason": "This paragraph provides relevant details about Poilievre's recent election loss.",
+      "label": 1
+    },
+    {
+      "paragraph": "Many Conservatives have rallied behind him despite the party losing the election — which came after leading the Liberals in the polls by double digits last year — and Poilievre’s own defeat.",
+      "reason": "This paragraph provides context on Poilievre's support within the party despite recent losses.",
+      "label": 1
+    },
+    {
+      "paragraph": "They have pointed to the expanded vote share for the party, which earned 41.3 per cent of all ballots cast, but still came behind the Liberals for the first time since 2015.",
+      "reason": "This paragraph provides context about the Conservative party's performance in the election, which is relevant to the discussion of Poilievre's situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, some prominent Conservative figures including Ontario Premier Doug Ford and Nova Scotia Premier Tim Houston have criticized how Poilievre ran the campaign and led the party to its fourth straight loss.",
+      "reason": "This paragraph offers direct commentary on Poilievre's leadership, which is relevant to the article's focus on his political future.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Houston told reporters this week the Conservatives need to do some “soul-searching.”",
+      "reason": "This quote from a prominent figure provides insight into the party's internal reflections post-election, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "1:57\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPoilievre’s Conservatives must do ‘soul-searching’ after election loss: N.S. premier",
+      "reason": "This is a video caption and does not add new information to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Poilievre’s statement Friday marked his first public comments since his concession speech to Conservative supporters early Tuesday morning.",
+      "reason": "This paragraph provides new information about Poilievre's first public comments since the election.",
+      "label": 1
+    },
+    {
+      "paragraph": "He was born and raised in Calgary, and both his roots and the Conservatives’ strong support in western Canada spurred speculation that Poilievre would run for Parliament again in an Alberta riding.",
+      "reason": "This paragraph provides context about Poilievre's background and potential political strategy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Former prime minister Stephen Harper, who endorsed his one-time cabinet minister Poilievre during this year’s election campaign, represented a Calgary riding during his tenure in Parliament.",
+      "reason": "This paragraph provides historical context but does not directly contribute to the current story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Battle River-Crowfoot, which covers a portion of eastern Alberta between Edmonton and Calgary, has been held by a Conservative since its formation in 2015. Previous ridings that were combined to form Battle River-Crowfoot have also been solidly Conservative since the modern version of the party was created in 2003.",
+      "reason": "This paragraph provides relevant context about the political landscape of the riding Poilievre is considering.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating continuation and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Kurek won re-election with over 80 per cent of the vote in Monday’s election.",
+      "reason": "This provides context on Kurek's strong electoral support, relevant to his resignation.",
+      "label": 1
+    },
+    {
+      "paragraph": "© 2025 Global News, a division of Corus Entertainment Inc.",
+      "reason": "This is a copyright notice and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "headline": "The Guardian view on the US and Ukraine: is the natural resources agreement a big deal? | Editorial | The Guardian",
+  "context": [
+    "The Trump administration, with its customary rhetorical inflation, has hailed its mineral deal with Ukraine as “historic”. What the world’s most powerful nation says and does matters. But how much? And for how long? This is a government of caprice and chaos. Attempting to connect the data points can be like trying to join up the bug splats on a windscreen. The real issue is that the vehicle is still following the signs for Moscow.",
+    "This moment looks like a high because US-Ukraine ties hit such a low, particularly with the Oval Office bullying of Volodymyr Zelenskyy and reports that Washington is willing to recognise annexed Crimea as Russian. Key details of this deal have yet to be finalised in a technical agreement. The idea originated with Kyiv, which saw that economic incentives might be the only way to interest the money-minded US president in its defence. The Trump administration decided the answer was, in essence, to take all the resources without granting the security guarantee that Ukraine had sought. It looked a bit like a protection racket, without ongoing protection."
+  ],
+  "annotations": [
+    {
+      "paragraph": "But the agreement’s significance is limited. The presence of American citizens and businesses is not inherently protective: they were already in Ukraine when Vladimir Putin’s tanks rolled across the border in 2022. The agreement certainly does not show that Mr Trump wants to prolong US military aid – though reports say that the administration plans to approve $50m of arms exports – still less offer a security backstop to a European presence. It does not signal that he is turning his back on Mr Putin, even if he is currently voicing irritation with him. And it does not mean that a bigger economic deal with Russia may not be in the pipeline.",
+      "reason": "The paragraph provides analysis on the limited significance of the agreement and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Touting this agreement as evidence of his deal‑making prowess could encourage Mr Trump to feel a degree of political investment in the crisis, and perhaps therefore make Mr Putin step a little more carefully. But the Russian president may think he should seize more territory while he can. Mr Trump’s peace-making efforts to date have amounted to attempting to strong-arm Ukraine into accepting Moscow’s terms because he thinks that any deal looks better than none.",
+      "reason": "The paragraph discusses potential political implications and motivations behind the agreement.",
+      "label": 1
+    },
+    {
+      "paragraph": "At a time of such peril, even very limited gains will be welcomed and exploited. Mr Trump may be somewhat more inclined to allow military intelligence to keep flowing, or European nations to buy arms for Ukraine. In the worst case scenario, Kyiv has shored up the relationship for a short period, while European allies step up support. That is not nothing. But an administration which has so harshly demanded Ukraine’s gratitude has yet to give it anything deserving of thanks.",
+      "reason": "The paragraph provides context on the potential outcomes and strategic implications of the agreement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+      "reason": "This is a call to action for reader engagement, not relevant to the article's core story.",
+      "label": 0
+    }
+  ]
+}

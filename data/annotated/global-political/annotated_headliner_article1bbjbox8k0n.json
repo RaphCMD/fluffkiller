@@ -1,0 +1,104 @@
+{
+  "headline": "Australian man survives 100 days with artificial heart in world-first success | Health | The Guardian",
+  "context": [
+    "An Australian man with heart failure has become the first person in the world to walk out of a hospital with a total artificial heart implant.",
+    "The Australian researchers and doctors behind the operation announced on Wednesday that the implant had been an “unmitigated clinical success” after the man lived with the device for more than 100 days before receiving a donor heart transplant in early March."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The BiVACOR total artificial heart, invented by Queensland-born Dr Daniel Timms, is the world’s first implantable rotary blood pump that can act as a complete replacement for a human heart, using magnetic levitation technology to replicate the natural blood flow of a healthy heart.",
+      "reason": "Provides specific details about the technology and its inventor, directly related to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sign up for Guardian Australia’s breaking news email",
+      "reason": "This is a promotional line unrelated to the article's main content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The implant, still in the early stages of clinical study, has been designed for patients with end-stage biventricular heart failure, which generally develops after other conditions – most commonly heart attack and coronary heart disease, but also other diseases such as diabetes – have damaged or weakened the heart so that it cannot effectively pump blood through the body effectively.",
+      "reason": "Provides context on the medical condition the device addresses, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Every year more than 23 million people around the world suffer from heart failure but only 6,000 will receive a donor heart, according to the Australian government, which provided $50m to develop and commercialise the BiVACOR device as part of the artificial heart frontiers program.",
+      "reason": "Offers context on the global heart failure issue and funding, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The implant is designed as a bridge to keep patients alive until a donor heart transplant becomes available, but BiVACOR’s long-term ambition is for implant recipients to be able to live with their device without needing a heart transplant.",
+      "reason": "Explains the purpose and future goals of the device, directly related to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The patient, a man in his 40s from New South Wales who was experiencing severe heart failure, volunteered to become the first recipient of the total artificial heart in Australia and the sixth in the world.",
+      "reason": "Provides specific details about the patient and his condition.",
+      "label": 1
+    },
+    {
+      "paragraph": "The first five implants took place last year in the US and all received donor hearts before being discharged from hospital, with the longest time in between implant and transplant 27 days.",
+      "reason": "Offers context by comparing the Australian case to previous cases in the US.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Australian patient received the device on 22 November at St Vincent’s hospital in Sydney in a six-hour procedure led by the cardiothoracic and transplant surgeon Paul Jansz.",
+      "reason": "Details the date and location of the procedure and the lead surgeon.",
+      "label": 1
+    },
+    {
+      "paragraph": "The patient, who declined to be identified, was discharged from the hospital with the implant in February. A donor heart became available to be transplanted in March.",
+      "reason": "Provides a timeline of the patient's discharge and subsequent transplant.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jansz said it was a privilege to be part of such an historic and pioneering Australian medical milestone.",
+      "reason": "Contains a low-information quote that does not add new facts.",
+      "label": 0
+    },
+    {
+      "paragraph": "“We’ve worked towards this moment for years and we’re enormously proud to have been the first team in Australia to carry out this procedure,” Jansz said.",
+      "reason": "This quote provides direct commentary from a team member involved in the procedure, highlighting the significance of the achievement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Prof Chris Hayward, a cardiologist at St Vincent’s who led the observation of the man in after a few weeks in the intensive care unit, said the BiVACOR heart would transform heart failure treatment internationally.",
+      "reason": "This paragraph provides expert commentary on the potential impact of the BiVACOR heart on heart failure treatment.",
+      "label": 1
+    },
+    {
+      "paragraph": "after newsletter promotion",
+      "reason": "This is a placeholder for a newsletter promotion and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The BiVACOR Total Artificial Heart ushers in a whole new ball game for heart transplants, both in Australia and internationally,” he said. “Within the next decade we will see the artificial heart becoming the alternative for patients who are unable to wait for a donor heart or when a donor heart is simply not available.”",
+      "reason": "This quote provides insight into the future implications of the artificial heart technology.",
+      "label": 1
+    },
+    {
+      "paragraph": "Prof David Colquhoun from the University of Queensland and board member of the Heart Foundation, who was not involved in the trial, said the success was a “great technological step forward for artificial hearts – bridging hearts – before transplant”.",
+      "reason": "This quote offers an external expert's perspective on the technological advancement represented by the artificial heart.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Colquhoun cautioned that the functioning time span of the artificial heart – more than 100 days – was still significantly less than that of a donor heart, which is more than 10 years (or 3,000 days).",
+      "reason": "Provides important context about the limitations of the artificial heart compared to a donor heart.",
+      "label": 1
+    },
+    {
+      "paragraph": "Colquhoun said for that reason it was still “a long way to go” before the artificial heart could be considered a replacement for a heart transplant.",
+      "reason": "Offers direct commentary on the future potential and current limitations of the artificial heart.",
+      "label": 1
+    },
+    {
+      "paragraph": "He emphasised however the numbers per population experiencing heart failure are far less because of the heart medications now available – the peak of death rate from heart disease was around 1967-68 with 47,000 Australians dying from heart disease out of a then population of 11 million, compared with 45,000 of 26 million Australians in 2022.",
+      "reason": "Provides historical context and statistics unrelated to the main story of the artificial heart.",
+      "label": 0
+    },
+    {
+      "paragraph": "The implant is the first in a series of procedures planned in Australia as part of the Monash University-led Artificial Heart Frontiers Program, which is developing three key devices to treat the most common forms of heart failure.",
+      "reason": "Introduces future plans and context for the artificial heart program, relevant to the main story.",
+      "label": 1
+    }
+  ]
+}

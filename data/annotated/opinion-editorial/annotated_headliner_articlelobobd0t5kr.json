@@ -1,0 +1,74 @@
+{
+  "headline": "Opinion: International students are being set up to fail - The Globe and Mail",
+  "context": [
+    "Authors and topics you follow will be added to your personal news feed in Following.",
+    "Report on Business"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Follow Alexandra, The Globe's former telecom reporter and bestselling author of Rogers vs Rogers, as she takes on the financial and cybercrime beat for Report on Business.",
+      "reason": "This paragraph is promotional and unrelated to the main topic of international students.",
+      "label": 0
+    },
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This paragraph is an event promotion and does not relate to the topic of international students.",
+      "label": 0
+    },
+    {
+      "paragraph": "Watchlist",
+      "reason": "This is a single word with no context or relevance to the topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dig deep into stock quotes for the latest insights, news and real-time prices",
+      "reason": "This paragraph is about stock quotes and unrelated to international students.",
+      "label": 0
+    },
+    {
+      "paragraph": "lately podcast",
+      "reason": "This is a vague mention of a podcast with no relevance to the topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Our guest, Yuthika Girme, joins Lately to unpack anti-single prejudice, the four archetypes of singletons, and explains how this growing demographic is shaping a new ‘solo economy'.",
+      "reason": "This paragraph is unrelated to the topic of international students and their challenges.",
+      "label": 0
+    },
+    {
+      "paragraph": "Report on Business",
+      "reason": "This is a section header and does not provide any information related to the topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Follow Alexandra, The Globe's former telecom reporter and bestselling author of Rogers vs Rogers, as she takes on the financial and cybercrime beat for Report on Business.",
+      "reason": "This paragraph is unrelated to the topic of international students and their challenges.",
+      "label": 0
+    },
+    {
+      "paragraph": "Watchlist",
+      "reason": "This is a section header and does not provide any information related to the topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dig deep into stock quotes for the latest insights, news and real-time prices",
+      "reason": "This paragraph is unrelated to the topic of international students and their challenges.",
+      "label": 0
+    },
+    {
+      "paragraph": "lately podcast",
+      "reason": "This is a title or heading for a podcast, not related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Our guest, Yuthika Girme, joins Lately to unpack anti-single prejudice, the four archetypes of singletons, and explains how this growing demographic is shaping a new ‘solo economy'.",
+      "reason": "This paragraph discusses a podcast topic unrelated to international students or the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This paragraph is an announcement for an event and does not relate to the challenges faced by international students.",
+      "label": 0
+    }
+  ]
+}

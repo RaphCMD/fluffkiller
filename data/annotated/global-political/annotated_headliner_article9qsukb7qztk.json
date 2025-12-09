@@ -1,0 +1,124 @@
+{
+  "headline": "Hamas suspends hostage release, says Israel isn't following ceasefire agreement",
+  "context": [
+    "Hamas said Monday it was suspending the upcoming hostage release in the Gaza Strip, blaming Israel for not following the terms of a ceasefire agreement that paused the 15-month war in the Palestinian enclave.",
+    "Hamas’ military wing, the Qassam Brigades, cited alleged Israeli violations of the deal over the past three weeks, including delaying the return of displaced people to northern Gaza, not allowing aid to enter the enclave, and shelling and gunfire in various areas of the strip."
+  ],
+  "annotations": [
+    {
+      "paragraph": "As a result, the handover of hostages scheduled for Saturday “will be postponed until further notice” and until Israel “commits to and compensates for the past weeks retroactively,” Qassam Brigades spokesman Abu Obeida said via social media.",
+      "reason": "This paragraph provides direct commentary from a Hamas spokesman about the suspension of the hostage release.",
+      "label": 1
+    },
+    {
+      "paragraph": "The announcement triggered alarm among families of hostages, with the Hostages and Missing Families Forum appealing for help from countries mediating the next and second stage of the ceasefire.",
+      "reason": "This paragraph describes the reaction of families and their appeal for international help, which is relevant to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Recent evidence from those released, as well as the shocking conditions of the hostages released last Saturday, leaves no room for doubt — time is of the essence, and all hostages must be urgently rescued from this horrific situation,” the group said.",
+      "reason": "This paragraph provides a quote from a relevant group emphasizing the urgency of the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Over the weekend, at Saturday’s hostage release — the fifth since the ceasefire agreement began Jan. 19 — Eli Sharabi, Or Levy and Ohad Ben Ami looked frail and weak.",
+      "reason": "This paragraph provides specific details about the condition of hostages, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Qatar, the United States and Egypt have helped mediate the talks between Israel and Hamas, with negotiators due to hammer out details of the deal's second phase now.",
+      "reason": "This paragraph provides context about the mediation efforts, which is relevant to the ongoing negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israeli officials denounced Hamas' announcement, with Defense Minister Israel Katz calling it “a complete violation of the ceasefire agreement.”",
+      "reason": "This paragraph provides a direct response from Israeli officials, contributing to the narrative of the ceasefire agreement dispute.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I have instructed the IDF to prepare at the highest level of alert for any possible scenario in Gaza and to protect the communities,” he said, referring to the Israel Defense Forces.",
+      "reason": "This paragraph offers specific actions taken by Israel in response to the situation, adding to the narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "Opposition politician Avigdor Lieberman called for aid to be cut off to Gaza if Hamas did not release hostages Saturday.",
+      "reason": "This paragraph introduces a political stance and potential action related to the hostage situation, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“No trucks will enter the Gaza Strip. No food, no water, no electricity, and no fuel,” he said on X.",
+      "reason": "This quote emphasizes the potential consequences of the political stance, directly related to the hostage release issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hundreds of trucks of aid have flowed into the shattered enclave daily since the truce went into effect in January, and any cutoff would have a devastating impact on Palestinian civilians.",
+      "reason": "This paragraph provides context on the humanitarian impact of the potential aid cutoff, relevant to the ceasefire and hostage situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hamas' announcement will worsen the uncertainty surrounding the fragile ceasefire, as well as not only the future of the hostages and Palestinian prisoners and detainees who are due to be released in exchange, but also the next steps for the region as a whole.",
+      "reason": "The paragraph provides context on the implications of Hamas' announcement on the ceasefire and regional stability.",
+      "label": 1
+    },
+    {
+      "paragraph": "President Donald Trump said Monday night that if all the hostages are not returned by noon Saturday, Israel should \"cancel\" the ceasefire and that \"all hell is going to break out.\"",
+      "reason": "The paragraph includes a direct quote from a significant political figure about the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Asked to elaborate on what that would mean, Trump told reporters, \"You'll find out.\"",
+      "reason": "The paragraph provides a follow-up to Trump's statement, though it lacks substantial information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"They'll find out, too. Hamas will find out what I mean,\" Trump said. \"These are sick people, and they'll find out what I mean Saturday at 12.\"",
+      "reason": "The paragraph contains additional quotes from Trump but does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump last week was condemned across the Middle East after he floated a plan for the United States to take control of Gaza — and turn it into \"the Riviera of the Middle East.” In an interview with Fox News set to air Monday, he said that under the plan, Palestinians in Gaza would not have a right to return to their home after the enclave was rebuilt.",
+      "reason": "The paragraph provides context on Trump's controversial statements related to Gaza, which is relevant to the broader geopolitical situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’ll build beautiful communities for the 1.9 million people. We’ll build beautiful communities, safe communities — could be five, six, could be two, but we’ll build safe communities a little bit away from where they are, where all of this danger is,” Trump said in the Fox interview.",
+      "reason": "This paragraph is unrelated to the main premise about Hamas suspending hostage release and focuses on Trump's unrelated comments.",
+      "label": 0
+    },
+    {
+      "paragraph": "After Trump’s initial comments last week, White House press secretary Karoline Leavitt insisted Trump was “committed to rebuilding Gaza and to temporarily relocating” Palestinians during those reconstruction efforts.",
+      "reason": "This paragraph is unrelated to the main premise about Hamas suspending hostage release and focuses on Trump's unrelated comments.",
+      "label": 0
+    },
+    {
+      "paragraph": "Hamas leader Osama Hamdan on Monday rejected what he called the “Israeli-American vision” for Palestinians, condemning Trump’s statements about Gaza, saying they revealed “his real estate view of homelands.”",
+      "reason": "This paragraph is relevant as it provides a direct quote from a Hamas leader related to the situation in Gaza.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hamdan doubled down on the decision to postpone the handover of Israeli hostages, saying it “came as a result of the occupation’s disruption of 90% of the humanitarian protocol.”",
+      "reason": "This paragraph is relevant as it directly addresses the main premise of the article regarding the suspension of hostage release.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to local health officials, close to 48,000 people have died in the war in Gaza, which was triggered by Hamas’ Oct. 7 terrorist attack in which Israeli officials say 1,200 people were killed and 251 were taken hostage.",
+      "reason": "This paragraph provides essential context and background information related to the conflict and hostage situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Marlene Lenthang is a breaking news reporter for NBC News Digital.",
+      "reason": "This is a biographical note about a reporter and does not contribute to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Raquel Coronell Uribe",
+      "reason": "This is an incomplete sentence and does not provide any information related to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "contributed",
+      "reason": "This is an incomplete sentence and does not provide any information related to the main story.",
+      "label": 0
+    }
+  ]
+}

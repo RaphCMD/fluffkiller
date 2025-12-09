@@ -1,0 +1,29 @@
+{
+  "headline": "Sports Shorts | Q Country 91.5FM",
+  "context": [
+    "Friday, May 2, 2025",
+    "-The Winnipeg Jets can eliminate the Blues with a win tonight in St. Louis. However, forward Mark Scheifele will not be in the lineup. He was injured Wednesday after taking two punishing bodychecks."
+  ],
+  "annotations": [
+    {
+      "paragraph": "-Last night in the NHL – the Toronto Maple Leafs, Edmonton Oilers, and Vegas Golden Knights all advanced to the second round. The Leafs beat the Ottawa Senators 4-2, the Oilers topped the L-A Kings 6-4 – and the Golden Knights downed the Minnesota Wild 3-2. In the other game – the Avalanche beat the Stars 7-4 to send their series to a deciding Game 7.",
+      "reason": "This paragraph provides results from other NHL games, which is not directly related to the Winnipeg Jets' situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "-Winnipeg Jets goalie Connor Hellebuyck is a finalist for the NHL’s most valuable player. He’s the first player in Jets’ franchise history to be voted as a Hart Trophy finalist. Edmonton’s Leon Draisaitl and Tampa Bay’s Nikita Kucherov are the other two finalists.",
+      "reason": "This paragraph provides relevant information about a Winnipeg Jets player, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "-The Winnipeg Blue Bombers will be touring Manitoba starting this weekend. The Grey Cup tour is promoting the 112th Championship game to be held in Winnipeg November 16th. It’ll make 40 stops through October, and will feature games, interactive challenges and giveaways. The Manitoba government is providing $5.5 million to help the Bombers host the game and related events.",
+      "reason": "This paragraph is about the Winnipeg Blue Bombers and not related to the Winnipeg Jets or the NHL.",
+      "label": 0
+    },
+    {
+      "paragraph": "-The Toronto Blue Jays beat the Boston Red Sox 4-2.",
+      "reason": "This paragraph is about a baseball game and not related to the Winnipeg Jets or the NHL.",
+      "label": 0
+    }
+  ]
+}

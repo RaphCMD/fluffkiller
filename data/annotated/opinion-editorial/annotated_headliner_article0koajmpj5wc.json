@@ -1,0 +1,99 @@
+{
+  "headline": "Opinion: First thing we do after the election, let’s kill the bankers’ cozy little oligopoly - The Globe and Mail",
+  "context": [
+    "The Bay Street Financial District is shown next to the CN Tower in Toronto in August, 2022.Nathan Denette/The Canadian Press",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Andrew Spence is a veteran financial services executive and the author of Fleeced: Canadians Versus Their Banks, published by Sutherland House.",
+      "reason": "This paragraph provides background information about the author, which is not directly relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Canada has one of the most uncompetitive banking systems in the industrialized world. The sector’s share of revenue relative to GDP far outstrips that of the United States, Australia, Britain and other European countries. Canada’s banks charge some of the highest fees for service in the world.",
+      "reason": "This paragraph provides relevant context about the uncompetitive nature of Canada's banking system, which is central to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "At least Canada’s banking industry executives are now saying the quiet part out loud, in an attempt to convince the public that the banking oligopoly serves us well despite its egregious cost.",
+      "reason": "This paragraph is relevant as it discusses the behavior of banking executives, which ties into the article's critique of the banking oligopoly.",
+      "label": 1
+    },
+    {
+      "paragraph": "Addressing a Bank of Nova Scotia investor conference last year, Royal Bank’s Dave McKay, without a trace of irony, said, “They talk about Canada as being an oligopoly. It is a ruthless oligopoly, at the end – ruthlessly competitive.”",
+      "reason": "This paragraph provides a direct quote from a banking executive, illustrating the article's point about the oligopoly.",
+      "label": 1
+    },
+    {
+      "paragraph": "And just last week, National Bank chief executive officer Laurent Ferreira was bald-faced in his defence of oligopoly’s producer privilege, implying that Canadians should be grateful for their high-priced banking services.",
+      "reason": "This paragraph is relevant as it highlights a recent statement from a banking executive defending the oligopoly, supporting the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Conflating commercial interest with the public interest, Mr. Ferreira argued: “An oligopoly is actually a good thing for our country” supposedly because in times of difficulty the banks can quickly gather with the stabilizing authorities to quell the crisis. Contrary to Mr. Ferreira’s view, concentration and oligopoly at the expense of affordability are not necessary to deliver stability.",
+      "reason": "This paragraph presents a counterargument to the idea that oligopolies are beneficial, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ghost of U.S. President Donald Trump haunts every corridor of Canada’s politics, and the economic damage and blow to investor confidence from his assault on our country is an existential challenge. We need to review every dimension of our economic model to withstand this assault, and our financial sector is no exception. Yet the spin from the bank CEOs in the face of this challenge shows it will take a political backbone of steel to deliver change.",
+      "reason": "This paragraph discusses the broader political and economic context affecting Canada's financial sector, relevant to the article's call for reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fortunately, reform of the financial system is without doubt a retail political issue, one that directly addresses the cost-of-living challenge that is top of mind for all Canadians. Following Monday’s election, it’s high time this cozy little oligopoly faces its reckoning.",
+      "reason": "This paragraph emphasizes the political importance of financial reform, aligning with the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "We can make our banking industry more competitive and consumer-friendly by leveraging the power of financial technology. Progress to date has been obstructed by the lack of political support for open banking, which is well advanced elsewhere. Open banking, or the ability to access many competitively priced financial service providers beyond the banking system safely and securely, has been up and running in Britain since 2018.",
+      "reason": "This paragraph introduces the concept of open banking as a solution to the oligopoly issue, directly contributing to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "When he was governor of the Bank of England, Prime Minister Mark Carney was an enthusiastic supporter of open banking because it has the ability to render effective competition to break the power of oligopoly without sacrificing stability.",
+      "reason": "This paragraph provides a relevant example of support for open banking, reinforcing the article's argument for financial reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "On top of that, all of Canada’s political parties woke up to Canada’s 10-year economic miasma in 2023 to modernize and quickly enact a new and powerful competition act. The Competition Bureau now has the power to shake up the economy, creating opportunity for youth and better incomes for all.",
+      "reason": "This paragraph provides relevant information about political actions taken to address economic issues, which is directly related to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Canada is about be hit by the biggest economic shock since the COVID-19 pandemic, one in which the economy must redirect export demand to domestic demand. We need all the disposable income we can get.",
+      "reason": "This paragraph provides context about the economic challenges facing Canada, which is relevant to the article's focus on economic reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other industrialized countries balance stability in their banking system with competition. Sadly, Canada struggles to embrace competition because it requires the taking of calculated risk. Policy makers have failed to make competition in banking a priority and continue to provide a taxpayer-supported, too-big-to-fail, stability subsidy.",
+      "reason": "This paragraph discusses the lack of competition in Canada's banking system, which is central to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s why Canadians pay through the nose for foreign exchange, wealth management, and credit-card services. Consumers experience such quaint frictions as five-day holds on clearing a cheque, giving the banks interest-free funding and pushing some Canadians to predatory payday lenders.",
+      "reason": "This paragraph provides specific examples of the consequences of the banking oligopoly, supporting the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "One would hope that all political parties, each having expressed in the House of Commons a willingness to take on the challenge of an uncompetitive and costly banking industry, will rally around to support reform as a matter of priority. Moving the bank competition file along as the first order of business after the election would be a good start.",
+      "reason": "This paragraph suggests political action as a solution to the banking issue, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "As Mr. Ferreira has observed, with a few extra chairs around the table for our political leaders to demand change, it appears the banks can gather on relatively short notice.",
+      "reason": "This paragraph provides a specific observation related to the banks and political leaders, contributing to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keep your opinions sharp and informed with a helpful summary of The Globe’s most provocative columns, covering politics, world affairs, business, arts, health and the way we live",
+      "reason": "This paragraph is promotional content for The Globe's columns and does not contribute to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a promotional call to action unrelated to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "headline": "Cool water could protect sea stars from a mysterious disease",
+  "context": [
+    "A mysterious disease that has plagued sea stars for more than a decade may have met its match in the fjords of British Columbia.",
+    "Sunflower sea stars discovered thriving in the frigid waters suggest that cooler temperatures provide protection from sea star wasting disease, or SSWD. The finding, reported in the April Proceedings of the Royal Society B, is a valuable clue about what causes SSWD in the first place, researchers say."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Sea star wasting disease has stumped scientists since the first big outbreak emerged in 2013 off North America’s Pacific coast. “We initially thought it was a virus, but went back on that, because the data was either flawed or the results couldn’t be repeated,” says Ian Hewson, a marine ecologist at Cornell University who was not involved in the new study. His follow-up research into possible microbial or environmental causes has been inconclusive.",
+      "reason": "Provides background on the disease and scientific challenges, relevant to understanding the context of the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "SSWD affects an estimated 20 species, causing gruesome body contortions and rapid death. One affected species, the sunflower sea star (Pycnopodia helianthoides), has declined by about 91 percent and is now considered critically endangered.",
+      "reason": "Gives specific information about the impact of the disease on sea star populations, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The species were once abundant in waters from Baja, Calif., all the way to Alaska. “It’s extraordinary to find refuge populations, because they potentially could seed further populations elsewhere,” Hewson says.",
+      "reason": "Discusses the potential significance of finding refuge populations, relevant to the study's implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s important because sea stars help keep ecosystems in check. For instance, sunflower sea stars are one of the primary predators of sea urchins. In their absence, “urchins will completely mow down kelp forests,” that serve as crucial habitats for many species, says marine ecologist Alyssa Gehman of the Haikai Institute in British Columbia.",
+      "reason": "Explains the ecological role of sea stars, providing context for their importance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gehman learned of the refuge population from her colleague Tristan Blaine, a field biologist with the Central Coast Indigenous Resource Alliance. In 2016, the First Nations Coastal Guardian Watchmen reported seeing giant sea stars in their traps while surveying for Dungeness crabs, Blaine says. To look for the sea stars, he dove fjords near Bella Coola, a town in Nuxalk First Nations territory. “The fjords are colder than anywhere else on the coast. It’s super dark and there’s usually blasting current,” Blaine says. But the water was full of life, including “sea stars that are disappearing everywhere [else],” he says.",
+      "reason": "Describes the discovery of the refuge population and the conditions of the fjords, directly related to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The observation piqued Gehman and her team’s interest. From 2018 to 2023, they surveyed sunflower sea stars living in the fjords and around islands on the outer coast — diving up to 14 meters below the water’s surface at seven sites in the fjords and 26 sites around islands.",
+      "reason": "This paragraph provides details about the research conducted to study the sea stars, which is relevant to understanding the investigation into the disease.",
+      "label": 1
+    },
+    {
+      "paragraph": "Twisted arms, lesions and disintegrating bodies told the scientists that SSWD had been in the fjords. But not to the extent that it showed up in the islands. Fjord populations were healthier and had more adults than those around the islands. SSWD, which becomes more threatening the larger that sea stars get, prevented the islands’ sea stars from reaching adulthood, the researchers say.",
+      "reason": "This paragraph provides important findings about the health of sea star populations in different areas, directly related to the disease.",
+      "label": 1
+    },
+    {
+      "paragraph": "Logging water temperature, salinity and oxygen levels hinted at why SSWD didn’t devastate the fjord population. Within the fjords, sea stars were most abundant in patches of cooler, deeper, saltier water. It’s likely that the sea stars sought out these areas as snow melt formed a warmer, fresher water layer on the surface. On the other hand, sea stars in the outer islands were most abundant in warmer water.",
+      "reason": "This paragraph provides insights into environmental factors that may protect sea stars from the disease, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Such combined surveys that assess environmental conditions and biological metrics are rare, but they are key to understanding SSWD, Hewson says.",
+      "reason": "This paragraph offers a general statement about the importance of the research method, which is not directly related to the main findings.",
+      "label": 0
+    },
+    {
+      "paragraph": "Gehman thinks the cooler temperatures in the fjords may protect sunflower sea stars from SSWD. “Most of the biggest outbreaks are associated with anomalously warm water,” she says.",
+      "reason": "This paragraph provides a hypothesis about the role of temperature in protecting sea stars, directly related to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Above normal temperatures in a given area increases the likelihood of outbreaks in that area, researchers reported in Science Advances in 2019. In lab conditions, lower temperatures slowed disease progression in a related sea star, Pisaster ochraceus, according to a 2016 study.",
+      "reason": "This paragraph provides relevant information about how temperature affects the disease, supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The slightest temperature changes can limit the effectiveness of a potential pathogen, Hewson says. Although the identity of the pathogen that causes SSWD remains unknown, the team’s discovery has breathed new life into efforts to crack the mystery.",
+      "reason": "This paragraph offers relevant commentary on the impact of temperature on the pathogen and the ongoing research efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gehman and colleagues are exploring other parts of the fjords and conducting new experiments. They’re close to understanding how temperature and microbes interact to cause SSWD, she says. “[We have] restarted the question from square one on what causes this disease.”",
+      "reason": "This paragraph is relevant as it discusses ongoing research efforts and progress in understanding the disease.",
+      "label": 1
+    }
+  ]
+}

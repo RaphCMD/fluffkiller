@@ -1,0 +1,149 @@
+{
+  "headline": "U.S. tensions, weak loonie combine for spring break boom in Victoria, B.C. | Globalnews.ca",
+  "context": [
+    "Growing tensions with the United States coupled with a weak Canadian dollar have combined to create something of a spring break boom in Victoria, B.C.",
+    "“We used to travel in the ‘States a fair amount, but we’re just not comfortable right now,” Lorie Hyatt, visiting from Ontario, told Global News."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“I don’t think we’re going to travel to the U.S. for the next four years,” added Roger Hyatt.",
+      "reason": "This quote supports the main premise by illustrating individual decisions influenced by U.S. tensions.",
+      "label": 1
+    },
+    {
+      "paragraph": "2:06\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSpring break cross border travel decline",
+      "reason": "This is a video caption and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "The couple were among many tourists enjoying the streets of B.C.’s capital Global News spoke with on Wednesday, who cited U.S. President Donald Trump’s tariff and annexation threats in choosing to travel domestically this year.",
+      "reason": "This paragraph provides context and specific reasons for the increase in domestic travel, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The result is paying dividends for local tourism operators.",
+      "reason": "This sentence highlights the positive impact on local tourism, directly related to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Lots of Canadians, definitely. Yesterday there were people down on the docks, they said they chose to travel to B.C. rather than travelling to the ‘States,” said Nik Coutinho with Prince of Whales whale watching.",
+      "reason": "This paragraph provides a direct quote supporting the article's premise about increased Canadian tourism in B.C. due to U.S. tensions.",
+      "label": 1
+    },
+    {
+      "paragraph": "For news affecting Toronto and surrounding communities, sign up to receive Toronto news alerts when they break.",
+      "reason": "This is an unrelated promotional message and does not contribute to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Coutinho said business was already brisk, ahead of the company’s official seasonal launch later this month when they activate their larger boats.",
+      "reason": "This paragraph provides context about the business's current state, which is relevant to the tourism boom in Victoria.",
+      "label": 1
+    },
+    {
+      "paragraph": "1:55\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanadians soon required to register when crossing U.S. border by land",
+      "reason": "This is an unrelated video caption and does not contribute to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The company’s bread and butter, American visitors, are still showing up in numbers while the Canadian component has increased.",
+      "reason": "This paragraph provides relevant information about the change in tourist demographics, supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Its a lot like just after COVID where the borders were closed, and Canadians really rediscovered their backyard,” he said.",
+      "reason": "This paragraph provides context by comparing the current situation to a past event, illustrating the impact on travel behavior.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bill Lewis, chair of the Greater Victoria Hotel Association cited the weak Canadian dollar as a key factor in the boom, both in luring U.S. visitors and keeping Canadians at home.",
+      "reason": "This paragraph provides a direct quote from an expert explaining the economic factors contributing to the tourism boom.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating an advertisement, not contributing to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "“We’re really seeing much higher than expected numbers for March this year … It’s more than we’ve seen the last couple of spring breaks,” he said.",
+      "reason": "This paragraph provides specific data on the increase in tourism, supporting the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Montreal brothers plead guilty after keeping woman’s body on couch for six months",
+      "reason": "This paragraph is unrelated to the article's topic about tourism in Victoria, B.C.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prince Harry wants to reconcile with Royal Family, says he’s ‘forgiven’ them",
+      "reason": "This paragraph is unrelated to the topic of U.S. tensions and the weak loonie affecting tourism in Victoria.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Which is typically an off-season, shoulder-season month and we are seeing hotels getting close to full.”",
+      "reason": "This paragraph provides relevant information about the impact on hotel occupancy in Victoria due to the tourism boom.",
+      "label": 1
+    },
+    {
+      "paragraph": "1:36\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNew poll shows Canadians unhappy with Trump’s threats",
+      "reason": "This paragraph is a video caption and does not provide new information related to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Data backs up the anecdotal evidence.",
+      "reason": "This paragraph indicates that there is statistical support for the claims made, contributing to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Flight Centre reported a 40-per cent drop in leisure bookings to the U.S. year over year in February. Statistics Canada reported a 23-per cent drop in Canadian return trips across the U.S. border over the same time frame.",
+      "reason": "This paragraph provides specific data supporting the article's premise about reduced travel to the U.S. and increased local tourism.",
+      "label": 1
+    },
+    {
+      "paragraph": "BC Ferries, meanwhile, says local traffic is brisk.",
+      "reason": "This provides relevant information about increased local traffic, supporting the article's premise of a spring break boom.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’re seeing high volumes of traffic across all of the key routes – obviously, a lot of families taking advantage of the school holiday to travel between the island and the mainland,” spokesperson Shiryn Sayani said.",
+      "reason": "This quote provides specific evidence of increased travel, which is relevant to the article's focus on a spring break boom.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "It remains how long the trend will last.",
+      "reason": "This is a vague statement that does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Currency markets and Trump’s actions both remain impossible to predict.",
+      "reason": "This is a general statement that does not add specific information to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "And Canadians’ anger may linger long beyond any political conflicts if tourists like Ontario’s Ruth Ward are any indication.",
+      "reason": "This paragraph provides context about Canadian tourists' sentiments, which is relevant to the article's focus on travel trends.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I don’t care if I ever go again,” Ward said.",
+      "reason": "This quote directly illustrates the sentiment of Canadian tourists, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "© 2025 Global News, a division of Corus Entertainment Inc.",
+      "reason": "This is a copyright notice and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

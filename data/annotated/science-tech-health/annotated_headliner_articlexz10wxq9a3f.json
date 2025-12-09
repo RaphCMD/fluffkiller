@@ -1,0 +1,144 @@
+{
+  "headline": "Science news this week: A 'skull' on Mars and the discovery of a brand-new color | Live Science",
+  "context": [
+    "NASA scientists have discovered a mysterious structure on Mars that may offer new insights into the Red Planet's watery past.",
+    "The dark, pitted rock, nicknamed 'Skull Hill', was discovered by NASA's Perseverance rover as its searched for signs of ancient life in the hills and rocky outcrops of Mars' barren Jezero Crater — a bowl-shaped depression that scientists suspect once held a huge ancient lake."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The rock stands out against the lighter-toned rock that surrounds it, leading scientists to suspect that it may not have formed there. Rather, it may have been transported on a Martian river or lake to its current position, billions of years ago. However, many questions still remain about the rock's origin and what it can tell us about the history of our cosmic neighbor.",
+      "reason": "This paragraph provides relevant information about the discovery on Mars, including hypotheses about the rock's origin and its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "A whole new dimension of vision could be just around the corner after scientists successfully hijacked the human eye to see a brand-new color called olo.",
+      "reason": "This paragraph introduces a separate topic unrelated to the Mars discovery, focusing on a new color discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "The color, described by study participants as a \"blue-green of unprecedented saturation,\" was made visible using a technique called \"Oz\" to stimulate a particular group of light receptors at the back of the participants' eyes.",
+      "reason": "This paragraph provides details about the new color discovery, which is unrelated to the Mars topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "The researchers say their method could be developed to restore color vision in those with color blindness, and that it could potentially provide enhanced digital viewing experiences in the future.",
+      "reason": "This paragraph discusses potential applications of the new color discovery, unrelated to the Mars topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Discover more health news",
+      "reason": "This is a generic call to action unrelated to the main topics.",
+      "label": 0
+    },
+    {
+      "paragraph": "Get the world’s most fascinating discoveries delivered straight to your inbox.",
+      "reason": "This is a promotional statement encouraging newsletter sign-ups.",
+      "label": 0
+    },
+    {
+      "paragraph": "—Parasitic worm raises risk of cervical cancer, study finds",
+      "reason": "This is a separate news headline unrelated to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "—Simple blood test could reveal likelihood of deadly skin cancer returning, study suggests",
+      "reason": "This is a separate news headline unrelated to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "—How accurate are smart rings, and how do they compare to fitness watches?",
+      "reason": "This is a separate news headline unrelated to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "If you have an outdoor cat, you've probably been presented with \"gifts\" from your furry companion — usually in the form of dead birds and rodents. But have you ever wondered why they do this?",
+      "reason": "This is an unrelated anecdote about cats, not relevant to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Your cat had to use a lot of energy to capture this prize, so eating it themselves would be the most sensible action from a survival perspective. But experts say there are several hypotheses for why they continue this bizarre behavior.",
+      "reason": "This paragraph is unrelated to the headline about Mars and new scientific discoveries.",
+      "label": 0
+    },
+    {
+      "paragraph": "Scientists have made steps towards a quantum internet after developing the world's first operating system to facilitate connections between quantum computers.",
+      "reason": "This paragraph introduces a new scientific development relevant to the headline's theme of science news.",
+      "label": 1
+    },
+    {
+      "paragraph": "Operating systems, like Microsoft Windows and Apple iOS, manage and control our computers' hardware and software. They enable users to interact with applications and allow different devices to connect with each other.",
+      "reason": "This paragraph provides general background information on operating systems, not directly related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Most existing quantum computers are designed and built to carry out a specific function and use different kinds of quantum bits (qubits) to run their calculations. But now, a first-of-its-kind quantum operating system called QNodeOS has been developed to allow multiple quantum computers to connect and be controlled by a single central platform, regardless of the type of qubits they use.",
+      "reason": "This paragraph provides specific information about a new scientific development, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Discover more technology news",
+      "reason": "This is a call to action and does not provide new information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "—Schrödinger's cat-inspired quantum computing now 160 times more reliable thanks to new discovery",
+      "reason": "This paragraph is unrelated to the Mars discovery or the new color, focusing instead on quantum computing.",
+      "label": 0
+    },
+    {
+      "paragraph": "—Dyson spheres could really exist — but there's a catch",
+      "reason": "This paragraph is unrelated to the Mars discovery or the new color, focusing instead on Dyson spheres.",
+      "label": 0
+    },
+    {
+      "paragraph": "—'Beauty' particle discovered at world's largest atom smasher could unlock new physics",
+      "reason": "This paragraph is unrelated to the Mars discovery or the new color, focusing instead on particle physics.",
+      "label": 0
+    },
+    {
+      "paragraph": "—Solar wind might be making water on the moon, groundbreaking NASA study reveals",
+      "reason": "This paragraph is unrelated to the Mars discovery or the new color, focusing instead on lunar water.",
+      "label": 0
+    },
+    {
+      "paragraph": "—Giant 'sea dragon' fossil could be largest mosasaur ever discovered in Mississippi",
+      "reason": "This paragraph is unrelated to the Mars discovery or the new color, focusing instead on a fossil discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "—Ancient DNA and modern genomes can reveal stories of past peoples, from the Iron Age to Chernobyl, geneticist says",
+      "reason": "This paragraph is unrelated to the discovery on Mars or the new color.",
+      "label": 0
+    },
+    {
+      "paragraph": "—What is the ancient Egyptian 'Eye of Horus' — and why is it found in so many burials?",
+      "reason": "This paragraph is unrelated to the discovery on Mars or the new color.",
+      "label": 0
+    },
+    {
+      "paragraph": "—A long-lost ice sheet could predict the future of New York City — one in which Lower Manhattan and Coney Island are 'perpetually submerged'",
+      "reason": "This paragraph is unrelated to the discovery on Mars or the new color.",
+      "label": 0
+    },
+    {
+      "paragraph": "Scientists on an expedition to the South Sandwich Islands near Antarctica have revealed footage that is straight out of a horror movie: a deep-sea rattail fish swimming with two bloodsucking parasites latched onto either side of its head.",
+      "reason": "This paragraph is unrelated to the discovery on Mars or the new color.",
+      "label": 0
+    },
+    {
+      "paragraph": "The video, shared by the Schmidt Ocean Institute, shows the two parasitic crustaceans called copepods trailing alongside the rattail fish, their long egg sacs flowing behind them like a pair of pigtails.",
+      "reason": "This paragraph is unrelated to the discovery on Mars or the new color.",
+      "label": 0
+    },
+    {
+      "paragraph": "The footage was captured as part of an expedition to examine the seafloor and the diversity of weird and wonderful creatures that live down there.",
+      "reason": "This paragraph is unrelated to the headline about Mars and a new color discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "Want more science news? Follow our Live Science WhatsApp Channel for the latest discoveries as they happen. It's the best way to get our expert reporting on the go, but if you don't use WhatsApp, we're also on Facebook, X (formerly Twitter), Flipboard, Instagram, TikTok, Bluesky and LinkedIn.",
+      "reason": "This paragraph is promotional content unrelated to the main story.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "headline": "Opinion: Advice for Mark Carney: Respect your finance minister. Don’t be like Trudeau - The Globe and Mail",
+  "context": [
+    "Authors and topics you follow will be added to your personal news feed in Following.",
+    "morning update newsletter"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Start your day with context and insight on the biggest stories shaping our lives, written by Danielle Groen",
+      "reason": "This is a promotional sentence for a newsletter and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This is an advertisement for an event and does not relate to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Globe Women's Collective",
+      "reason": "This is a title or heading for a section and does not provide information related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Focused reporting aimed at moving the needle toward gender equity in the workplace",
+      "reason": "This is a general statement about a reporting focus and does not contribute to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "PODCAST",
+      "reason": "This is a single word likely indicating a section or feature and does not provide relevant information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Every other Tuesday Taylor Owen sits down with the people shaping this rapidly approaching future",
+      "reason": "This paragraph is promotional content unrelated to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "morning update newsletter",
+      "reason": "This is a promotional mention of a newsletter, not related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Start your day with context and insight on the biggest stories shaping our lives, written by Danielle Groen",
+      "reason": "This is promotional content for a newsletter, not related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Globe Women's Collective",
+      "reason": "This is a promotional mention of a group, not related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Focused reporting aimed at moving the needle toward gender equity in the workplace",
+      "reason": "This is a general statement about reporting focus, not related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "PODCAST",
+      "reason": "This is a label for a podcast section and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Every other Tuesday Taylor Owen sits down with the people shaping this rapidly approaching future",
+      "reason": "This is a promotional statement for a podcast and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This is an announcement for an event and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

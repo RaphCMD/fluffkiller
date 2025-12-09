@@ -1,0 +1,279 @@
+{
+  "headline": "What happens when a pope dies? Inside the Vatican's historic, symbolic rituals | CBC News",
+  "context": [
+    "Pope Francis, the leader of the Catholic Church since 2013, has died, the Vatican confirmed on Monday.",
+    "The 88-year old recently battled double pneumonia and a complex respiratory infection."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The most recent pope to die in office was Pope John Paul II, of heart and kidney failure in 2005. Francis has been leading the church since pope emeritus Benedict XVI resigned in 2013 — the first to do so in more than 600 years.",
+      "reason": "Provides historical context on recent papal deaths and transitions.",
+      "label": 1
+    },
+    {
+      "paragraph": "By the time Benedict died in 2022 at age 95, as pope emeritus, some small changes had been made to the funeral mass. We can also expect to see a simpler service for Francis compared to John Paul II's viewings and funeral, which amassed millions of mourners.",
+      "reason": "Offers insight into expected changes in the funeral service for Pope Francis.",
+      "label": 1
+    },
+    {
+      "paragraph": "There are very specific rituals for a papal funeral, explained David Perlich, CBC's Vatican analyst. Historic rituals, some dating back hundreds of years or more, and a series of carefully planned procedures are likely already in motion, he added.",
+      "reason": "Introduces the concept of specific rituals and procedures for a papal funeral.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's a highly symbolic event, and a highly significant event. It's steeped in centuries of ritual,\" Perlich said.",
+      "reason": "Provides a general statement about the significance of the event without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "But before he died, Francis revised some of the funeral rites, simplifying them, so they've taken away some of the more elaborate aspects, Perlich added.",
+      "reason": "Details specific changes made by Francis to the funeral rites.",
+      "label": 1
+    },
+    {
+      "paragraph": "When a pope dies, a series of rites and rituals comes into play governing the \"interregnum\" — the period between the end of one pontificate and the election of a new pope. During that period, known as the \"sede vacante,\" the camerlengo, or chamberlain, runs the administration and finances of the Holy See.",
+      "reason": "Provides essential context about the process following a pope's death.",
+      "label": 1
+    },
+    {
+      "paragraph": "The camerlengo position is currently held by Cardinal Kevin Farrell, the head of the Vatican's laity office.",
+      "reason": "Identifies the current camerlengo, relevant to the process described.",
+      "label": 1
+    },
+    {
+      "paragraph": "First, the camerlengo will certify the Pope's death.",
+      "reason": "Describes the initial step in the process after a pope's death.",
+      "label": 1
+    },
+    {
+      "paragraph": "In centuries past, tradition held that the camerlengo verified the death by gently tapping the pontiff's head with a silver hammer. This was historically practised while calling out his baptismal name three times, according to the Encyclopedia Britannica, and if he received no response, he would pronounce his death.",
+      "reason": "Provides historical context on the ritual of verifying a pope's death.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is a very, very old ritual, done \"for a very good reason\" to determine whether the pope had actually died, Perlich explained.",
+      "reason": "Offers a vague explanation without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Today, the Vatican says it's no longer in use, he added. For instance, Pope John Paul II's death in 2005 was confirmed with an ECG.",
+      "reason": "This paragraph provides historical context on how papal deaths were confirmed, which is relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Bells toll in 2005 as Pope John Paul II's death is announced:",
+      "reason": "This is a prompt for a video link, which does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "The camerlengo will still ceremoniously call out the Pope's baptismal name three times. For Pope Francis, that would be Jorge Mario Bergoglio.",
+      "reason": "This paragraph explains a specific ritual that occurs when a pope dies, directly related to the article's topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Receiving no reply, a death certificate is then authorized and the notification process begins. While historically, the pope's death has been announced in St. Peter's square, we can likely expect Francis's death to be announced by the Vatican Press Office. That's what happened when Pope Benedict XVI died in 2022.",
+      "reason": "This paragraph provides relevant information on the process following a pope's death and recent changes in protocol.",
+      "label": 1
+    },
+    {
+      "paragraph": "Traditionally, bells will toll in St. Peter's square to mark a pope's death. The camerlengo also seals the papal apartments and papers, typically with red ribbons, and ensures the pope's fisherman's ring and the lead seal under which papal documents are dispatched are broken so they cannot be used by anyone else.",
+      "reason": "This paragraph details traditional rituals and procedures following a pope's death, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Historically, they would smash the ring to destroy it. Now, we're told they score it with a file, Perlich said.",
+      "reason": "This paragraph provides specific details about the change in ritual regarding the papal ring, which is relevant to the article's focus on rituals.",
+      "label": 1
+    },
+    {
+      "paragraph": "The rituals for the death of a reigning pope include a 30-page constitution called Universi Dominici Gregis, Latin for \"The Shepherd of the Lord's Whole Flock,\" and Ordo Exsequiarum Romani Pontificis, or \"Funeral Rites for a Roman Pontiff,\" a missal of more than 400 pages that includes liturgy, music, and prayers.",
+      "reason": "This paragraph provides essential context about the documents governing papal death rituals.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those rules say a pope's burial should take place between four and six days after his death as part of a nine-day period of mourning known as the novendiale.",
+      "reason": "This paragraph gives specific information about the timeline of the pope's burial and mourning period.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There's a sorrow that falls on the city that's palpable,\" Perlich explained.",
+      "reason": "This is a low-information quote that does not add substantial information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Behind the scenes, practical matters will be handled, like preparing the Pope's body for public viewing and the procession through St. Peter's square. The dean of the College of Cardinals (currently Cardinal Giovanni Battiste Re) will be in charge of preparations for the upcoming funeral mass and the conclave.",
+      "reason": "This paragraph provides relevant details about the practical arrangements following the pope's death.",
+      "label": 1
+    },
+    {
+      "paragraph": "Historically, a pope's embalmed body has been placed on an elevated bier in St. Peter's Basilica for public viewing. When Pope John Paul II died in 2005, his body first laid in state in the frescoed Clementine Hall for Vatican staff and then was moved to St. Peter's Basilica for viewing by the public.",
+      "reason": "Provides historical context on papal funeral traditions.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Francis did away with that tradition when he revised the funeral rites to be used in his death, simplifying the rituals to emphasize his role as a mere bishop. There will only be one vigil over his body instead of two.",
+      "reason": "Details changes Pope Francis made to the funeral rites.",
+      "label": 1
+    },
+    {
+      "paragraph": "Visitors will still be welcome to pay their respects, but Francis's body will be left inside a casket, with the lid off.",
+      "reason": "Describes the specific arrangement for public viewing of Francis's body.",
+      "label": 1
+    },
+    {
+      "paragraph": "Millions of mourners lined up for the viewing of John Paul II in 2005. Pope Benedict amassed fewer crowds over three days of lying in state. It's difficult to predict how many people will line up outside St. Peter's Basilica to pay their respects to Francis.",
+      "reason": "Provides context on public attendance at past papal funerals.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"But there will still be an unbelievable amount of people that come,\" Perlich said.",
+      "reason": "Contains a low-information quote predicting attendance.",
+      "label": 0
+    },
+    {
+      "paragraph": "The funeral is held four to six days after the Pope's death and they typically attract a large crowd.",
+      "reason": "Provides specific information about the timing and nature of papal funerals.",
+      "label": 1
+    },
+    {
+      "paragraph": "An estimated 300,000 mourners and 100 world leaders gathered in St. Peter's Square for John Paul II's 2005 funeral. About 50,000 attended Benedict's 2023 funeral, which was presided over by Pope Francis — a historic moment.",
+      "reason": "Offers historical context and comparison of past papal funerals.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Pope Francis presides over funeral of Benedict XVI:",
+      "reason": "Serves as a prompt for a video, not contributing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Pope Francis presides over Benedict XVI's funeral in a historic moment",
+      "reason": "Repeats information already provided without adding new details.",
+      "label": 0
+    },
+    {
+      "paragraph": "2 years ago",
+      "reason": "Provides a timestamp without context or relevance.",
+      "label": 0
+    },
+    {
+      "paragraph": "The funeral will be held outside in St. Peter's square, and likely will be led in Latin and Italian by the cardinal dean.",
+      "reason": "This paragraph provides specific details about the location and language of the funeral, which are relevant to the rituals following a pope's death.",
+      "label": 1
+    },
+    {
+      "paragraph": "When Francis revised the funeral rites, he made it so the burial no longer requires the traditional three coffins made of cypress, lead and oak. Instead, Francis will be buried in a single, zinc-lined wooden coffin.",
+      "reason": "This paragraph explains a significant change in the burial tradition initiated by Pope Francis, which is relevant to the article's focus on rituals.",
+      "label": 1
+    },
+    {
+      "paragraph": "Three caskets had traditionally been used for burying popes to create an airtight seal around the late pontiff's body. They also allowed for objects, such as coins or papers issued by the pope during his reign, to be buried with the body.",
+      "reason": "This paragraph provides historical context about the traditional burial practice, which is relevant to understanding the changes made by Pope Francis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Francis is also breaking with tradition by saying he wants to be buried at the Santa Maria Maggiore basilica in Rome, making him the first pope to be buried outside the Vatican in more than a century. This is instead of being interred with some 91 other late popes in St. Peter's Basilica.",
+      "reason": "This paragraph highlights another significant deviation from tradition by Pope Francis, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The last pope to be buried outside the Vatican was Leo XIII, who died in 1903 and is buried in Rome's Basilica of St. John Lateran.",
+      "reason": "This paragraph provides historical context about the last pope buried outside the Vatican, which is relevant to understanding the significance of Francis's burial choice.",
+      "label": 1
+    },
+    {
+      "paragraph": "And of course, then there's the election of the new pope, called the conclave. At this point, the general mood in Rome shifts from great sorrow to intrigue and speculation, Perlich explained, and the conclave itself proceeds with dignity and subtlety.",
+      "reason": "Provides context on the transition from mourning to the election process.",
+      "label": 1
+    },
+    {
+      "paragraph": "To start, there are the general congregations, which are daily meetings in the Vatican when all the cardinals, including those too old to vote (over age 80), meet privately as a group to discuss the needs of the church, its role in the world and the global situation.",
+      "reason": "Explains the process and purpose of general congregations during the transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Perlich says he thinks we'll hear a lot more about this year's general congregations than in past conclaves.",
+      "reason": "Speculative statement without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The world is very different than it was in 2013,\" he said.",
+      "reason": "Vague generalization without specific context.",
+      "label": 0
+    },
+    {
+      "paragraph": "The rules say the conclave must start between the 15 and 20 days after the beginning of the sede vacante, or ending of the current pontificate.",
+      "reason": "Provides specific information about the timing of the conclave.",
+      "label": 1
+    },
+    {
+      "paragraph": "The papal conclave voting is intentionally shrouded in secrecy — the term itself is Latin for \"locked room.\"",
+      "reason": "Provides context about the secrecy of the conclave process.",
+      "label": 1
+    },
+    {
+      "paragraph": "The conclave's first day begins with a special mass, a procession of voting age cardinals into the Sistine Chapel, an oath to keep the upcoming proceedings a secret, and then the doors are sealed, Perlich said.",
+      "reason": "Describes the specific rituals and procedures of the conclave.",
+      "label": 1
+    },
+    {
+      "paragraph": "Four Canadian cardinals will be eligible to vote in the upcoming conclave: Thomas Collins, Michael Czerny, Gérald Cyprien Lacroix and Francis Leo, who was made a cardinal by the Pope in December.",
+      "reason": "Lists specific individuals involved in the upcoming conclave.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Scenes from the 2013 conclave:",
+      "reason": "Refers to a video link without providing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The media coverage of conclave",
+      "reason": "Incomplete sentence with no substantive information.",
+      "label": 0
+    },
+    {
+      "paragraph": "12 years ago",
+      "reason": "This is an incomplete and contextless phrase that does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "After this, voting can begin. Candidates must be male and a baptized Catholic. And, though it is not an explicit requirement, nearly every pontiff has been a cardinal before they were elected.",
+      "reason": "This paragraph provides relevant information about the requirements and process for electing a new pope.",
+      "label": 1
+    },
+    {
+      "paragraph": "Each cardinal writes his choice on a paper. The folded ballot is placed on a round plate and slid into an oval silver-gold urn. Once cast, the ballots are opened one by one by three scrutineers, who note the names down and read them aloud.",
+      "reason": "This paragraph details the voting process, which is relevant to the rituals following a pope's death.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ballots are then put aside and burned in the chapel stove along with a chemical to produce either black or white smoke; black means there is no decision and white means a new pope has been chosen.",
+      "reason": "This paragraph explains the significance of the smoke signals, which is a key ritual in the election of a new pope.",
+      "label": 1
+    },
+    {
+      "paragraph": "Once a pope is elected, the master of liturgical ceremonies then enters the information on a formal document, white smoke pours out of the Sistine Chapel chimney and the bells of St. Peter's Basilica toll.",
+      "reason": "This paragraph describes the final steps and announcements made once a new pope is elected, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new pope then changes into his white cassock, and one by one the red-clad cardinals approach to swear their obedience.",
+      "reason": "Describes a specific ritual that occurs after a pope's death, relevant to the article's focus on Vatican rituals.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new pope will stop and pray in the Pauline Chapel for a few minutes before emerging on the loggia of the balcony overlooking St. Peter's Square. Preceding him to the balcony is a cardinal who announces \"Habemus papam!\" (\"We have a pope!\") and then introduces him to the world in Latin.",
+      "reason": "Provides details on the ceremonial process following the election of a new pope, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new pontiff then emerges and delivers his first public words as pope. And it's these words, says Perlich, that set the tone for what the public can expect from him.",
+      "reason": "Explains the significance of the new pope's first words, relevant to understanding the rituals and their implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "For instance, Pope Francis's first words were a humble, \"Fratelli e sorelle, buonasera,\" or brothers and sisters, good evening.",
+      "reason": "Provides a specific example of a new pope's first words, illustrating the previous point about setting the tone.",
+      "label": 1
+    }
+  ]
+}

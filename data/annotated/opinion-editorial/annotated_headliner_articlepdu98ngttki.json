@@ -1,0 +1,39 @@
+{
+  "headline": "The Guardian view on the Gruffalo: a well-timed comeback, wart and all | Editorial | The Guardian",
+  "context": [
+    "It is 21 years since Julia Donaldson and Axel Scheffler published The Gruffalo’s Child, the sequel to their bestselling Gruffalo picture book of five years earlier. While the pair have collaborated on numerous other stories, none is as iconic as the tale of the little brown mouse who outwits a succession of predators. There is no shortage of Gruffalo merchandise. But in an age of franchises and prequels, this author-illustrator partnership clearly decided that less was more.",
+    "It is reportedly thanks to her wish to support the National Literacy Trust that Ms Donaldson decided to bring the Gruffalo back after all. The new book will be published next year, and used in an international campaign to promote children’s reading. The depressing findings of a survey released this week, showing a steep decline in the proportion of UK parents who read aloud to their children, make this announcement particularly welcome. Another report, from the National Literacy Trust, found that the proportion of eight- to 18-year-olds who read for pleasure fell last year to a record low of 35%."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Ms Donaldson and Mr Scheffler are well placed to make the case for reading aloud. As an author, she was a late bloomer, first published when she was in her 40s. She has spoken of her impatience with books that are too preachy or sentimental, and rejects the idea of “picture-book medicine” to help children overcome problems. Her stories, by contrast, are designed to give excitement and joy. Plot and humour are key ingredients, along with her signature rhyming style. In an interview, she recalled the favourite stories that kept her own children from going to sleep at night because they were so “full of mirth”.",
+      "reason": "Provides background on the author's philosophy and style, relevant to the Gruffalo's appeal.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is concerning to learn from the survey, which was carried out by HarperCollins and Nielsen, that parents increasingly see reading as a skill – “more a subject to learn than a fun thing to do”. The fact that this view is more prevalent among younger adults strongly suggests a link with the rise of digital entertainment and ubiquitous screens and games.",
+      "reason": "Discusses survey findings relevant to the context of the Gruffalo's return and its potential impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Education policies focused on literacy are widely regarded as another factor. For years, authors and other champions of children’s literature have warned that the instrumental approach to reading that became dominant under the Conservatives has had the unintended consequence of devaluing creativity. Too often, the texts placed before primary-school pupils are chosen not for their imaginative merit but because they belong to a particular learning scheme.",
+      "reason": "Provides context on educational policies affecting children's reading habits, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The latest findings support this view. Another new report, from the Publishers Association, describes the situation as a crisis. Among other measures, it urges ministers to bolster library provision and put more emphasis on reading for enjoyment in the curriculum. At a summit earlier this year, Frank Cottrell-Boyce, the author and Waterstones children’s laureate, said that the emotional and educational benefits of being read to, for very young children, mean that access to books is a public health issue.",
+      "reason": "Highlights the broader implications of reading habits and supports the article's focus on promoting reading.",
+      "label": 1
+    },
+    {
+      "paragraph": "The return of the big bad mouse – wily as he is – and his adversary should not be expected to reverse these trends. But the advocacy of Ms Donaldson, Mr Cottrell-Boyce and others deserves support. The inspiration for the Gruffalo came from a Chinese folk tale. If all goes to plan, his further adventures will be a exuberant reminder of the age-old power of storytelling.",
+      "reason": "Connects the Gruffalo's return to the broader theme of storytelling and advocacy for reading.",
+      "label": 1
+    },
+    {
+      "paragraph": "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+      "reason": "This paragraph is a call to action for reader engagement, not contributing new information.",
+      "label": 0
+    }
+  ]
+}

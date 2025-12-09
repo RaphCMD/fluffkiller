@@ -1,0 +1,44 @@
+{
+  "headline": "Soviet Space Probe to Fall to Earth 50 Years After Baikonur Launch - The Times Of Central Asia",
+  "context": [
+    "Image: NASA",
+    "In 1972, the Soviet Union launched a Venus-bound lander probe called Cosmos 482 from the Baikonur Cosmodrome in Kazakhstan, which was then a Soviet republic. The probe, which never got out of Earth’s orbit, is expected to re-enter Earth’s atmosphere in a week or so."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Because the probe was designed to withstand entry into the Venus atmosphere, it is possible the probe (or parts of it) will survive reentry at Earth and reach the surface,” U.S. space agency NASA said on Friday.",
+      "reason": "This paragraph provides relevant information about the probe's design and potential to survive reentry.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It is thought that a malfunction resulted in an engine burn which did not achieve sufficient velocity for the Venus transfer and left the payload in this elliptical Earth orbit. The lander probe orbit has been decaying over time and it is expected to reenter Earth’s atmosphere around 10 May 2025,” NASA said.",
+      "reason": "This paragraph gives essential details about the malfunction and expected reentry date.",
+      "label": 1
+    },
+    {
+      "paragraph": "Right now, it’s hard to say where the lander will make its return. It’s possible that the spacecraft, or chunks of it, could survive reentry through the Earth’s atmosphere instead of burning up. After all, it has a titanium protective shell originally designed to get through the extreme atmosphere of Venus, which has the hottest surface of any planet in the solar system.",
+      "reason": "This paragraph provides relevant information about the uncertainty of the reentry location and the probe's protective design.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr. Marco Langbroek, a scientist based in the Netherlands, said on the SatTrackCam Leiden (b)log that he doesn’t think the lander’s parachute deployment system will work during the “uncontrolled” reentry.",
+      "reason": "This paragraph offers expert commentary on the probe's reentry and parachute system.",
+      "label": 1
+    },
+    {
+      "paragraph": "“There are many uncertain factors in this though, including that this will be a long shallow reentry trajectory, and the age of the object,” Langbroek said. “The risks involved are not particularly high, but not zero: with a mass of just under 500 kg and 1-meter size, risks are similar to that of a meteorite impact.”",
+      "reason": "This paragraph provides relevant risk assessment and technical details about the reentry.",
+      "label": 1
+    },
+    {
+      "paragraph": "Today, Russia operates the Baikonur Cosmodrome, which retains a popular allure for its role in early space exploration and is still a vital part of the Russian space program.",
+      "reason": "This paragraph provides context about the current status of Baikonur Cosmodrome, which is relevant to the historical launch site of the probe.",
+      "label": 1
+    },
+    {
+      "paragraph": "On April 20, one NASA astronaut and two Russian cosmonauts made a parachute-supported landing on the steppes of Kazakhstan after a journey back to Earth from the International Space Station. The three men had launched from Baikonur and docked at the station on Sept. 11 last year, spending 220 days in space on that trip.",
+      "reason": "This paragraph is unrelated to the Soviet space probe and focuses on a recent space mission.",
+      "label": 0
+    }
+  ]
+}

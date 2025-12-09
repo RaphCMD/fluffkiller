@@ -1,0 +1,79 @@
+{
+  "headline": "Opinion | There Is a Way Forward: How to Defeat Trump’s Power Grab - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "The Editorial Board"
+  ],
+  "annotations": [
+    {
+      "paragraph": "May 1, 2025",
+      "reason": "The paragraph provides only the date of publication, which is not directly relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "By The Editorial Board",
+      "reason": "This is an author attribution and does not contribute to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The editorial board is a group of opinion journalists whose views are informed by expertise, research, debate and certain longstanding values. It is separate from the newsroom.",
+      "reason": "This paragraph provides background information about the editorial board, not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The first 100 days of President Trump’s second term have done more damage to American democracy than anything else since the demise of Reconstruction. Mr. Trump is attempting to create a presidency unconstrained by Congress or the courts, in which he and his appointees can override written law when they want to. It is precisely the autocratic approach that this nation’s founders sought to prevent when writing the Constitution.",
+      "reason": "This paragraph provides essential context and analysis about Trump's actions and their implications, directly related to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Trump has the potential to do far more harm in the remainder of his term. If he continues down this path and Congress and the courts fail to stop him, it could fundamentally alter the character of American government. Future presidents, seeking to either continue or undo his policies, will be tempted to pursue a similarly unbound approach, in which they use the powers of the federal government to silence critics and reward allies.",
+      "reason": "This paragraph offers analysis and potential consequences of Trump's actions, directly related to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "It pains us to write these words. Whatever our policy differences with other modern presidents, every one of them fundamentally believed in democracy. They viewed freedom, constitutional checks and balances and respect for political opponents as “the bulwark of our Republic,” as Ronald Reagan said in the opening of his first Inaugural Address, while praising his predecessor Jimmy Carter.",
+      "reason": "This paragraph provides context about the editorial board's perspective on past presidents and their belief in democracy, which is relevant to the discussion of Trump's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Subscribe to The Times to read as many articles as you like.",
+      "reason": "This is a subscription prompt and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The editorial board is a group of opinion journalists whose views are informed by expertise, research, debate and certain longstanding values. It is separate from the newsroom.",
+      "reason": "This paragraph provides background information about the editorial board, which is not directly relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "A version of this article appears in print on May 4, 2025, Section",
+      "reason": "This is a publication detail and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": ", Page",
+      "reason": "This is a page number reference and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "2",
+      "reason": "This is a page number reference and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "of the New York edition",
+      "reason": "This is a publication detail and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "with the headline:",
+      "reason": "This is a transitional phrase and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fight Like Our Democracy  Depends On It. Order Reprints | Today’s Paper | Subscribe",
+      "reason": "This is a call to action and subscription information, not contributing to the article's core story.",
+      "label": 0
+    }
+  ]
+}

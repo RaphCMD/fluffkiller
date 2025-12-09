@@ -1,0 +1,44 @@
+{
+  "headline": "X: The Man with the X-ray Eyes (1963) Movie Review: The Horrors of Knowing Too Much  - High On Films",
+  "context": [
+    "With superhero movies currently the backbone of Hollywood, it’s interesting to look back upon a time when the characters were not as popular, but even the concepts were unusual. Indeed, the “Fantastic Four,” “Spider-Man,” and the whole “Marvel universe” were just debuting at the time of cult B-movie icon director Roger Corman’s “X: The Man With X-Ray Eyes,” which plays like a superhero origins tale gone horribly wrong. I don’t know how conscious of any of this Corman was. I’m doubtful it was much, if at all, but the concepts play into the story in a dark and unique way.",
+    "Well-known to film buffs, Corman was a B-movie legend who launched the careers of many high-profile filmmakers: Joe Dante, John Sayles, Peter Bogdanovich, Francis Ford Coppola, Ron Howard, Martin Scorsese, and even blockbuster master James Cameron. But though he taught Cameron well, Corman was a master of the opposite: building something out of practically nothing. With a minuscule budget, he could craft an imaginative, vivid, and frightening B-movie. Corman was best known for his Edgar Allan Poe adaptations, but during the same period, at the peak of his powers, he produced this unique and unsettling sci-fi pulp tale. Corman also had a knack for genre experiments that blended pulpy thrills with unexpected thematic depth. “X” arrived during a period when science fiction films often reflected Cold War anxieties, and Corman, even without overt political messaging, tapped into a deep fear of knowledge itself becoming dangerous."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Our tale begins with a renegade scientist (naturally) named Dr. Xavier (The same year that the “X-Men” debuted, coincidentally) who’s testing a rare and experimental new drug which grants vision across various aspects of the visual spectrum, from ultraviolet to X-rays to that which may yet be unknown. In typical 60s sci-fi fashion, the scientific establishment is reluctant to allow further testing, so our intrepid scientist (Ray Milland) decides to test it on himself. At first, this allows him a little adolescent fun in seeing through women’s clothes, and then later, on a much more serious note, to save the life of a young girl with medical issues. Emboldened and seemingly enjoying the power it brings him, Xavier continues experimenting with the drug, but there may be some things humanity is not quite ready to see….",
+      "reason": "Provides a summary of the movie's plot and character motivations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Shouldn’t a profit motive be enough? After all, it is for everything else under capitalism. Slowly though, this becomes a horrible curse as Xavier sees through his own eyelids, unable to sleep, and even through special goggles he designs for himself, desperately seeking relief which may never come. Milland’s performance perfectly suggests the stages of Xavier’s transformation, first genuinely scientifically curious and well-intentioned, then powerful and excited with his newfound abilities, before finally becoming depressed, disheveled, and pitiable.",
+      "reason": "Describes the character's transformation and the actor's performance.",
+      "label": 1
+    },
+    {
+      "paragraph": "As Xavier unravels, so too does the colorful, carnival-like world around him, captured with eerie brilliance by Corman’s regular collaborators, including composer Les Baxter, whose score lends the film a tone which is equal parts scary and sad. Corman, as in his Poe films, paid for a scope aspect ratio and color, and seems determined to utilize every hue on the visible spectrum. Like most Corman films, the movie was shot very cheaply and wisely keeps its runtime down, and makes the most of a small budget and what is there, letting the audience fill in ideas rather than spelling them out.",
+      "reason": "Discusses the film's production and artistic choices.",
+      "label": 1
+    },
+    {
+      "paragraph": "As the 1960s saw a rapid rise in scientific progress following the splitting of the atom, humans hurtled forward seeking new discoveries like nuclear arms and the space race. Dr. Xavier’s downfall mirrors a broader anxiety: that unchecked curiosity and ambition could lead not to enlightenment, but to madness and isolation. That maybe a little knowledge can be a very dangerous thing.",
+      "reason": "Connects the film's themes to historical context and broader anxieties.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the sunny 1950s, science could save the world, stop the evil invading aliens. But every scientific discovery comes with dark ethical implications that humankind seems all-too willing to ignore-or worse, doesn’t understand. This darker shift in perspective anticipates the anti-authoritarian suspicions which would later permeate the worldview of an increasingly disillusioned America of the era of Vietnam and Watergate. That every discovery might bring ruin rather than salvation, as a machine ate it up, more interested in profiting from it than learning from it.",
+      "reason": "Provides thematic analysis related to historical and cultural shifts.",
+      "label": 1
+    },
+    {
+      "paragraph": "More interesting are the film’s tragic overtones, using the eyesight motif to suggest an odd form of premature enlightenment, as Xavier becomes too self-aware and too detached from humanity, too inward. It’s a fascinating idea and oddly, works best in the pulp context Corman sets up. In many ways, “X” is more ambitious than the effects-heavy genre movies which would come dominate in the following decade and while a more intellectual director might explore these concepts differently, Corman goes straight to your gut, down to a memorable final act and a chilling last line and shot which will stick with you long after the credits roll.",
+      "reason": "The paragraph provides analysis and commentary on the film's themes and execution, directly related to the review.",
+      "label": 1
+    },
+    {
+      "paragraph": "What makes Xavier’s story so tragic isn’t just the physical toll of his powers, but the emotional one. As his vision intensifies, he grows increasingly detached from other people, unable to relate to a world he can now literally see through. His isolation isn’t heroic; it’s horrifying. Milland subtly captures this descent from excitement to arrogance, to despair. In the end, Xavier isn’t destroyed by what he sees outwardly, but by what he can no longer unsee within himself: a universe too vast, too empty, and too indifferent for human minds to endure. He’s willing to destroy himself not to see anymore.",
+      "reason": "This paragraph provides a detailed analysis of the protagonist's character arc and emotional journey, which is central to the film's narrative.",
+      "label": 1
+    }
+  ]
+}

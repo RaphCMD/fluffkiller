@@ -1,0 +1,124 @@
+{
+  "headline": "Opinion: After the election, we need a Canada that works for Alberta | Edmonton Journal",
+  "context": [
+    "Canada has elected its new government and prime minister. Now, the challenges facing Canada remain, and require urgent action. Canada, but particularly the West, is watching closely how this government will define its approach. I believe they have weeks, if not days, to show action that will unite the country.",
+    "Albertans are concerned because this next chapter cannot be like the last decade. We have experienced a decade of economic stagnation. Affordability has plummeted. Housing is too scarce and increasingly out of reach for many. Canada’s immigration system, once hailed as a global model, is not working for the majority of immigrants, Canadians, or Canadian companies."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Youth and young adults have little optimism for the future. Most Canadians feel the next generation will be worse off than them.",
+      "reason": "This paragraph provides a general sentiment about the future but does not directly relate to the specific challenges or needs of Alberta.",
+      "label": 0
+    },
+    {
+      "paragraph": "Albertans are frustrated and feel that their contributions are not appreciated by the balance of the country. Albertans put forward solutions, often backed by research, collaboration, and a genuine will to help. We pay more than our share. We build, produce, and power a disproportionate portion of Canada’s economy. And yet, we too often receive less in return: less respect, less support, and less policy that is supportive of our industries and sectors — in fact, it often feels downright discriminatory against our success.",
+      "reason": "This paragraph directly addresses the concerns and contributions of Albertans, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Albertans work hard for Canada. And we will keep doing that. But we need a Canada that works for us. There is a narrow window of opportunity to show Alberta that this government intends to take a more positive direction for the country that will grow our economy, become more resilient and self-sufficient, and enable every part of the country to play to their strengths.",
+      "reason": "This paragraph emphasizes the need for a government approach that benefits Alberta, aligning with the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get the latest headlines, breaking news and columns.",
+      "reason": "This is a promotional line for subscribing to news updates and does not contribute to the article's main argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "A welcome email is on its way. If you don't see it, please check your junk folder.",
+      "reason": "This is a generic message about email subscriptions and does not relate to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The next issue of Headline News will soon be in your inbox.",
+      "reason": "This is a promotional statement unrelated to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "If Canada is to become the best-performing economy in the G7, and if we are to keep our country moving forward united, here’s what I would like to see in the immediate days ahead:",
+      "reason": "This introduces specific actions the author believes are necessary, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "First: “Build, baby, build.” Create the certainty and confidence in corporate Canada to begin planning and spending on major projects again. That starts with identifying and approving projects of national interest — especially those already in the queue. This also means declaring that infrastructure and resource projects — oil and gas, critical minerals and mining, agriculture, and forestry — are in the national interest.",
+      "reason": "This paragraph outlines specific economic actions and priorities, contributing directly to the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "After that, as a short list of actions: Create a dedicated trade infrastructure task force tasked with identifying national corridors and strategic national egress locations, and getting trade infrastructure built; undertake the needed reforms to the Impact Assessment Act to make it constitutional, more efficient and predictable; launch a national loan guarantee program to de-risk high-value projects.",
+      "reason": "This paragraph provides detailed policy suggestions, directly supporting the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Second: Make sure we invest in ourselves. Canada’s economy will need more trained and skilled people to meet the needs of our future. We need to build a lot of things. We need to innovate in new ways.",
+      "reason": "This paragraph discusses the need for investment in skills and innovation, relevant to the article's focus on economic improvement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Government should announce renewed and increased funding for pre-apprenticeship programs targeting underrepresented groups, particularly by adequately funding the labour market development agreements (LMDA) and renewing the apprenticeship incentive and completion grants.",
+      "reason": "This paragraph suggests specific actions for the government to take, which is relevant to the article's focus on addressing challenges in Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fix our immigration system so that we are bringing in new Canadians who are what the economy needs. Therefore, we must reform how immigrants are selected (the points system) to prioritize individuals who meet labour force needs, such as skilled trades.",
+      "reason": "This paragraph discusses necessary reforms to the immigration system, directly relating to the article's theme of improving Canada's functionality.",
+      "label": 1
+    },
+    {
+      "paragraph": "And, we must create a frictionless labour environment by launching a joint federal-provincial task force to standardize and expedite mutual recognition standards for non-standardized professions, and foreign credential recognition processes for key trades.",
+      "reason": "The paragraph outlines a specific proposal to improve the labor environment, aligning with the article's focus on actionable changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Third: It is time for Canada to compete — actually compete — and win. We must be a location that is truly competitive for people, companies and capital. We must refocus Canada’s approach to the United States and global trade. Free and open trade with the U.S. must remain our top trade priority, while at the same time we must also diversify and strengthen our international economic options. That requires a major expansion of our ports, pipelines, airports, roads, and terminals.",
+      "reason": "This paragraph discusses trade priorities and infrastructure expansion, which are relevant to the article's theme of making Canada work better for Alberta.",
+      "label": 1
+    },
+    {
+      "paragraph": "Government should launch a tax-reform task force aimed at reforming Canada’s outdated tax code to incent more working, saving, and investment. It is also essential that Canada become far more pragmatic, and less ideological, about environmental policy. Canadians want clean air, clean water, and a healthy planet. But today, we have a patchwork of unworkable policies, like emissions caps, that don’t deliver real-world results. They delay investment. They stifle innovation. They fail both the economy and the environment.",
+      "reason": "The paragraph suggests tax and environmental policy reforms, which are relevant to the article's focus on improving Canada's economic and environmental policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "Government must champion national free trade, aggressively. We’re seeing momentum at the provincial level — with Alberta, Ontario, Nova Scotia, and Prince Edward Island making big strides in reducing barriers to labour and commerce. The federal government should not only match this ambition but incentivize others to follow suit. Set a clear target: Match Alberta’s trade and mobility best practices by Canada Day and eliminate of all remaining barriers within one year.",
+      "reason": "This paragraph provides specific suggestions for government action to improve trade and mobility, directly relating to the article's focus on creating a Canada that works for Alberta.",
+      "label": 1
+    },
+    {
+      "paragraph": "These ideas are simple but not necessarily easy. None of these are radical proposals. They are pragmatic, practical steps that reflect the priorities and potential of Canadians — especially in Alberta.",
+      "reason": "This paragraph offers a general commentary on the nature of the proposals without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Taking these actions will positively define this government’s mandate. They must break from the approach of the past decade and think of nation-building from a global lens. That will build trust, confidence, and prosperity for Canada. Anything less will only ensure that future generations are worse off than those today.",
+      "reason": "This paragraph provides a general conclusion without adding new facts or specific commentary related to Alberta.",
+      "label": 0
+    },
+    {
+      "paragraph": "Adam Legge is president of the Business Council of Alberta.",
+      "reason": "This is background information about the author and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "We invite you to write letters to the editor. A maximum of 150 words is preferred. Letters must carry a first and last name, or two initials and a last name, and include an address and daytime telephone number. All letters are subject to editing. We don’t publish letters addressed to others or sent to other publications. Email: letters@edmontonjournal.com",
+      "reason": "This is a call to action for reader engagement and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bookmark our website and support our journalism: Don’t miss the news you need to know — add EdmontonJournal.com and EdmontonSun.com to your bookmarks and sign up for our newsletters here.",
+      "reason": "This paragraph is promotional content unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "You can also support our journalism by becoming a digital subscriber. Subscribers gain unlimited access to The Edmonton Journal, Edmonton Sun, National Post and 13 other Canadian news sites. Support us by subscribing today: The Edmonton Journal |The Edmonton Sun.",
+      "reason": "This paragraph is promotional content unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "This website uses cookies to personalize your content (including ads), and allows us to analyze our traffic. Read more about cookies here. By continuing to use our site, you agree to our Terms of Use and Privacy Policy.",
+      "reason": "This paragraph is a standard disclaimer about cookies and privacy policy, unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

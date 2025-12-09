@@ -1,0 +1,19 @@
+{
+  "headline": "Breaking Health News: Pharmaceutical Developments and Global Challenges | Health",
+  "context": [
+    "In recent developments within the health sector, pharmaceutical giant Gilead Sciences reported a stable first-quarter profit with robust sales in HIV and liver disease drugs, offsetting a decline in cancer drug sales. The company's shares dipped approximately 3% in after-hours trading.",
+    "Meanwhile, Germany's Merck KGaA is engaged in advanced talks to purchase U.S.-based SpringWorks Therapeutics for $3.5 billion, potentially expanding their portfolio with a newly approved rare disease treatment and various cancer drugs. Discussions are centered around a price-per-share of $47."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The U.S. faces a public health challenge with a reported rise in measles cases in Texas, amounting to 646, as the CDC confirms three deaths from the highly contagious disease. This occurs amidst ongoing legal and regulatory issues affecting the pharmaceutical and healthcare landscape both domestically and internationally.",
+      "reason": "The paragraph provides relevant information about a public health challenge and its impact on the healthcare landscape.",
+      "label": 1
+    },
+    {
+      "paragraph": "(With inputs from agencies.)",
+      "reason": "This is a standard attribution line and does not contribute new information.",
+      "label": 0
+    }
+  ]
+}

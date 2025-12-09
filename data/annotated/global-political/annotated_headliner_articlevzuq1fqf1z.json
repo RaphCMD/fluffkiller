@@ -1,0 +1,314 @@
+{
+  "headline": "Trump latest: Carney says King Charles will go to Canada this month - and confirms he will visit Trump | US News | Sky News",
+  "context": [
+    "We've paused our live coverage",
+    "We'll be back soon with more US news."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Tax cuts, homes and funding for healthcare: Carney's plan for Canada",
+      "reason": "This paragraph is unrelated to the headline about Trump and King Charles's visit.",
+      "label": 0
+    },
+    {
+      "paragraph": "Aside from his big announcements about an upcoming meeting with Donald Trump and King Charles's visit later in the month, Canadian PM Mark Carney also addressed a number of domestic issues in his news conference this afternoon.",
+      "reason": "This paragraph mentions the upcoming meeting with Trump and King Charles's visit, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "He described Canada as a confident nation that practices free speech and respects the law, adding the country \"has what everyone wants\".",
+      "reason": "This paragraph provides general information about Canada, not directly related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Here's a summary of those points:",
+      "reason": "This paragraph is a lead-in to a summary and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Has Trump repeated his 51st state comment to Carney?",
+      "reason": "This paragraph raises a question related to Trump, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "One comment Donald Trump has been repeating over recent months is that Canada should be the 51st state of the US.",
+      "reason": "This paragraph provides context about Trump's past comments on Canada, which is relevant to the topic of his interactions with Canadian officials.",
+      "label": 1
+    },
+    {
+      "paragraph": "He even referred to the country's former prime minister Justin Trudeau as \"governor Trudeau\".",
+      "reason": "This paragraph adds context to Trump's rhetoric about Canada, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "So, did Trump continue that rhetoric when he held a phone call with Mark Carney?",
+      "reason": "This paragraph introduces a question about Trump's recent behavior, directly related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"He did not,\" Carney said at his news conference earlier.",
+      "reason": "This paragraph provides a direct answer to the question about Trump's rhetoric, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney was also asked whether he had seen signs of respect from the Trump administration towards Canada.",
+      "reason": "This paragraph introduces a new aspect of the relationship between Trump and Canada, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's always important to distinguish want from reality,\" he said, adding that Canada becoming a US state will \"never ever happen\".",
+      "reason": "This paragraph provides a quote related to the topic of Canada becoming a US state, which is not directly related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Watch Trump speaking in February on why he wants Canada to be America's 51st state:",
+      "reason": "This paragraph is a prompt to watch a video and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fentanyl tariffs 'were not merited to begin with', Carney says",
+      "reason": "This paragraph introduces a topic that Carney might discuss with Trump, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "As Mark Carney's news conference wraps up, he's given an insight into what he could be discussing with Donald Trump in Washington next Tuesday.",
+      "reason": "This paragraph provides context about Carney's upcoming discussion with Trump, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "He points to fentanyl tariffs and states they were \"not merited to begin with\", given Canada's progress on the issue.",
+      "reason": "This paragraph elaborates on a specific topic Carney might discuss with Trump, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There are examples where, certainly from our perspective, the fentanyl tariffs were not merited to begin with, but are even less merited given all the steps that the government of Canada has taken and the progress has been made,\" he says.",
+      "reason": "This paragraph discusses tariffs and fentanyl, which is unrelated to the headline about King Charles and Trump.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"But you know, this will be a broader discussion, and it's one of the cards that they have. And therefore we will see how it plays out.\"",
+      "reason": "This is a vague statement about broader discussions, unrelated to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "For context: The Trump administration justified its tariffs on Canada by saying they were to stop the spread and manufacturing of the opioid fentanyl, as well as pressuring America's neighbours to limit illegal immigration to the US.",
+      "reason": "This provides background on tariffs and fentanyl, unrelated to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carney's predecessor as Canadian prime minister, Justin Trudeau, entered negotiations with Trump earlier this year to try to avoid the tariffs.",
+      "reason": "This discusses past negotiations on tariffs, unrelated to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "As part of that, Canada pledged a £1bn border plan - including 10,000 workers, drones, helicopters, a joint taskforce with the US and more - in order to halt the flow of fentanyl and illegal migration.",
+      "reason": "This details Canada's border plan related to fentanyl, unrelated to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "But Trump's tariffs have continued.",
+      "reason": "This paragraph does not relate to the headline about King Charles or Trump visiting Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "He has imposed a 25% tariff on various Canadian goods, along 25% tariffs on steel and aluminium.",
+      "reason": "This paragraph is about tariffs and not related to the headline about King Charles or Trump visiting Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump did exempt some products under the US-Canada-Mexico trade deal, USMCA.",
+      "reason": "This paragraph discusses trade deals, not the headline topic of King Charles or Trump visiting Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "Canada has hit back with £32bn worth of tariffs on American goods.",
+      "reason": "This paragraph is about trade retaliation, not related to the headline about King Charles or Trump visiting Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "King's speech 'underscores sovereignty of our country'",
+      "reason": "This paragraph is unrelated to the headline about King Charles or Trump visiting Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mark Carney is asked about King Charles's visit to Canada later this month, which he announced in this news conference (see 16.11 post).",
+      "reason": "Provides context about King Charles's visit to Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"He will open parliament with the speech from the throne,\" Carney explains.",
+      "reason": "Details King Charles's role during his visit to Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"That clearly underscores the sovereignty of our country.\"",
+      "reason": "Offers commentary on the significance of King Charles's visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier in the news conference, Carney said parliament will be recalled on 26 May before King Charles's speech on 27 May.",
+      "reason": "Provides specific dates related to King Charles's visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "He also said the Queen will join the visit.",
+      "reason": "Adds information about the Queen accompanying King Charles.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those details have now been confirmed in a statement from Buckingham Palace (see 16.13 post).",
+      "reason": "This paragraph references a previous post and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carney asked how he'll avoid Oval Office row similar to Zelenskyy's",
+      "reason": "This paragraph introduces a relevant question about Carney's upcoming meeting with Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mark Carney is asked a question on what he hopes to get out of his meeting with Donald Trump next week.",
+      "reason": "This paragraph provides context about Carney's intentions for the meeting with Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "He says there are \"two sets of issues\" he wants to discuss.",
+      "reason": "This paragraph introduces the topics Carney plans to discuss with Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There are the immediate tariffs... and then there is the broader relationship,\" he says.",
+      "reason": "This paragraph specifies the issues Carney intends to discuss with Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's important to get engaged immediately, which has always been my intention and has always been his intention.\"",
+      "reason": "This quote is vague and does not provide specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "When asked about how he'll try to avoid an Oval Office row similar to what Volodymyr Zelenskyy experienced, Carney says \"I go there with the expectation of difficult but constructive discussions\".",
+      "reason": "This provides context about Carney's approach to the upcoming meeting with Trump, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"That's the spirit of the conversations that the president and I had, you go to these meetings well prepared, understanding the objectives of your counterpart and always acting in the best interest of Canada and we'll go from there.\"",
+      "reason": "This provides insight into Carney's diplomatic approach, relevant to his upcoming meeting with Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "Watch below: Body language explained during Zelenskyy-Trump Oval Office showdown.",
+      "reason": "This is a promotional line for a video and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carney confirms Trump meeting next week",
+      "reason": "This directly confirms the upcoming meeting between Carney and Trump, which is central to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Turning back to the relationship between Canada and the US, Carney says \"our old relationship based on steadily increasing integration is over\".",
+      "reason": "This paragraph provides context on the changing relationship between Canada and the US.",
+      "label": 1
+    },
+    {
+      "paragraph": "He says the question is now about how the two nations will cooperate in the future.",
+      "reason": "This paragraph adds to the narrative about future cooperation between Canada and the US.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney says he has had a \"very constructive call\" with Donald Trump and confirmed that they agreed to meet next Tuesday in Washington - something we told you about in our 15.50 post.",
+      "reason": "This paragraph provides new information about a meeting between Carney and Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Our focus will be on both immediate trade pressures and the broader future economic and security relationship between our two sovereign nations,\" he adds.",
+      "reason": "This paragraph outlines the focus of the upcoming meeting, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"My government will fight to get the best deal for Canada. We will take all the time necessary, but not more, in order to do so.\"",
+      "reason": "This paragraph provides Carney's stance on negotiations, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Statement from Buckingham Palace",
+      "reason": "This is a heading and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The King and Queen have confirmed their visit to Canada.",
+      "reason": "This provides new information about the King and Queen's visit to Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here's a statement from Buckingham Palace that's just been released:",
+      "reason": "This is an introductory sentence and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The King and Queen will visit Canada from Monday 26th to Tuesday 27th May.",
+      "reason": "This provides specific details about the dates of the visit to Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "The King, accompanied by The Queen, will attend The State Opening of the Parliament of Canada, in Ottawa.",
+      "reason": "This provides specific information about the King's activities during the visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "King Charles to give throne speech in Canada",
+      "reason": "The paragraph directly relates to King Charles' visit to Canada, which is part of the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney has started to set out some key events happening in his government over the next few weeks.",
+      "reason": "This paragraph provides context about upcoming government events, but it is not directly related to the headline about King Charles or Trump.",
+      "label": 0
+    },
+    {
+      "paragraph": "He says the new cabinet will be sworn in on 12 May, and parliament will be recalled on 26 May.",
+      "reason": "This paragraph provides specific dates for government events but is not directly related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carney also reveals King Charles will be delivering a speech from the throne on 27 May.",
+      "reason": "This paragraph provides specific information about King Charles' visit to Canada, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "He says the Queen will also join the visit, and describes it as an \"historic honour which matches the weight of our times\".",
+      "reason": "This paragraph adds relevant information about the Queen joining the visit, which is related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "'Canadians elected a government to stand up to Trump'",
+      "reason": "The paragraph is a quote that does not directly relate to the headline about King Charles and Trump.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mark Carney has taken his seat as his first news conference since his election win gets under way.",
+      "reason": "This paragraph provides context about Mark Carney's news conference but does not relate to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "It didn't take long for Donald Trump's name to be mentioned...",
+      "reason": "This is a vague statement without specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"On Monday, Canadians elected a new government to stand up to President Trump and to build a strong economy,\" he says.",
+      "reason": "The quote is about Canadian politics and not directly related to the headline about King Charles and Trump.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"Canadians also sent a clear message that their cost of living must come down and their communities need to be safe.\"",
+      "reason": "This statement is about Canadian domestic issues and not related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"As prime minister, I've heard these messages loud and clear, and I will act on them with focus and determination.\"",
+      "reason": "The quote is vague and does not provide specific information related to the headline about King Charles or Trump.",
+      "label": 0
+    }
+  ]
+}

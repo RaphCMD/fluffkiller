@@ -1,0 +1,24 @@
+{
+  "headline": "A TikTok Choice for Google and Apple - WSJ",
+  "context": [
+    "President Trump has effectively suspended the law Congress passed last spring banning TikTok. Credit to GOP Attorneys General from Tennessee, Alabama and Montana for trying to enforce it.",
+    "Attorneys General Jonathan Skrmetti (Tenn.), Austin Knudsen (Mont.) and Steve Marshall (Ala.) on Thursday evening subpoenaed Apple and Google for documents related to their compliance with the Protecting Americans from Foreign Adversary Controlled Applications Act. That law required TikTok to divest from its Chinese owner ByteDance by Jan. 19 or be banned."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The law passed with large majorities, but Mr. Trump on his first day in office granted TikTok a reprieve by promising not to enforce for 75 days the law’s penalties against tech companies that continue to host the app. The President said the amnesty would give him time to negotiate a deal to sell TikTok to U.S. investors.",
+      "reason": "This paragraph provides essential information about President Trump's actions regarding the TikTok law and his intentions.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s unclear if ByteDance and Chinese President Xi Jinping would agree to a total divestment that complies with the law since Beijing deems TikTok’s algorithms a state secret. Mr. Trump’s 145% tariffs on China have also complicated negotiations. The President has extended his reprieve for another 75 days.",
+      "reason": "This paragraph offers relevant context about the challenges in negotiations and the extension of the reprieve.",
+      "label": 1
+    },
+    {
+      "paragraph": "Copyright ©2025 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "reason": "This is a copyright notice and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

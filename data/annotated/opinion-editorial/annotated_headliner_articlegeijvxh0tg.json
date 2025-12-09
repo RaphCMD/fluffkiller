@@ -1,0 +1,34 @@
+{
+  "headline": "Opinion | ‘I Wanted to Do Work That Was Helping People.’ Then Trump Fired Him — Twice. - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "May 1, 2025"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Long before he was confirmed to lead the Office of Management and Budget, the White House office that oversees federal spending and agencies, Russell Vought detailed his intention to roll back what he called the “Marxist takeover” of this country. In his design, a key target of the counterrevolution would be career civil servants.",
+      "reason": "Provides context about Russell Vought's intentions and actions relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We want the bureaucrats to be traumatically affected,” Mr. Vought said. “When they wake up in the morning, we want them to not want to go to work because they are increasingly viewed as the villains.”",
+      "reason": "Includes a direct quote from Vought that illustrates his controversial stance, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sign up for the Opinion Today newsletter  Get expert analysis of the news and a guide to the big ideas shaping the world every weekday morning.",
+      "reason": "This is promotional content unrelated to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Subscribe to The Times to read as many articles as you like.",
+      "reason": "This is promotional content unrelated to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Spencer Bokat-Lindell is a staff editor in the Opinion section.  @bokatlindell",
+      "reason": "This is background information about the author, not relevant to the article's main story.",
+      "label": 0
+    }
+  ]
+}

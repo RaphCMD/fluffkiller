@@ -1,0 +1,39 @@
+{
+  "headline": "Several injured as car drives into pedestrians in German city of Stuttgart",
+  "context": [
+    "A vehicle drove into a group of pedestrians in the German city of Stuttgart on Thursday, injuring several people, some of them seriously, authorities said.",
+    "The driver was arrested at the scene."
+  ],
+  "annotations": [
+    {
+      "paragraph": "While the Stuttgart fire department referred to the incident on Thursday as an “accident” in a post on X, police said it was too early to determine the cause.",
+      "reason": "This paragraph provides conflicting perspectives on the nature of the incident, which is relevant to understanding the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The incident happened at an above-ground train stop in central Stuttgart, police said.",
+      "reason": "This paragraph provides specific information about the location of the incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "The driver who was behind the wheel of the dark Mercedes was arrested, a police spokesperson said, according to news agency dpa.",
+      "reason": "This paragraph confirms the arrest of the driver and provides additional detail about the vehicle involved.",
+      "label": 1
+    },
+    {
+      "paragraph": "An investigation was under way, and the area was cordoned off as emergency responders, police and forensic specialists examined the scene.",
+      "reason": "This paragraph describes the ongoing investigation and response efforts, which are relevant to the incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "Witnesses were being interviewed, and the train service through the area was suspended.",
+      "reason": "This paragraph provides information on the immediate aftermath and impact on local services.",
+      "label": 1
+    },
+    {
+      "paragraph": "Photos from the scene showed plastic gloves, blankets and bags scattered on the ground near the vehicle.",
+      "reason": "The paragraph provides a visual description of the scene but does not add new information about the incident.",
+      "label": 0
+    }
+  ]
+}

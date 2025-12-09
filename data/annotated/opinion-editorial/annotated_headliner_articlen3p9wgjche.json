@@ -1,0 +1,44 @@
+{
+  "headline": "The Guardian view on Reform election victories: a barometer of disillusionment | Editorial | The Guardian",
+  "context": [
+    "There is no such thing as a “safe” parliamentary seat. Last July, Labour won Runcorn and Helsby with a majority of 14,696 and more than 50% of the vote. This week it was lost to Reform UK. Dramatic byelection swings are not new, and often overinterpreted. If Labour had won seven more votes, the outcome in Runcorn would have been different and the story, breathlessly narrated in Westminster, would have a different inflection. But on the same day, Reform took scores of council seats and comfortably won the newly created mayoralty of Greater Lincolnshire. The surge is real.",
+    "Parties led by Mr Farage have done well before. Ukip and then the Brexit party made headlines with strong performances in local and European elections throughout the 2010s. But those parties were associated with a single demand – leaving the EU. Mr Farage was not bidding for nationwide power. Now he is."
+  ],
+  "annotations": [
+    {
+      "paragraph": "For the first time, Reform fielded candidates in every seat being contested. The party has taken control of local authorities as well as the newly created mayoralty of Greater Lincolnshire. That doesn’t mean Mr Farage is ready to swap protest politics for responsible administration. He is more likely to use a local government base as a platform to stir yet more grievance. The raised profile could be a liability for a party with flimsy policies and a record of listing cranks and extremists as its candidates.",
+      "reason": "This paragraph provides new facts about Reform's strategy and potential implications of their election victories.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Mr Farage’s personal brand has survived that tarnishing before. It would be complacent to imagine that his support has now peaked. His claim to have supplanted the Conservatives as the main party of opposition in England, while characteristically boastful, is not completely outlandish.",
+      "reason": "This paragraph offers analysis on Farage's enduring influence and the potential shift in political dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "This was the first ballot box test of Kemi Badenoch’s Tory leadership, and it demonstrates how badly she is failing to rehabilitate her party. It shed scores of council seats. It was knocked into third place in Runcorn. It came fourth, behind Labour, Reform and the Greens in the race for the west of England mayoralty.",
+      "reason": "This paragraph provides specific results and implications for the Conservative party under Kemi Badenoch's leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "There is scant comfort for Sir Keir Starmer in Ms Badenoch’s woes. The Tories have not yet earned the right to an audience with voters who were sick of them after 15 years in office. But after less than one year, Labour is remarkably unpopular too, subject to scorn as the incumbent power in Westminster. Having won a huge majority with promises of change, Sir Keir is delivering something that feels too much like continuity with the regime it replaced.",
+      "reason": "This paragraph discusses the challenges faced by Labour and its leader, providing context on political disillusionment.",
+      "label": 1
+    },
+    {
+      "paragraph": "That disillusionment is expressed as much in support for Liberal Democrats and Greens as it is in Reform’s victories. Allegiances that Labour once took for granted are fragmenting along multiple axes. A trap now lies wide open for Labour. Trying to woo Mr Farage’s supporters with more aggressive rhetoric on immigration, for example, or a retreat from net zero targets, could fail to sway the target audience, while further demoralising more liberal‑minded voters.",
+      "reason": "This paragraph analyzes the broader political implications of disillusionment and potential strategic pitfalls for Labour.",
+      "label": 1
+    },
+    {
+      "paragraph": "One of Mr Farage’s most potent lines of attack is that Labour, having campaigned on pledges to be different, are revealed as just more of the same. That lament is echoed by voters who abhor Reform, despaired of the way Conservative prime ministers danced to Mr Farage’s tunes and hoped a Labour prime minister might change the record. If Sir Keir cannot soon demonstrate that his government has an agenda to transform Britain for the better then truly no seat will be safe for his MPs.",
+      "reason": "This paragraph provides analysis on the political dynamics and voter sentiment contributing to Reform's success.",
+      "label": 1
+    },
+    {
+      "paragraph": "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+      "reason": "This paragraph is a call to action for reader engagement, not contributing to the article's core story.",
+      "label": 0
+    }
+  ]
+}

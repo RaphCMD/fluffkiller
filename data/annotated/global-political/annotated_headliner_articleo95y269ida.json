@@ -1,0 +1,154 @@
+{
+  "headline": "GM plans to cut shift at Oshawa plant: Unifor",
+  "context": [
+    "The union representing auto workers at the General Motors plant in Oshawa, Ont. says the company is cutting its third shift this fall, citing U.S. President Donald Trump’s tariffs.",
+    "Unifor, which represents about 3,000 employees at the Oshawa facility, said the shift reduction is “reckless” and that the move will “ripple through” the auto parts supplier network."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Local 222 President Jeff Gray said the move will impact hundreds of jobs.",
+      "reason": "This paragraph provides direct commentary on the impact of the shift cut.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We are going to have, potentially, just over 700 direct employees affected on the third shift at General Motors Oshawa,” he told CP24 Friday morning, noting that 1,500 supply chain jobs will also be impacted.",
+      "reason": "This paragraph provides specific numbers on job impacts, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "GM said it is making the transition from a three-shift to two-shift facility “in light of forecast demand and the evolving trade environment.”",
+      "reason": "This paragraph provides GM's reasoning for the shift cut, which is directly relevant.",
+      "label": 1
+    },
+    {
+      "paragraph": "“These changes will help support a sustainable manufacturing footprint as GM reorients the Oshawa plant to build more trucks in Canada for Canadian customers,” the company said in a statement.",
+      "reason": "This paragraph provides GM's perspective on the strategic shift, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unifor National President Lana Payne told CP24 that the decision to cut the shift before Prime Minister Mark Carney and Trump had a chance to meet and discuss the ongoing trade war was “horrendous.”",
+      "reason": "This paragraph includes a critical quote from a union leader, relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Honestly, General Motors should have at least given our prime minister a chance to have a sit down meeting with Donald Trump to negotiate an economic deal. We all knew that those talks were coming,” Payne told CP24 in an interview.",
+      "reason": "This paragraph provides a quote from a union representative expressing frustration over the lack of negotiation, which is relevant to the shift cut issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney announced Friday that he will travel to Washington on Tuesday to meet with Trump.",
+      "reason": "This paragraph is unrelated to the GM shift cut and focuses on a separate political meeting.",
+      "label": 0
+    },
+    {
+      "paragraph": "The prime minister also commented on the situation in Oshawa in his first news conference since winning Monday night’s election. He expressed his “deepest sympathy” to the workers and their families and said his government is “fighting hard” for the auto sector.",
+      "reason": "This paragraph provides the prime minister's response to the shift cut, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“And making sure that companies act in true partnership as well, in maintaining employment and investment in Canada. And if not, there will be consequences for those companies,” he said.",
+      "reason": "This paragraph includes a relevant quote from the prime minister about corporate responsibility in Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last month, Trump’s 25 per cent tariff on all vehicle imports into the United States went into effect, which includes a carveout for the American-made parts of cars that are compliant with the Canada-United States-Mexico Agreement (CUSMA).",
+      "reason": "This paragraph provides context on the tariffs that are cited as a reason for the shift cut.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Tuesday, Trump signed two executive orders to give the industry some relief, including one that spared companies already paying the auto tariffs from the 25 per cent tax on steel and aluminum.",
+      "reason": "This paragraph provides context about U.S. tariffs, which are relevant to the shift cut at the Oshawa plant.",
+      "label": 1
+    },
+    {
+      "paragraph": "Meanwhile, the White House was planning to introduce a similar tariff on auto parts this weekend, but U.S. Customs and Border Protection released guidance on Thursday that said those parts are also exempt under CUSMA.",
+      "reason": "This paragraph provides relevant information about tariff exemptions that could impact the auto industry.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the union said the new guidance “changes nothing for the Canadian auto industry.”",
+      "reason": "This paragraph includes a direct quote from the union, which is relevant to the impact on the Oshawa plant.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It is solely designed to keep U.S. factories running, because they rely heavily on Canadian made auto parts, while continuing to harm Canada’s auto assembly plants,” the union said in a statement.",
+      "reason": "This paragraph provides a direct quote from the union, explaining the perceived impact of U.S. policies on Canadian plants.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ontario Premier Doug Ford called the news of the forthcoming layoffs “extremely tough” for the Oshawa workers and their families.",
+      "reason": "This paragraph includes a reaction from a key political figure, which is relevant to the impact of the shift cut.",
+      "label": 1
+    },
+    {
+      "paragraph": "“These are hardworking people who have helped build Ontario’s auto industry,” he said in a statement. “GM has reaffirmed its commitment to the Oshawa plant, which will continue building Ontario-made trucks for years to come. We will continue doing everything we can to support a strong future for the facility and its workers.”",
+      "reason": "The paragraph provides a quote about GM's commitment to the Oshawa plant, which is relevant to the shift cut news.",
+      "label": 1
+    },
+    {
+      "paragraph": "Industry Minister Anita Anand added that she is “profoundly disappointed” by the news and said she has sent a letter to GM Canada’s president and managing director to seek “further clarity on internal perspectives in the midst of the evolving automotive market.”",
+      "reason": "The paragraph includes a reaction from a government official and actions taken, which are relevant to the shift cut news.",
+      "label": 1
+    },
+    {
+      "paragraph": "Speaking to NEWSTALK 1010’s Moore in the Morning on Friday, Ontario Finance Minister Peter Bethlenfalvy said that the provincial government will do what it can to support its workers and manufacturers.",
+      "reason": "The paragraph provides a government response to the shift cut, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I‘ve got my budget coming out in a couple of weeks. But this is the environment we’re in right now. This is a trade war that we did not ask for. We think its unjustified and uncalled for, but that’s the policy of a democratically-elected president.”",
+      "reason": "The paragraph provides context about the trade war affecting the shift cut, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bethlenfalvy didn’t reveal if his May 15 budget will include any sector specific stimulus spending, as Ford said would be necessary during the trade war and subsequent job losses.",
+      "reason": "The paragraph discusses potential government actions related to the shift cut, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier this week, Ontario’s Financial Accountability Office predicted that Trump’s tariffs will result in 68,100 fewer jobs in Ontario in 2025.",
+      "reason": "This provides context on the broader impact of tariffs, which is relevant to the shift cut.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gray said that employees at the Oshawa plant received the news about the third shift cut early Friday morning.",
+      "reason": "This provides direct information about when the employees were informed about the shift cut.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This is devastating,” Gray told CP24. “I mean, these folks build a high- quality truck, they’ve got great productivity, they’re dependable, they’re reliable. That truck should be here in Oshawa and we’re not okay with losing these units to the United States…we’re not going to accept our membership losing their jobs. We’re not accepting that.”",
+      "reason": "This quote provides direct commentary from a union representative about the impact of the shift cut.",
+      "label": 1
+    },
+    {
+      "paragraph": "Currently, the Chevrolet Silverado is the only vehicle produced at the Oshawa facility.",
+      "reason": "This provides specific information about the production at the Oshawa plant.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Early April, and in the wake of Trump’s auto tariffs, GM announced that it would hire an unspecified number of temporary workers at its Fort Wayne, Indiana location -- which also produces the Silverado and GMC Sierra pickup trucks -- to ramp up production.",
+      "reason": "This provides context on GM's response to tariffs, which is relevant to the shift cut.",
+      "label": 1
+    },
+    {
+      "paragraph": "At the time, Unifor said that the Oshawa plant would continue to operate at “current production levels.” Later that month, GM said that it had cancelled shifts at the Oshawa plant temporarily due to a part shortage.",
+      "reason": "This paragraph provides relevant background on previous operational changes at the Oshawa plant.",
+      "label": 1
+    },
+    {
+      "paragraph": "The levies have also had an impact on operations at the Windsor Assembly Plant, which was shut down for two weeks in April.",
+      "reason": "This paragraph provides context on the broader impact of tariffs on GM operations, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Speaking to CP24, Oshawa Mayor Dan Carter said that while the impact of the shift reduction is not lost on him, he is optimistic about the local economy’s resilience in the face of Friday’s development.",
+      "reason": "This paragraph includes a relevant quote from the Oshawa Mayor about the impact of the shift reduction.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’ll still, hopefully, have about 2,500 people that will be on the two shifts at General Motors. I‘m optimistic that this is, once again, part of a storyline that our great city faces. We continue to be challenged on a regular basis, we continue to fight back and we continue to be successful and I have all the confidence in the world that we’ll be able to overcome this also.”",
+      "reason": "This paragraph contains a low-information quote that does not add new facts or essential commentary.",
+      "label": 0
+    }
+  ]
+}

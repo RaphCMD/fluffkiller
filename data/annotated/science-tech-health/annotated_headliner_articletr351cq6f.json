@@ -1,0 +1,19 @@
+{
+  "headline": "The world’s largest coral was discovered in the South Pacific",
+  "context": [
+    "The behemoth coral, discovered in October in the Solomon Islands, is longer than a blue whale and older than the United States.",
+    "The world’s largest standalone coral (shown) has been discovered off the coast of the Solomon Islands."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Off the coast of the Solomon Islands lurks a centuries-old being that is so immense, it can be seen from space.",
+      "reason": "This paragraph provides context about the coral's location and its immense size.",
+      "label": 1
+    },
+    {
+      "paragraph": "Discovered in October by the National Geographic Society’s Pristine Seas team, it is the world’s largest standalone coral.",
+      "reason": "This paragraph gives essential information about the discovery and the team involved.",
+      "label": 1
+    }
+  ]
+}

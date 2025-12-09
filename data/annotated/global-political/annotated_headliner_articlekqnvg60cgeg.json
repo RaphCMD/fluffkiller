@@ -1,0 +1,59 @@
+{
+  "headline": "Mark Carney’s Liberals projected to win minority government - National | Globalnews.ca",
+  "context": [
+    "Prime Minister Mark Carney will form a minority government, Global News has projected, though the total seat count is not yet known as some ridings still have votes to be counted.",
+    "Carney’s government is the Liberals’ fourth consecutive mandate and when this year began would have been thought unattainable, with the Conservatives ahead by more than 20 points in some polls and a deeply unpopular prime minister in Justin Trudeau."
+  ],
+  "annotations": [
+    {
+      "paragraph": "But U.S. President Donald Trump’s re-election and subsequent launching of a trade war on Canada, followed by Trudeau’s resignation and the Liberals electing former Bank of Canada and Bank of England governor Mark Carney as their leader changed that.",
+      "reason": "Provides context on the political changes leading to Carney's leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I chose to enter politics because I felt we needed big changes in this country, but big changes guided by strong Canadian values,” Carney told supporters after his victory was projected.",
+      "reason": "Includes a direct quote from Carney explaining his motivation for entering politics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not contributing to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“My message to every Canadian is this, no matter where you live, no matter what language you speak, no matter how you voted, I will always do my best to represent everyone who calls Canada home.”",
+      "reason": "Contains a direct quote from Carney addressing the nation.",
+      "label": 1
+    },
+    {
+      "paragraph": "A minority, however, means the Liberals will likely have to work across the aisle with the NDP or Bloc Quebecois in order to remain in government, specifically on confidence motions to avoid prompting another election.",
+      "reason": "Explains the implications of a minority government for the Liberals.",
+      "label": 1
+    },
+    {
+      "paragraph": "While Global News had projected a Liberal government on Monday night, it was not clear until Tuesday morning whether that would be a minority or majority.",
+      "reason": "This paragraph provides context on the timing and nature of the election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "2:16\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada Election 2025: Poilievre concedes to Carney, vows to hold Liberals to account as opposition",
+      "reason": "This is a video caption and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "While votes are still being counted in some parts of the country, the Liberal Party is projected to win in 168 ridings across the country. Carney won in his own riding of Nepean by a margin of 21,380 votes.",
+      "reason": "This paragraph provides specific details about the election results and Carney's victory.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating the continuation of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Conservatives are set to form the official opposition with 144 seats, while the Bloc are leading or elected in 23, the NDP in seven and the Greens in one.",
+      "reason": "This paragraph provides detailed information about the distribution of seats among parties.",
+      "label": 1
+    }
+  ]
+}

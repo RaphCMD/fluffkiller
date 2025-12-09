@@ -1,0 +1,99 @@
+{
+  "headline": "BREAKING NEWS: Global car carrier K-line fined $23.4 million for criminal cartel offenses - FreightWaves",
+  "context": [
+    "Ocean automotive carrier Kawasaki Kisen Kaisha (K-Line) was convicted of being in a criminal cartel today (August 2, 2019) in Australia. It was fined A$34.5 million (US$23.4 million) by the Federal Court of Australia.",
+    "The company would have been given an even bigger fine, A$48 million, but the judge in the Federal Court of Australia showed leniency because of the company’s early guilty plea and assistance. It pleaded guilty last year in the Federal Court of Australia to being involved in a global conspiracy with numerous other ocean shipping companies not to attempt to win business from each other and to fix ocean freight rates for shipping vehicles. It was sentenced today."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Under Australian competition (antitrust) law, it is unlawful to make an agreement that has the purpose or effect of directly or indirectly, fixing, controlling or maintaining, or providing for the fixing, controlling or maintaining of the price in relation to services supplied by any or all of the parties to the agreement.",
+      "reason": "This paragraph provides relevant legal context about the antitrust laws violated by K-Line.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kobe, Japan, headquartered K-Line (JPX: 9107) supplies shipping services including roll-on roll-off (ro-ro) shipping services for cars, trucks, buses, commercial vehicles, agricultural equipment and construction equipment.",
+      "reason": "This paragraph provides background information about K-Line's business operations.",
+      "label": 0
+    },
+    {
+      "paragraph": "It entered into a cartel with other shipping companies: Mitsui OSK; Toyofuji Shipping; Nissan Motor Car Carrier; and Wallenius Wilhelmsen Logistics. The cartel started at least as early as February 1997 but it ended in or about September 2012 after raids by the Japan Fair Trade Commission and the U.S. Department of Justice on the offices of several shipping companies.",
+      "reason": "This paragraph provides relevant details about the cartel's participants and timeline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Specifically, the cartel members would share actual and proposed freight rates with each other. They would also agree to freight rates and changes to freight rates. They would also submit, or decline to submit, tenders or bids in line with the agreements they had made to fix, control or maintain prices and to maintain existing market shares.",
+      "reason": "This paragraph provides specific details on how the cartel operated.",
+      "label": 1
+    },
+    {
+      "paragraph": "K-Line ultimately pleaded guilty to several instances between July 2009 and September 2012 for giving effect to price fixing on certain routes to Australia.",
+      "reason": "This paragraph provides relevant information about K-Line's guilty plea and specific actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "During the period, K-Line’s global share of capacity for ro-ro services was between 11.6 and 11.9 percent. Mitsui had between 12.1 percent and 14.1 percent. NYK had between 15.5 percent and 17.2 percent. Eukor had 10.9 percent and 11.6 percent and Wallenius Wilhelmsen had between 8.2 percent and 10.5 percent. Other car carriers had lower shares.",
+      "reason": "This paragraph provides context on K-Line's market share, which is relevant to understanding the scale of the cartel's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "It was found as a fact that employees at varying levels of K-Line were aware of the cartel agreement. Some members of K-Line’s board of directors knew. Senior managers knew. Managers knew. Even junior employees knew as more senior managers would inform them. And junior employees would sometimes inform their superiors of the outcomes of discussions.",
+      "reason": "This paragraph details the internal awareness of the cartel within K-Line, which is directly relevant to the criminal charges.",
+      "label": 1
+    },
+    {
+      "paragraph": "Employees at K-Line knew about competition (antitrust) law because the company provided training in it. Employees also sought to cover up their behavior.",
+      "reason": "This paragraph highlights the company's awareness of legal boundaries and attempts to conceal illegal activities, relevant to the charges.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Reports were often marked with words to the effect of “Confidential. Dispose of after Reading.” Written records were marked in that way because of an awareness that those communications were most likely improper or illegal under competition law. It was the practice of the General Manager of the Car Carrier Business Group to delete and destroy documents which recorded communications with the other carriers,” the court found.",
+      "reason": "This paragraph provides specific evidence of the company's attempts to hide illegal activities, relevant to the court's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "There was even a global marketing meeting where the Senior Managing Executive Officer instructed staff that communications with competitors should continue in a “careful manner” and should be limited to those at the General Manager level and above. However, the staff ignored that instruction.",
+      "reason": "This paragraph illustrates the internal dynamics and disregard for compliance, relevant to the cartel's operations.",
+      "label": 1
+    },
+    {
+      "paragraph": "After raids by the Japanese and U.S. authorities in 2012, Australia’s regulator, the Australian Competition and Consumer Commission (ACCC), began investigating into whether any criminal offenses had been committed in relation to Australia. The ACCC later brought criminal charges against Nippon Yusen Kabushiki Kaisha (JPX: 9101) and K-Line. NYK was subsequently found by the Federal Court of Australia to have derived revenues of A$54.9 million and profits of A$15.4 million over three years of offending from 2010 to 2012 when it shipped 69,348 new vehicles to Australia. NYK was fined A$25 million.",
+      "reason": "Provides background on the investigation and related fines, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "In fining K-Line A$35 million today, the Federal Court of Australia said, “it is important to reiterate that cartel conduct of the sort engaged in by K-Line warrants stern denunciation and condign punishment. It is inimical to and destructive of the competition that underpins Australia’s free market economy. It is ultimately detrimental to, or at least likely to be detrimental to, Australian businesses and consumers. The penalty imposed on K-Line should send a powerful message to multinational corporations that conduct business in Australia that anti-competitive conduct will not be tolerated and will be dealt with harshly. That is so even where, as here, the decisions and conduct are engaged in overseas and as part of a global cartel.”",
+      "reason": "Includes direct commentary from the court on the significance of the fine, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "On publication of the judgment today, the ACCC (Australia’s competition watchdog) welcomed the news.",
+      "reason": "Provides a reaction from the ACCC, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Cartel conduct, such as that engaged in by K-line, not only cheats consumers and other businesses through inflated prices and costs, but also restricts healthy economic growth and discourages innovation. This decision is a serious warning to businesses and will deter others seeking to join or start a cartel. Businesses should know that engaging in cartel conduct will result in ACCC scrutiny and result in potentially very serious consequences,” ACCC chairman Rod Sims said.",
+      "reason": "Contains a quote from the ACCC chairman on the implications of the decision, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ACCC’s investigation of other alleged cartel members continues.",
+      "reason": "Mentions ongoing investigations, adding context to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Significant punishments have been imposed on the cartel and on K-Line around the world. K-line was fined approximately A$68.3 million by Japan in March 2014. In the U.S., K-Line was fined US$67.7 million for its anti-competitive behavior. Three K-Line employees were sentenced to jail; two to 18 months and one to 14 months. They were also each fined US$20,000.",
+      "reason": "This paragraph provides relevant information about the global penalties and legal actions against K-Line, which is directly related to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the European Union, four ocean shipping car carriers were fined a total of A$619.9 million. K-Line was fined A$61.4 million. In South Korea, nine global shipping companies, including K-Line, were fined a total of A$47.68 million.",
+      "reason": "This paragraph adds relevant details about fines imposed on K-Line in other regions, contributing to the understanding of the global impact of the cartel offenses.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Chile, six shipping companies including Mitsui, K-Line, NYK, Eukor and two others are facing legal proceedings that have yet to be finalized. In China, K-Line was fined approximately A$5.1 million. In South Africa, K-Line has agreed to pay a cumulative penalty of A$9.71 million. In Mexico, K-Line and one of its subsidiaries have been fined A$8.38 million.",
+      "reason": "This paragraph provides additional relevant information about ongoing and concluded legal actions against K-Line in various countries, which is pertinent to the main story.",
+      "label": 1
+    }
+  ]
+}

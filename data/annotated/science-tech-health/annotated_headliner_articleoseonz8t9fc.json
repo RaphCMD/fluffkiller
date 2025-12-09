@@ -1,0 +1,184 @@
+{
+  "headline": "Scientists at U.S. weather forecasting agency ordered to get clearance before talking to Canadian counterparts | CBC News",
+  "context": [
+    "Travelling for international meetings or even joining a call with Canadian counterparts has become impossible for some U.S. government scientists, under new directives since U.S. President Donald Trump took office.",
+    "Canadian ecologist Aaron Fisk says he recently tried to set up a virtual call to discuss plans with American colleagues, including a government scientist, around sampling fish."
+  ],
+  "annotations": [
+    {
+      "paragraph": "\"We tried to have a quick meeting with one of our collaborators … and they were denied access,\" Fisk said.",
+      "reason": "This quote directly illustrates the impact of the new directives on scientific collaboration.",
+      "label": 1
+    },
+    {
+      "paragraph": "Given that the Great Lakes — and their aquatic life — straddle both sides of the border, having American scientists suddenly barred from meetings has had deep impacts.",
+      "reason": "This provides context on the significance of the collaboration between U.S. and Canadian scientists.",
+      "label": 1
+    },
+    {
+      "paragraph": "That, combined with funding freezes, is drastically altering the way science works in North America, at least for now.",
+      "reason": "This sentence summarizes the broader impact of the new directives and funding issues on scientific work.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fisk, who is the Canada Research Chair in Changing Great Lakes Ecosystems at the University of Windsor, receives funding from the U.S. National Oceanic and Atmospheric Administration (NOAA) for his work.",
+      "reason": "This provides relevant context about Fisk's role and funding source, linking to the main issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "NOAA, a federal agency, provides scientific information, research and forecasting including daily weather reports, hurricane tracking, climate modelling and marine monitoring.",
+      "reason": "This is background information about NOAA, not directly related to the main issue.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fisk says the total U.S. research funds he's had frozen add up to more than $700,000, or about $993,000 Cdn.",
+      "reason": "This paragraph provides specific information about the impact of the new directives on research funding.",
+      "label": 1
+    },
+    {
+      "paragraph": "That's left two of his Great Lakes research projects on hold — one related to studying the movement of fish and one that used autonomous underwater vehicles to study how climate change is affecting Lake Erie.",
+      "reason": "This paragraph details the consequences of the funding freeze on specific research projects.",
+      "label": 1
+    },
+    {
+      "paragraph": "CBC News has seen emails sent to NOAA employees, directing staff to get senior approval on \"all upcoming international engagements\" until the end of March 2025.",
+      "reason": "This paragraph provides direct evidence of the new directive requiring clearance for international engagements.",
+      "label": 1
+    },
+    {
+      "paragraph": "The new guidance from the NOAA policy team states that limits on \"international engagements should be applied broadly\" to include all NOAA-funded international travel, travel within the U.S. for international meetings, as well as all virtual meetings about an international topic, policy or scientific collaboration.",
+      "reason": "This paragraph explains the scope of the new guidance, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Virtual meetings are also required to be submitted for review if they touch on an array of topics including: climate, energy, offshore wind, ocean mapping and exploration, competitive seafood, aquaculture, ocean plastics, the World Meteorological Organization, Arctic security and Arctic energy.",
+      "reason": "This paragraph lists specific topics affected by the new directive, adding detail to the article's main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the internal emails obtained by CBC News appear to undermine that central objective.",
+      "reason": "This paragraph suggests that the internal emails contradict the stated objective, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's very draconian,\" Fisk said.",
+      "reason": "This quote provides a direct commentary on the situation, adding to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Throughout his career, up until Trump's recent inauguration, he said it was normal to share resources, ideas and data with colleagues south of the border.",
+      "reason": "This provides context on how the situation has changed since Trump's inauguration, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The Great Lakes is an excellent place to show where Canada and the United States come together to do really good research,\" Fisk said. \"It's like the border doesn't even exist.\"",
+      "reason": "This quote illustrates the previous collaboration between the two countries, relevant to the article's focus on changes in communication.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fisk said emails with his U.S. counterparts have slowed to a minimum, and that he's not the only one at the University of Windsor who has had their research put on hold.",
+      "reason": "This provides specific examples of the impact of the new directives, directly related to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "From studying the impacts of climate change to tracking a hurricane as it travels from the Caribbean up the U.S. coast to Canada, NOAA's work is closely intertwined with Canadian weather forecasting and research.",
+      "reason": "This paragraph provides context on the collaboration between NOAA and Canadian weather agencies, relevant to the restrictions on communication.",
+      "label": 1
+    },
+    {
+      "paragraph": "Many are worried what it will mean for the international research community if a global leader like the U.S. is headed down a path of scientific isolationism.",
+      "reason": "This paragraph discusses potential implications of the communication restrictions, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gretchen Goldman, president of the Union of Concerned Scientists, put it simply: \"I think science is under attack in the United States.\"",
+      "reason": "This quote provides a direct commentary on the situation, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "But she encouraged her colleagues to not give up hope. \"I think we should hold the line and take it day by day,\" she told CBC News.",
+      "reason": "This paragraph offers a motivational perspective but does not add new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Reports of looming mass layoffs at the U.S. agency have also struck a chill among many federal scientists.",
+      "reason": "This paragraph introduces additional context about the agency's situation, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Janne Haugen, a fisheries ecologist, is a NOAA affiliate who works for a company contracted by the U.S. government.",
+      "reason": "This paragraph provides context about a specific individual affected by the new directives.",
+      "label": 1
+    },
+    {
+      "paragraph": "Haugen told CBC News that, for now, she's being cautious and limiting communication with international colleagues to technical aspects of the job.",
+      "reason": "This paragraph directly relates to the impact of the new communication restrictions.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I do have emails from other collaborators that I haven't responded to,\" she said.",
+      "reason": "This quote illustrates the personal impact of the communication restrictions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Andrew Rosenberg, a former deputy director of NOAA's National Marine Fisheries Service, told CBC News that slashing 50 per cent of the agency's workforce is being discussed on Capitol Hill and within NOAA.",
+      "reason": "This paragraph introduces a related issue of potential workforce cuts, adding context to the agency's situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This is a transition of destruction. I've never seen anything like it,\" said Rosenberg, a marine scientist.",
+      "reason": "This quote provides a strong opinion on the situation, adding depth to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said it's normal for political priorities to shift under a newly elected government, but nothing like this.",
+      "reason": "This paragraph provides a general statement about political shifts without adding specific information about the new directives.",
+      "label": 0
+    },
+    {
+      "paragraph": "The firehose of policy changes targeting American scientific institutions is not limited to NOAA.",
+      "reason": "This paragraph indicates that NOAA is not the only agency affected, which is relevant to the broader impact of the directives.",
+      "label": 1
+    },
+    {
+      "paragraph": "A communication freeze at the National Institutes of Health has created chaos, and disappearing data sets form the Centers for Disease Control has sent Canadians racing to archive the information before it is lost.",
+      "reason": "This paragraph provides specific examples of the impact of policy changes on other scientific institutions, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Also in the crosshairs is the Environmental Protection Agency, where hundreds of staff have been terminated.",
+      "reason": "This paragraph adds information about the impact on another agency, contributing to the narrative of widespread changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to Rémi Quirion, the president of the International Network for Governmental Science Advice, there's no denying there will be ripple effects if this is part of a long-term trend toward dismantling, or at least severely restricting, the work of American scientific institutions.",
+      "reason": "This paragraph provides expert commentary on the potential long-term effects of the policy changes, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Science should be without borders,\" Quirion said. \"I think globally, it will slow down progress and research.\"",
+      "reason": "This quote provides direct commentary on the impact of the new directives on scientific collaboration.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Canadian federal government, for its part, said it hadn't received official notice of any changes to its collaboration with NOAA.",
+      "reason": "This provides relevant information about the Canadian government's awareness of the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "In an email, Environment and Climate Change Canada (ECCC) spokesperson Samantha Bayard underlined the longstanding relationship with U.S. counterparts.",
+      "reason": "This paragraph provides context about the existing relationship between Canadian and U.S. agencies.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"ECCC and NOAA also collaborate daily on a number of different fronts, including in Arctic waters and the Great Lakes through joint ice observations and forecasts via the North American Ice Service, and producing integrated weather models as part of the North American Ensemble Forecast System,\" Bayard said.",
+      "reason": "This paragraph details specific areas of collaboration, which is relevant to the article's focus on international scientific cooperation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Quirion suggested the situation could create some benefits for Canada. As the chief scientist of Quebec in a role advising the provincial government, he said this could be a chance to draw talent.",
+      "reason": "This provides a perspective on potential positive outcomes for Canada, which is relevant to the article's theme.",
+      "label": 1
+    }
+  ]
+}

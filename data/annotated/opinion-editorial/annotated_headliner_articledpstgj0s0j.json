@@ -1,0 +1,124 @@
+{
+  "headline": "Opinion | Trump’s Cabinet Members: A Rorschach Test for America - The New York Times",
+  "context": [
+    "Opinion",
+    "In the midst of confirmation hearings and executive orders, Times Opinion photographed the leaders of the new administration."
+  ],
+  "annotations": [
+    {
+      "paragraph": "What do you see when you look at pictures of President Trump’s cabinet?",
+      "reason": "This is a rhetorical question that does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "We’re used to partisan disagreement about cabinet officials. Democrats are never going to be that impressed by a Republican cabinet (and vice versa), but as with so many things, the perception gap between Republicans and Democrats has become so vast, it’s as if they inhabit different universes.",
+      "reason": "This provides context about the partisan divide relevant to the perception of Trump's cabinet.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump’s critics — and I am one — look at the lineup and see, in essence, a group of people that bears far more resemblance to a collection of North Korean generals than it does to a traditional American cabinet.",
+      "reason": "This offers a critical perspective on Trump's cabinet, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "And for good reason. Trump’s cabinet meetings often feature its members publicly showering the president with praise, sometimes in the most absurd terms.",
+      "reason": "This provides specific commentary on the behavior of Trump's cabinet members.",
+      "label": 1
+    },
+    {
+      "paragraph": "Pam Bondi, the attorney general, said in one cabinet meeting that Trump was “overwhelmingly elected by the biggest majority.” Brooke Rollins, the agriculture secretary, said, “What you have assembled in your vision is a turning point and an inflection point in American history.” Marco Rubio, the secretary of state, said, “What you’re doing now I think is a great service to our country but ultimately to the world.”",
+      "reason": "This paragraph provides specific examples of praise from cabinet members, supporting the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "There has been little indication that these cabinet members exercise any independent judgment. Instead, they conform to Trump’s worldview and to Trump’s whims.",
+      "reason": "This paragraph provides a direct commentary on the behavior of Trump's cabinet members, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rubio is among the worst offenders. Before Trump’s rise, he developed a reputation as an independent strategic thinker, committed to America’s global leadership. And now he’s the caretaker of a shrinking State Department who has turned into Trump’s willing accomplice as Trump undermines American credibility and destroys American alliances.",
+      "reason": "This paragraph offers specific commentary on Rubio's role and transformation under Trump, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "But where Trump’s critics see a wannabe dictator and his toadies, Trump’s supporters see something else. They see a commander and his generals. They see warriors.",
+      "reason": "This paragraph contrasts perceptions of Trump and his cabinet, which is relevant to the headline's theme of differing views.",
+      "label": 1
+    },
+    {
+      "paragraph": "To understand why, it’s important to know exactly how the political right is defining strength, courage and — perhaps most important of all — gratitude.",
+      "reason": "This paragraph introduces a discussion on the political right's values, which is relevant to understanding differing perceptions of Trump's cabinet.",
+      "label": 1
+    },
+    {
+      "paragraph": "First, let’s talk about strength and courage. MAGA mythology requires both of those virtues to support Trump. His supporters see virtually every significant American institution opposed to his rise. The mainstream media, the universities, Hollywood: They’re all united in opposition to Trump.",
+      "reason": "This paragraph provides context on the values of Trump's supporters, which is relevant to the headline's exploration of differing views.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a consequence, supporting Trump is an act of defiance in and of itself. This is one reason you see Trump supporters wearing clothing that says things like “Lions, not sheep.” Trump is a lion, and his supporters are lions for standing beside him.",
+      "reason": "The paragraph provides context on the perception of Trump supporters, which is relevant to understanding the dynamics of his cabinet.",
+      "label": 1
+    },
+    {
+      "paragraph": "In this formulation, defying Trump would be an act of weakness. Because it’s what “they” want Trump’s cabinet to do.",
+      "reason": "This paragraph discusses the perceived consequences of defying Trump, relevant to the cabinet's dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "When you add Trump’s legal woes to the mix, the acts of alleged courage only grow more profound. After all, to belong to Trump’s team is to risk prosecution — the “weaponization” (as he and his law enforcement officers like to put it) of American justice.",
+      "reason": "The paragraph discusses the risks associated with being part of Trump's team, relevant to the cabinet's situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Again, look at the matter from MAGA’s perspective. The history of Trump’s scandals — including two impeachments, a felony conviction, a defamation verdict and a finding that he was liable for sexual abuse — isn’t about Trump’s flaws, but rather about his opponents’ vindictiveness.",
+      "reason": "This paragraph provides context on how Trump's supporters view his scandals, relevant to understanding the cabinet's perspective.",
+      "label": 1
+    },
+    {
+      "paragraph": "Add that perception to the genuine relief that he survived two assassination attempts, and you can see that Trump’s supporters don’t view gratitude as just acceptable. It’s mandatory. He’s the man who was impeached for them, prosecuted for them, and shot at for them.",
+      "reason": "The paragraph explains the loyalty of Trump's supporters, relevant to the cabinet's dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Or, as Trump has said at his rallies, “They’re not after me. They’re after you, and I just happen to be standing in their way.”",
+      "reason": "This quote provides insight into Trump's rhetoric and how it frames his administration's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "In this context, Trump’s cabinet isn’t judged as much by its results as by its ability to trigger or enrage Trump’s opponents. If the media is angry, Trump’s base is happy. That means they’ll cheer absurd pictures of the secretary of homeland security, Kristi Noem, cosplaying as an immigration enforcement agent, holding a rifle and wearing a tactical vest, simply because it makes Trump’s opponents angry, because it upsets their vision of responsible, sober leadership.",
+      "reason": "This paragraph provides analysis on how Trump's cabinet is perceived and judged by his supporters.",
+      "label": 1
+    },
+    {
+      "paragraph": "That means they’ll judge Pete Hegseth, the secretary of defense, not by his handling of classified information but by his handling of the mainstream media. In their view, the MSM is the enemy of the people, so part of Hegseth’s national security portfolio is defying it.",
+      "reason": "This paragraph offers specific commentary on how a cabinet member is evaluated by Trump's base.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump is a singular figure. No one else in the Republican Party comes close to matching his influence and authority. In fact, I’ve never seen an American politician at any time match his influence and authority over the Republican base.",
+      "reason": "This paragraph provides context on Trump's unique influence within the Republican Party.",
+      "label": 1
+    },
+    {
+      "paragraph": "That reality means that we should expect this same dynamic to endure throughout Trump’s second term. His cabinet will genuflect, his supporters will cheer and his opponents will roll their eyes in contempt.",
+      "reason": "This paragraph summarizes the expected continuation of the dynamics discussed in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "But to describe the divide between Trump’s supporters and his critics isn’t to rationalize or justify his cabinet’s sycophancy. The two competing positions are not equally valid. There is overwhelming evidence that Trump committed acts of misconduct that merited both impeachment and removal and criminal prosecution.",
+      "reason": "This paragraph provides direct commentary on Trump's actions and their implications, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "There is also overwhelming evidence that he’s not an economic or military genius, but instead often flies by the seat of his pants. The on-again, off-again tariff regime is an ideal example. He loves tariffs, but he fears the consequences of his own policy, so we lurch wildly from statement to statement, depending on the fluctuations of the market.",
+      "reason": "This paragraph offers specific examples of Trump's decision-making style, contributing to the article's analysis of his administration.",
+      "label": 1
+    },
+    {
+      "paragraph": "Despite each mistake and each successive scandal, the cabinet members cheer. After all, if they want to be seen as strong, they have to surrender to Trump. That is their only path.",
+      "reason": "This paragraph provides insight into the behavior of Trump's cabinet members, which is relevant to the article's focus.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "headline": "SEBI Warning to Investors: Opinion trading platforms Why SEBI has warned investors against dealing with them",
+  "context": [
+    "SEBI Warning Against Trading Platform: India’s markets regulator, the Securities and Exchange Board of India (SEBI), has cautioned investors against dealing with ‘opinion trading platforms,’ a new segment in the country’s burgeoning online real money gaming and betting market, which allows users to win money by placing bets on the likelihood of a real-life event taking place.",
+    "So far, such platforms – which are regulated in countries like the United States – largely went under the regulatory radar in India, but government agencies now appear to be turning their attention towards the sector. And that’s for good reason: the industry has so far raised more than Rs 4,200 crore in funding from over 35 investors which include Sequoia Capital (PeakXV), Elevation Capital, Accel Partners, Soma Capital and Y Combinator."
+  ],
+  "annotations": [
+    {
+      "paragraph": "As per industry estimates, these platforms have registered transaction volumes of over Rs 50,000 crore a year with a user base of more than 5 crore people. Collective revenues for firms in the sector are projected to be over Rs 1,000 crore for the financial year 2024-25.",
+      "reason": "Provides specific data on the scale and financial impact of opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "What are opinion trading platforms?",
+      "reason": "Introduces a key concept relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Opinion trading platforms provide their users or participants a platform to trade or enter into arrangements wherein the payout is dependent on the outcome of a yes/no proposition of happening or not happening of the underlying event.",
+      "reason": "Explains the basic functionality of opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "In some cases, opinion trading platforms are designed in a manner so as to resemble an investment platform as they use terminologies such as profits, stop loss, trading etc., terms closely associated with trades in securities.",
+      "reason": "Describes how these platforms mimic traditional investment platforms, relevant to SEBI's warning.",
+      "label": 1
+    },
+    {
+      "paragraph": "The sector in India has companies like Gurugram-based Probo and MPL Opinio. While the former offers questions on a varied set of sectors like sports, elections and cryptocurrency, the latter only deals with questions related to cricket matches.",
+      "reason": "Provides examples of companies operating in the sector, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "How do opinion trading platforms operate?",
+      "reason": "The paragraph introduces the operation of opinion trading platforms, which is relevant to understanding SEBI's warning.",
+      "label": 1
+    },
+    {
+      "paragraph": "These platforms allow participants to earn money by investing in their predictions on any sports, political, weather, or crypto events. Participants can bet on any event based on their predictions. If the predictions are correct, a participant makes money, and in case the prediction goes wrong they lose.",
+      "reason": "This paragraph explains the basic functioning of opinion trading platforms, which is directly relevant to the SEBI warning.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below this ad",
+      "reason": "This is an ad placeholder and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "For example, in a particular state election, an opinion trading platform will give the following option to its participants to bet on –",
+      "reason": "This paragraph sets up an example to illustrate how opinion trading platforms work, which is relevant to the topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Will political party X win the election by a margin of N?” The answer will be yes or no.",
+      "reason": "This provides a specific example of how bets are structured on opinion trading platforms, relevant to understanding their operation.",
+      "label": 1
+    },
+    {
+      "paragraph": "If a participant’s prediction comes out to be correct, they will win the money; and if it is wrong, they lose.",
+      "reason": "This paragraph explains the basic mechanism of how opinion trading platforms work.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other question themes revolve around the outcome of live cricket matches and other sporting events, how an athlete is going to perform and if they will score a certain number of runs or score a set number of goals, and whether cryptocurrency like Bitcoin will touch a particular figure, among others.",
+      "reason": "This paragraph provides examples of the types of events on which bets can be placed, relevant to understanding the scope of opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "What are SEBI’s concerns?",
+      "reason": "This paragraph introduces the main issue of the article, which is SEBI's concerns about opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below this ad",
+      "reason": "This is an ad placeholder and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The markets regulator said that in general, opinion trading does not fall within regulatory purview of SEBI, as what is traded is not security.",
+      "reason": "This paragraph provides SEBI's stance on the regulatory status of opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Since none of the platforms providing opinion trading can qualify to be recognised stock exchange, and are neither registered or regulated by SEBI, any trading of securities on them is illegal (in case some of the opinions traded qualify as security),” it said.",
+      "reason": "This paragraph provides essential information about the legality and regulatory status of opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "The regulator warned investors or participants that no investor protection mechanism under securities market purview will be available if they invest through such opinion trading platforms.",
+      "reason": "This paragraph offers important information about the lack of investor protection for those using opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "Such platforms are liable to face action for violation in that case, SEBI said. It also advised recognized stock exchanges to initiate appropriate action for violations.",
+      "reason": "This paragraph provides information on potential regulatory actions against opinion trading platforms.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below this ad",
+      "reason": "This is a placeholder for an advertisement and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The opinion trading sector is regulated across countries like the US, UK and Australia. In the US, Kalshi, the company that started the opinions trading segment – and from which Probo gets a lot of its inspiration from – is regulated by the Commodity Futures Trading Commission (CFTC), one the country’s two main stock market regulators.",
+      "reason": "This paragraph provides context about the regulation of opinion trading platforms in other countries.",
+      "label": 1
+    },
+    {
+      "paragraph": "Although, it is worth noting that a similar prediction app called Polymarket has come under the scrutiny of the US Department of Justice allegedly accepting trades from US-based users. The company is not registered with the CFTC and as a result, can not legally allow US-based users to wager on the platform.",
+      "reason": "This paragraph provides relevant context by drawing a parallel with a similar platform facing legal issues in the US, highlighting potential regulatory challenges.",
+      "label": 1
+    },
+    {
+      "paragraph": "India’s IT Ministry had come up with amendments to Information Technology Rules to regulate online gaming platforms, which could have had a bearing on firms like Probo. However, there is a question mark on the status of these rules. For now, these laws have no regulatory teeth, which furthers the problem of the legal lacunae that exists around online gaming in general, and opinion trading platforms in particular.",
+      "reason": "This paragraph is relevant as it discusses the regulatory environment in India, which is directly related to the SEBI warning.",
+      "label": 1
+    }
+  ]
+}

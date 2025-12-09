@@ -1,0 +1,224 @@
+{
+  "headline": "RECAP | From Trump to Poilievre to the King, what came out of Carney’s 1st post-election news conference | CBC",
+  "context": [
+    "FULL SPEECH | Carney outlines his government’s priorities in 1st post-election news conference",
+    "Prime Minister Mark Carney, speaking in his first press conference since the Liberal election win, said he is focused on building Canada’s economy and plans to meet with U.S. President Donald Trump next week, adding that King Charles will be in Canada for the upcoming speech from the throne."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Today, Carney held his first news conference after the federal election. The prime minister re-committed his campaign promises and set some policy deadlines, namely passing the middle-class tax cut and slashing internal trade barriers by July 1 — Canada Day.",
+      "reason": "This paragraph provides specific details about Carney's policy priorities and deadlines, which are directly relevant to the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney also revealed two big, short-term plans: he’s meeting with Trump at the White House on Tuesday, and King Charles will deliver the throne speech in Parliament, instead of Gov. Gen. Mary Simon.",
+      "reason": "This paragraph contains new information about Carney's upcoming meeting with Trump and King Charles' role in the throne speech, which are key points from the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "The prime minister offered some policy olive branches to Conservatives, and said he'd call a byelection as soon as the party requests one, after an MP steps down for Poilievre to run in their place. We now know that riding will be Battle River-Crowfoot in Alberta.",
+      "reason": "This paragraph provides specific information about Carney's political strategy and the upcoming byelection, which are relevant to the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "For more on what governing with a minority government could look like for Carney, our colleague Aaron Wherry wrote about where the prime minister might find common ground with other parties.",
+      "reason": "This paragraph is a promotional reference to another article and does not provide new information about the news conference.",
+      "label": 0
+    },
+    {
+      "paragraph": "Scheer confirmed the Conservative caucus plans to meet on Tuesday to talk about who might serve the party as interim leader of the Official Opposition, since Poilievre won’t be in Parliament.",
+      "reason": "This paragraph provides context about the Conservative party's internal plans, which is tangential to the main focus on Carney's news conference.",
+      "label": 0
+    },
+    {
+      "paragraph": "He wouldn’t say who might serve in that role or whether he’d put his own name forward.",
+      "reason": "This paragraph does not provide new information related to Carney's press conference or its outcomes.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We'll get together, we'll have these discussions, we'll make a decision together as a team. Out of respect for that process, I'm not going to speculate as to what might come out of that,” he told Power & Politics host David Cochrane.",
+      "reason": "This paragraph does not provide new information related to Carney's press conference or its outcomes.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I don't even want to tiptoe down that road at all.\"",
+      "reason": "This paragraph does not provide new information related to Carney's press conference or its outcomes.",
+      "label": 0
+    },
+    {
+      "paragraph": "Saskatchewan MP and former federal Conservative leader Andrew Scheer said the party’s caucus is still united behind Poilievre, after leading them to a higher vote share in this election — even though he couldn’t unseat the Liberals.",
+      "reason": "This paragraph provides context about the political landscape following the election, which is relevant to the overall political situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This incredible result, while disappointing that we didn't win, is just a fantastic base to build on for the next election,” Scheer said on CBC’s Power & Politics.",
+      "reason": "This paragraph provides context about the political landscape following the election, which is relevant to the overall political situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said the party isn’t deterred by Poilievre losing his own seat in the Ontario riding of Carleton.",
+      "reason": "This paragraph does not contribute directly to Carney's news conference or its outcomes.",
+      "label": 0
+    },
+    {
+      "paragraph": "“There's a tremendous amount of support for Poilievre and we're very grateful to Damien Kurek and the people of Battle River-Crowfoot because Pierre is going to be back in the House in no time leading the fight to hold this government to account,” Scheer said.",
+      "reason": "This quote is not directly related to Carney's news conference or its outcomes.",
+      "label": 0
+    },
+    {
+      "paragraph": "There's also some criticism coming out about Carney's other big first move, which is to meet with Trump on Tuesday.",
+      "reason": "This paragraph introduces criticism related to Carney's decision to meet with Trump, which is relevant to the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "Peter Donolo, who was a communications director to former Liberal prime minister Jean Chrétien, says that holding this meeting before Carney has named a cabinet is \"a high-risk thing.\"",
+      "reason": "This provides a specific critique of Carney's decision, relevant to the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think Canadians wanted a prime minister … who is very tough and unyielding. And if the only way to get into [Trump's] good graces is to suck up … then I think that's a problem,\" Donolo said on CBC News Network.",
+      "reason": "This quote offers a critical perspective on Carney's approach to Trump, relevant to the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney has used tough language against Trump since he was elected Liberal leader and throughout the federal election campaign.",
+      "reason": "This provides context on Carney's previous stance towards Trump, relevant to his upcoming meeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"He said he wasn't going to sit down with Trump until Trump showed Canada respect,\" he said, noting Mexico President Claudia Sheinbaum has only met the U.S. president over Zoom so far.",
+      "reason": "This quote highlights Carney's previous position on meeting Trump, relevant to the news of their upcoming meeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Trump's M.O. is to dominate and humiliate his guests in the Oval Office,\" he said. \"Maybe [Carney] will prove me wrong and he'll come out of there looking like a hero and put Trump in his place, but nobody's managed that so far.\"",
+      "reason": "This provides speculative commentary on the potential outcome of Carney's meeting with Trump.",
+      "label": 0
+    },
+    {
+      "paragraph": "Jeremy Ghio, a former Liberal staffer and a political analyst, called the decision \"weird.”",
+      "reason": "This quote offers an opinion on Carney's decision to meet Trump, but lacks substantial information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I was a little bit surprised by that because Quebecers, especially, gave Mr. Carney his victory,\" Ghio, who is based in Montreal, said on CBC News Network earlier today.",
+      "reason": "This provides a perspective on Carney's electoral support, but is not directly related to the main news of the press conference.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Liberal vote in Quebec this election was the strongest it's been in decades, with the Bloc losing support in favour of Carney's party.",
+      "reason": "This paragraph provides relevant context about the election results, which is directly related to Carney's post-election news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nationalist Quebecers, Ghio noted, are known to reject the monarchy \"and Mr. Carney makes one of his first acts to invite the King to Canada.… I'm still ambivalent about this.\"",
+      "reason": "This paragraph offers commentary on Carney's decision to invite the King, which is relevant to the news conference's content.",
+      "label": 1
+    },
+    {
+      "paragraph": "The invitation is a costly one for taxpayers, Ghio added. Charles's last visit in 2022, which lasted three days, cost Canadians more than $1 million.",
+      "reason": "This paragraph provides context on the financial implications of the King's visit, which is relevant to the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Bloc Québécois says inviting King Charles to open Parliament at the end of the month is \"strange.\"",
+      "reason": "This paragraph includes a direct reaction from a political party, which is relevant to the topic of the King's visit discussed in the news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a statement issued in French, the party suggested that inviting a “foreign” monarch to highlight Canadian sovereignty by inaugurating Parliament is contradictory. As Canada is a constitutional monarchy, Charles is the country’s head of state, though the role is largely ceremonial.",
+      "reason": "This paragraph provides context on the constitutional role of the monarchy in Canada, which is relevant to the discussion of the King's visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "It said Carney's decision is \"revealing of Liberal values,\" and those are \"irreconcilable with those of Quebecers, who reject [the monarchy] and are attached to the values of democracy and modernity.\"",
+      "reason": "This paragraph provides context on the political implications of Carney's decisions, which is relevant to the article's focus on his post-election news conference.",
+      "label": 1
+    },
+    {
+      "paragraph": "That didn’t take long. Poilievre has announced in a post on X that he’s taking up Kurek’s offer:",
+      "reason": "This paragraph introduces a new topic unrelated to Carney's news conference, making it irrelevant.",
+      "label": 0
+    },
+    {
+      "paragraph": "“It is with humility and appreciation that I have accepted Damien Kurek’s offer to resign his seat in Battle River-Crowfoot so that I can work to earn the support of citizens there to serve them in Parliament,” the Conservative leader said.",
+      "reason": "This quote is unrelated to Carney's news conference and focuses on Poilievre's political actions.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Damien’s selfless act to step aside temporarily as a Member of Parliament shows his commitment to change and restoring Canada’s promise.",
+      "reason": "This statement is unrelated to the main topic of Carney's news conference.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I will work to earn the trust of the good people of Battle River-Crowfoot and I will continue to hold the Liberal minority government to account until the next federal election, when we will bring real change to all Canadians.”",
+      "reason": "This quote is unrelated to Carney's news conference and focuses on Poilievre's political intentions.",
+      "label": 0
+    },
+    {
+      "paragraph": "I'm a senior producer who helps run the CBC/Radio-Canada Decision Desk. If Poilievre chooses to run in the newly-vacated Alberta riding of Battle River-Crowfoot — which is highly likely — there are fewer safer seats for Conservatives to find in the country.",
+      "reason": "This paragraph is speculative and does not contribute directly to the main premise of Carney's news conference.",
+      "label": 0
+    },
+    {
+      "paragraph": "The sprawling rural riding extends north of Medicine Hat along the province’s eastern border. Kurek carried the seat with 81 per cent of the vote share on Monday and has never received less than 71 per cent as long as he’s held the riding.",
+      "reason": "This paragraph provides background information on the Battle River-Crowfoot riding, which is not directly related to Carney's news conference.",
+      "label": 0
+    },
+    {
+      "paragraph": "Damien Kurek, the Conservative MP-elect for Battle River-Crowfoot, just announced he's stepping down to allow Poilievre to run in a byelection.",
+      "reason": "This paragraph is relevant as it provides new information about political developments involving Poilievre, which is part of the article's broader political context.",
+      "label": 1
+    },
+    {
+      "paragraph": "The riding, which Kurek has held since 2019, occupies a vast territory in Alberta between Calgary and Edmonton and has been a Conservative stronghold since it was created 10 years ago.",
+      "reason": "This paragraph provides historical context about the riding, which is not directly related to Carney's news conference.",
+      "label": 0
+    },
+    {
+      "paragraph": "Kurek was first elected in the riding in 2019. In an emailed statement, Kurek said the decision is temporary, saying he'd hand over his seat to Poilievre \"for the remainder of this Parliamentary session\" and \"run again here in Battle River-Crowfoot in the next general election.\"",
+      "reason": "This paragraph provides relevant information about Kurek's decision to step down temporarily, which is part of the political context mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's unclear what that means for Poilievre afterward.",
+      "reason": "This sentence is vague and does not provide any new information related to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"Pierre Poilievre just finished a remarkable national campaign that received the highest vote share since 1988,\" Kurek said in the statement.",
+      "reason": "This provides context about Poilievre's recent campaign, which is relevant to the political landscape discussed in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"An unstoppable movement has grown under his leadership, and I know we need Pierre fighting in the House of Commons to hold the Liberal minority government to account.\"",
+      "reason": "This quote provides insight into Poilievre's role and political influence, relevant to the article's focus on political figures.",
+      "label": 1
+    },
+    {
+      "paragraph": "King Charles and Queen Camilla will visit Canada from May 26 to May 27, according to a release on the Royal Family’s official website.",
+      "reason": "This provides specific details about the upcoming visit of King Charles, which is relevant to the article's mention of the King.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Their Majesties will attend The State Opening of the Parliament of Canada, in Ottawa,” it says. They last visited Canada in May 2022.",
+      "reason": "This provides additional context about the royal visit, which is relevant to the article's content.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gov. Gen. Mary Simon, who is the King’s representative in Canada, said in a statement that she will be “delighted” to welcome them.",
+      "reason": "The paragraph provides a statement from Gov. Gen. Mary Simon about the King's visit, which is relevant to the context of the King's upcoming visit to Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our Canadian identity is deeply rooted in our Constitution and this visit highlights the enduring relationship between Canada and the Crown,” the statement reads.",
+      "reason": "This paragraph provides context about the relationship between Canada and the Crown, which is relevant to the King's visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Now more than ever, we need to come together to ensure a future that builds on our shared global values of democracy, equality and peace.”",
+      "reason": "The paragraph is a general statement about global values and does not provide specific information related to the news conference.",
+      "label": 0
+    }
+  ]
+}

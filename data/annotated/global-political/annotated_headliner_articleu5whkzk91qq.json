@@ -1,0 +1,34 @@
+{
+  "headline": "US says war set to run on as Ukraine prepares to ratify minerals deal | Russia-Ukraine war News | Al Jazeera",
+  "context": [
+    "Washington-Kyiv deal absolves Ukraine of past ‘debt’ for aid, but does not give security guarantees against further Russian aggression.",
+    "United States Vice President JD Vance has said his administration sees no end to the war in Ukraine, despite preparations in Kyiv to ratify a minerals deal with Washington."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Vance told Fox News on Thursday that the Ukraine war prompted by Russia’s invasion of the country in 2022 was “not going to end any time soon”.",
+      "reason": "Provides a direct quote from a key figure about the ongoing nature of the war.",
+      "label": 1
+    },
+    {
+      "paragraph": "The comments came a day after Ukraine signed a deal granting the US priority access to its minerals, which, although it stopped short of offering security guarantees, has raised hopes in Kyiv and Europe that US support could be revived and Ukrainian security increased.",
+      "reason": "Links the minerals deal to potential geopolitical implications and context.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It’s going to be up to them to come to an agreement and stop this brutal, brutal conflict,” Vance said in the interview, referring to Russia and Ukraine. “It’s not going anywhere … It’s not going to end any time soon.”",
+      "reason": "Reiterates Vance's view on the conflict's duration, adding little new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ukrainian legislator Yaroslav Zheleznyak said on Telegram on Friday that parliament would vote on May 8 to ratify the minerals deal.",
+      "reason": "Provides a specific date for the parliamentary vote, advancing the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ukrainian President Volodymyr Zelenskyy insisted on Thursday that the deal, which was almost derailed after a fiery exchange with Vance and President Donald Trump in February, was “a truly equal agreement”.",
+      "reason": "Offers context on the deal's negotiation process and Zelenskyy's perspective.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "headline": "WestJet assesses operations in Fort St. John, B.C. due to wildfire burning in the area | Globalnews.ca",
+  "context": [
+    "Posted May 2, 2025 3:52 pm",
+    "Updated May 2, 2025 4:24 pm"
+  ],
+  "annotations": [
+    {
+      "paragraph": "1 min read",
+      "reason": "This is a reading time estimate and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "1:03\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFort St. John wildfire evacuation order lifted",
+      "reason": "This is a caption for a video or image and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "A wildfire burning in the vicinity of Fort St. John, B.C., has impacted people trying to take flights in and out of the city, according to WestJet.",
+      "reason": "This paragraph provides essential information about the impact of the wildfire on flights.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The airspace within five nautical miles of the airport has been restricted to firefighting aircraft activity only,” a spokesperson for the airline told Global News in an email on Friday. “We are working with local authorities to assess our operations.",
+      "reason": "This paragraph includes a direct quote from WestJet about the airspace restrictions and their response.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Impacted guests have been notified and are being re-accommodated to the best of our ability. More information about the fire’s impact on flights in the area can be found on the WestJet website.",
+      "reason": "This paragraph provides information on how WestJet is handling affected passengers.",
+      "label": 1
+    },
+    {
+      "paragraph": "As of Friday morning, the BC Wildfire Service said the blaze near Fort St. John was considered to be out of control. The fire was about 0.56 square kilometres in size as of Thursday night.",
+      "reason": "Provides specific details about the wildfire's status and size, relevant to the situation affecting WestJet operations.",
+      "label": 1
+    },
+    {
+      "paragraph": "The agency said fire crews, two helicopters and an air tanker group were working on the fire along with personnel from the Fort St. John, Taylor and Charlie Lake Fire Departments.",
+      "reason": "Offers information on the response efforts to the wildfire, which is pertinent to the operational assessment by WestJet.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The blaze prompted some evacuations on Thursday. However, on Friday morning, officials posted on the City of Fort St. John’s Facebook page that evacuees could return to their homes.",
+      "reason": "Details the impact of the wildfire on local residents, which is relevant to the context of WestJet's operations in the area.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get the day's top stories from Toronto and surrounding communities, delivered to your inbox once a day.",
+      "reason": "This is a promotional statement unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

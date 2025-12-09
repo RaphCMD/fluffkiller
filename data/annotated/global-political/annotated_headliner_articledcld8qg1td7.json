@@ -1,0 +1,79 @@
+{
+  "headline": "US airport placed on red alert after passenger is diagnosed with world's most infectious disease - The Mirror US",
+  "context": [
+    "Health officials have placed Chicago's O'Hare International Airport on red alert after a possible measles outbreak. The Daily Mail reported that the passenger was mainly confined to the airport's Terminal 1 area but had already exposed hundreds to the infectious disease.",
+    "According to the report, the person was at the airport—the world's fourth busiest in terms of passenger numbers—on April 22 and April 23 between 10 a.m. and 8 p.m. on both days. It was reported that the person, who was not named, had one prior dose of the MMR vaccine, but they went on to develop a rash on April 25, and tests confirmed they had contracted measles."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The report mentioned that since getting the results of the diagnosis, the person has been isolating at home. Days later, it was reported that another case of measles had been reported in the same Illinois county.",
+      "reason": "Provides updates on the patient's status and the emergence of another case, relevant to the outbreak.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image:",
+      "reason": "This is an image caption and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "As their vaccination status is unknown, the person reportedly checked themselves into a local hospital for treatment on April 28 and medical staff quickly isolated them. Officials have warned that anyone who may have been exposed should contact their health provider and monitor for symptoms.",
+      "reason": "Details the actions taken by the patient and health officials' advice, relevant to the outbreak.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other than the airport, other locations in Chicago have seen possible exposure to the disease. These include the Chicago Public Library, the Fittingly Delicious health food restaurant in Chicago, the Aldi in Lyons, a Shell gas station in Stickney and a Mobil gas station in Berwyn.",
+      "reason": "Lists additional locations of potential exposure, relevant to the spread of the disease.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image:",
+      "reason": "This is an image caption and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "According to the outlet, the infected persons visited these locations between April 21 and 28. The news of the red alert comes as experts warned that the U.S. was at a “tipping point” as cases of the deadly virus surge across the country.",
+      "reason": "This paragraph provides context about the timing of the visits and expert warnings about the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Researchers from Stanford Medicine predicted the disease was set to become endemic again amid the continuing drop in immunisation, remarking that the country was already “on the precipice of disaster.” Their research, published in the prestigious medical journal JAMA, predicts that the disease could reach up to 1.3 million cases unless current vaccination trends are reversed over the next 25 years.",
+      "reason": "This paragraph provides relevant context about the potential future impact of the disease and expert predictions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image:",
+      "reason": "This is a placeholder for an image and does not contribute to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "The outbreak has reached 800 people, with cases confirmed in 29 states. States with high vaccination rates, such as Massachusetts, have low risks, whereas Texas, where most of the current cases are concentrated, has low vaccination rates and high risk.",
+      "reason": "This paragraph provides specific data on the outbreak's spread and risk levels in different states.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, even some states with high vaccination rates could see an explosion in cases because people are moving around the country. The study’s authors acknowledge, “Our model assumed there was no spillover of infections across state lines, so the numbers could be an underestimate.”",
+      "reason": "This paragraph adds relevant information about potential risks despite high vaccination rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "Image:",
+      "reason": "This is an image caption and does not provide any information relevant to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The virus is one of the most infectious diseases there is and can cause death and long-term disability, particularly in children. The researchers blame several factors for its resurgence but pointed to the distrust of vaccinations that had been brewing for decades, amplified by the COVID pandemic.",
+      "reason": "This paragraph provides context about the infectious nature of measles and factors contributing to its resurgence, which is relevant to understanding the seriousness of the outbreak.",
+      "label": 1
+    },
+    {
+      "paragraph": "“There's a general fatigue with vaccines. And there's distrust and misinformation about vaccine effectiveness and safety,\" they wrote. They also warned that if things continue to unfold as predicted, it would be incredibly difficult to get the disease under control again. “You can’t just flip a switch — once these diseases get unleashed, it would take time to eliminate them again,\" they wrote.",
+      "reason": "This paragraph offers expert commentary on vaccine fatigue and the challenges of controlling measles, which is relevant to the article's focus on the outbreak.",
+      "label": 1
+    },
+    {
+      "paragraph": "DAILY NEWSLETTER: Sign up here to get the latest news and updates from the Mirror US straight to your inbox with our FREE newsletter.",
+      "reason": "This is a promotional paragraph for a newsletter and does not contribute to the article's main story.",
+      "label": 0
+    }
+  ]
+}

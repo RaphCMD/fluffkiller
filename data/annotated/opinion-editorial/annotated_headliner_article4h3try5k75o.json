@@ -1,0 +1,64 @@
+{
+  "headline": "Opinion | Trump’s malaise moment. Anti-consumerism pitch isn’t what he ran on. - The Washington Post",
+  "context": [
+    "President Donald Trump seems to be in denial about the unpopularity of his trade wars. On what he intended as a victory lap to coincide with the 100th day of his second term, he repeatedly attacked pollsters as “crooked people” who put out “fake polls.”",
+    "At a rally in Michigan on Tuesday, Trump claimed his approval rating was “in the 60s or 70s.” A Washington Post-ABC News-Ipsos poll puts it at 39 percent. This is the same share of American adults as approve of his handling of the economy. And nearly two-thirds, 64 percent, oppose Trump’s tariffs on imported goods."
+  ],
+  "annotations": [
+    {
+      "paragraph": "These numbers are consistent across several recent public surveys. This led to one of the more awkward moments of the past week. During a live interview Tuesday, Fox News correspondent John Roberts asked Stephen Miller, a White House deputy chief of staff, about his network’s polling. “Particularly on the economy, tariffs and inflation, he’s well underwater,” Roberts said of Trump. To which Miller responded: “It is our opinion that Fox News needs to fire its pollster. … We don’t acknowledge any of that polling.”",
+      "reason": "The paragraph provides specific examples of Trump's administration's response to polling data, which is relevant to the article's focus on Trump's denial of trade war unpopularity.",
+      "label": 1
+    },
+    {
+      "paragraph": "In another interview Tuesday, Terry Moran of ABC News asked Trump about economists warning that his trade war with China will cost the typical American family thousands of dollars a year. The correspondent said many who voted for Trump fear the fallout. Trump replied: “Well, they did sign up for it, actually. And this is what I campaigned on.” Then he insisted that China will “eat those tariffs” rather than raise prices. This is unimaginable.",
+      "reason": "This paragraph provides direct quotes from Trump and highlights his stance on tariffs, which is central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "During a Cabinet meeting Wednesday, Trump seemed a little more willing to acknowledge that a protracted trade fight with China will force consumers to adjust their behavior. “Maybe the children will have two dolls instead of 30 dolls,” he said. “And maybe the two dolls will cost a couple bucks more than they would normally.”",
+      "reason": "The paragraph includes a direct quote from Trump acknowledging the impact of tariffs, which is relevant to the article's discussion of his economic policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "This sounded like Trump’s “malaise” moment. In 1979, President Jimmy Carter delivered a notorious address from the Oval Office that was similarly motivated by a lamentation of U.S. dependence on foreign imports.  In Carter’s case, though, the import was oil. “We can’t go on consuming 40 percent more energy than we produce,” he said. Americans didn’t want to wear cardigans or lower their thermostats. Outside wartime, calling for austerity has rarely been a winning political message.",
+      "reason": "The paragraph provides historical context by comparing Trump's situation to Carter's, which is relevant to understanding the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump’s assumption, for decades, has been that Americans can have it all. During the rally Tuesday, he promised to make the country wealthy again. Yet here he was acknowledging to his Cabinet that Americans might need to pay more money for less stuff.",
+      "reason": "This paragraph highlights the contrast between Trump's promises and his recent acknowledgment of economic realities, which is central to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The president is right to say that he campaigned on imposing tariffs. At his rallies, he extolled the beauty of the T-word. Yet many of his voters did not think they were voting to end the era of consumerism. This has become a refrain from his administration. As Treasury Secretary Scott Bessent said in March, “Access to cheap goods is not the essence of the American Dream.”",
+      "reason": "This paragraph provides context on Trump's campaign promises and voter expectations, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yes, Americans still want to put inexpensive Barbies, G.I. Joes and Disney dolls under their Christmas trees. But the United States depends on Chinese imports for far more than cheap toys.",
+      "reason": "This paragraph offers context on the broader implications of tariffs beyond consumer goods, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even a slight majority of Republicans, 51 percent, say they think Trump’s economic policies will cause an economic recession in the short term, even as they overwhelmingly continue to support him, according to the Post-ABC-Ipsos poll. Asked whether Trump’s policies will put the U.S. economy on a stronger foundation in the long run, only 31 percent of Americans said yes; 42 percent said they will leave us weaker, and 22 percent said it’s too soon to say.",
+      "reason": "This paragraph provides poll data on public opinion regarding Trump's economic policies, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump said Friday on social media that the economy is going through a “transition stage.” He’s blaming his predecessor and urging patience. So far, the U.S. economy has proved quite resilient, even as businesses pause investment decisions while they wait for some certainty about what’s ahead. Though the labor market cooled last month, the government said Friday that employers still added 177,000 jobs. And though the U.S. economy shrank for the first time in three years during the first quarter, annualized gross domestic product contracted by just 0.3 percent.",
+      "reason": "This paragraph provides current economic data and Trump's response, relevant to the discussion of his economic policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "A central challenge for Trump’s project is that he still has not secured buy-in to fundamentally transform the world’s biggest economy, let alone to decouple from China, the world’s second-largest economy. A resolution disapproving Trump’s “Liberation Day” tariffs failed in the Senate on Wednesday with only 49 votes but would have passed had two senators not been absent. Sen. Rand Paul (R-Kentucky), who deserves credit for defending Congress’s constitutional prerogative, said afterward that many GOP senators privately dislike the tariffs and will start speaking out if the economy continues to weaken. They hope Trump cleans up the mess first.",
+      "reason": "This paragraph discusses political challenges and opposition to Trump's tariffs, directly related to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "With luck, this might still be possible. China signaled a new willingness Friday to start talks with the United States. Container ships that carry goods from China take about a month to cross the Pacific. Trump can get them moving again if both sides come to the table.",
+      "reason": "The paragraph provides relevant information about potential negotiations with China, which is directly related to Trump's trade policies.",
+      "label": 1
+    }
+  ]
+}

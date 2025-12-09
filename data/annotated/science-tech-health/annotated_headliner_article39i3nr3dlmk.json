@@ -1,0 +1,144 @@
+{
+  "headline": "Strange skeleton discovery could rewrite our history of the pyramids | BBC Science Focus Magazine",
+  "context": [
+    "For centuries, scientists believed that only the elite were buried in pyramids. But a surprising recent discovery of ancient skeletons has thrown that idea into question.",
+    "In a new study, researchers analysed the remains of people buried in Tombos, an archaeological site located in modern-day Sudan, bordering Egypt."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Around 3,500 years ago, the ancient town of Tombos sat along the Nile River in a region called Nubia, which had been conquered by the Egyptian pharaoh Thutmose I (he ruled about 170 years before Tutankhamun).",
+      "reason": "Provides historical context about the location of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Archaeologists analysed skeletons from several different burial sites at Tombos, looking for subtle marks where muscles and ligaments had been attached to the bones. These traces – called entheseal changes – can give archaeologists clues about how a person’s life physically altered their bones.",
+      "reason": "Explains the method used to analyze the skeletons, which is central to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Entheseal changes can’t tell us exactly what these people were doing, but they can tell us if they were more physically active or more like couch potatoes,” lead author Dr Sarah Schrader, associate professor of archaeology at Leiden University, told BBC Science Focus.",
+      "reason": "Provides expert commentary on the significance of the findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some of the skeletons were found to have very few marks, indicating that they lived more sedentary lives and likely belonged to wealthy nobility.",
+      "reason": "Details findings that support the traditional view of pyramid burials.",
+      "label": 1
+    },
+    {
+      "paragraph": "But other skeletons, buried in the same pyramids, were found to have markings that suggested they were physically active – which, the researchers concluded, could indicate they were from the labouring classes.",
+      "reason": "Presents the new evidence that challenges the traditional view of pyramid burials.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This could potentially shake up what we know about the pyramids,” said Schrader. “In the past, we've just assumed that the people who were buried in there were the elite, because we know that the pyramids were designed for elite people. That still holds true, but maybe there were others being buried in the pyramids as well.”",
+      "reason": "The paragraph provides direct commentary on the implications of the discovery, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "This study was a re-analysis of older findings, originally published in 2012, and Schrader said she hoped it would prompt a re-examination of other skeletal remains found in pyramids.",
+      "reason": "The paragraph gives context about the study's background and its potential impact on future research.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It may very well be that the same pattern is happening elsewhere,” she said. “We can't just assume that things that we've done in the past still hold true.”",
+      "reason": "The paragraph suggests broader implications of the study, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "So, how much do we know about the people buried in these Nubian pyramid tombs? A surprising amount.",
+      "reason": "The paragraph introduces a new aspect of the discovery, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We know their names and the roles they had in colonised Nubia,” Schrader said.“They’re not kings or pharaohs or anything like that, but they were Egyptians that were brought down from Egypt to Nubia during a colonial period,”",
+      "reason": "The paragraph provides specific information about the individuals discovered, contributing to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr Roland Enmarch – Egyptologist at the University of Liverpool who was not involved in this research – told BBC Science Focus that, in this period, pyramids were mostly non-royal structures, rather than for pharaohs and kings.",
+      "reason": "Provides expert commentary on the historical context of pyramid use.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We're very much looking at the later half of Egyptian history, when more impressive non-royal tombs would often have a pyramid as part of the mud-brick superstructure of the tomb,” he said.",
+      "reason": "Offers specific historical context relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "As for the more physically active individuals, Schrader said her team thought these could be “labourers, or servants, or people who were associated with the high-status individual.”",
+      "reason": "Discusses potential identities of the skeletons, directly related to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "These people would have been placed in the tombs to continue serving their masters in the afterlife, she explained. There was no evidence they were killed to be buried at the same time as their masters, she added, but were probably buried in the tombs later, when they died naturally.",
+      "reason": "Explains burial practices and timing, relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, that is not the only possible explanation. Some researchers have suggested that these high-activity individuals could have been nobles who chose to stay in good physical shape to reinforce their status.",
+      "reason": "Presents alternative theories about the identities of the skeletons.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Enmarch told BBC Science Focus he thought this was unlikely, explaining: “I think it’s a generally recognised assumption – and it is an assumption – that in most societies, people higher up the social scale have less evidence of extreme physical wear.”",
+      "reason": "The quote provides expert commentary on the assumption about social status and burial practices.",
+      "label": 1
+    },
+    {
+      "paragraph": "Read more:",
+      "reason": "This is a prompt to read more and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "What made the study even more challenging was Tombos’s colonial history – a place where Egyptian and Nubian cultures overlapped, intertwined, and shaped one another.",
+      "reason": "This provides context about the archaeological site's historical significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Schrader said her team’s discovery “might be just a strange Tombos-Nubian thing, but it may be that this was a practice for all the pyramids. We don't know.”",
+      "reason": "The quote directly addresses the potential broader implications of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Regardless, it sheds some light on who was living in Tombos at that time. Previous archaeological research had suggested the city’s inhabitants lived remarkably comfortable lives.",
+      "reason": "This provides context about the lifestyle of Tombos inhabitants, relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "“[Past studies indicated] they were very healthy and living to an old age; it really seemed rosy and picturesque,” said Schrader. “We were thinking, what are these people doing? This is a colonial environment, and it seems like it’s absolutely perfect. The skeletons could not be better.”",
+      "reason": "This paragraph provides context on past beliefs about the health and status of those buried in pyramids.",
+      "label": 1
+    },
+    {
+      "paragraph": "But this re-analysis revealed a more complex picture than that, she said, and a Tombos with a broader social landscape.",
+      "reason": "This paragraph introduces the new findings that challenge previous beliefs.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It wasn’t only a super elite, healthy, no-traumatic-lesion sort of environment,” said Schrader. “There were hard labourers living, working and dying there.”",
+      "reason": "This paragraph provides specific details about the new findings regarding the social landscape.",
+      "label": 1
+    },
+    {
+      "paragraph": "She said this study provided “some interesting questions for future research” as archaeologists reassess what they know about the pyramids.",
+      "reason": "This paragraph suggests implications for future research, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Read more:",
+      "reason": "This is a prompt to read further and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dr Sarah Schrader is an associate professor at the Faculty of Archaeology and is the Head of the Laboratory for Human Osteoarchaeology at Leiden University, the Netherlands. Her research focuses on the excavation and analysis of human skeletal remains to address stress, everyday life, social inequality, health and disease, diet and nutrition, resilience and frailty, migration, physical activity, and more.",
+      "reason": "The paragraph provides background information about a researcher, which does not directly contribute to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dr Roland Enmarch is an Egyptologist at the University of Liverpool. He graduated from Oxford with a BA in Oriental Studies (Ancient Egyptian with Akkadian), and a DPhil specialising in Middle Egyptian pessimistic poetry, arriving at Liverpool in 2004. As well as continuing to work on literary laments, he also studies quarrying and expeditionary inscriptions, particularly those from the alabaster quarries at Hatnub.",
+      "reason": "The paragraph provides background information about a researcher, which does not directly contribute to the main story.",
+      "label": 0
+    }
+  ]
+}

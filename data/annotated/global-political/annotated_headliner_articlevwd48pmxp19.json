@@ -1,0 +1,194 @@
+{
+  "headline": "Trump threatens 'all hell is going to break out' if Hamas delays hostage releases",
+  "context": [
+    "The fragile ceasefire between Israel and Hamas was at risk of faltering Tuesday after President Donald Trump warned “all hell is going to break out” if the Palestinian militant group does not release “all” the remaining hostages this week.",
+    "The war in the Gaza Strip is on pause following a complex agreement in which the remaining hostages held by Hamas in Gaza are incrementally exchanged for Palestinian prisoners and detainees in Israel."
+  ],
+  "annotations": [
+    {
+      "paragraph": "But Hamas said late Monday that it was indefinitely postponing the next hostage-prisoner swap Saturday, accusing Israel of continuing to shoot at Palestinians, stopping them from moving back to the northern part of the strip and delaying the entry of medical supplies and shelters.",
+      "reason": "This paragraph provides new information about Hamas's response and accusations against Israel, which is directly relevant to the ceasefire and hostage situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israeli Prime Minister Benjamin Netanyahu held an emergency meeting with his security Cabinet in Jerusalem on Tuesday to discuss how to move forward, an Israeli official briefed on the matter told NBC News.",
+      "reason": "This paragraph adds relevant information about the Israeli government's response to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "0 seconds of 55 secondsVolume 90%",
+      "reason": "This is a technical or formatting note unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Press shift question mark to access a list of keyboard shortcuts",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Play/PauseSPACE",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Increase Volume↑",
+      "reason": "This is a control instruction for media playback, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Decrease Volume↓",
+      "reason": "This is a control instruction for media playback, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Seek Forward→",
+      "reason": "This is a control instruction for media playback, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Seek Backward←",
+      "reason": "This is a control instruction for media playback, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Captions On/Offc",
+      "reason": "This is a control instruction for media playback, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fullscreen/Exit Fullscreenf",
+      "reason": "This is a technical instruction for video controls, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mute/Unmutem",
+      "reason": "This is a technical instruction for video controls, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Decrease Caption Size-",
+      "reason": "This is a technical instruction for video controls, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Increase Caption Size+ or =",
+      "reason": "This is a technical instruction for video controls, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Seek %0-9",
+      "reason": "This is a technical instruction for video controls, not related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Three more hostages were set to be freed from Gaza in an exchange scheduled for Saturday. But Trump responded to Hamas’ delay by demanding that all 76 remaining captives, 44 of whom are believed to be alive, are freed.",
+      "reason": "This paragraph provides specific details about the hostage exchange and Trump's response, which are directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“If all of the hostages aren’t returned by Saturday at 12 o’clock — I think it’s an appropriate time — I would say cancel” the ceasefire, he told reporters, without specifying whether he meant noon or midnight.",
+      "reason": "This paragraph provides a direct quote from Trump, contributing to the main story about his threat regarding the hostage situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Asked for specifics about what he meant by “hell,” he said, “Hamas will find out what I mean.”",
+      "reason": "This paragraph adds direct commentary from Trump, which is relevant to understanding his stance and the potential consequences.",
+      "label": 1
+    },
+    {
+      "paragraph": "The prospect of resuming a war in which more than 48,000 Gazans have been killed has alarmed international observers, as well as Palestinians in the enclave and the families of the hostages, most of whom were among the 250 people kidnapped during the Hamas-led terrorist attack Oct. 7, 2023, in which 1,200 people were killed.",
+      "reason": "This paragraph provides important context about the potential consequences of resuming hostilities and the background of the hostage situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We must avoid at all costs resumption of hostilities in Gaza that would lead to immense tragedy,” United Nations Secretary-General António Guterres said in a statement. “I appeal to Hamas to proceed with the planned liberation of hostages. Both sides must fully abide by their commitments in the ceasefire agreement and resume serious negotiations.”",
+      "reason": "This paragraph includes a relevant quote from a significant international figure, adding context to the international response to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even before Hamas announced its delay in freeing hostages, confidence in the ceasefire has been shaken by Trump’s repeated statements that he wants to permanently remove Palestinians from Gaza so the United States can develop the war zone as a real estate opportunity.",
+      "reason": "This paragraph provides context about Trump's controversial statements, which are relevant to understanding the broader implications of his threats.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I would own this — think of it as a real estate development for the future. It would be a beautiful piece of land,\" Trump said Monday, contradicting his own aides, who had said the Palestinians' relocation would be temporary.",
+      "reason": "This paragraph provides a quote from Trump that is not directly related to the hostage situation or ceasefire.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We'll build beautiful communities, safe communities,\" he said, \"a little bit away from where they are, where all of this danger is.\"",
+      "reason": "This paragraph continues the unrelated topic of real estate development, not the hostage situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "That has alarmed many governments and experts, who point out that forcibly removing people from their homes is classed as ethnic cleansing under international law. Trump suggested he could revoke aid for Egypt and Jordan if they continued to refuse to rehome Gaza's 2 million-plus population.",
+      "reason": "This paragraph discusses potential international law violations and aid threats, not the hostage situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Yeah, maybe, sure why not?” Trump, who met with Jordan’s King Abdullah at the White House on Tuesday, said when he was asked about ceasing financial assistance to the two countries.",
+      "reason": "This paragraph provides a vague quote from Trump about financial assistance, unrelated to the hostage situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "Meanwhile, Hamas’ announcement has led Israel to ramp up its own security measures.",
+      "reason": "This paragraph is relevant as it discusses the direct impact of Hamas' actions on Israel's security measures.",
+      "label": 1
+    },
+    {
+      "paragraph": "Defense Minister Israel Katz instructed the Israel Defense Forces “to prepare at the highest level of alert for any possible scenario in Gaza,” calling Hamas’ statement “a complete violation of the ceasefire agreement.”",
+      "reason": "This paragraph provides relevant information about the Israeli response to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump’s implied threat has drawn support among far-right nationalist lawmakers. Itamar Ben Gvir, who resigned last month as Netanyahu’s national security minister, wrote on X, “Trump is right!” adding that it was time to go back to Gaza and “destroy” — apparently referring to Hamas.",
+      "reason": "This paragraph is relevant as it shows political reactions to Trump's statement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Many of the hostages’ families, on the other hand, are desperate for the ceasefire to remain intact.",
+      "reason": "This paragraph provides context about the hostages' families' perspective, which is relevant to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“President Trump, I am asking you with all my heart: Do everything in your power to ensure that this deal continues!” said Idit Ohel, the mother of Alon Ohel, who was abducted from Israel’s Nova music festival Oct. 7, 2023.",
+      "reason": "This paragraph includes a direct quote from a hostage's family member, adding personal context to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "At an event marking her captive son’s 24th birthday Monday, she said she had received the first “proof of life” since he was taken.",
+      "reason": "This paragraph provides new information about the hostages' situation, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Tuesday Netanyahu said in a statement marking the death of another hostage, Shlomo Mantzur, 86, that he would “continue to act with determination and tirelessness until we return all of our abductees — both the living and the dead.”",
+      "reason": "This paragraph provides relevant information about the ongoing situation and the stance of Israeli leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "Alexander Smith reported from London and Lawahez Jabari and Yarden Segev from Tel Aviv.",
+      "reason": "This is a byline providing information about the reporters, which does not contribute to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Alexander Smith is a senior reporter for NBC News Digital based in London.",
+      "reason": "This is background information about a reporter, which does not contribute to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "and",
+      "reason": "This is an incomplete fragment and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "contributed",
+      "reason": "This is an incomplete fragment and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": ".",
+      "reason": "The paragraph is a placeholder and does not contain any information.",
+      "label": 0
+    }
+  ]
+}

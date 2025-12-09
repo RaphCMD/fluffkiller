@@ -1,0 +1,49 @@
+{
+  "headline": "Danielle Smith, Mark Carney meet for 1st time after election",
+  "context": [
+    "Updated: May 02, 2025 at 9:03PM EDT",
+    "Published: May 02, 2025 at 7:20PM EDT"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Alberta Premier Danielle Smith and Prime Minister Mark Carney met for the first time on Friday since Carney won Monday’s federal election.",
+      "reason": "This paragraph provides essential information about the meeting between Smith and Carney following the election.",
+      "label": 1
+    },
+    {
+      "paragraph": "Smith posted about the meeting on social media on Friday afternoon.",
+      "reason": "This paragraph adds context about how the information was shared publicly.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Just finished a positive first meeting with Prime Minister Mark Carney,” she wrote.",
+      "reason": "This paragraph includes a direct quote from Smith about the meeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "Smith said the prime minister promised to rapidly advance “nation building projects” to increase market access for Alberta’s oil and gas, agricultural products and other goods.",
+      "reason": "This paragraph provides specific details about the outcomes of the meeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "She said the trade war with the United States was also discussed.",
+      "reason": "This paragraph adds relevant information about the topics discussed during the meeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Repairing the damage to Alberta’s economy caused by Ottawa’s last ten years of anti-resource legislation and policies will take tremendous effort and cooperation, however, today’s conversation was a positive first step,” Smith wrote.",
+      "reason": "This paragraph provides a direct quote from Danielle Smith about the meeting's significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carney has not posted about the meeting.",
+      "reason": "This paragraph provides relevant information about Mark Carney's public response to the meeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "The prime minister is also scheduled to meet with U.S. President Donald Trump at the White House on Tuesday.",
+      "reason": "This paragraph is unrelated to the meeting between Danielle Smith and Mark Carney.",
+      "label": 0
+    }
+  ]
+}

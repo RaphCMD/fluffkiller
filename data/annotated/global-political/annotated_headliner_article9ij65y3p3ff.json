@@ -1,0 +1,44 @@
+{
+  "headline": "BREAKING: Inspired by Prime Minister Narendra Modi’s vision at WAVES 2025, Lyca Group (UK-Europe) and Mahaveer Jain Films partner to produce 9 Indian Feature Films for Global Audiences : Bollywood News - Bollywood Hungama",
+  "context": [
+    "UK & Europe-based Lyca Group’s production arm Lyca Productions which produced big budget films like 2.0 (2018) with Rajnikanth, Ponniyin Selvan I & II with Mani Ratnam, and Mahaveer Jain Films, inspired by Honourable Prime Minister Narendra Modi’s vision for elevating Indian storytelling on the global entertainment stage, have announced a strategic partnership to produce 9 such impactful films over the next 3 years.",
+    "This collaboration aligns with Honourable Prime Minister’s WAVES initiative to establish India as a worldwide content creation hub."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Lyca Group Chairman Dr. Allirajah Subaskaran along with Mahaveer Jain met and expressed the commitment to Information & Broadcasting Minister Shri Ashwini Vaishnav, Maharashtra Chief Minister Shri Devendra Phadnavis and Minister of State Information & Boardcasting Dr. L. Murugan at the WAVES Summit.",
+      "reason": "This paragraph provides specific details about the meeting and commitment related to the film production initiative.",
+      "label": 1
+    },
+    {
+      "paragraph": "SubasKaran & Mahaveer Jain jointly stated, “India is truly fortunate to have such a visionary, dynamic and sensitive PM. It’s indeed the best time to take India’s rich culture, philosophies and wisdom to the world with cinematic brilliance and spread more love, compassion and oneness with powerful content.”",
+      "reason": "This paragraph contains a quote that emphasizes the motivation and vision behind the film production initiative.",
+      "label": 1
+    },
+    {
+      "paragraph": "They further said, “These films are a small way to express our gratitude to Honourable PM Modi who is working tirelessly & brilliantly to make India and the World a better place for generations to come.”",
+      "reason": "This paragraph provides additional commentary on the purpose and inspiration for the film project.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Lyca Group, a diversified multinational corporation operating across telecommunications, healthcare, travel, entertainment, and other sectors in 23 countries.",
+      "reason": "This paragraph provides background information about the Lyca Group that is not directly related to the film production initiative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mahaveer Jain Films, known for Uunchai (2022) with Rajshri productions has upcoming projects including Naagzilla with Karan Johar starring Kartik Aaryan, an international thriller with Siddharth Anand featuring Vikrant Massey as Gurudev Sri Sri Ravi Shankar, a rooted friendship film with Imtiaz Ali and a biopic on Grandmaster Vishwanathan Anand.",
+      "reason": "This paragraph lists unrelated upcoming projects of Mahaveer Jain Films, not directly tied to the new partnership.",
+      "label": 0
+    },
+    {
+      "paragraph": "Tags :  Bollywood News, Breaking, Global Audiences, Lyca Group, Lyca Productions, Mahaveer Jain Films, Mani Ratnam, Narendra Modi, News, Ponniyin Selvan, Prime Minister Narendra Modi, UK-Europe partnership, WAVES 2025",
+      "reason": "This paragraph is a list of tags and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Catch us for latest Bollywood News, New Bollywood Movies update, Box office collection, New Movies Release , Bollywood News Hindi, Entertainment News, Bollywood Live News Today & Upcoming Movies 2025 and stay updated with latest hindi movies only on Bollywood Hungama.",
+      "reason": "This paragraph is promotional content for the website and does not provide relevant information about the partnership.",
+      "label": 0
+    }
+  ]
+}

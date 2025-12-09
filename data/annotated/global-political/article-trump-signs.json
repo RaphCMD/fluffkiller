@@ -1,0 +1,94 @@
+{
+    "headline": "Trump signs executive order to cut funding for public broadcasters | Trump administration | The Guardian",
+    "context": [
+        "Donald Trump has signed an executive order that seeks to cut public funding for National Public Radio and the Public Broadcasting Service, accusing them of leftwing bias.",
+        "The order, signed late on Thursday, directs the board of the Corporation for Public Broadcasting, which sends funds to NPR and PBS, to \"cease federal funding\" for the two outlets."
+    ],
+    "annotations": [
+        {
+            "paragraph": "\"Government funding of news media in this environment is not only outdated and unnecessary but corrosive to the appearance of journalistic independence,\" the order says.",
+            "reason": "States the administration's justification for cutting funding.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"At the very least, Americans have the right to expect that if their tax dollars fund public broadcasting at all, they fund only fair, accurate, unbiased, and nonpartisan news coverage.\"",
+            "reason": "Provides a direct quote outlining the policy expectation.",
+            "label": 1
+        },
+        {
+            "paragraph": "Public media are expected to fight the executive order. In a statement on Friday, PBS said it was \"exploring all options\".",
+            "reason": "Describes the anticipated response from public broadcasters.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"The president’s blatantly unlawful executive order, issued in the middle of the night, threatens our ability to serve the American public with educational programming, as we have for the past 50-plus years,\" said Paula Kerger, president and CEO of PBS. \"We are currently exploring all options to allow PBS to continue to serve our member stations and all Americans.\"",
+            "reason": "Includes an official quote from PBS leadership criticizing the order.",
+            "label": 1
+        },
+        {
+            "paragraph": "A fact sheet accompanying the order mentions as justification the supposed voter registrations of NPR employees and coverage of trans issues, diversity, Covid-19’s origins and Hunter Biden’s laptop.",
+            "reason": "Lists the specific points used to justify the funding cut.",
+            "label": 1
+        },
+        {
+            "paragraph": "Trump’s move is a long time coming for the US president who has made attacking the media, which he dubs the \"enemy of the people\", a cornerstone of his political rise. On 1 April, he wrote on Truth Social, in all capital letters: \"Republicans must defund and totally disassociate themselves from NPR & PBS, the radical left ‘monsters’ that so badly hurt our country!\"",
+            "reason": "Provides historical context linking this action to Trump's longstanding media critique.",
+            "label": 1
+        },
+        {
+            "paragraph": "NPR and PBS are considered the closest entities the US has to national public broadcasters such as the BBC in Britain, CBC in Canada and ABC in Australia, albeit with various organizational and financial differences.",
+            "reason": "Offers comparative context to similar international broadcasters.",
+            "label": 1
+        },
+        {
+            "paragraph": "The idea of defunding public media has long been on the conservative wishlist. Project 2025, the rightwing manifesto led by the Heritage Foundation, notes that \"every Republican President since Richard Nixon\" sought to peel away taxpayer funding from the Corporation for Public Broadcasting, though none have been successful yet. The manifesto suggests the president simply refuse to sign a spending bill if it includes any funding for public broadcasting.",
+            "reason": "Details broader political efforts and strategies to defund public media.",
+            "label": 1
+        },
+        {
+            "paragraph": "The CEOs of PBS, Paula Kerger, and of NPR, Katherine Maher, were called in March to testify before a House oversight and government reform subcommittee hearing called \"Anti-American Airwaves: Holding the Heads of NPR and PBS Accountable\", in order to defend the outlets’ programming and confront accusations of bias.",
+            "reason": "Describes congressional scrutiny of public broadcasters prior to the order.",
+            "label": 1
+        },
+        {
+            "paragraph": "Republicans have frequently pointed to old tweets from Maher, before she held the NPR role, in which she called Trump \"racist\" and \"fascist\", which she has said she regrets.",
+            "reason": "Presents additional political context and past controversies.",
+            "label": 1
+        },
+        {
+            "paragraph": "More than 40 million Americans listen to NPR public radio each week, and 36 million watch a local television station from the PBS network each month, according to their estimates.",
+            "reason": "Provides audience reach statistics demonstrating the broadcasters' impact.",
+            "label": 1
+        },
+        {
+            "paragraph": "NPR provides news and music through a national outlet and member stations throughout the country. National NPR has said about 1% of its budget comes from the federal government directly, with some additional funds coming indirectly, though for member stations in local communities, that number is higher, about 8-10%, according to NPR. The bulk of funding for NPR comes from membership fees paid by NPR member stations to use national programming, underwriting and private donations.",
+            "reason": "Breaks down NPR's funding structure and revenue sources.",
+            "label": 1
+        },
+        {
+            "paragraph": "after newsletter promotion",
+            "reason": "Simple promotional line unrelated to article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Maher said in an April interview with NPR that rural stations would see the biggest impact. \"You could see some of those stations really having to cut back services or potentially going away altogether,\" she said.",
+            "reason": "Highlights potential real-world effects on rural stations.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"Eliminating funding for the Corporation for Public Broadcasting would have a devastating impact on American communities across the nation that rely on public radio for trusted local and national news, culture, lifesaving emergency alerts and public safety information,\" NPR said in a statement on Friday.",
+            "reason": "Includes a statement summarizing community-wide consequences.",
+            "label": 1
+        },
+        {
+            "paragraph": "PBS provides educational programming, including children’s shows such as Sesame Street, and news and documentary shows. A fact sheet from PBS says on average federal funds make up 15% of their revenue, but a funding cut would be especially acute for smaller and rural stations.",
+            "reason": "Describes PBS's programming and funding dependency.",
+            "label": 1
+        },
+        {
+            "paragraph": "It is not clear if the funding cut would happen immediately. The CPB’s budget is already approved by Congress through 2027, and in a statement to the New York Times on Friday, CPB’s president, Patricia Harrison, said the agency was not subject to the president’s authority. \"Congress directly authorized and funded CPB to be a private non-profit corporation wholly independent of the federal government,\" she said.",
+            "reason": "Clarifies legal and procedural barriers to immediate funding cuts.",
+            "label": 1
+        }
+    ]
+}

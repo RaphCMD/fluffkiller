@@ -1,0 +1,64 @@
+{
+  "headline": "Horrifying Discovery At Pompeii Reveals How Family Of Four Tried To Save Themselves | IFLScience",
+  "context": [
+    "As red-hot volcanic rocks rained down on the ancient city of Pompeii in 79 CE, the inhabitants of one house made the fatal decision to barricade themselves inside a bedroom. Two millennia later, the remains of these four sorry individuals have been discovered, along with a series of other items which help to tell the story of their agonizing deaths.",
+    "The quartet were found in the so-called House of Elle and Frisso, which takes its name from a painting of a mythological scene on the wall of one of the rooms. Appropriately tragic, the artwork depicts the final moments of a young girl named Elle as she desperately reaches for the hand of her brother while drowning."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In one of the house’s bedrooms, archaeologists found the remains of four people, including at least one child. Nearby, they recovered a bronze amulet known as a bulla, which was typically worn by young Roman boys until they reached adulthood.",
+      "reason": "This paragraph provides specific details about the discovery of the remains and an artifact, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Within the layer of ash that filled the room, the researchers discovered the imprint of a bed that had apparently been pushed against the door in order to prevent it from opening. Documenting the discovery, the authors of a new study describe how they created a cast of the bed by pouring plaster into these hollows, thus gaining new insights into the awful series of events leading up to the victims’ annihilation.",
+      "reason": "This paragraph offers new insights into the events during the eruption and the methods used by researchers, which are relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The House of Elle and Frisso.",
+      "reason": "This is a standalone sentence that does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image credit: Pompeii Archaeological Park",
+      "reason": "This is an image credit and does not contribute to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Unfortunately, clumsy excavation work carried out in the 18th century had already disturbed the skeletons, making it difficult to ascertain exactly how they were positioned when they died. “However, it is still possible to reconstruct, albeit in an extremely sketchy way, the dynamics of the catastrophe inside the House of Elle and Frisso,” write the researchers.",
+      "reason": "This paragraph provides context about the challenges faced in the excavation and the researchers' efforts, which is relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Based on the findings, the authors state that the bodies most likely belong to the occupants of the house. They go on to suggest that the unlucky family barricaded themselves inside the bedroom as fragments of volcanic rock called lapilli began to enter the atrium of the house via an opening in the roof that was designed to allow the passage of rainwater.",
+      "reason": "This paragraph provides specific details about the discovery and the actions of the family during the eruption.",
+      "label": 1
+    },
+    {
+      "paragraph": "As the atrium began to fill with volcanic material, the terrified victims sought refuge in the bedroom, hoping that a bed placed against the door would be sufficient to protect them from the fury of Vesuvius.",
+      "reason": "This paragraph adds narrative progression by describing the family's actions during the eruption.",
+      "label": 1
+    },
+    {
+      "paragraph": "How wrong they were. Sadly for them, the ejection of lapilli was just the first phase of the eruption, and was followed by a scorching cloud of volcanic gas and debris known as a pyroclastic flow, which engulfed Pompeii and the nearby town of Herculaneum, killing everyone who hadn’t managed to evacuate.",
+      "reason": "This paragraph provides essential context about the eruption's phases and its deadly impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "“In this small, wonderfully decorated house we found traces of the inhabitants who tried to save themselves, blocking the entrance to a small room with a bed of which we made a cast,” explained Pompeii Archaeological Park director Gabriel Zuchtriegel in a statement. “They didn't make it, in the end the pyroclastic flow arrived, a violent flow of very hot ash that filled… every room [of the house],” he continues.",
+      "reason": "This paragraph includes a direct quote from an expert, providing insight into the discovery and its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The arrival of the first pyroclastic cloud that entered the ancient city or the collapse of parts of the upper floors could then have caused the death of the four victims,” write the study authors. “But we will never know, given the state of discovery, in secondary deposit, of their bodies [as a result of the earlier excavations].”",
+      "reason": "This paragraph offers expert commentary on the possible causes of death and the condition of the remains.",
+      "label": 1
+    },
+    {
+      "paragraph": "The study has been published in the E-Journal of the Pompeii Excavations.",
+      "reason": "This paragraph is a citation of the study's publication and does not contribute new information to the story.",
+      "label": 0
+    }
+  ]
+}

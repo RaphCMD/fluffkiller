@@ -1,0 +1,39 @@
+{
+  "headline": "Hysteroscopic diagnostic criteria precise in detecting chronic endometritis: Study",
+  "context": [
+    "Published On 2025-05-02 14:45 GMT   |   Update On 2025-05-02 14:45 GMT",
+    "A new study published in the American Journal of Obstetrics and Gynecology found the hysteroscopic diagnostic criteria to be highly sensitive and reliable for identifying chronic endometritis."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Chronic endometritis (CE) is characterized by ongoing inflammation of the uterine mucosa. The microscopic detection of plasma cells in the endometrial stroma is a characteristic of this disease. Although few cases of abacterial CE have been reported, several bacteria, mostly gram-negative and intracellular (including Enterococcus faecalis, Escherichia coli, urea-plasma, Mycoplasma, Chlamydia, and Streptococcus spp.), have been linked to the development of CE.",
+      "reason": "Provides essential background on chronic endometritis relevant to the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "The gold standard method for diagnosing and treating endocervical and intracavitary lesions is hysteroscopy. Thus, to evaluate the diagnostic accuracy of current hysteroscopic criteria in comparison to histological examination (with or without supplementary immunohistochemistry) for the diagnosis of chronic endometritis, Gaetano Riemma and colleagues carried out this study.",
+      "reason": "Explains the purpose and methodology of the study, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The diagnostic accuracy of hysteroscopy for chronic endometritis was assessed by comparing hysteroscopic criteria with histological (with or without immunohistochemistry) diagnosis. Studies were chosen based on whether they were prospective, retrospective, or randomized. The diagnostic odds ratio, sensitivity, specificity, and area under the summary receiver operating characteristic curve were the main results. Secondary outcomes included both positive and negative probability ratios.",
+      "reason": "Details the study's methodology and key metrics, contributing to understanding the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "In accordance with the Synthesizing Evidence from Diagnostic Accuracy Tests methodological standards and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses recommendations, a diagnostic accuracy meta-analysis was carried out. The Quality Evaluation Tool for Diagnostic Accuracy Studies−2 (QUADAS-2) was used to perform the quality evaluation. Using the Deeks funnel plot asymmetry test, publication bias was assessed.",
+      "reason": "Describes the methodological rigor and tools used in the study, relevant to the study's credibility.",
+      "label": 1
+    },
+    {
+      "paragraph": "A total of 13 investigations compared the histological examination of endometrial samples with the existing hysteroscopic criteria. The diagnostic odds ratio, after combining all the investigations, was 40. With a very good diagnostic accuracy, the assessed area under the summary receiver operating characteristic curve was 0.93. The corresponding sensitivity and specificity were 84% and 89%. Also, the probability ratios for good and negative outcomes were 7.4 and 0.19, respectively.",
+      "reason": "Presents the study's results, directly supporting the headline's claim.",
+      "label": 1
+    },
+    {
+      "paragraph": "Overall, hysteroscopic diagnostic criteria are very sensitive and accurate for the detection of chronic endometritis. If there is no hysteroscopic suspicion, the illness may be ruled out. However, because hysteroscopy alone carries a risk of false positives, endometrial biopsy is advised to confirm the diagnosis in situations where hysteroscopic diagnostic signs of chronic endometritis are present.",
+      "reason": "This paragraph provides detailed information about the sensitivity and accuracy of hysteroscopic diagnostic criteria and the recommendation for biopsy, directly related to the study's findings.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "headline": "2023 shatters climate records, with major impacts",
+  "context": [
+    "“Greenhouse gas levels are record high. Global temperatures are record high. Sea level rise is record high. Antarctic sea ice is record low. It’s a deafening cacophony of broken records,” said WMO Secretary-General Prof. Petteri Taalas.",
+    "“These are more than just statistics. We risk losing the race to save our glaciers and to rein in sea level rise. We cannot return to the climate of the 20th century, but we must act now to limit the risks of an increasingly inhospitable climate in this and the coming centuries,” he said."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Extreme weather is destroying lives and livelihoods on a daily basis – underlining the imperative need to ensure that everyone is protected by early warning services,” said Prof. Taalas.",
+      "reason": "The paragraph provides a direct quote emphasizing the impact of extreme weather, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carbon dioxide levels are 50 % higher than the pre-industrial era, trapping heat in the atmosphere. The long lifetime of CO2 means that temperatures will continue to rise for many years to come.",
+      "reason": "This paragraph provides factual information about CO2 levels and their impact on climate, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The rate of sea level rise from 2013-2022 is more than twice the rate of the first decade of the satellite record (1993-2002) because of continued ocean warming and melting of glaciers and ice sheets.",
+      "reason": "The paragraph provides specific data on sea level rise, which is relevant to the headline about climate records.",
+      "label": 1
+    },
+    {
+      "paragraph": "The maximum Antarctic sea-ice extent for the year was the lowest on record, a full 1 million km2 (more than the size of France and Germany combined) less than the previous record low, at the end of southern hemisphere winter. Glaciers in North America and Europe once again suffered an extreme melt season. Swiss glaciers have lost about 10 percent of their remaining volume in the past two years, according to the WMO report.",
+      "reason": "This paragraph provides detailed information on Antarctic sea ice and glacier melt, directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The report shows the global reach of climate change. It provides a snapshot of socio-economic impacts, including on food security and population displacement.",
+      "reason": "The paragraph summarizes the report's findings on socio-economic impacts, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This year we have seen communities around the world pounded by fires, floods and searing temperatures. Record global heat should send shivers down the spines of world leaders,” said United Nations Secretary-General António Guterres.",
+      "reason": "The paragraph provides direct commentary on the impacts of climate change in 2023.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a video message accompanying WMO’s climate report, Mr Guterres urges leaders to commit to urgent action at the UN Climate Change negotiations, COP28. There is still hope, he said.",
+      "reason": "The paragraph discusses a call to action related to the climate report, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We have the roadmap to limit the rise in global temperature to 1.5 °C and avoid the worst of climate chaos. But we need leaders to fire the starting gun at COP28 on a race to keep the 1.5 degree limit alive: By setting clear expectations for the next round of climate action plans and committing to the partnerships and finance to make them possible; By committing to triple renewables and double energy efficiency; And committing to phase out fossil fuels, with a clear time frame aligned to the 1.5-degree limit,” he said.",
+      "reason": "The paragraph outlines specific actions needed to address climate change, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Renewable energy capacity grew nearly 10% in 2022, led by solar and wind power.",
+      "reason": "The paragraph provides background information not directly related to the 2023 climate records.",
+      "label": 0
+    },
+    {
+      "paragraph": "The WMO provisional State of the Global Climate report was published to inform negotiations at COP28 in Dubai. It combines input from National Meteorological and Hydrological Services, regional climate centres, UN partners and leading climate scientists. The temperature figures are a consolidation of six leading international datasets.",
+      "reason": "The paragraph provides context about the report's purpose and data sources, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "The final State of the Global Climate 2023 report, along with regional reports, will be published in the first half of 2024.",
+      "reason": "This paragraph is about the publication timeline of a report, not about the climate records or impacts.",
+      "label": 0
+    },
+    {
+      "paragraph": "Observed concentrations of the three main greenhouse gases – carbon dioxide, methane, and nitrous oxide – reached record high levels in 2022, the latest year for which consolidated global values are available. Real-time data from specific locations show that levels of the three greenhouse gases continued to increase in 2023.",
+      "reason": "This paragraph provides specific data on greenhouse gas levels, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The global mean near-surface temperature in 2023 (to October) was around 1.40 (± 0.12) °C above the 1850–1900 average. Based on the data to October, it is virtually certain that 2023 will be the warmest year in the 174-year observational record, surpassing the previous joint warmest years, 2016 at 1.29 ( ± 0.12) °C above the 1850–1900 average and 2020 at 1.27 (±0.13) °C.",
+      "reason": "This paragraph provides specific temperature data, supporting the claim of record-breaking climate impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Record monthly global temperatures have been observed for the ocean – from April through to October – and, starting slightly later, the land – from July through to October.",
+      "reason": "This paragraph provides specific information on record monthly temperatures, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "June, July, August, September and October 2023 each surpassed the previous record for the respective month by a wide margin in all datasets used by WMO for the climate report.  July is typically the warmest month of the year globally, and thus July 2023 became the all-time warmest month on record.",
+      "reason": "This paragraph provides detailed information on monthly temperature records, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Arctic sea-ice extent remained well below normal, with the annual maximum and minimum sea ice extents being the fifth and sixth lowest on record respectively.",
+      "reason": "Provides specific data on Arctic sea-ice extent, contributing to the narrative of record-breaking climate impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Glaciers in western North America and the European Alps experienced an extreme melt season. In Switzerland, glaciers have lost around 10% of their remaining volume in the past two years.",
+      "reason": "Offers specific information on glacier melt, illustrating the severe impacts of climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "Extreme weather and climate events had major impacts on all inhabited continents. These included major floods, tropical cyclones, extreme heat and drought, and associated wildfires.",
+      "reason": "Summarizes the global impact of extreme weather events, directly related to the article's focus on climate impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Flooding associated with extreme rainfall from Mediterranean Cyclone Daniel affected Greece, Bulgaria, Türkiye, and Libya with particularly heavy loss of life in Libya in September.",
+      "reason": "Details a specific event with significant human impact, relevant to the article's theme of climate impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tropical Cyclone Freddy in February and March was one of the world’s longest-lived tropical cyclones with major impacts on Madagascar, Mozambique and Malawi. Tropical Cyclone Mocha, in May, was one of the most intense cyclones ever observed in the Bay of Bengal.",
+      "reason": "Provides specific examples of extreme weather events, supporting the article's focus on record-breaking climate impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Extreme heat affected many parts of the world. Some of the most significant were in southern Europe and North Africa, especially in the second half of July where severe and exceptionally persistent heat occurred. Temperatures in Italy reached 48.2 °C, and record-high temperatures were reported in Tunis (Tunisia) 49.0 °C, Agadir (Morocco) 50.4 °C and Algiers (Algeria) 49.2 °C.",
+      "reason": "Provides specific examples of record-breaking temperatures, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Canada’s wildfire season was well beyond any previously recorded. The total area burned nationally as of 15 October was 18.5 million hectares, more than six times the 10-year average (2013–2022). The fires also led to severe smoke pollution, particularly in the heavily populated areas of eastern Canada and the north-eastern United States. The deadliest single wildfire of the year was in Hawaii, with at least 99 deaths reported – the deadliest wildfire in the USA for more than 100 years.",
+      "reason": "Details record-breaking wildfires and their impacts, relevant to the climate records theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Five consecutive seasons of drought in the Greater Horn of Africa was followed by floods, triggering even more displacements. The drought reduced the capacity of the soil to absorb water, which increased flood risk when the Gu rains arrived in April and May",
+      "reason": "Describes significant climate impacts in Africa, relevant to the article's focus on climate records.",
+      "label": 1
+    },
+    {
+      "paragraph": "Long-term drought intensified in many parts of Central America and South America. In northern Argentina and Uruguay, rainfall from January to August was 20 to 50% below average, leading to crop losses and low water storage levels.",
+      "reason": "Provides specific data on drought impacts, relevant to the climate records theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Weather and climate hazards exacerbated challenges with food security, population displacements and impacts on vulnerable populations. They continued to trigger new, prolonged, and secondary displacement and increased the vulnerability of many who were already uprooted by complex multi-causal situations of conflict and violence.",
+      "reason": "Discusses broader impacts of climate hazards, relevant to the article's focus on climate impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "One of the essential components for reducing the impact of disasters is to have effective multi-hazard early warning systems. The international Early Warnings for All initiative seeks to ensure that everyone is protected by early warning systems by the end of 2027. Development and implementation of local disaster risk reduction strategies have increased since the adoption of the Sendai Framework for Disaster Risk Reduction.",
+      "reason": "The paragraph provides relevant information about initiatives and strategies to mitigate the impacts of climate-related disasters.",
+      "label": 1
+    },
+    {
+      "paragraph": "The World Meteorological Organization (WMO) is a specialized agency of the United Nations responsible for promoting international cooperation in atmospheric science and meteorology.",
+      "reason": "This paragraph provides background information about the WMO, which is not directly related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "WMO monitors weather, climate, and water resources and provides support to its Members in forecasting and disaster mitigation. The organization is committed to advancing scientific knowledge and improving public safety and well-being through its work.",
+      "reason": "This paragraph provides general information about WMO's functions, not directly related to the headline.",
+      "label": 0
+    }
+  ]
+}

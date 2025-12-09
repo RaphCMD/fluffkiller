@@ -1,0 +1,64 @@
+{
+  "headline": "Lufthansa celebrates inaugural flight of world's largest passenger aircraft from Denver to Munich - CBS Colorado",
+  "context": [
+    "By\n                        \n              Christa  Swanson",
+    "Updated on:  April 30, 2025 / 8:51 PM MDT\n          / CBS Colorado"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Lufthansa celebrates inaugural flight of world's largest passenger aircraft from Denver to Munich",
+      "reason": "The paragraph is the headline and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "On Wednesday, the Denver International Airport marked a major milestone: its inaugural Airbus A380 flight to Munich Airport in Germany.",
+      "reason": "This paragraph provides specific information about the event being reported.",
+      "label": 1
+    },
+    {
+      "paragraph": "This afternoon, the airport welcomed the A380, the world's largest passenger aircraft, operated by Lufthansa German Airlines. It's the first scheduled A380 service in Denver's history.",
+      "reason": "This paragraph provides details about the aircraft and its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lufthansa will operate daily flights between Denver and Munich on the A380 from April 30 through Sept. 30. The direct flight takes approximately 10 1/2 hours.",
+      "reason": "This paragraph provides specific operational details about the flight schedule.",
+      "label": 1
+    },
+    {
+      "paragraph": "Airport officials said the aircraft's double-decker design will offer significantly more seating than originally planned. \"Lufthansa's A380 is configured with 509 seats, which represents a capacity increase of nearly 75% over the 293-seat Airbus A350-900 originally scheduled to operate on the route.\"",
+      "reason": "This paragraph provides technical details about the aircraft's seating capacity and its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Officials said that, with the longest commercial service runway in the U.S. at 16,000 feet, the airport can safely operate the A380. The aircraft is scheduled to primarily operate at Gate A41 on Concourse A.",
+      "reason": "Provides specific details about the airport's capability to handle the A380 and its operational plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "Consul General of Germany Andrea Sasse, along with President and CEO of Munich Airport Jost Lammers and Lufthansa's VP of Passenger Sales of the Americas Dirk Janzen, joined Phil Washington, CEO of Denver International Airport, to celebrate the milestone with a gate event and ribbon cutting.",
+      "reason": "Describes the celebratory event marking the inaugural flight, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The two airports have a long history. Denver and Munich airport officials signed a sister airport agreement in 1991, and Lufthansa has operated nonstop service between the two since May 2016. United Airlines added flights in April 2022.",
+      "reason": "Provides historical context about the relationship between the two airports, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Washington said, \"We are grateful for Lufthansa's continued investment in Denver and the increased capacity this aircraft will provide for the 100 million annual passengers we're preparing to serve. We look forward to supporting them as they operate the world's largest aircraft at DEN.\"",
+      "reason": "Includes a direct quote from a key official, adding depth to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Christa Swanson",
+      "reason": "Author's name, not contributing to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Christa Swanson is a Digital Media Producer at CBS Colorado in Denver.",
+      "reason": "This paragraph provides background information about the author, not related to the main story.",
+      "label": 0
+    }
+  ]
+}

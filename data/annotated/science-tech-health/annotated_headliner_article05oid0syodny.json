@@ -1,0 +1,109 @@
+{
+  "headline": "UK history rewritten as scientists uncover truth about 1 billion-year-old meteorite - Science - LADbible",
+  "context": [
+    "In a recent groundbreaking discovery, scientists have identified evidence of a meteorite impact in north-west Scotland that dates back 1 billion years.",
+    "The space rock is considered the oldest known meteorite strike in the United Kingdom and one of the oldest recorded on Earth."
+  ],
+  "annotations": [
+    {
+      "paragraph": "These new findings have prompted many researchers to revise parts of the geological history of the British Isles.",
+      "reason": "This paragraph provides context on the impact of the discovery on geological history.",
+      "label": 1
+    },
+    {
+      "paragraph": "The evidence was uncovered by geologists studying rocks from the Stac Fada Member of the Stoer Group, located in the remote parts of the Highlands.",
+      "reason": "This paragraph gives specific details about where the evidence was found.",
+      "label": 1
+    },
+    {
+      "paragraph": "Advert",
+      "reason": "This is an advertisement label and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Evidence was found by studying rocks in the Highlands (Tony Prave)",
+      "reason": "This is an image caption and does not add new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "These rocks were long suspected to be linked to an ancient impact, but until now, solid confirmation had been missing.",
+      "reason": "This paragraph provides context about the previous suspicions and the significance of the confirmation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Professor Kirkland, the lead author from Curtin’s Frontier Institute for Geoscience Solutions within the School of Earth and Planetary Sciences, said “When a meteorite hits, it partially resets the atomic clocks inside the zircon crystals and these ‘broken timepieces’ are often unable to be dated but we developed a model to reconstruct when the disturbance occurred, confirming the impact at 990 million years ago.”",
+      "reason": "Provides direct commentary and explanation of the scientific method used to date the meteorite impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Professor Chris Kirkland dated the impact to 990 million years ago (Curtin University)",
+      "reason": "This is an image caption and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Advert",
+      "reason": "This is an advertisement and not relevant to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Before the discovery, it was previously believed that the impact occurred 1.2 billion years ago.",
+      "reason": "Provides context about previous beliefs regarding the meteorite impact's age.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the new research used tiny zircon crystals as geological time capsules to get a better understanding of when the impact occurred, which they have now placed at 990 million years ago.",
+      "reason": "Explains the method used to determine the new date of the meteorite impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "The impact crater itself has not yet been found, however, many scientists believe it may lie under the Minch, the strait that separates mainland Scotland from the Outer Hebrides.",
+      "reason": "Provides specific information about the potential location of the impact crater.",
+      "label": 1
+    },
+    {
+      "paragraph": "Estimates suggest the crater could be between 15 and 20 kilometres in diameter. Given the age of the rocks and the tectonic changes that have occurred since the impact, locating the original site might prove to be challenging.",
+      "reason": "Offers details on the estimated size of the crater and challenges in locating it.",
+      "label": 1
+    },
+    {
+      "paragraph": "Advert",
+      "reason": "This is an advertisement and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Despite the missing crater, the fallout from the strike was preserved in the Stac Fada deposits.",
+      "reason": "Mentions the preservation of evidence from the meteorite impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr Kirkland stated “While the impact crater itself has yet to be found, this study has collected further clues that could finally reveal its location.”",
+      "reason": "Includes a relevant quote about ongoing research efforts to locate the crater.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Understanding when meteorite impacts occurred helps us explore their potential influence on Earth’s environment and the expansion of life beyond the oceans,” he went on to say. “The revised dating suggests these life forms in Scotland appeared at a similar time to a meteorite impact.",
+      "reason": "The paragraph provides direct commentary on the significance of the meteorite impact in relation to life forms in Scotland.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This raises fascinating questions about whether large impacts may have influenced environmental conditions in ways that affected early ecosystems.\"",
+      "reason": "The paragraph offers a speculative insight into the potential effects of meteorite impacts on early ecosystems.",
+      "label": 1
+    },
+    {
+      "paragraph": "The 1 billion-year-old meteorite strike significantly predates the more famous Chicxulub impact that killed the dinosaurs, which itself was around 600 million years ago.",
+      "reason": "The paragraph provides context by comparing the age of the Scottish meteorite impact to the Chicxulub impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Advert",
+      "reason": "The paragraph is an advertisement label and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "While not as globally catastrophic, the Scottish event is significant in helping scientists understand how Earth evolved in its early years, making it a vital piece of research to help us fully understand our planet's history.",
+      "reason": "The paragraph emphasizes the importance of the discovery in understanding Earth's early evolution.",
+      "label": 1
+    }
+  ]
+}

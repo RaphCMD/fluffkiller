@@ -1,0 +1,94 @@
+{
+  "headline": "Opinion: Boosting Canada’s economic growth must be Mark Carney’s agenda - The Globe and Mail",
+  "context": [
+    "Prime Minister Mark Carney addresses supporters at his campaign headquarters on election night in Ottawa, on April 29.Nathan Denette/The Canadian Press",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "In his appearance last month on Radio-Canada’s talk show Tout le monde en parle, Prime Minister Mark Carney was asked how he was different from the guy he’d just replaced. In his halting French, he replied that he and Justin Trudeau “have the same values.” But, he quickly added, “I put the emphasis on the economy. And Mr. Trudeau, you have to say, he’s less interested in that.”",
+      "reason": "This paragraph provides direct commentary from Mark Carney about his economic focus, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "A government that puts the emphasis on the economy: What a great pitch. Let’s talk about the follow-through.",
+      "reason": "This paragraph introduces the topic of economic focus but does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Governing often involves the best-laid plans being displaced by unforeseen events. U.S. President Donald Trump’s surprising threat to rip up the North American free-trade agreement during his first term was such a case. It shoved aside everything else on Ottawa’s agenda.",
+      "reason": "This paragraph provides historical context about past economic challenges, which is relevant to understanding the current economic focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Today, the situation is reversed: Mr. Trump’s threats are what Mr. Carney ran on. They’re the expected, not the unexpected. But the President and his l’état c’est moi administration have spent the past 100 days showing that he isn’t really sure what he wants to do, or how to do it. Canada may spend the next four years under severe attack, or not. It’s hard to say.",
+      "reason": "This paragraph discusses the current political climate and its potential impact on Canada's economy, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "No matter what Mr. Trump does, the Carney government must remain laser-focused on what brought it to power: the economy, the economy, the economy.",
+      "reason": "This paragraph reiterates the main premise of the article about Carney's economic focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Once upon a decade ago, Canadians chose as their PM a dilettante motivational speaker from WE Day – the Hippie King, as my colleague Andrew Coyne called him. Because it was 2015, and all that. And now, because it’s 2025, we’ve gone to the opposite pole, electing a two-time central banker with a PhD in economics, who likes seminars more than rallies. Dr. Serious, as I’ve called him.",
+      "reason": "This paragraph provides context about the change in leadership style and background, which is relevant to the discussion of economic growth under Mark Carney.",
+      "label": 1
+    },
+    {
+      "paragraph": "Our egghead PM should take advantage of this window of public reverence for expertise. Lean into it, brother. And make the government’s overriding goal as big, simple, difficult and serious as this: raising Canada’s long-term rate of economic growth.",
+      "reason": "This paragraph directly addresses the main premise of the article, which is the focus on economic growth.",
+      "label": 1
+    },
+    {
+      "paragraph": "Upping the long-term growth rate means figuring out how to encourage more business investment in plants and equipment, technology, and research and development. That can raise productivity per worker. Which will boost per capita gross domestic product. Which will raise average wages. Which will raise government revenues. Which will help pay for excellent public services.",
+      "reason": "This paragraph provides specific strategies and outcomes related to boosting economic growth, aligning with the article's main focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Like the average voter’s hope for the Carney government, this is all very pragmatic, and not ideological. It isn’t left-wing or right-wing, progressive or conservative. It’s not some Hunger Games fight between a healthy business sector and high-quality social programs, where one has to lose so the other can win. Done right, they’re mutually supporting.",
+      "reason": "This paragraph offers a perspective on the non-ideological nature of economic growth strategies, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Take the Trans Mountain pipeline expansion. It went over budget and cost Ottawa tens of billions of dollars, but it’s an income-generating asset that will more than pay for itself in the long run through tolls and taxes. The Bank of Canada expected it to deliver a small GDP boost when it went into operation last year. That’s an investment. For real, no gimmicks.",
+      "reason": "This paragraph provides a specific example of an investment contributing to economic growth, supporting the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "In contrast, the single most expensive item in the Liberal election platform, at $6.1-billion a year by 2028 – and with costs rising year after year, forever – is a promised 1-per-cent cut to the lowest personal income-tax bracket.",
+      "reason": "This paragraph provides specific information about a significant financial commitment in the Liberal election platform.",
+      "label": 1
+    },
+    {
+      "paragraph": "The platform lists the measure under the heading of “BUILD,” which is somewhere between a fib and the punchline for a joke that would kill at an economics conference. It builds nothing, it invests in nothing and it does nothing to boost competitiveness or productivity. It’s empty economic calories, at a high and permanent fiscal cost.",
+      "reason": "This paragraph critiques the tax cut policy, arguing it does not contribute to economic growth, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "For someone earning $40,000 a year, their tax cut will be around 65 cents a day. They’d get a lot more benefit from $6.1-billion a year, year after year, spent on, say, better public transit to shorten their commute, or more doctors so they can see one quickly if they get sick.",
+      "reason": "This paragraph provides a comparison of the tax cut's impact versus potential alternative uses of the funds, relevant to the economic growth discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Or $6.1-billion could be better spent on providing businesses with tax incentives to encourage such things as investing more in productivity-boosting equipment and technology.",
+      "reason": "This paragraph suggests alternative uses of funds to boost economic growth, aligning with the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The public has an appetite for adult conversation about our long-term national interests. The Carney government has to seize the moment, because this window won’t be open forever. Act now, or be overtaken by events.",
+      "reason": "This paragraph is a general call to action without specific information or analysis related to economic growth.",
+      "label": 0
+    },
+    {
+      "paragraph": "A daily look at the most important business stories that are making news and moving markets, written by Chris Wilson-Smith",
+      "reason": "This paragraph is an introduction to a newsletter and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a call to action for newsletters and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

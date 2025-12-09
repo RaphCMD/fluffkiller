@@ -1,0 +1,49 @@
+{
+  "headline": "I am a truly embarrassed Buckeye. Respect for Ohio State gone. |Opinion",
+  "context": [
+    "One of the proudest days of my life was graduating from THE Ohio State University in 1990.",
+    "Born and raised in central Ohio, I have bled scarlet and gray for as long as I can remember. The university was instrumental in helping me launch my career, and following its sports teams has been a source of great pride and enjoyment for over 50 years."
+  ],
+  "annotations": [
+    {
+      "paragraph": "I have never been embarrassed by Ohio State — until now.",
+      "reason": "This paragraph introduces the author's change in sentiment towards Ohio State.",
+      "label": 1
+    },
+    {
+      "paragraph": "Eliminating diversity, equity and inclusion initiatives and offices, including the Center for Belonging and Social Change, without even trying to fight for them was a cowardly act of compliance in advance. And, more importantly, it will have a negative impact on vulnerable students who relied on these offices and initiatives to help them navigate their college paths and find their places in the university and in the greater world.",
+      "reason": "This paragraph provides specific reasons for the author's embarrassment and disappointment with Ohio State.",
+      "label": 1
+    },
+    {
+      "paragraph": "So far, hundreds of other colleges have signed a letter protesting the “unprecedented government overreach and political interference” that higher education is facing under the Trump administration.",
+      "reason": "This paragraph provides context about the broader higher education landscape and contrasts Ohio State's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is extremely disappointing that my alma mater is not one of them.",
+      "reason": "This paragraph expresses the author's disappointment with Ohio State's lack of action.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sadly, I no longer reach for my Buckeyes cap as I leave the house. I have stopped all financial support for the university and have not renewed my season football tickets after 30 years.",
+      "reason": "This paragraph illustrates the personal impact of the author's disappointment with Ohio State.",
+      "label": 1
+    },
+    {
+      "paragraph": "In these tumultuous times, one thing is certain: history will not look kindly on the political, business and higher education leaders who capitulated to Trump without even putting up a fight.",
+      "reason": "This paragraph is a general political statement unrelated to the specific topic of Ohio State University.",
+      "label": 0
+    },
+    {
+      "paragraph": "Steven Kretzer, Upper Arlington",
+      "reason": "This is a signature line and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "(This story was updated to add a photo gallery.)",
+      "reason": "This is an editorial note about a photo gallery and does not contribute to the article's content.",
+      "label": 0
+    }
+  ]
+}

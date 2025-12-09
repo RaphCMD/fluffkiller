@@ -1,0 +1,74 @@
+{
+  "headline": "Liberal minority back up to 169 after Elections Canada validates close Ontario race | CBC News",
+  "context": [
+    "Politics",
+    "Elections Canada's validation process has revealed a second closely contested riding's winner has changed after Monday's preliminary result — this time from the Conservatives to the Liberals."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Darren Major  · CBC News",
+      "reason": "This is an author byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Elections Canada's validation process has revealed a second closely contested riding's winner has changed after Monday's preliminary result — this time from the Conservatives to the Liberals.",
+      "reason": "This paragraph provides essential information about the change in election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "The unofficial results posted on election night showed that Conservative Parm Gill had won the redrawn riding of Milton East-Halton Hills South by 298 votes.",
+      "reason": "This paragraph provides context about the initial election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "But after double-checking the numbers, Elections Canada now reports that Liberal Kristina Tesser Derksen won by 29 votes.",
+      "reason": "This paragraph provides the updated election result, which is crucial to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "This latest riding flip brings the Liberals back to 169 seats — three seats shy of a majority — while the Conservatives drop to 143.",
+      "reason": "This paragraph explains the impact of the riding flip on the overall seat count.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Liberals lost a riding on Thursday after a similar validation process in the Montreal-area riding of Terrebonne revealed that the Bloc Québécois had won.",
+      "reason": "Provides relevant information about a similar validation process affecting another riding.",
+      "label": 1
+    },
+    {
+      "paragraph": "The validation process — which is different from an official recount — is a way for Elections Canada to verify the unofficial results that are reported on election night. Each local returning officer goes through the results reported by each polling station to weed out any potential errors.",
+      "reason": "Explains the validation process, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"When you're talking about hundreds of or thousands of polling locations and lots of results coming in, errors can happen. Whether it's something gets misheard on the phone or somebody accidentally types in the wrong number on the keyboard,\" Matthew McKenna, a spokesperson for Elections Canada, told CBC News before election day.",
+      "reason": "Provides context on why errors might occur, relevant to the validation process.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The returning officer for each riding goes through the statements of the vote from every poll and makes sure that that's checked against the records so that we can adjust for any little errors or mistakes.\"",
+      "reason": "Details the role of the returning officer in the validation process, relevant to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even after the validation process, both Milton East-Halton Hills South and Terrebonne's final tally are so close that it will trigger an official recount. Such a recount is overseen by a judge and is automatically triggered if a candidate wins by less than 0.1 per cent of the overall vote.",
+      "reason": "Provides information on the next steps after validation, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Official recounts have flipped ridings in the past. In 2021, the Bloc candidate was declared the winner of the then-named riding of Châteauguay-Lacolle. But an official recount two weeks later gave the victory to the Liberals.",
+      "reason": "Provides historical context on recounts affecting election outcomes, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "An official recount will also be triggered in the N.L. riding of Terra Nova-The Peninsulas, where the Liberal candidate edged out the Conservative by 12 votes.",
+      "reason": "Mentions another instance of a close race and recount, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Darren Major is a senior writer for CBC's Parliamentary Bureau. He can be reached via email at darren.major@cbc.ca.",
+      "reason": "Provides author information, not relevant to the main story.",
+      "label": 0
+    }
+  ]
+}

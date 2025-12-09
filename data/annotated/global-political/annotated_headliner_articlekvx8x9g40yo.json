@@ -1,0 +1,254 @@
+{
+  "headline": "A 'madman' penalty: Are Trump's actions eroding U.S. economic power? | CBC News",
+  "context": [
+    "Stocks? Down. The U.S. dollar? Same. Demand for U.S. bonds? Also sinking. This isn't supposed to happen — not all three at once.",
+    "But Barry Eichengreen sees a historic reaction where there's really one common theme: a collapse in faith in the United States."
+  ],
+  "annotations": [
+    {
+      "paragraph": "\"Global investors have concluded that there is a madman in the White House, and that the lunatics have gained control of the asylum,\" said Eichengreen, a historian at the University of California at Berkeley who studies currencies and central banks.",
+      "reason": "This quote directly addresses the main premise of the article regarding the perception of Trump's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The damage is clearly beyond repair.\"",
+      "reason": "This quote emphasizes the severity of the situation but does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Washington is trying to glue back the pieces of a humpty-dumpty month — when U.S. President Donald Trump introduced the highest tariffs in over a century, then walked some back, then, unhappy with interest rates, threatened to fire the head of the U.S. Federal Reserve, before ruling it out, even as White House staff were reportedly studying replacement options.",
+      "reason": "This paragraph provides specific actions taken by Trump that are relevant to the article's focus on economic impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Recent history has shown that political interference in the central bank, and interest rates, can have a catastrophic effect on inflation.",
+      "reason": "This provides context on the potential consequences of Trump's actions, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's just not supposed to happen in the United States of America — the world's largest economy; holder of the world's most important currency, a currency that supports the safest investment on Earth: U.S. debt bonds.",
+      "reason": "This paragraph provides context about the U.S. economic position, relevant to the article's discussion of economic power.",
+      "label": 1
+    },
+    {
+      "paragraph": "In recent weeks, investors fleeing the stock market did not do what they normally do: leap into the safe embrace of the U.S. dollar and U.S. government debt.",
+      "reason": "This paragraph provides new facts about unusual investor behavior, directly related to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some analysts compared the combination of events to what you'd normally see in a developing economy. Risky assets, safe assets and the currency all struggling at the same time.",
+      "reason": "This paragraph offers useful context by comparing the U.S. situation to developing economies, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The United States was more than just a nation. It's a brand. It's a universal brand — whether it's our culture, our financial strength, our military strength,\" said Ken Griffin, a Republican mega-donor and the CEO of Citadel, to the World Economy Summit in Washington on Wednesday.",
+      "reason": "This quote provides direct commentary on the U.S. brand, relevant to the article's discussion on eroding economic power.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"And we're eroding that brand right now.… We put that brand at risk,\" he said.",
+      "reason": "This quote directly addresses the article's premise about the erosion of U.S. economic power.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It can take a very long time to remove the tarnish on a brand.… It can be a lifetime to repair the damage.\"",
+      "reason": "This quote emphasizes the long-term impact of current actions, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here, there are differences of opinion. Clearly, the Trump administration is trying to repair that damage.",
+      "reason": "The paragraph is vague and does not provide specific information or context related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "All those above-mentioned indicators have eased up a bit the last couple of days, as the administration softens the tone on its global trade war and on the Federal Reserve.",
+      "reason": "This paragraph provides relevant information about recent changes in economic indicators and the administration's actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The administration is reportedly considering cutting back some of the China tariffs, which are massive, surpassing 140 per cent on some products, triggering an eye-watering collapse in shipping over recent days.",
+      "reason": "This paragraph offers specific details about potential policy changes and their economic impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Wednesday, Trump told reporters that negotiations are \"active\" with China.",
+      "reason": "This paragraph provides a direct quote from Trump about ongoing negotiations, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Tariff negotiations are going very well. We're dealing with many, many countries,\" he said.",
+      "reason": "This quote from Trump adds direct commentary on the status of tariff negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Calculated or not?",
+      "reason": "This is a video prompt and does not provide any new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Did Trump really just levy a 245% tariff on China?",
+      "reason": "This question introduces a specific action by Trump that is relevant to the article's focus on U.S. economic power.",
+      "label": 1
+    },
+    {
+      "paragraph": "But on the same day, his treasury secretary told reporters the U.S. and China aren't actually talking yet. Meanwhile, some countries say it's unclear what the U.S. actually wants.",
+      "reason": "This provides relevant information about the current state of U.S.-China relations and international perceptions.",
+      "label": 1
+    },
+    {
+      "paragraph": "So the tremors won't end overnight.",
+      "reason": "This is a vague generalization without specific information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"This isn't a short-term adjustment; it's a paradigm shift that we expect will extend well beyond the president's four-year term,\" said a research briefing this week from Oxford Economics, referring to the newer, more protectionist era.",
+      "reason": "This provides expert analysis and context about the long-term impact of current U.S. policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Indeed, history shows that even when protectionist measures such as tariffs and non-tariff barriers are removed, it can take decades to roll them back fully as niche groups that stand to gain from protectionism form powerful lobbies.\"",
+      "reason": "This paragraph provides historical context on protectionist measures, which is relevant to understanding the broader economic implications of current U.S. policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's not just that stocks are down — with the S&P 500 down over eight per cent this year, even after a little rally this week.",
+      "reason": "This paragraph provides specific data on the stock market, directly supporting the article's premise about economic decline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The U.S. dollar has plunged a staggering nine cents against the Euro since Trump took office. It's even down two cents against the Canadian dollar, against all expectations.",
+      "reason": "This paragraph offers specific information about the U.S. dollar's decline, which is central to the article's discussion of economic power erosion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Shockingly, and most disturbingly, the demand for U.S. debt appeared shaky, with the 10-year U.S. Treasury bonds up half a cent, though it's softened a bit.",
+      "reason": "This paragraph provides specific details about U.S. debt demand, contributing to the narrative of economic instability.",
+      "label": 1
+    },
+    {
+      "paragraph": "Analysis",
+      "reason": "This is a section header and does not provide any new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "There are different views on how bad this actually is.",
+      "reason": "The paragraph is a vague generalization without specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Another expert, Steven Kamin, a fellow at the American Enterprise Institute think-tank, agrees with other diagnoses about what unleashed the unusual trading patterns.",
+      "reason": "Introduces a new expert opinion relevant to the topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Things got \"so crazy,\" he said, \"that investors got scared and pulled away from the [U.S.] dollar as well.\"",
+      "reason": "Provides a direct quote illustrating the market reaction.",
+      "label": 1
+    },
+    {
+      "paragraph": "But he's not certain about how far things will go.",
+      "reason": "Expresses uncertainty without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Kamin's not so worried about stock-market fluctuations. And as for bonds, he's watching the broader economy to assess whether its current valuations are normal.",
+      "reason": "Offers specific insights into Kamin's perspective on market elements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then there's a fundamental issue at the heart of the global financial system: the status of the U.S. dollar, for generations the world's reserve currency.",
+      "reason": "Provides context about the U.S. dollar's role in the global financial system.",
+      "label": 1
+    },
+    {
+      "paragraph": "The widespread use of the greenback in international transactions and in foreign central bank holdings has created an inexhaustible appetite for it.",
+      "reason": "Explains the global demand for the U.S. dollar, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "That inexhaustible appetite allows the U.S. to spend more money than it has, run up monster debt and keep issuing bonds with confidence there will always be buyers.",
+      "reason": "Describes the economic implications of the U.S. dollar's status, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kamin, a former director of the Federal Reserve's division of international finance, isn't worried about that status ending.",
+      "reason": "Introduces an expert opinion on the stability of the U.S. dollar's status.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Clearly, the dollar dominates,\" he said.",
+      "reason": "Provides a direct quote supporting the dominance of the U.S. dollar.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Some people are saying this current episode rings the death knell for its particular role. That's very unlikely.… The world can't turn on a dime.\"",
+      "reason": "The quote provides a perspective on the current economic situation, suggesting skepticism about a major shift, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The U.S. dollar is still king.",
+      "reason": "This statement provides context about the current status of the U.S. dollar, relevant to the article's discussion on economic power.",
+      "label": 1
+    },
+    {
+      "paragraph": "It still accounts for 57 per cent of the currencies held by foreign central banks. Its share has receded a bit over the decades, and again in recent years, but there is no evident replacement candidate for transactions and bond investments.",
+      "reason": "This paragraph provides factual information about the U.S. dollar's global role, directly relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "There's a bit of a debate in Washington about whether the U.S. should actually welcome, at the very least, a cheaper dollar, in the belief it would help its manufacturing workers produce goods at more competitive prices.",
+      "reason": "This paragraph introduces a relevant debate about the economic implications of a weaker dollar, contributing to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "But that's a minority view. The prevailing consensus in Washington is that the U.S. gains more than it loses from a mighty dollar.",
+      "reason": "This provides insight into the dominant economic perspective in Washington, relevant to the article's discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We continue to have a strong-dollar policy,\" Treasury Secretary Scott Bessent said Wednesday, voicing that view.",
+      "reason": "This quote provides direct commentary from a key official on the U.S. economic policy.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think the U.S. will always, in my lifetime, be the reserve currency. I'm not sure anyone else wants it.… For export economies, it's a lot of pressure.\"",
+      "reason": "This quote offers perspective on the U.S. dollar's status as a reserve currency, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | An 'evermore unbalanced' global economy:",
+      "reason": "This is a prompt for a video, not contributing new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "'China needs to change' its economic model, U.S. treasury secretary says",
+      "reason": "This headline does not provide new information or context within the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Eichengreen may not be a fan of the Trump administration's handling of the economy. But here he agrees with Trump's treasury secretary: the strong dollar helps, more than hurts, the U.S.",
+      "reason": "This provides analysis and agreement between experts, relevant to the article's discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "The benefits, he said, include lower debt costs for the government, convenience value for U.S. banks and firms trading in their own currency, insurance in a crisis where it's a rare asset that grows and the power to levy sanctions against using your banks.",
+      "reason": "Provides context on the benefits of the U.S. dollar's reserve currency status.",
+      "label": 1
+    },
+    {
+      "paragraph": "And he fears American politicians are messing it all up. When asked whether the U.S. was in real danger of losing the reserve-currency status, he said: \"We are.\"",
+      "reason": "Directly addresses the main premise of the U.S. potentially losing its reserve-currency status.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"When the competence and even rationality of a country's policymakers is cast into doubt, its currency loses its safe haven and reserve currency status,\" he said, noting that the dollar's share in central bank reserves has already been slowly declining, about 0.5 per cent per year, for a quarter-century.",
+      "reason": "Provides specific data and expert commentary on the decline of the dollar's status.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We can expect that process to accelerate.\"",
+      "reason": "Predicts future trends based on current analysis, relevant to the article's theme.",
+      "label": 1
+    }
+  ]
+}

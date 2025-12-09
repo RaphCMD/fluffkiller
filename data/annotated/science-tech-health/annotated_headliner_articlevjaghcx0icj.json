@@ -1,0 +1,79 @@
+{
+  "headline": "Oxford Science Enterprises, Cedars-Sinai partner on startup funding | MobiHealthNews",
+  "context": [
+    "Oxford Science Enterprises (OSE) and Cedars-Sinai Intellectual Property Company announced a partnership to support health-tech startups expanding from the United Kingdom to the United States.",
+    "The collaboration will provide funding, resources and market access to emerging companies developing healthcare technologies to accelerate the adoption of AI-driven healthcare tools by combining Oxford's research expertise with Cedars-Sinai's clinical and commercial network."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The initial step in this initiative is a $2 million investment by OSE and Cedars-Sinai in Neu Health, a University of Oxford startup focused on neurology care.",
+      "reason": "This paragraph provides specific information about the initial investment and the focus of the startup, which is relevant to the partnership.",
+      "label": 1
+    },
+    {
+      "paragraph": "Neu Health's smartphone-based platform helps clinicians monitor and manage Parkinson's disease and dementia patients by analyzing motor and cognitive symptoms using artificial intelligence.",
+      "reason": "This paragraph gives details about the technology developed by the startup, which is central to the article's focus on health-tech innovation.",
+      "label": 1
+    },
+    {
+      "paragraph": "AI and machine learning are used to remotely monitor disease progression, predict clinical outcomes and optimize medication management for Parkinson's and dementia patients.",
+      "reason": "This paragraph explains the specific applications of AI in the startup's platform, contributing to the understanding of its technological impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "The app enables clinician-guided care, provides educational support and offers personalized in-person and digital therapies to help patients live independently and reduce the need for higher-acuity care.",
+      "reason": "This paragraph describes the benefits and functionalities of the app, which is relevant to the article's focus on healthcare technology.",
+      "label": 1
+    },
+    {
+      "paragraph": "OSE, which previously participated in a Cedars-Sinai accelerator program, will pilot its digital platform at Cedars-Sinai, enrolling 150 neurology patients in a six-month trial as part of its U.S. expansion.",
+      "reason": "This paragraph provides information about the pilot program and its role in the U.S. expansion, directly related to the partnership's goals.",
+      "label": 1
+    },
+    {
+      "paragraph": "Heather Roxborough, senior partner of health tech at Oxford Science Enterprises, told MobiHealthNews that neurology care suffers from a lack of objective data on what happens between doctor visits.",
+      "reason": "Provides relevant commentary on the challenges in neurology care, which is pertinent to the health-tech focus of the partnership.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Neurologists typically see their patients once or twice a year and must make complex treatment decisions based on a short consultation and a handful of tests,\" Roxborough said.",
+      "reason": "Offers specific context about the challenges in neurology care, relevant to the development of healthcare technologies.",
+      "label": 1
+    },
+    {
+      "paragraph": "She explained that finding the right product-market fit in the U.S. healthcare system is not always straightforward, as the system is highly fragmented.",
+      "reason": "Discusses challenges in the U.S. healthcare market, relevant to the partnership's goal of expanding startups.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"While clinical needs are similar across different markets, the incentive structures for healthcare businesses vary significantly,\" she said.",
+      "reason": "Provides insight into market differences, relevant to the partnership's strategy for U.S. expansion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Roxborough said partnering with Cedars-Sinai at an early stage allows companies like Neu Health to gain rapid market feedback and tailor their solution to the needs of a U.S. partner.",
+      "reason": "Directly relates to the benefits of the partnership, highlighting its strategic importance.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This is particularly valuable for understanding workflow, data integration and commercial requirements –often significant hurdles for early-stage companies,\" she said.",
+      "reason": "The quote provides specific insight into the challenges faced by early-stage companies, relevant to the partnership's goals.",
+      "label": 1
+    },
+    {
+      "paragraph": "THE LARGER TREND",
+      "reason": "This is a section header and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Partnerships aimed at matching startup brainpower with access to capital are off to a strong start this year, including AMD's $20 million equity investment to boost Absci's drug-discovery efforts.",
+      "reason": "This paragraph provides context on the trend of partnerships in the industry, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Significant investments are also being made to leverage AI technology, as evidenced by drug discovery startup Insilico Medicine's deal with Italian pharmaceutical company Menarini Group to deepen their AI partnership – worth a potential $550M.",
+      "reason": "This paragraph provides additional context on AI investments, relevant to the article's focus on AI-driven healthcare tools.",
+      "label": 1
+    }
+  ]
+}

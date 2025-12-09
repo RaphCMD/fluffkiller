@@ -1,0 +1,19 @@
+{
+  "headline": "Scientists home in on alternatives to ‘forever chemicals’",
+  "context": [
+    "These chemicals' link to harmful health problems is fueling a search for other options",
+    "Some water-resistant fabrics, including those used in umbrellas, contain persistent “forever chemicals,” or PFAS. A new review article outlines principles to design PFAS alternatives without their longest-lasting chemical bonds."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Kryssia Campos/Moment/Getty Images Plus",
+      "reason": "This is an image credit and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Harmful and persistent “forever chemicals” build up in the environment and in the bodies of animals — including humans. But a new review article lays out a blueprint for replacing those chemicals in certain situations.",
+      "reason": "This paragraph introduces the problem of 'forever chemicals' and mentions a new review article that proposes solutions, directly contributing to the article's main premise.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "headline": "What is the US electoral college, and how does it work?",
+  "context": [
+    "5 November 2024",
+    "BBC"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Americans across the nation have cast their votes on the final day of voting in the 2024 US presidential election. But it's possible the candidate with the most votes won't be the winner.",
+      "reason": "Introduces the concept that the popular vote does not determine the winner, relevant to the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is because the president is not chosen directly by the voters, but by something called the electoral college.",
+      "reason": "Directly explains the role of the electoral college in the election process.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the presidential election, most Americans have cast a vote for either Democrat Kamala Harris or Republican Donald Trump.",
+      "reason": "Provides context on the candidates involved in the election.",
+      "label": 1
+    },
+    {
+      "paragraph": "But those votes don't directly determine who wins. Instead of a national race it's a state-by-state race.",
+      "reason": "Explains the state-by-state nature of the electoral college system.",
+      "label": 1
+    },
+    {
+      "paragraph": "Winning one of the 50 states means that candidate collects all the so-called electoral college votes. There are 538 electoral college votes in total.",
+      "reason": "Details how electoral college votes are allocated and the total number of votes.",
+      "label": 1
+    },
+    {
+      "paragraph": "A candidate needs to gain a majority of the votes - 270 or more - to win the presidency. Their running mate becomes the vice-president.",
+      "reason": "Explains the basic requirement for winning the presidency through the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "Each state has a number of electoral votes, roughly in line with the size of its population.",
+      "reason": "Provides essential context on how electoral votes are distributed among states.",
+      "label": 1
+    },
+    {
+      "paragraph": "California has the most with 54, while a handful of sparsely-populated states like Wyoming, Alaska and North Dakota (and Washington DC) have the minimum of three.",
+      "reason": "Gives specific examples of electoral vote distribution, enhancing understanding.",
+      "label": 1
+    },
+    {
+      "paragraph": "Generally, states award all their electoral college votes to whoever wins the poll of ordinary voters in the state.",
+      "reason": "Describes the winner-takes-all system used by most states in the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "For example, if a candidate wins 50.1% of the vote in Texas, they are given all of the state's 40 electoral votes. A candidate who won a state by a landslide would still pick up the same number of electoral votes.",
+      "reason": "Provides a specific example to illustrate the winner-takes-all system.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yes. It's possible for a candidate to become president by winning a number of tight races, despite having fewer votes across the country as a whole.",
+      "reason": "Explains a key feature of the electoral college system.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2016, Donald Trump beat Hillary Clinton after polling almost three million fewer votes. In 2000, George W Bush defeated Al Gore even though the Democratic candidate won the popular vote by more than half a million.",
+      "reason": "Provides historical examples of the electoral college outcome.",
+      "label": 1
+    },
+    {
+      "paragraph": "Only three other presidents have been elected without winning the popular vote, all of them in the 19th Century.",
+      "reason": "Adds historical context to the electoral college system.",
+      "label": 1
+    },
+    {
+      "paragraph": "The word \"college\" refers to the group of people who are responsible for casting the state votes, who are known as electors.",
+      "reason": "Explains the terminology related to the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "This system is only used to select the president - all other US elections are decided by a simple popular vote.",
+      "reason": "Clarifies the unique application of the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "In some states, electors can theoretically vote for whichever candidate they prefer, regardless of who voters backed.",
+      "reason": "Explains the flexibility electors have in voting, relevant to understanding the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "But in practice, electors almost always vote for the candidate who gets the most votes.",
+      "reason": "Provides practical context on how electors typically behave, relevant to the electoral process.",
+      "label": 1
+    },
+    {
+      "paragraph": "If an elector votes against their state's presidential pick, they are termed \"faithless\".",
+      "reason": "Defines a key term related to the electoral college process.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2016, seven electoral college votes were cast this way, but it did not change the result of the election.",
+      "reason": "Provides historical context on the impact of faithless electors.",
+      "label": 1
+    },
+    {
+      "paragraph": "In some states, \"faithless\" electors can be fined or prosecuted.",
+      "reason": "Explains potential consequences for faithless electors, relevant to the electoral college system.",
+      "label": 1
+    },
+    {
+      "paragraph": "If there is no majority winner, the House of Representatives, the lower house of US lawmakers, votes to elect the president.",
+      "reason": "Explains the process if no candidate wins a majority in the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "This has only happened once, in 1824, when four candidates split the electoral college vote, denying any one of them a majority.",
+      "reason": "Provides historical context for when the House of Representatives elected the president.",
+      "label": 1
+    },
+    {
+      "paragraph": "Given the current dominance of the Republican and Democratic parties, this is extremely unlikely to happen today.",
+      "reason": "Comments on the current political landscape's impact on the electoral process.",
+      "label": 1
+    },
+    {
+      "paragraph": "When the US constitution was being drawn up in 1787, a national popular vote to elect a president was practically impossible because of the size of the country and a lack of reliable communication methods.",
+      "reason": "Explains historical reasons for the creation of the electoral college.",
+      "label": 1
+    },
+    {
+      "paragraph": "The framers of the constitution therefore created the electoral college system.",
+      "reason": "States the origin of the electoral college system.",
+      "label": 1
+    },
+    {
+      "paragraph": "It was popular with southern states where slaves made up a large portion of the population.",
+      "reason": "Provides historical context on the electoral college's origins.",
+      "label": 1
+    },
+    {
+      "paragraph": "They couldn't vote but were counted as part of the population, giving southern states an outsized influence.",
+      "reason": "Explains how the electoral college affected representation in southern states.",
+      "label": 1
+    },
+    {
+      "paragraph": "Advantages:",
+      "reason": "Introduces a section but provides no information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Disadvantages:",
+      "reason": "Introduces a section but provides no information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Most states consistently vote for the same party in every election.",
+      "reason": "Describes a pattern relevant to the electoral college's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is why presidential candidates target specific \"swing states\" where the vote could go either way rather than trying to win over voters across the whole country.",
+      "reason": "Explains the strategic focus on swing states in the electoral college system.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2024, the top battleground states are Arizona, Georgia, Michigan, Nevada, Pennsylvania and Wisconsin.",
+      "reason": "Provides specific examples of swing states relevant to the 2024 election.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2020, US voters became familiar with the concept of \"fake electors\" after pro-Trump Republicans in seven US states created their own electors in a bid to overturn the election results.",
+      "reason": "Introduces the concept of 'fake electors' relevant to understanding electoral college controversies.",
+      "label": 1
+    },
+    {
+      "paragraph": "In some cases, they created and signed official-looking documents or arrived at state capitals on 14 December - when electors across the country met to officially cast their votes.",
+      "reason": "Details actions taken by 'fake electors' which is relevant to understanding the electoral process.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some of those involved have faced prosecution and investigations are still ongoing.",
+      "reason": "Provides an update on legal consequences related to the 'fake electors' issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "North America correspondent Anthony Zurcher makes sense of the race for the White House in his weekly US Election Unspun newsletter.",
+      "reason": "This paragraph is promotional and does not provide information about the electoral college.",
+      "label": 0
+    },
+    {
+      "paragraph": "Readers in the UK can sign up here. Those outside the UK can sign up here.",
+      "reason": "This paragraph is promotional and does not provide information about the electoral college.",
+      "label": 0
+    }
+  ]
+}

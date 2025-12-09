@@ -1,0 +1,114 @@
+{
+    "headline": "King Charles and Queen Camilla to visit Canada this month",
+    "context": [
+        "King Charles will deliver Canada’s speech from the throne in a rare appearance that Prime Minister Mark Carney says “underscores the sovereignty” of the country during a period marked by a trade war and talk of American annexation.",
+        "“The King, accompanied by The Queen, will attend The State Opening of the Parliament of Canada, in Ottawa,” Buckingham Palace said in a statement on Friday. Prime Minister Mark Carney called it an “historic honour” that “matches the weight of our times,” during a Friday news conference. The last time a monarch delivered Canada’s throne speech was nearly five decades ago."
+    ],
+    "annotations": [
+        {
+            "paragraph": "Sovereignty has been top of mind for many Canadians amid enduring rhetoric from U.S. President Donald Trump, who has suggested several times that Canada should become a state.",
+            "reason": "Connects the visit to Canada’s sovereignty concerns.",
+            "label": 1
+        },
+        {
+            "paragraph": "The president once said he was open to using “economic force” to make it happen. Trump also repeatedly called former prime minister Justin Trudeau a “governor,” and made various claims that the United States subsidizes Canada.",
+            "reason": "Details Trump’s relevant remarks on annexation.",
+            "label": 1
+        },
+        {
+            "paragraph": "Independence from the United States subsequently became a pillar of the election campaign that installed Carney’s minority government. The two leaders are expected to discuss their countries’ relationship at a White House meeting scheduled for Tuesday.",
+            "reason": "Links visit to election themes and upcoming talks.",
+            "label": 1
+        },
+        {
+            "paragraph": "Gov. Gen. Mary Simon, who represents the Crown in Canada, said she will be “delighted” to welcome the King.",
+            "reason": "Quotes the governor general’s welcome statement.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Our Canadian identity is deeply rooted in our constitution and this visit highlights the enduring relationship between Canada and the Crown,” reads a statement from Gov. Gen. Mary Simon.",
+            "reason": "Provides formal statement on identity and ties.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Now more than ever, we need to come together to ensure a future that builds on our shared global values of democracy, equality and peace,” reads the statement.",
+            "reason": "Expands on the visit’s symbolic call for unity.",
+            "label": 1
+        },
+        {
+            "paragraph": "The royals will arrive on May 26. The throne speech will take place on May 27.",
+            "reason": "Gives the precise schedule of visit events.",
+            "label": 1
+        },
+        {
+            "paragraph": "While Trump’s annexation threats made headlines around the world, Buckingham Palace has remained silent. Asked directly for the palace’s response in March, a spokesperson told CTV News that it’s “not something we would comment on.”",
+            "reason": "Notes Buckingham Palace’s neutral stance.",
+            "label": 1
+        },
+        {
+            "paragraph": "While some Canadians would have liked to hear the King weigh in, the Statute of Westminster prohibits the monarch from acting outside of the advice of the minister of a given dominion, which for Canada is Carney.",
+            "reason": "Explains why the monarch cannot comment independently.",
+            "label": 1
+        },
+        {
+            "paragraph": "Carney said he made the request to the “ultimate head of state” himself, but did not mention whether he asked King Charles III to weigh in on Canada’s relationship with its southern neighbour.",
+            "reason": "Notes Carney’s own invitation request.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Bloc Quebecois – a federal separatist party – quickly released a statement calling Carney’s invitation to King Charles III “strange.”",
+            "reason": "Introduces political criticism over the visit.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Mark Carney, to wear the trappings of Canadian sovereignty, invites a foreign monarch to inaugurate the legislature of which he will be prime minister. Strange,” reads the party’s French-language release.",
+            "reason": "Quotes the Bloc’s objection.",
+            "label": 1
+        },
+        {
+            "paragraph": "Canada is a constitutional monarchy, meaning the King is Canada’s official head of state.",
+            "reason": "Clarifies Canada’s system of government.",
+            "label": 1
+        },
+        {
+            "paragraph": "However, some Quebecers, in the words of the Bloc, “reject this institution” as a symbol of British hegemony over Canada’s French heritage and contemporary culture.",
+            "reason": "Notes regional opposition to the monarchy.",
+            "label": 1
+        },
+        {
+            "paragraph": "Asked about how the King’s appearance will demonstrate Canada’s sovereignty, Carney responded in French: “I’ll answer it this way. When I became prime minister the first time, I mentioned Canada’s founding peoples: Indigenous people, French people, and English people,” who all have a part in “the foundation of our nation.”",
+            "reason": "Provides Carney’s French-language response.",
+            "label": 1
+        },
+        {
+            "paragraph": "The “foundation of our nation, the Canadian nation,” he said in French, is a result of “Indigenous people, French people, and English people.”",
+            "reason": "Reiterates Carney’s inclusive national framing.",
+            "label": 1
+        },
+        {
+            "paragraph": "The speech from the throne opens each session of Parliament. It outlines the government’s priorities for the session, which cannot begin until the speech is delivered.",
+            "reason": "Explains the function of the throne speech.",
+            "label": 1
+        },
+        {
+            "paragraph": "Typically, Canada’s governor general reads the speech as the monarch’s representative. In 1957 and 1977, Queen Elizabeth was in Canada and chose to read the speech herself.",
+            "reason": "Provides historical precedent for monarchs reading the speech.",
+            "label": 1
+        },
+        {
+            "paragraph": "The end of the speech serves as the starting gun for business in the House of Commons and the Senate. From there, the prime minister can introduce an ostensibly ceremonial Bill C-1, while a senator will introduce their own respective document, Bill S-1, which only receive first readings.",
+            "reason": "Describes procedural steps following the speech.",
+            "label": 1
+        },
+        {
+            "paragraph": "They are filed in order to demonstrate “independence from the Crown and their right to meet and debate without having to follow the agenda presented in the Speech,” by Canada’s own official description.",
+            "reason": "Explains the rationale for parallel bills.",
+            "label": 1
+        },
+        {
+            "paragraph": "The King has been to Canada 22 times in his lifetime. The Queen, for her part, has visited five times. The couple visited most recently in May 2022. They appeared in St. John’s, N.L., the capital, and the Northwest Territories.",
+            "reason": "Summarizes the monarchs’ past Canadian visits.",
+            "label": 1
+        }
+    ]
+}

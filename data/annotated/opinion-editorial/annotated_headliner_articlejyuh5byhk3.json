@@ -1,0 +1,119 @@
+{
+  "headline": "Globe editorial: A safe harbour is needed for the Bay’s charter - The Globe and Mail",
+  "context": [
+    "The 1670 royal charter signed by King Charles II establishing Hudson's Bay, is shown on display at the Manitoba Museum where it was loaned to be displayed alongside its permanent collection of Hudson's Bay artifacts, in this 2020 handout photo.HO/The Canadian Press",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "A line repeated throughout the Indiana Jones film franchise has the fictional archaeologist exclaiming “it belongs in a museum” when an artifact is in danger of falling into the wrong hands.",
+      "reason": "This paragraph is a tangential reference to a fictional character and does not contribute directly to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "If the character were real, he’d probably crack his whip at the Hudson’s Bay Company for trying to sell its royal charter. This piece of Canadian history dates to 1670 and granted the company quasi-governmental rights over all the territory whose waters flowed into Hudson Bay.",
+      "reason": "This paragraph provides relevant information about the Hudson's Bay Company's royal charter and its historical significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The vast tract of land – nearly 40 per cent of the modern country – became part of Canada two centuries later.",
+      "reason": "This paragraph offers relevant historical context about the land associated with the charter.",
+      "label": 1
+    },
+    {
+      "paragraph": "U.S. President Donald Trump’s threats to Canada’s economy and sovereignty have reminded many Canadians that they live in a great country, and have a history worth fighting for. The HBC charter is a vital part of the history of the country that they’re rising up to defend. It must not be allowed to leave Canada.",
+      "reason": "This paragraph connects the charter to contemporary issues and emphasizes its importance to Canadian history.",
+      "label": 1
+    },
+    {
+      "paragraph": "The charter should be on display at either Parliament or the Canadian Museum of History.",
+      "reason": "This paragraph suggests a specific action regarding the charter's preservation, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "To underscore the absurdity of the current situation, consider that four original copies of the Magna Carta, a first step toward reining in English royal power, are available for public viewing in the United Kingdom. A permanent exhibition in Washington displays both the Declaration of Independence and the Emancipation Proclamation, which extended the ideals of the revolution to enslaved people and set the country on a course toward racial equality.",
+      "reason": "This paragraph provides context by comparing the availability of historical documents in other countries, but it does not directly relate to the Bay's charter.",
+      "label": 0
+    },
+    {
+      "paragraph": "Canada has no equivalent.",
+      "reason": "This sentence highlights the lack of a similar historical document in Canada, indirectly relating to the Bay's charter.",
+      "label": 1
+    },
+    {
+      "paragraph": "The fathers of Confederation didn’t sign anything in Charlottetown to mark their deal. The 1867 royal proclamation that created Canada is likely in Britain’s archives, according to several constitutional scholars. The rain-spattered paper Queen Elizabeth signed in 1982 to patriate the Constitution is tucked away in Canadian archives.",
+      "reason": "This paragraph provides context about Canada's historical documents, indirectly relating to the Bay's charter.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is no stretch to say that, without the Bay, Canada in its current form may never have existed.",
+      "reason": "This sentence directly relates to the significance of the Bay's charter in Canadian history.",
+      "label": 1
+    },
+    {
+      "paragraph": "The company was a physical presence in a vast land that worked to deter competing national claims. Their reliance on Indigenous traders interwove the fortunes of settlers and First Nations across much of the country. These ties were later replaced with the treaties that still underpin the country’s complicated relationship with Indigenous peoples.",
+      "reason": "This paragraph provides historical context about the Bay's role in Canada, directly relating to the charter's significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Company employees mapped the west, helping to open it to settlement. HBC forts and trading posts became cities.",
+      "reason": "Provides historical context about the company's role in Canadian development.",
+      "label": 1
+    },
+    {
+      "paragraph": "The company sold its land to Canada in 1870 in one of the biggest real estate transactions in history. This immensely increased the size of the newly confederated country and created a bulwark against U.S. expansion – which can make the purchase seem prescient now.",
+      "reason": "Offers historical context relevant to the company's impact on Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "As historically important as the charter is, few Canadians have seen it. The company donated most of its archives to Manitoba in 1994. But it kept this one back, saying the document was still in active use as a corporate record – and perhaps cognizant of its unique value.",
+      "reason": "Discusses the current status and significance of the charter.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now the Bay is hoping to auction it off as the company struggles with financial difficulties. It has made vague noises about the sale recognizing the importance of the charter, while not explaining exactly what that would mean.",
+      "reason": "Describes the company's current intentions regarding the charter.",
+      "label": 1
+    },
+    {
+      "paragraph": "A private buyer could hypothetically purchase the charter and donate it to an institution, reaping a generous tax credit for doing so. But they might have other plans. They could try to move it out of the country, or sequester it in private hands.",
+      "reason": "Explores potential outcomes of the charter's sale.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is too much of a gamble. The safest bet would be for the government to buy the document so it can be put on display for all Canadians to see.",
+      "reason": "This paragraph suggests a solution to preserve the charter, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Acknowledging the Bay‘s charter as a prominent part of Canada’s history is not to whitewash the company’s past.",
+      "reason": "This paragraph provides context about the significance of the charter in Canadian history.",
+      "label": 1
+    },
+    {
+      "paragraph": "The British aristocrats running the company were colonial exploiters who claimed control of land inhabited by Indigenous nations, based on the racist argument that it was empty of “civilized people.” Christian missionaries followed trading routes in search of converts, leading eventually to the residential schools that are a blot on Canada’s soul.",
+      "reason": "This paragraph provides historical context about the company's colonial past, relevant to understanding the charter's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the dark moments of history don’t make its milestones any less meaningful. More than four centuries after the first permanent European settlement, in Acadia, Canadians have built the second biggest nation in the world. It stretches between three seas and is proudly independent.",
+      "reason": "This paragraph offers a broader historical perspective, but it is more general and less directly related to the charter.",
+      "label": 0
+    },
+    {
+      "paragraph": "The royal charter was a key step along that journey. As the fictional Dr. Jones would say: It belongs in a museum.",
+      "reason": "This paragraph emphasizes the importance of the charter and supports the argument for its preservation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keep your opinions sharp and informed with a helpful summary of The Globe’s most provocative columns, covering politics, world affairs, business, arts, health and the way we live",
+      "reason": "This paragraph is promotional and does not contribute to the main premise of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a call to action unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

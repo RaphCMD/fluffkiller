@@ -1,0 +1,59 @@
+{
+  "headline": "Global shares rise as U.S. futures gain amid subdued holiday trading - National | Globalnews.ca",
+  "context": [
+    "By Yuri Kageyama\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThe Associated Press",
+    "Posted May 1, 2025 7:37 am"
+  ],
+  "annotations": [
+    {
+      "paragraph": "2 min read",
+      "reason": "This is a reading time estimate and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "2:03\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWhy Trump wants to fire the Federal Reserve chair",
+      "reason": "This is a video caption unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Global shares rose Thursday in limited trading, with many markets closed for May Day, or international Labour Day holidays.",
+      "reason": "This provides relevant information about the global market conditions on the day in question.",
+      "label": 1
+    },
+    {
+      "paragraph": "Britain’s FTSE 100 inched up less than 0.1 per cent in early trading to 8,496.53. The future for the S&P 500 jumped 1.5 per cent, while that for the Dow Jones Industrial Average gained 0.7 per cent.",
+      "reason": "This paragraph provides specific data on market indices, contributing to the article's focus on market movements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tokyo’s benchmark Nikkei 225 rose 1.1 per cent to finish at 36,452.30. As expected, the Bank of Japan decided to keep its benchmark interest rate unchanged as worries mount over the impact of Trump’s policies. The central bank also cut its economic growth forecast for the fiscal year ending March 2026 by more than half, to 0.5 per cent from 1.1 per cent three months ago.",
+      "reason": "This paragraph provides relevant information on the Nikkei 225 and the Bank of Japan's decisions, which are pertinent to the article's focus on global market trends.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Considering the significant downgrading of growth and inflation forecasts in its Quarterly Outlook Report, the central bank will likely take a long pause to assess the impact of high global trade policy uncertainty on growth and inflation,” Shigeto Nagai of Oxford Economics said in a report.",
+      "reason": "This provides expert commentary on economic forecasts, relevant to the global shares and trading context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not contributing to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The U.S. dollar rose to 144.19 Japanese yen from 143.06 yen. The euro cost $1.1329, inching down from $1.1331.",
+      "reason": "This provides specific data on currency movements, relevant to the global trading context.",
+      "label": 1
+    },
+    {
+      "paragraph": "For news affecting Toronto and surrounding communities, sign up to receive Toronto news alerts when they break.",
+      "reason": "This is a promotional statement unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Australia’s S&P/ASX 200 edged up 0.2 per cent to 8,145.60.",
+      "reason": "This provides specific data on stock market movements, relevant to the global shares context.",
+      "label": 1
+    }
+  ]
+}

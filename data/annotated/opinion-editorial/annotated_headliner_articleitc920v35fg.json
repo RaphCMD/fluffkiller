@@ -1,0 +1,69 @@
+{
+  "headline": "Opinion | 5 Ways Trump's Order to Eliminate NPR and PBS Is an Assault on American Democracy | Common Dreams",
+  "context": [
+    "Late Thursday night, President Donald Trump issued an executive order aiming to eliminate federal funding for NPR and PBS. As a rationale for the move, the White House also released a so-called “fact sheet” detailing what it claims is evidence of “left-wing propaganda.”",
+    "Even if that were true—and it’s not—any government attempt to silence the press based on viewpoint is plainly unconstitutional. Expect this latest Trump order to face a comprehensive legal challenge, similar to other successful efforts in the courts to block illegal actions from the administration."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Trump’s ongoing attacks on public media are part of the administration’s concerted efforts to shut down journalism that displeases the president. Too often commercial outlets, including those controlled by conglomerates like Disney (ABC) and Paramount (CBS), are caving to official pressure, putting their profits before their democratic principles. This is why an independent, publicly funded noncommercial media system—one that holds power accountable—is essential to healthy democracies around the world.",
+      "reason": "The paragraph provides context on the importance of public media and its role in democracy, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "If we care about democracy, we should spend more—not less—on public media.",
+      "reason": "This is a general statement that does not provide new information or context specific to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Here are five ways this latest Trump order is an assault on democracy in the United States.",
+      "reason": "This sentence introduces the main argument of the article, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The White House made it clear that it’s taking this action based on Trump’s unfounded claims about coverage from NPR and PBS. This most thin-skinned of presidents has made it his job—and that of his lapdog censor at the Federal Communications Commission, Chairman Brendan Carr—to threaten and intimidate any news outlet that challenges, or even questions, his 100-day power grab. With this latest move, he’s taking it one step further, pushing to defund and destroy any public media outlet that doesn’t service his authoritarian agenda. Yet the First Amendment very clearly and succinctly prohibits the government from making any laws (and by extension, any executive orders) “abridging the freedom of speech, or of the press.”",
+      "reason": "The paragraph provides specific details about the executive order and its implications for democracy, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "In poll after poll, people of all political stripes say that federal support for NPR and PBS is taxpayer money “well spent.” In other polling, Americans find PBS to be the most-trusted U.S. institution, with 63 percent of respondents expressing “a great deal of trust” or “some trust” in the network. The same survey found PBS is the “most-trusted news network” in the country. To eliminate funding for these media institutions clearly goes against the will of the majority of Americans—and that's not the way a democracy is supposed to function.",
+      "reason": "The paragraph provides evidence of public support for NPR and PBS, which is relevant to the discussion of the executive order's impact on democracy.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Despite being the wealthiest nation on the planet, the United States impoverishes its public media infrastructures,” writes professor Victor Pickard, co-director of the University of Pennsylvania’s Media, Inequality, and Change Center (and Free Press' board chair). Pickard should know. In 2021, he co-authored a global survey with Professor Timothy Neff, which found that more robust funding for public media strengthens a given country’s democracy—with deeper public knowledge about civic affairs, more diverse media coverage and lower levels of extremist views. If we care about democracy, we should spend more—not less—on public media.",
+      "reason": "Provides context on the importance of public media funding and its impact on democracy.",
+      "label": 1
+    },
+    {
+      "paragraph": "As local newsrooms downsize or outright shut down, public-media stations fill a void. Penny Abernathy, at University of North Carolina's Center for Media Law and Policy, has extensively documented the spread of news deserts across the country. Local newspapers are closing at an exponential rate, and many local radio stations have hollowed out their newsrooms and replaced programming with nationally syndicated talk formats, often hosted by far-right figures. The expansion of news deserts across the country is a democratic issue with profound implications for our communities. Local NPR and PBS stations often provide the only local news in countless communities—and provide lifesaving information during emergencies.",
+      "reason": "Highlights the role of public media in filling the gap left by declining local news outlets.",
+      "label": 1
+    },
+    {
+      "paragraph": "The expansion of news deserts across the country is a democratic issue with profound implications for our communities.",
+      "reason": "Reiterates a point made in the previous paragraph without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Congress—not the president—has the power to craft our federal budget. While the president makes spending proposals, Congress ultimately considers, amends and approves them. The nation’s founderscreated the system in this way to specifically put federal spending outside of this sort of control. With this executive order, Trump is attempting to short-circuit this long-established check against runaway executive power.",
+      "reason": "Explains the constitutional context and implications of Trump's executive order.",
+      "label": 1
+    },
+    {
+      "paragraph": "With the right-leaning composition of Congress, few expect GOP lawmakers to speak out against Trump's move. But past Republican-led efforts to zero out funding for public broadcasting have met fierce opposition from people across the country who are ready to pick up their phones, call their representatives and senators, and tell them to save public media.",
+      "reason": "Discusses potential public and political reactions to Trump's order.",
+      "label": 1
+    },
+    {
+      "paragraph": "“All of us who care about an independent press, an informed populace, a responsive government and a thriving democracy have a stake in the outcome of this fight,” says my colleague Craig Aaron, the co-CEO of Free Press. “If we unite to defend public media—and I believe we can and will prevail—then we might just save our democracy, too.”",
+      "reason": "The quote provides a perspective on the importance of public media in democracy, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "He's exactly right.",
+      "reason": "This is a vague affirmation without adding new information or context.",
+      "label": 0
+    }
+  ]
+}

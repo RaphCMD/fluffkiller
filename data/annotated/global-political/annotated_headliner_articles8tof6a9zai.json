@@ -1,0 +1,174 @@
+{
+  "headline": "Africa's Sahel: The region with more 'terror deaths' than rest of world combined",
+  "context": [
+    "5 March 2025",
+    "BBC World Service"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The Sahel region of Africa is the \"epicentre of global terrorism\" and now, for the first time, accounts for \"over half of all terrorism-related deaths\", according to the Global Terrorism Index (GTI).",
+      "reason": "This paragraph introduces the main premise of the article with key statistics and context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Its new report says that in this semi-arid area to the south of the Sahara Desert 3,885 people out of a worldwide total of 7,555 died.",
+      "reason": "This paragraph provides specific data supporting the article's main claim.",
+      "label": 1
+    },
+    {
+      "paragraph": "The GTI report adds that while the global figure has declined from a peak of 11,000 in 2015 the figure for the Sahel has increased nearly tenfold since 2019, as extremist and insurgent groups \"continue to shift their focus\" towards the region.",
+      "reason": "This paragraph offers additional context and trends relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The index is published by the Institute for Economics and Peace, a think-tank dedicated to researching global peace and conflict.",
+      "reason": "This paragraph provides background information about the source of the report.",
+      "label": 0
+    },
+    {
+      "paragraph": "It defines terrorism as the \"threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation\".",
+      "reason": "This paragraph offers a definition that is not directly necessary for understanding the article's main points.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Sahel stretches from the west coast of Africa eastwards across the continent. The GTI's definition of the region includes parts of 10 countries: Burkina Faso, Mali, Niger, Cameroon, Guinea, The Gambia, Senegal, Nigeria, Chad and Mauritania.",
+      "reason": "Provides essential geographic context about the Sahel region relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Sahel has some of the world's highest birth rates, and almost two-thirds of the population is under 25.",
+      "reason": "Offers demographic context that may relate to the region's instability and is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unlike in the West where \"lone actor terrorism is on the rise\", the Sahel, has seen the rapid expansion of militant jihadist groups, according to the report.",
+      "reason": "Directly addresses the main premise by contrasting terrorism trends in the Sahel with those in the West.",
+      "label": 1
+    },
+    {
+      "paragraph": "It says most of the attacks there were carried out by two organisations: the Islamic State group affiliate in the Sahel and Jama'at Nusrat al-Islam wal Muslimeen (JNIM) - a branch of al-Qaeda.",
+      "reason": "Identifies key groups responsible for the terror attacks, directly relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"They're trying to introduce new legal orders,\" explains Niagalé Bagayoko, chair of the African Security Sector Network. \"They're trying to administer justice in particular based on Sharia.\"",
+      "reason": "Provides expert commentary on the motivations of the jihadist groups, relevant to understanding the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "And in the process, she says they \"are competing with one another\" for land and influence.",
+      "reason": "This quote is vague and lacks specific context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "IS-Sahel has reportedly doubled the amount of territory it controls in Mali since the country's coups of 2020 and 2021 - largely in the east near its borders with Burkina Faso and Niger - while JNIM also continued to expand its reach, according to a UN panel of experts on Mali.",
+      "reason": "This paragraph provides specific information about territorial control and expansion.",
+      "label": 1
+    },
+    {
+      "paragraph": "The GTI report notes that both groups have recruited more fighters, including child soldiers in the case of IS.",
+      "reason": "This paragraph offers new facts about recruitment practices of the groups.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"In some instances, people tend to be in a point of choicelessness by the time they decide to join a militant group,\" says Beverly Ochieng, a senior analyst specialising in Francophone Africa at Control Risks, a geopolitical risk consultancy. \"These are communities that are very vulnerable.\"",
+      "reason": "This quote provides context on the vulnerability of communities in the region.",
+      "label": 1
+    },
+    {
+      "paragraph": "The GTI report explains how political instability and weak governance are creating ideal conditions for insurgent groups to grow, pointing to conflict as \"the primary driver of terrorism\".",
+      "reason": "This paragraph offers context on the conditions fostering terrorism in the region.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Sahel is sometimes referred to as the \"coup belt\" of Africa.",
+      "reason": "This provides context about the political instability in the Sahel region.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since 2020 there have been six successful coups in the region as defined by the GTI report: two in Mali, two in Burkina Faso, one in Guinea and one in Niger. These countries are now all run by military juntas.",
+      "reason": "This paragraph provides specific details about the political changes in the Sahel region.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The Sahel has experienced a breakdown in state society,\" says Dr Folahanmi Aina, an expert on the region at SOAS University in London.",
+      "reason": "This quote provides expert commentary on the situation in the Sahel.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's been informed by years of neglect from political leaders who haven't necessarily prioritised people-centred governance and local grievances have festered, resulting in terror groups trying to leverage these.\"",
+      "reason": "This quote offers insight into the causes of instability in the Sahel.",
+      "label": 1
+    },
+    {
+      "paragraph": "There was a perception that civilian governments were unable to combat security threats from insurgent groups, \"but despite these juntas taking over, they haven't necessarily improved optics on the ground and in fact insecurity has worsened,\" says Dr Aina. \"The juntas are professionally unprepared for the rigours of governance.\"",
+      "reason": "This provides analysis on the effectiveness of military juntas in the Sahel.",
+      "label": 1
+    },
+    {
+      "paragraph": "In fact in 2024, Burkina Faso \"remained the country most affected by terrorism for the second year in a row\" according to the GTI.",
+      "reason": "Provides specific information about Burkina Faso's status in terrorism rankings.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the 14 years since the report began, it is the only country to top the list that is not Iraq or Afghanistan.",
+      "reason": "Highlights Burkina Faso's unique position in the history of the report.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jihadist groups sustain their operations in the Sahel with a range of illicit economic activities, including kidnap for ransom and cattle rustling, according to the GTI report.",
+      "reason": "Details the economic activities supporting terrorism in the Sahel.",
+      "label": 1
+    },
+    {
+      "paragraph": "The region has also become a key route for drug traffickers bringing cocaine from South America to Europe, and the report notes that \"drug trafficking represents one of the most financially lucrative illicit activities linked to terrorism in the Sahel\".",
+      "reason": "Explains the role of drug trafficking in funding terrorism in the Sahel.",
+      "label": 1
+    },
+    {
+      "paragraph": "It points out that that some groups veer away from directly engaging in organised crime, however, preferring to \"make money by imposing taxes or providing security and protection in exchange for payment\".",
+      "reason": "Describes alternative methods of funding used by terrorist groups in the Sahel.",
+      "label": 1
+    },
+    {
+      "paragraph": "It goes on to explain: \"This model not only generates revenue but also helps these groups integrate into local communities, strengthening their influence.\"",
+      "reason": "The paragraph provides insight into how insurgent groups sustain themselves and gain influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Insurgent groups are also vying for control of the Sahel's rich natural resources. Niger is the world's seventh-largest producer of uranium, and unregulated artisanal gold mines found throughout the region are often taken advantage of by the likes of IS-Sahel and JNIM.",
+      "reason": "This paragraph offers specific information about the resources insurgent groups are targeting.",
+      "label": 1
+    },
+    {
+      "paragraph": "Following the recent wave of coups, Sahel governments have pivoted away from Western allies, such as France and the US, towards China and Russia for support in tackling militants.",
+      "reason": "The paragraph provides context on geopolitical shifts affecting the region's security dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Right now we're seeing that Russia is taking more assertive control over Russian paramilitaries in the region known as the Africa Corps [formerly Wagner],\" says Ms Ochieng. \"Their work is to train and support the local armies to be able to counter the insurgency in the region, but so far it hasn't been effective.\"",
+      "reason": "This paragraph includes a direct quote that adds specific commentary on the effectiveness of foreign intervention.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a result, the GTI report warns that there is now a risk of overspill beyond the so-called \"epicentre of terror\" to neighbouring countries.",
+      "reason": "The paragraph provides a warning from a report about the potential spread of terrorism.",
+      "label": 1
+    },
+    {
+      "paragraph": "In fact, it says this may already be happening - Togo recorded 10 attacks and 52 deaths in 2024, the most since the index began. These were largely concentrated along the country's border with Burkina Faso.",
+      "reason": "This paragraph provides specific data on attacks and deaths in Togo, contributing to the article's focus on terror-related incidents in the Sahel region.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ms Ochieng agrees with this assessment, saying that \"the expansion of militant groups within the region in countries like Benin or Togo or other coastal West African states seems to be imminent\".",
+      "reason": "This paragraph includes a relevant quote that supports the article's narrative about the spread of militant activity in the region.",
+      "label": 1
+    },
+    {
+      "paragraph": "BBC Africa podcasts",
+      "reason": "This is a promotional line for BBC Africa podcasts and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

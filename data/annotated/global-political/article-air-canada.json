@@ -1,0 +1,179 @@
+{
+    "headline": "Air Canada took couple to court rather than pay $2K compensation. A year later, it gave in | CBC News",
+    "context": [
+        "Business",
+        "A couple's more than four-year battle with Air Canada over compensation for a flight delay, which wound up in court, finally ended this week. Last week, the airline dropped the court case, and, on Wednesday, it paid the couple $1,000 each for a 24-hour flight delay."
+    ],
+    "annotations": [
+        {
+            "paragraph": "Sophia Harris  · CBC News",
+            "reason": "Byline, not substantive content.",
+            "label": 0
+        },
+        {
+            "paragraph": "A B.C. couple's more than four-year battle with Air Canada over compensation for a flight delay has finally ended.",
+            "reason": "Introduces the resolution of the long-running dispute.",
+            "label": 1
+        },
+        {
+            "paragraph": "Last week, the airline dropped a court case it had launched against Andrew and Anna Dyczkowski, who live just outside Kelowna, B.C., and on Wednesday Air Canada paid them $1,000 each for a 24-hour flight delay from Vancouver to Costa Rica in January 2020.",
+            "reason": "Details the court drop and payment specifics.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"It's just my guess that they chickened out, because they knew that they couldn't actually, possibly win,\" said Andrew Dyczkowski.",
+            "reason": "Personal reaction offering insight on company motive.",
+            "label": 1
+        },
+        {
+            "paragraph": "The dispute began in February 2020 when the couple filed a complaint with the Canadian Transportation Agency (CTA), after Air Canada denied their initial compensation claim.",
+            "reason": "Provides timeline and regulatory context.",
+            "label": 1
+        },
+        {
+            "paragraph": "The CTA, Canada's transport regulator, ordered the airline to pay the couple $2,000 in compensation. Instead, in late 2023, Air Canada took the couple to court to try to overturn the ruling.",
+            "reason": "Explains the CTA’s order and the airline’s appeal action.",
+            "label": 1
+        },
+        {
+            "paragraph": "More than a year later, and just three days before a scheduled court hearing, Air Canada abandoned the case without explanation, according to court documents.",
+            "reason": "Chronicles the abrupt withdrawal timing.",
+            "label": 1
+        },
+        {
+            "paragraph": "Although he's happy the case ended in his favour, Dyczkowski still questions how and why he and his wife had to endure the protracted fight, which included a court dispute.",
+            "reason": "Highlights lingering frustration despite victory.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"Why all this mess?\" he said. \"I don't think this is right.\"",
+            "reason": "Direct quote expressing disbelief at procedural complexity.",
+            "label": 1
+        },
+        {
+            "paragraph": "But that's how the rules work. After CTA officers issue rulings on air passenger complaints, passengers or airlines wishing to contest them must take the case to Federal Court. Only the original parties in the dispute can be named in the court case, which means the CTA can't assist passengers in court.",
+            "reason": "Explains the legal framework forcing parties to court.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Dyczkowski case is the fourth CTA ruling airlines have challenged in court in 2024, and the second one filed by Air Canada. In the other case, which is still before the courts, the airline is contesting a CTA order to pay a Toronto passenger $2,079 for delayed luggage.",
+            "reason": "Puts the case in context of a wider trend of appeals.",
+            "label": 1
+        },
+        {
+            "paragraph": "While it's rare for airlines to appeal CTA decisions, there's a growing call for the federal agency to overhaul the complaints process. Advocates say this change is needed so passengers don't run the risk of a legal battle just because they filed a complaint against an airline.",
+            "reason": "Describes calls for systemic reform of the complaint process.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"Change the freaking regulation,\" said John Gradek, an aviation management lecturer at McGill University.",
+            "reason": "Expert demand underscoring need for regulatory change.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"Get the passenger out of that whole equation.\"",
+            "reason": "Pithy quote summarizing the proposed reform goal.",
+            "label": 1
+        },
+        {
+            "paragraph": "Under federal rules, airlines pay up to $1,000 compensation per passenger if a flight cancellation or delay was within their control.",
+            "reason": "States the statutory compensation limit.",
+            "label": 1
+        },
+        {
+            "paragraph": "According to CTA documents, Air Canada maintained that bad weather — which was outside its control — was the main reason for the Dyczkowskis' flight delay. The CTA officer disagreed and ordered the airline to pay up.",
+            "reason": "Contrasts airline’s weather defense with regulatory ruling.",
+            "label": 1
+        },
+        {
+            "paragraph": "In Federal Court documents, Air Canada claims the officer \"failed to properly evaluate the evidence.\"",
+            "reason": "Summarizes the airline’s legal argument on appeal.",
+            "label": 1
+        },
+        {
+            "paragraph": "Air Canada spokesperson Peter Fitzpatrick told CBC News in an email that the airline contested the CTA decision in court, because it was \"the only way to get clarity\" on how the agency's officers assess evidence in complaint cases.",
+            "reason": "Company rationale for seeking judicial review.",
+            "label": 1
+        },
+        {
+            "paragraph": "Fitzpatrick said the airline dropped the court battle because, over time, it has gained some clarity on the CTA process, which has helped it determine which compensation claims are valid.",
+            "reason": "Air Canada’s explanation for abandoning the appeal.",
+            "label": 1
+        },
+        {
+            "paragraph": "He said that the airline also abandoned the case because it felt bad for the Dyczkowskis.",
+            "reason": "Adds a human-interest justification provided by the airline.",
+            "label": 1
+        },
+        {
+            "paragraph": "But the couple's lawyer, Peter Choe, who took on the case pro bono, alleges Air Canada dropped the case to avoid a public defeat. He claims the main cause of the couple's flight delay wasn't bad weather, but instead, the airline's decision to swap the aircraft for one leg of the flight with another plane it knew had been delayed.",
+            "reason": "Presents counter-claim challenging the airline’s weather excuse.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"I believe that as they prepared for the oral hearing, Air Canada's lawyers turned their full attention back to this case and concluded they would lose,\" Choe, founder of Portmanteau Law in Toronto, wrote in an email.",
+            "reason": "Lawyer’s speculation on strategic withdrawal motive.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"Why withdraw if they were going to win?\"",
+            "reason": "Rhetorical question underscoring perceived airline capitulation.",
+            "label": 1
+        },
+        {
+            "paragraph": "Dyczkowski agrees, and says that at this point, he wishes Air Canada hadn't dropped the case.",
+            "reason": "Reinforces the couple’s desire for full judicial resolution.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"We would rather have it dealt [with] at the hearing,\" he said. \"That would prove who was right and who was wrong.\"",
+            "reason": "Direct quote expressing preference for legal adjudication.",
+            "label": 1
+        },
+        {
+            "paragraph": "Several industry and legal experts have questioned the CTA complaints process where appeals wind up in court. But the CTA has continually defended the system.",
+            "reason": "Notes the broader debate over the complaints framework.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"This is a key part of how the Canadian justice system works,\" said CTA spokesperson Jadrino Huot in an email earlier this year.",
+            "reason": "Regulator’s defense of the existing process.",
+            "label": 1
+        },
+        {
+            "paragraph": "Aviation expert Gradek argues that if an airline wants to dispute a CTA decision, it should take the agency to court, not the passenger.",
+            "reason": "Expert opinion on proper party for judicial review.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"It is a decision made by the CTA, and it should be the CTA versus the airline in front of a judge,\" he said.",
+            "reason": "Further elaboration on procedural fairness argument.",
+            "label": 1
+        },
+        {
+            "paragraph": "But Jadrino said the CTA can't be named in such cases, because the agency wasn't part of the original disputes.",
+            "reason": "Regulatory constraint explanation from CTA.",
+            "label": 1
+        },
+        {
+            "paragraph": "\"This is typical for judicial reviews [involving] government decision-making bodies,\" he said.",
+            "reason": "Contextualizes the constraint in administrative law.",
+            "label": 1
+        },
+        {
+            "paragraph": "As for Dyczkowski, he says if he ever winds up in court again with an airline, he now knows how to navigate the system.",
+            "reason": "Personal takeaway about procedural knowledge gained.",
+            "label": 1
+        },
+        {
+            "paragraph": "When asked if he had a message for Air Canada, he replied, \"Don't mess with Dyczkowski.\"",
+            "reason": "Memorable closing quote adding a punchy finish.",
+            "label": 1
+        },
+        {
+            "paragraph": "Based in Toronto, Sophia Harris covers consumer and business for CBC News web, radio and TV. She previously worked as a CBC videojournalist in the Maritimes, where she won an Atlantic Journalism Award for her work.  Got a story idea? Contact: sophia.harris@cbc.ca",
+            "reason": "Reporter bio and contact information, not part of article body.",
+            "label": 0
+        }
+    ]
+}

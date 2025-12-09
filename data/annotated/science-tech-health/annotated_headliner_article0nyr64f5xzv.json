@@ -1,0 +1,109 @@
+{
+  "headline": "New Research Challenges Traditional Cell Division | Technology Networks",
+  "context": [
+    "Scientists from The University of Manchester have changed our understanding  of how cells in living organisms divide, which could revise what students are taught at school.",
+    "In a Wellcome funded study published today (01/05/25) in Science - one of the world’s leading scientific journals – the researchers challenge conventional wisdom taught in schools for over 100 years."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Students are currently taught that during cell division, a ‘parent’ cell will become spherical before splitting into two ‘daughter’ cells of equal size and shape.",
+      "reason": "Provides background on the traditional understanding of cell division.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the study reveals that cell rounding is not a universal feature of cell division and is not how it often works in the body.",
+      "reason": "Introduces the new findings that challenge the traditional view.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dividing cells, they show, often don’t round up into sphere-like shapes. This lack of rounding breaks the symmetry of division to generate two daughter cells that differ from each other in both size and function, known as asymmetric division.",
+      "reason": "Explains the new concept of asymmetric division discovered by the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "Asymmetric divisions are an important way that the different types of cells in the body are generated, to make different tissues and organs.",
+      "reason": "Provides context on the significance of asymmetric divisions in the body.",
+      "label": 1
+    },
+    {
+      "paragraph": "Until now, asymmetric cell division has predominantly only been associated with highly specialised cells, known as stem cells.",
+      "reason": "Highlights the previous understanding of asymmetric cell division.",
+      "label": 1
+    },
+    {
+      "paragraph": "The scientists found that it is the shape of a parent cell before it even divides that can determine if they will round or not in division and determines how symmetric, or not, its daughter cells are going to be.",
+      "reason": "This paragraph introduces a key finding of the research, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Cells which are shorter and wider in shape tend to round up and divide into two cells which are similar to each other.  However, cells which are longer and thinner don’t round up and divide asymmetrically, so that one daughter is different to the other.",
+      "reason": "This paragraph provides specific details about the research findings, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The findings could have far reaching implications on our understanding of the role of cell division in disease. For example, in the context of cancer cells, this type of ‘non-round’, asymmetric division could generate different cell behaviours known to promote cancer progression through metastasis.",
+      "reason": "This paragraph discusses the potential implications of the research, which is relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Harnessing this information could also impact regenerative medicine, enabling us to better manufacture the cell types needed to regenerate damaged tissues and organs.",
+      "reason": "This paragraph explains another potential application of the research findings, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Scientists may one day be able to influence the function of daughter cells by simply manipulating their parental cell shape.",
+      "reason": "This paragraph speculates on future applications of the research, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Co-lead author Dr Shane Herbert, a senior research fellow at The University of Manchester said: “The phenomenon of mitosis - or cell division - is one of the fundamentals of life and a basic biological concept which is taught from school age.",
+      "reason": "This paragraph provides a quote from a key researcher, establishing the importance of the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Students learn that when a cell divides, it will generate a uniform spherical shape. Our study, however, shows that in real living organisms, it is not as simple as that.",
+      "reason": "This paragraph introduces the new finding that challenges traditional teachings on cell division.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our research suggests that the shape of the cell before it divides can fundamentally direct whether a cell rounds, and importantly, if its daughters are symmetric or asymmetric both in size and function.”",
+      "reason": "This paragraph provides specific details about the new findings of the research.",
+      "label": 1
+    },
+    {
+      "paragraph": "The scientists used real time imaging to study the formation of blood vessels in 1-day old transparent zebrafish embryos.",
+      "reason": "This paragraph describes the methodology used in the research, which is relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Growing blood vessels and other tissues are made of strands of collectively migrating cells.",
+      "reason": "This paragraph provides general information about cell structures, which is not directly related to the new research findings.",
+      "label": 0
+    },
+    {
+      "paragraph": "Each new vessel is led by a special fast-moving cell at the front with slower cells following behind.",
+      "reason": "This paragraph provides context about the cell division process being studied.",
+      "label": 1
+    },
+    {
+      "paragraph": "When the fast moving “tip” cell divided, the study showed, it didn’t “round-up” as expected. In doing so it was able to divide asymmetrically and generate the new fast “tip” cell at the front and a slower following cell behind it.",
+      "reason": "This paragraph describes the new findings about cell division that challenge traditional understanding.",
+      "label": 1
+    },
+    {
+      "paragraph": "Co-lead author Dr Holly Lovegrove, a lecturer at The University of Manchester said: “Using transparent 1-day old zebrafish embryos allows us to study a dynamic process like cell division inside a living organism.",
+      "reason": "This quote provides insight into the methodology used in the research.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We are therefore able to make movies of this fundamental cell behaviour and in doing so reveal exciting new aspects of how tissues grow.”",
+      "reason": "This quote elaborates on the significance of the research findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The team also used a technique using human cells called micropatterning.",
+      "reason": "This paragraph introduces another technique used in the research.",
+      "label": 1
+    }
+  ]
+}

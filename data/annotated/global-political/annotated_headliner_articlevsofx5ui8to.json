@@ -1,0 +1,84 @@
+{
+  "headline": "Palestine the world’s most dangerous place for journalists, RSF says | Israel-Palestine conflict News | Al Jazeera",
+  "context": [
+    "US President Donald Trump overseeing ‘troubling deterioration’ in press freedom in US, Reporters Without Borders says.",
+    "Palestine has become the world’s most dangerous state for journalists amid Israel’s war on Gaza, with dozens of reporters likely killed specifically due to their work, a media freedom watchdog has said."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Israeli forces killed nearly 200 journalists in the first 18 months of the war, at least 42 of whom were slain while doing their job, Reporters Without Borders said on Friday as it released its World Press Freedom Index 2025.",
+      "reason": "This paragraph provides specific statistics and a source related to the dangers faced by journalists in Palestine.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Trapped in the enclave, journalists in Gaza have no shelter and lack everything, including food and water,” said the Paris-based group, which is also known by its French acronym RSF.",
+      "reason": "This paragraph offers direct commentary on the dire conditions for journalists in Gaza.",
+      "label": 1
+    },
+    {
+      "paragraph": "“In the West Bank, journalists are routinely harassed and attacked by both settlers and Israeli forces, but repression reached new heights with a wave of arrests after 7 October, when impunity for crimes committed against journalists became a new rule.”",
+      "reason": "This paragraph provides specific information about the harassment and repression of journalists in the West Bank.",
+      "label": 1
+    },
+    {
+      "paragraph": "Journalists suspected of collaborating with Israel are also hampered in their work by Hamas and the Islamic Jihad, while a cybercrime law adopted by the Palestinian Authority limits freedom of expression and freedom of the press, RSF said in its report.",
+      "reason": "This paragraph discusses additional challenges faced by journalists from various groups, adding depth to the report's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Palestine ranked 163rd for press freedom in the latest index, a drop of six places from 2024.",
+      "reason": "This paragraph provides a specific ranking and change in press freedom status, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Of 180 jurisdictions, 112 saw declines in press freedom, with the average score globally falling to a record low of 55 points, according to the report.",
+      "reason": "This provides context on global press freedom, which is relevant to the main topic of press freedom in Palestine.",
+      "label": 1
+    },
+    {
+      "paragraph": "The United States dropped two places to a record low of 57, with the watchdog accusing US President Donald Trump of overseeing a “troubling deterioration in press freedom”.",
+      "reason": "This paragraph is not directly related to the situation in Palestine, focusing instead on the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "“President Donald Trump was elected to a second term after a campaign in which he denigrated the press on a daily basis and made explicit threats to weaponize the federal government against the media,” RSF said.",
+      "reason": "This paragraph is about US politics and not directly related to the situation in Palestine.",
+      "label": 0
+    },
+    {
+      "paragraph": "“His early moves in his second mandate to politicise the Federal Communications Commission (FCC), ban The Associated Press from the White House, or dismantle the US Agency for Global Media, for example, have jeopardised the country’s news outlets and indicate that he intends to follow through on his threats, setting up a potential crisis for American journalism.”",
+      "reason": "This paragraph focuses on US media issues, not on the situation in Palestine.",
+      "label": 0
+    },
+    {
+      "paragraph": "US politics, Canada’s multiculturalism, South America’s geopolitical rise—we bring you the stories that matter.",
+      "reason": "This is a promotional statement unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Israel dropped 11 places to 112th, with Reporters Without Borders pointing to growing restrictions on press freedom, media plurality and editorial independence since the start of the war in Gaza.",
+      "reason": "This paragraph provides relevant information about Israel's ranking and press freedom issues related to the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Since 2021, only journalists working for Channel 14, a media outlet that covers Prime Minister Benjamin Netanyahu in a favourable light, have been granted interviews with the country’s leader, who accuses the Israeli press of conspiring against him,” the group said.",
+      "reason": "This paragraph offers specific details about media access and bias in Israel, relevant to the press freedom context.",
+      "label": 1
+    },
+    {
+      "paragraph": "“In 2024, the Minister of Communication called on the government to boycott Haaretz, one of the few newspapers to criticise Netanyahu’s policies, including the massacre of civilians in Gaza – a topic that is largely suppressed.”",
+      "reason": "This paragraph provides specific information about government actions against critical media, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Eritrea was the lowest-ranked jurisdiction, just behind North Korea and China.",
+      "reason": "This paragraph is unrelated to the main topic of Palestine and Israel's press freedom issues.",
+      "label": 0
+    },
+    {
+      "paragraph": "Norway was ranked first for press freedom, followed by Estonia, the Netherlands and Sweden.",
+      "reason": "This paragraph provides general information about global press freedom rankings, not directly related to the article's focus.",
+      "label": 0
+    }
+  ]
+}

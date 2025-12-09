@@ -1,0 +1,179 @@
+{
+  "headline": "World's hottest year: 2024 first to pass 1.5C warming limit",
+  "context": [
+    "9 January 2025",
+    "Mark Poynting, Erwan Rivault and Becky Dale"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The planet has moved a major step closer to warming more than 1.5C, new data shows, despite world leaders vowing a decade ago they would try to avoid this.",
+      "reason": "This paragraph provides essential context about the significance of the 1.5C warming limit and the failure to meet previous commitments.",
+      "label": 1
+    },
+    {
+      "paragraph": "The European Copernicus climate service, one of the main global data providers, said on Friday that 2024 was the first calendar year to pass the symbolic threshold, as well as the world's hottest on record.",
+      "reason": "This paragraph presents new data and facts about 2024 being the hottest year and passing the 1.5C threshold.",
+      "label": 1
+    },
+    {
+      "paragraph": "This does not mean the international 1.5C target has been broken, because that refers to a long-term average over decades, but does bring us nearer to doing so as fossil fuel emissions continue to heat the atmosphere.",
+      "reason": "This paragraph provides important clarification about the 1.5C target and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last week UN chief António Guterres described the recent run of temperature records as \"climate breakdown\".",
+      "reason": "Provides a relevant quote from a significant figure about the temperature records.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We must exit this road to ruin - and we have no time to lose,\" he said in his New Year message, calling for countries to slash emissions of planet-warming gases in 2025.",
+      "reason": "Contains a direct call to action related to the main topic of climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "Global average temperatures for 2024 were around 1.6C above those of the pre-industrial period - the time before humans started burning large amounts of fossil fuels - according to Copernicus data.",
+      "reason": "Provides specific data about the temperature increase in 2024.",
+      "label": 1
+    },
+    {
+      "paragraph": "This breaks the record set in 2023 by just over 0.1C, and means the last 10 years are now the 10 warmest years on record.",
+      "reason": "Offers context about the trend of increasing temperatures over the past decade.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Met Office, Nasa and other climate groups are due to release their own data later on Friday. All are expected to agree that 2024 was the warmest on record, although precise figures vary slightly.",
+      "reason": "Mentions upcoming data releases that confirm the main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last year's heat is predominantly due to humanity's emissions of planet-warming gases, such as carbon dioxide, which are still at record highs.",
+      "reason": "Provides essential information about the cause of the record heat in 2024.",
+      "label": 1
+    },
+    {
+      "paragraph": "Natural weather patterns such as El Niño - where surface waters in the eastern tropical Pacific Ocean become unusually warm - played a smaller role.",
+      "reason": "Offers context on the lesser impact of natural weather patterns on the heat record.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"By far and away the largest contribution impacting our climate is greenhouse gas concentrations in the atmosphere,\" Samantha Burgess, deputy director of Copernicus, tells the BBC.",
+      "reason": "Includes a direct quote reinforcing the main cause of the heat record.",
+      "label": 1
+    },
+    {
+      "paragraph": "The 1.5C figure has become a powerful symbol in international climate negotiations ever since it was agreed in Paris in 2015, with many of the most vulnerable countries considering it a matter of survival.",
+      "reason": "Provides context on the significance of the 1.5C figure in climate discussions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The risks from climate change, such as intense heatwaves, rising sea-levels and loss of wildlife, would be much higher at 2C of warming than at 1.5C, according to a landmark UN report from 2018.",
+      "reason": "Offers context on the implications of exceeding the 1.5C warming limit.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yet the world has been moving closer and closer to breaching the 1.5C barrier.",
+      "reason": "This paragraph provides context about the ongoing trend towards breaching the 1.5C limit.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"When exactly we will cross the long-term 1.5C threshold is hard to predict, but we're obviously very close now,\" says Myles Allen of the Department of Physics at the University of Oxford, and an author of the UN report.",
+      "reason": "This quote provides expert commentary on the uncertainty and proximity of crossing the 1.5C threshold.",
+      "label": 1
+    },
+    {
+      "paragraph": "The current trajectory would likely see the world pass 1.5C of long-term warming by the early 2030s. This would be politically significant, but it wouldn't mean game over for climate action.",
+      "reason": "This paragraph offers a prediction and discusses the political implications of passing the 1.5C threshold.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's not like 1.49C is fine, and 1.51C is the apocalypse - every tenth of a degree matters and climate impacts get progressively worse the more warming we have,\" explains Zeke Hausfather, a climate scientist at Berkeley Earth, a research group in the US.",
+      "reason": "This quote provides expert insight into the significance of small temperature changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even fractions of a degree of global warming can bring more frequent and intense extreme weather, such as heatwaves and heavy rainfall.",
+      "reason": "This paragraph explains the impact of small increases in global temperature on weather patterns.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2024, the world saw blistering temperatures in west Africa, prolonged drought in parts of South America, intense rainfall in central Europe and some particularly strong tropical storms hitting north America and south Asia.",
+      "reason": "Provides specific examples of extreme weather events in 2024, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "These events were just some of those made more intense by climate change over the last year, according to the World Weather Attribution group.",
+      "reason": "Attributes the intensity of events to climate change, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even this week, as the new figures are released, Los Angeles has been overwhelmed with destructive wildfires fuelled by high winds and a lack of rain.",
+      "reason": "Provides a current example of extreme weather, relevant to the ongoing impact of climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "While there are many contributing factors to this week's events, experts say conditions conducive to fires in California are becoming more likely in a warming world.",
+      "reason": "Explains the increasing likelihood of such events due to global warming, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "It wasn't only air temperatures that set new marks in 2024. The world's sea surface also reached a new daily high, while the total amount of moisture in the atmosphere reached record levels.",
+      "reason": "Provides additional data on record-breaking climate indicators in 2024, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "That the world is breaking new records is not a surprise: 2024 was always expected to be hot, because of the effect of the El Niño weather pattern - which ended around April last year - on top of human-caused warming.",
+      "reason": "Provides context on why 2024 was expected to be a hot year.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the margin of several records in recent years has been less expected, with some scientists fearing it could represent an acceleration of warming.",
+      "reason": "Discusses unexpected aspects of recent temperature records, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think it's safe to say that both 2023 and 2024 temperatures surprised most climate scientists - we didn't think we'd be seeing a year above 1.5C this early,\" says Dr Hausfather.",
+      "reason": "Provides a direct quote from a climate scientist about the unexpected temperature rise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Since 2023 we've had around 0.2C of extra warming that we can't fully explain, on top of what we had expected from climate change and El Niño,\" agrees Helge Gößling, a climate physicist at the Alfred Wegener Institute in Germany.",
+      "reason": "Offers expert commentary on unexplained warming, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "AFP",
+      "reason": "This is a credit line and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Various theories have been suggested to explain this 'extra' warmth, such as an apparent reduction in the low-level cloud cover that tends to cool the planet, and prolonged ocean heat following the end of El Niño.",
+      "reason": "Provides explanations for the increased warmth, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The question is whether this acceleration is something persistent linked to human activities that means we will have steeper warming in the future, or whether it is a part of natural variability,\" Dr Gößling adds.",
+      "reason": "Raises a critical question about the cause of warming, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"At the moment it's very hard to say.\"",
+      "reason": "Provides no new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Despite this uncertainty, scientists stress that humans still have control over the future climate, and sharp reductions in emissions can lessen the consequences of warming.",
+      "reason": "Discusses human impact on future climate, relevant to the topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Even if 1.5 degrees is out the window, we still can probably limit warming to 1.6C, 1.7C or 1.8C this century,\" says Dr Hausfather.",
+      "reason": "Provides potential future scenarios for climate warming, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"That's going to be far, far better than if we keep burning coal, oil and gas unabated and end up at 3C or 4C - it still really matters.\"",
+      "reason": "The quote provides a perspective on the importance of limiting global warming, which is relevant to the headline.",
+      "label": 1
+    }
+  ]
+}

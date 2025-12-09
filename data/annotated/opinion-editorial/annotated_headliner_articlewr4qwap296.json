@@ -1,0 +1,109 @@
+{
+  "headline": "Donald Trump Is Making America Dumber—On Purpose | Opinion - Newsweek",
+  "context": [
+    "Not that long ago, if someone was suffering from anxiety, depression, even moodiness, doctors thought it was a great idea to cut out a piece of their brain. The cure might be staggeringly worse than the disease—it could leave the patient confused, unable to think clearly, or even catatonic (memorably depicted in \"One Flew Over the Cuckoo's Nest\")—but at least the patient wouldn't have that pesky anxiety anymore. Of course, eventually, the medical field began to see this approach as an embarrassing mistake.",
+    "President Donald Trump has made it the cornerstone of his second term."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Trump is lobotomizing America. He is directly and intentionally attacking the functioning of our collective brain in order to achieve his own quixotic ends. Under cover of fighting a range of real or imagined afflictions— illegal immigration, America's manufacturing decline; diversity, equity, and inclusion (DEI) programs; and government inefficiency—Trump's administration has launched a multi-front war on America's intelligence. This campaign is not only winning, it's creating what might be a permanent rout, a generational degrading of our intellectual capacity.",
+      "reason": "The paragraph introduces the main argument of the article, detailing Trump's alleged actions and their impact on America's intelligence.",
+      "label": 1
+    },
+    {
+      "paragraph": "The tactics boil down to a one-two punch: jabs aimed at eroding the smarts of any opposition, haymakers of dumbed-down blather that overwhelm nuanced thought.",
+      "reason": "This paragraph outlines the tactics used by Trump, contributing to the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The jabs fell first inside the government, as the experts, nerds, and people who know how to do math and operate technology were hounded out (or \"traumatized\" into quitting, as Office of Management and Budget head Russell Vaught would have it).",
+      "reason": "The paragraph provides specific examples of how Trump's tactics were implemented within the government.",
+      "label": 1
+    },
+    {
+      "paragraph": "A very shortened list of examples: the specialists in the Pentagon's Defense Digital Service responsible for rapid tech development resigned en masse; key personnel at the National Nuclear Security Administration overseeing our nuclear weapons and scientists at the Agriculture Department fighting bird flu were fired; experts across U.S. health agencies focused on cutting-edge biomedical research were axed (by DOGE staffers with no scientific background); and the professionals who collect data on issues from drug use to education to maternal mortality have been laid off and their offices shuttered (apparently it's not enough to sever our neurons, we must also disconnect our eyes from our frontal lobes).",
+      "reason": "This paragraph provides detailed examples of the impact of Trump's actions on various government agencies.",
+      "label": 1
+    },
+    {
+      "paragraph": "Outside government, it's hard to find a discipline that requires an advanced degree—medicine, law, sciences, and all manner of advanced study—that has not come under withering MAGA attack.",
+      "reason": "The paragraph expands the scope of the argument to include the impact on fields outside of government.",
+      "label": 1
+    },
+    {
+      "paragraph": "American institutions of science have been shattered, research that is the vein of economic prosperity and well-being for our kids' generation severed. We may have literally discovered alien life last week (really) and yet remain unable to confirm it due to DOGE cuts.",
+      "reason": "This paragraph discusses the impact of Trump's policies on science and research, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Evidence-based medicine is verboten: a doctor overseeing vaccines and public health tapped out under a flood of lies from Health and Human Services Secretary Robert F. Kennedy Jr., while a vaccine skeptic previously punished for practicing medicine without a license was tapped in.",
+      "reason": "This paragraph provides specific examples of how Trump's administration is undermining evidence-based medicine, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The front lines of our legal edifice have been divided and conquered, with premier law firms knuckling under and meekly promising to shut up and work for Trump, while the Supreme Court carefully pulls its punches to avoid a showdown. And the administration is attacking education at all levels: defunding, harassing, and bullying top universities, while removing the grants, loans, and data that keep elementary schools operating.",
+      "reason": "This paragraph details Trump's impact on the legal and educational systems, aligning with the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "By attempting to crash all these fields while trying to pump up the most old-fashioned forms of manufacturing through his tariff sledgehammer, Trump seems literally to want to drive Americans from sectors requiring thought and invention to screwing in widgets on assembly lines. This isn't exactly the Cultural Revolution, where Mao Zedong—distrustful of intellectuals and scientists—forced the country's best minds into menial labor. But there's an echo.",
+      "reason": "The paragraph draws a parallel between Trump's policies and historical events, contributing to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "And while the jabs systematically pick apart our intellectual defenses, the haymakers of gray goo erupting from MAGA mouthpieces are boring into our heads and leaving us woozy.",
+      "reason": "This paragraph uses metaphorical language to describe the impact of Trump's rhetoric, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's absurd tariff plan has been the subject of not one but three truthy arguments from his administration that directly and obviously contradict one another (note: you can't raise more money from tariffs, lower global tariffs, and nurture domestic manufacturing at the same time). But they seem confident that they can skate by on the \"Dopeler effect\"—where stupid ideas sound smarter when they come at you really fast.",
+      "reason": "This paragraph discusses Trump's contradictory tariff plans, directly relating to the headline's premise of making America dumber.",
+      "label": 1
+    },
+    {
+      "paragraph": "They're also big on using \"four legs good, two legs bad\"-style repetition of simplistic ideas. In responding to their admitted error and clear loss in the Supreme Court in the Kilmar Abrego Garcia case—where the administration erroneously shipped a man to a foreign gulag despite a court order to let him remain—the White House press secretary held a briefing featuring a grieving mother whose daughter was murdered by a different undocumented migrant.",
+      "reason": "This paragraph illustrates the administration's use of simplistic repetition and distraction tactics, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "No real connection between the cases? No matter, just keep repeating: you're either with migrants, or you ain't. \"It's really quite that simple,\" White House counterterror czar Sebastian Gorka said. \"We have people who love America, like the president, like his cabinet, like the directors of his agencies, who want to protect Americans. And then there is the other side, that is on the side of the cartel members, on the side of the illegal aliens.\"",
+      "reason": "This paragraph provides a quote illustrating the administration's binary rhetoric, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's team not only releases these insipid logic lemons, it also brings in willing shills to disseminate them, and assails media outlets that dare try to point out any finer print. So while the mainstream media has been deftly defanged—ABC News settled Trump's dubious defamation lawsuit and the longtime producer of 60 Minutes stepped down as CBS has started scurrying under a similar legal threat—right-wing operatives have been given prime access to gleefully amplify even the dimmest Trumpisms.",
+      "reason": "This paragraph discusses the administration's strategy to control media narratives, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Why is Trump doing all this? The simple version is, well, simple: getting rid of government data makes it harder to see the disastrous impact of his policies, getting rid of government experts makes it harder to stop his ideological agenda, and drowning the world in dumb rhetoric evokes the Carl Sandburg line: \"If the facts are against you, argue the law; if the law is against you, argue the facts; if the law and the facts are against you, pound the table and yell like hell.\"",
+      "reason": "This paragraph explains the rationale behind Trump's actions, directly related to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "But then there's the sinister version. In \"Examination Day,\" an episode from the 1985 revival of The Twilight Zone, a 12 year-old boy is required to undergo a government-mandated intelligence test. The dystopian twist is that the test is intended to find not a floor, but a ceiling. When the boy exceeds the legal IQ limit, he's executed.",
+      "reason": "This paragraph is a tangential reference to a fictional story and does not directly relate to Trump's actions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump may not be planning anything so explicit in his great American dumb-down. But he surely does want to make his own assertion of reality the basis for every political question and not compete with objective reality. Kellyanne Conway's infamous assertion that there are such things as \"alternative facts\" was merely the tip of the iceberg. As Winston Smith realized in 1984, \"freedom is the freedom to say that two plus two make four.\" Trump's goal is to make the proposition that two plus two makes five at least open to debate. If the intellectual opposition is out of the way, he can supply all the answers.",
+      "reason": "This paragraph provides direct commentary on Trump's approach to reality and facts, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "To be sure, we're a long way from that kind of explicit tyranny. But even if we escape becoming a Trumpian autocracy, we may still be sliding toward an American idiocracy.",
+      "reason": "This paragraph offers a speculative conclusion without new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Matt Robison is a writer, podcast host, and former congressional staffer.",
+      "reason": "This is background information about the author, not relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The views expressed in this article are the writer's own.",
+      "reason": "This is a standard disclaimer and does not contribute to the article's content.",
+      "label": 0
+    }
+  ]
+}

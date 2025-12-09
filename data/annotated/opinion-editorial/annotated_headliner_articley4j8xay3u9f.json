@@ -1,0 +1,44 @@
+{
+  "headline": "Polygon sold to Valnet, editorial staff hit with layoffs | GamesIndustry.biz",
+  "context": [
+    "The owner of Game Rant has acquired the video game and pop culture website from Vox Media",
+    "Video game and pop culture website Polygon has been acquired by The Gamer and Game Rant owner Valnet, with numerous long-time staff members revealing they've either been laid off or have chosen to leave as part of the sale."
+  ],
+  "annotations": [
+    {
+      "paragraph": "As reported by Kotaku, co-founder and editor-in-chief Chris Plante, senior writer Michael McWhertor, deputy editor Matthew Reynolds, games writer Tyler Colp, and senior reporter Nicole Carpenter are among those sharing that they're no longer with Polygon on social media.",
+      "reason": "This paragraph provides specific information about key staff members leaving Polygon, which is directly related to the layoffs mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Deputy editor Maddy Myers and games editor Zoë Hannah are among those still working on the site following the acquisition, according to Kotaku's report.",
+      "reason": "This paragraph provides information about staff members who remain at Polygon, which is relevant to the changes in the editorial team following the acquisition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Polygon was previously owned by Vox Media, owners of The Verge.",
+      "reason": "This paragraph provides background information about Polygon's previous ownership, which is relevant to understanding the context of the acquisition.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It is with immense pride and gratitude that we welcome Polygon into our growing family of world-class gaming brands,\" said Valnet founder and CEO Hassan Youssef in a statement.",
+      "reason": "This paragraph contains a statement from Valnet's CEO about the acquisition, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Polygon was founded in 2012 with an emphasis on long-form feature content around video games, and reaches around 6 million users in the US, according to Comscore.",
+      "reason": "This paragraph provides background information about Polygon's founding and audience reach, which is not directly related to the acquisition or layoffs.",
+      "label": 0
+    },
+    {
+      "paragraph": "Following the sale, Vox Media said it will focus resources on other areas of its business.",
+      "reason": "This paragraph provides context on Vox Media's strategic focus following the sale.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This transaction will enable us to focus our energies and investment resources in other priority areas of growth across our portfolio of iconic digital publications and audio/video programming, while enabling Valnet to grow their leadership and authority in the gaming information category,\" Vox Media's CEO Jim Bankoff said in a statement announcing the sale.",
+      "reason": "The quote from Vox Media's CEO provides direct commentary on the implications of the sale.",
+      "label": 1
+    }
+  ]
+}

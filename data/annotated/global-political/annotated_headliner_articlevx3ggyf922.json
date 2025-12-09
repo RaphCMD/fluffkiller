@@ -1,0 +1,114 @@
+{
+  "headline": "Syrian Druze leader condemns government over sectarian violence | News | Al Jazeera",
+  "context": [
+    "Syrian Druze leader condemns ‘genocidal campaign’ after dozens killed in clashes south of Damascus.",
+    "A leader of Syria’s Druze minority has condemned attacks against his community after dozens of people were killed in two days of sectarian clashes south of Damascus."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Sheikh Hikmat al-Hijri on Thursday denounced the violence in Jaramana and Sahnaya near Damascus earlier this week as a “genocidal campaign” against the Druze community in Syria.",
+      "reason": "Provides a direct quote from the Druze leader condemning the violence, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Syria’s Ministry of Information said 11 members of the country’s security forces were killed in two separate attacks.",
+      "reason": "Offers specific details about casualties, contributing to the understanding of the conflict's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "The United Kingdom-based Syrian Observatory for Human Rights (SOHR), a war monitor, said at least 101 people were killed in fighting between security forces, allied fighters and local Druze groups.",
+      "reason": "Provides important casualty figures and context about the scale of the violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "The SOHR, which relies on a network of sources in Syria, said the death toll included 30 government loyalists, 21 Druze fighters and 10 civilians, including Sahnaya’s former mayor, Husam Warwar.",
+      "reason": "Gives a detailed breakdown of the casualties, adding depth to the report on the violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the southern province of Sweida, heartland of the Druze minority, it said 40 Druze fighters were killed, 35 in an “ambush” on the Sweida-Damascus road on Wednesday.",
+      "reason": "Provides specific information about the location and nature of the attacks, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The clashes broke out around midnight Monday after an audio clip circulated on social media of a man criticising Islam’s Prophet Muhammad. The audio was attributed to a Druze scholar. But the scholar, Marwan Kiwan, said in a video posted on social media that he was not responsible for the audio, which angered many Sunni Muslims.",
+      "reason": "Provides context on the cause of the clashes and the involvement of a Druze scholar.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Wednesday afternoon, the Syrian government said a deal was reached between Druze dignitaries and official representatives after which security forces and pro-government fighters entered Sahnaya and Druze gunmen withdrew from the streets.",
+      "reason": "Details the resolution efforts and actions taken by the government and Druze dignitaries.",
+      "label": 1
+    },
+    {
+      "paragraph": "Videos on social media showed what appeared to be pro-government armed groups beating Druze men they had captured in Sahnaya and making offensive sectarian remarks.",
+      "reason": "Describes the actions of pro-government groups, adding to the narrative of sectarian violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This collective killing is systematic, clear, visible, and documented,” read al-Hijri’s statement. “We no longer trust a group that calls itself a government, because the government doesn’t kill its own people through extremist gangs that are loyal to it, and after the massacre claims they are loose forces.”",
+      "reason": "Contains a direct quote from the Druze leader condemning the government, central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get real-time breaking news alerts and stay up-to-date with the most important headlines from around the globe.",
+      "reason": "Generic call-to-action unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The violence poses a serious challenge to the country’s new authorities, who toppled longtime ruler Bashar al-Assad in December. It comes after a wave of massacres in March in Syria’s Alawite heartland on the Mediterranean coast in which security forces and allied groups killed more than 1,700 civilians, mostly Alawite, according to the SOHR.",
+      "reason": "Provides context on the broader sectarian violence and challenges facing the new authorities.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israeli officials have expressed support for the Druze, with Defence Minister Israel Katz warning his country would respond “with significant force” if Syria’s new authorities fail to protect the minority community.",
+      "reason": "Details international reactions and potential consequences related to the Druze community's situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a later statement, Katz said, “Should the attacks on the Druze resume and the Syrian regime fail to prevent them, Israel will respond with significant force.”",
+      "reason": "Reiterates a previous statement without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Foreign Minister Asaad al-Shaibani on Thursday reiterated Syria’s rejection of demands for international intervention, posting on X that “national unity is the solid foundation for any process of stability or revival”.",
+      "reason": "Provides the Syrian government's stance on international intervention, relevant to the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Any call for external intervention, under any pretext or slogan, only leads to further deterioration and division,” he added.",
+      "reason": "Expands on the Syrian government's position against external intervention.",
+      "label": 1
+    },
+    {
+      "paragraph": "Most Druze spiritual leaders and factions have opted to air their grievances in closed communication with the new government, but concerns have heightened after a crackdown on al-Assad loyalists in Syria’s coastal province turned into a series of targeted revenge attacks against the Alawite minority group.",
+      "reason": "Provides context on the Druze community's response and the broader sectarian tensions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Videos widely circulated of houses burned down and bloodied bodies of Alawite on the streets. Tens of thousands of Alawite fled south to neighbouring Lebanon, and many are too scared to return.",
+      "reason": "Describes the impact of the violence on the Alawite community, relevant to the sectarian conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Druze have since become reluctant to lay down their arms, which they say they need for protection.",
+      "reason": "Directly relates to the Druze community's reaction to the violence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Source",
+      "reason": "Indicates a placeholder or incomplete information.",
+      "label": 0
+    },
+    {
+      "paragraph": ":",
+      "reason": "Incomplete or irrelevant content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Al Jazeera and news agencies",
+      "reason": "This is a source attribution and does not contribute new information to the article.",
+      "label": 0
+    }
+  ]
+}

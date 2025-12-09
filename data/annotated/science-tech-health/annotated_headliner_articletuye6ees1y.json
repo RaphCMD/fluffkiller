@@ -1,0 +1,304 @@
+{
+  "headline": "Ontario Science Centre workers say goodbye as repairs continue | CBC News",
+  "context": [
+    "As the sun shone on an unusually warm day at the end of October, Emma Meadley Dunphy took one final, emotional stroll through the Ontario Science Centre.",
+    "The centre's volunteer co-ordinator wandered the cavernous spaces trying to soak it all in, before workers had to be out of the building by midday on Oct. 31."
+  ],
+  "annotations": [
+    {
+      "paragraph": "\"I kept running into lots of different people who were doing it themselves,\" she said. \"Everybody was clearly having a moment in each of the spaces.\"",
+      "reason": "This paragraph provides a direct quote that adds emotional context to the workers' farewell.",
+      "label": 1
+    },
+    {
+      "paragraph": "It had been a furious few months of packing up and sending countless truckloads of stuff to storage facilities in numerous locations.",
+      "reason": "This paragraph provides context about the logistical efforts involved in the closure.",
+      "label": 1
+    },
+    {
+      "paragraph": "A few things too difficult to move were still in the building. Questions hung in the air, too. Did it really need to be this way? Would they ever come back?",
+      "reason": "This paragraph raises questions and concerns about the closure, adding depth to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Staff not immediately informed of closure, union steward says:",
+      "reason": "This is a prompt for a video, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "What it's like for staff inside the closed Ontario Science Centre",
+      "reason": "This is a headline or subheading, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "10 months ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ontario officials announced the abrupt and permanent closure of the science centre in late June, saying engineers found structural issues with the roof.",
+      "reason": "This provides essential context about the closure of the science centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "The province plans to move the science centre to a new location as part of a revamped Ontario Place. The move sparked outrage among workers, nearby residents and visitors and has become a political hot potato for Premier Doug Ford at Queen's Park.",
+      "reason": "This paragraph provides important information about the future plans for the science centre and the political implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "On her final day in the building, Meadley Dunphy visited a few places that had been meaningful to her.",
+      "reason": "This is a personal anecdote that does not add new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "She visited the camp room where she worked as a volunteer in high school some 20 years ago.",
+      "reason": "This is a personal anecdote that does not contribute to the main premise of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Then she stopped by the rainforest, or what remains of it.",
+      "reason": "This paragraph provides a narrative progression of Meadley Dunphy's final walk through the Science Centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "The animals that lived there — turtles, snakes, fish and poisonous frogs — have been re-homed, while much of the vegetation was ripped out and transplanted at the Toronto Zoo.",
+      "reason": "This paragraph provides new facts about the relocation of animals and vegetation from the rainforest exhibit.",
+      "label": 1
+    },
+    {
+      "paragraph": "Five large trees, too big to move, are still there and should survive, so long as the building's automated watering system continues working and the heat remains on.",
+      "reason": "This paragraph offers specific information about the condition and future of the remaining trees in the rainforest exhibit.",
+      "label": 1
+    },
+    {
+      "paragraph": "CBC Explains",
+      "reason": "This is a section header and does not contribute to the narrative or provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "On stressful work days, Meadley Dunphy said she would often find herself visiting the rainforest. The dewy, earthy smell relaxed her.",
+      "reason": "This paragraph provides personal commentary that adds emotional context to Meadley Dunphy's connection to the rainforest.",
+      "label": 1
+    },
+    {
+      "paragraph": "Despite the lack of vegetation, the smell remains. But it's not the same, she said.",
+      "reason": "This paragraph provides a sensory detail that adds to the emotional atmosphere but does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"That magic is gone.\"",
+      "reason": "This quote adds emotional depth but does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Meadley Dunphy spent the past few months winding up the centre's volunteer operations, helping with camps that still ran off-site.",
+      "reason": "This paragraph provides relevant information about the activities and responsibilities of the workers during the transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Like most other workers, she also helped pack.",
+      "reason": "This sentence provides relevant information about the workers' involvement in the transition process.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's not my normal job, but it's a very sad reminder about what's happening and there's no way to escape that,\" she said, tearing up.",
+      "reason": "This quote provides insight into the emotional impact on the workers, relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Before they had to clear out that day, science centre workers had an ice cream party for 28 cleaning staff who were laid off by Dexterra, the company that managed them.",
+      "reason": "Provides specific details about the workers' final day and the layoff situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "It was their final day on the job. While the pay hadn't been great at $16.50 per hour, the cleaners had union jobs with benefits and a full pension.",
+      "reason": "Offers context about the workers' employment conditions and the significance of the layoffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ford pledged to help find them a job \"within the system,\" but that never happened, said Martin Fischer, the president of Local 549 of Ontario Public Service Employees Union, which represents about 500 science centre workers.",
+      "reason": "Includes a relevant quote about unfulfilled promises to laid-off workers.",
+      "label": 1
+    },
+    {
+      "paragraph": "But they were buoyed by support from the public after news of the layoffs broke in September, he said.",
+      "reason": "Mentions public support, which is relevant to the workers' situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It is heartbreaking, but they have gotten to a good head space,\" Fischer said.",
+      "reason": "Provides a low-information quote without adding new facts.",
+      "label": 0
+    },
+    {
+      "paragraph": "He said he is still holding out hope that workers might someday return to the building.",
+      "reason": "This paragraph provides a personal perspective on the future of the workers, which is relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "He pointed to ongoing repair work as the source of that hope. There is scaffolding in the great hall and the auditorium that allows access to the roof, where engineers had identified panels in danger of collapsing.",
+      "reason": "This paragraph provides specific details about the repair work, which is relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The heating in Building B, which housed many exhibits, theatres and the great hall, has been fixed.",
+      "reason": "This paragraph provides specific information about repairs, contributing to the narrative of ongoing work.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We do appreciate that the building is being repaired, but, of course, everybody wonders, what for? What is it going to be?\" Fischer said.",
+      "reason": "This quote reflects uncertainty about the future, adding depth to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"So, I haven't given up hope that we can return.\"",
+      "reason": "This quote reiterates hope for returning, but adds no new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Canadian Press has reached out to the science centre with several questions about the state of affairs.",
+      "reason": "This paragraph does not provide new information or context about the workers' situation or the repairs.",
+      "label": 0
+    },
+    {
+      "paragraph": "Infrastructure Ontario and Infrastructure Minister Kinga Surma's office did not respond to requests for comment.",
+      "reason": "This paragraph does not add new information about the workers or the repairs.",
+      "label": 0
+    },
+    {
+      "paragraph": "About 10 workers have taken a buyout, Fischer said, while many others are worried where they'll end up.",
+      "reason": "This paragraph provides specific information about the workers' situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The province is looking for an interim location for the science centre with its permanent new space set to open in 2028 at the earliest.",
+      "reason": "This paragraph provides relevant information about the future plans for the science centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Province defends science centre closure:",
+      "reason": "This is a prompt for a video and does not provide textual information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Oct. 31 was a difficult day for Fischer, who worked at a science centre in Switzerland, where he grew up, before moving to Ontario with his Canadian wife.",
+      "reason": "Provides personal context about a worker's connection to the science centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The only place I ever applied for jobs in Canada was at the Ontario Science Centre,\" he said.",
+      "reason": "Highlights the worker's dedication and connection to the Ontario Science Centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "Next year will mark his 25th at the centre.",
+      "reason": "Indicates the worker's long tenure at the science centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think many of us are neurodivergent here. We think outside the box, like exploring the world on our own terms,\" Fischer said. \"And the science centre is this utopia where kids — and us workers — can be themselves.\"",
+      "reason": "Provides insight into the culture and environment of the science centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ward Kennedy can clearly remember his first visit to the science centre in 1970, when he was six years old.",
+      "reason": "Offers a nostalgic personal memory unrelated to the main event.",
+      "label": 0
+    },
+    {
+      "paragraph": "He grew up in nearby Flemingdon Park, so his family visited the centre often.",
+      "reason": "This provides personal background information unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I remember the 25-cent submarine sandwiches and the old cafeteria, which was very, very tiny, and I remember the parabolic dishes at either end of one of the buildings where we could talk and our voice would travel across to the other side,\" Kennedy said.",
+      "reason": "This is a nostalgic personal memory that does not contribute to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"It's a special place.\"",
+      "reason": "This is a vague generalization that does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "He served as a volunteer ham radio operator and helped run the science centre's amateur radio station.",
+      "reason": "This provides relevant information about the individual's role at the science centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last year, the science centre had fixed the antenna system on the roof and installed a new rotor within it, so they could move it around properly.",
+      "reason": "This provides relevant information about recent repairs at the science centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "As things wound down this October, Kennedy helped dismantle the radio equipment and send it off to storage.",
+      "reason": "This paragraph provides specific information about the dismantling of equipment as part of the closure process.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There are no plans in the future to install a new amateur radio station at a new Ontario Science Centre,\" he said.",
+      "reason": "This quote provides direct commentary on future plans for the Ontario Science Centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "He listed off more of the items that are gone now, sent away to places across the province.",
+      "reason": "This paragraph adds details about the distribution of items from the Science Centre.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | What the centre's engineering reports say:",
+      "reason": "This is a prompt for a video, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Here’s what the Ontario Science Centre engineering reports found",
+      "reason": "This is a vague introduction to a report without providing specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "10 months ago",
+      "reason": "This is a timestamp and does not contribute to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Toronto Bee Collective came and took the dozen or so bee hives that are now set up at Black Creek Pioneer Village, he said.",
+      "reason": "This provides specific information about the relocation of bee hives, contributing to the narrative of the Science Centre's closure.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gone too are the iconic Canadarm and the fin whale skeleton, which he said were especially difficult to take down.",
+      "reason": "This details the removal of significant exhibits, relevant to the story of the Science Centre's closure.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The last several weeks has been very frustrating and emotionally draining,\" he said. \"I'm depressed about it.\"",
+      "reason": "This quote provides emotional context from a worker, relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Kennedy said staff left a few big-ticket items behind, and he isn't sure why. There's a ship's propeller, and the cross-section of a massive Sitka spruce tree trunk.",
+      "reason": "This provides information about items left behind, contributing to the narrative of the closure.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There's a whole crapload of stuff that's still left,\" he said.",
+      "reason": "The quote is vague and does not provide specific information about the situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "Back when the science centre was full and Kennedy would come in for a 6 a.m. shift, he'd take some time for himself to walk around the building alone.",
+      "reason": "This is a personal anecdote that does not add new information about the current situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "He choked up as he recalled taking his daughter, years ago, to KidSpark — an interactive environment at the centre for younger children. This past spring, he brought her again, this time with his granddaughter in tow.",
+      "reason": "This is a personal story that does not contribute new facts about the current state of the Science Centre.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"It just meant so much,\" he said. \"I wish I could have taken them more often because it's a one-of-a-kind building.\"",
+      "reason": "The quote is emotional but does not provide new information about the Science Centre's current situation.",
+      "label": 0
+    }
+  ]
+}

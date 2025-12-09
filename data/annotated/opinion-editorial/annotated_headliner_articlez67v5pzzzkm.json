@@ -1,0 +1,19 @@
+{
+  "headline": "The Federal Reserve Can Do a Better Job. Here's Six Ways - Bloomberg",
+  "context": [
+    "May 1, 2025 at 9:00 AM EDT",
+    "Nowhere to hide."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The US Federal Reserve is undertaking a major rethink of how it manages the world’s largest economy. Done right, the so-called monetary policy framework review could render the central bank much better able to handle the kinds of economic shocks and policy uncertainties that the current US administration has proven adept at delivering.",
+      "reason": "This paragraph provides essential context about the Federal Reserve's review of its monetary policy framework, which is directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Chair Jerome Powell shouldn’t let President Donald Trump get in the way of this crucial work.",
+      "reason": "This paragraph offers direct commentary on the potential influence of President Trump on the Federal Reserve's work, which is relevant to the article's focus.",
+      "label": 1
+    }
+  ]
+}

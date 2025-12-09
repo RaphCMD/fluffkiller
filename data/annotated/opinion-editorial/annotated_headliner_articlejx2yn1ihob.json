@@ -1,0 +1,79 @@
+{
+  "headline": "Carney’s accounting reduces transparency, accountability | Financial Post",
+  "context": [
+    "If borrowing is fine for spending that goes into the capital account, soon all spending will be categorized as capital",
+    "By Jake Fuss and Grady Munro"
+  ],
+  "annotations": [
+    {
+      "paragraph": "All Canadians should care about government transparency. The federal government should provide timely and comprehensible reporting on its finances so Canadians know whether the government is staying true to its promises. But the Carney government’s new spending framework — which increases complexity and ambiguity in the federal budget — will instead reduce transparency and make it harder for Canadians to hold the government accountable.",
+      "reason": "This paragraph introduces the main issue of reduced transparency and accountability due to the new spending framework.",
+      "label": 1
+    },
+    {
+      "paragraph": "The government plans to separate federal spending into two budgets: operating and capital. Government salaries, cash transfers to the provinces and to individual Canadians (e.g., Old Age Security) will fall within the operating budget, while spending on “anything that builds an asset” will count as capital. The government plans to balance the operating budget by 2028-29 but fund increased spending within the capital budget with more borrowing.",
+      "reason": "This paragraph provides specific details about the new spending framework and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get the latest headlines, breaking news and columns.",
+      "reason": "This is a generic call to action for subscribing to updates, not related to the article's main content.",
+      "label": 0
+    },
+    {
+      "paragraph": "A welcome email is on its way. If you don't see it, please check your junk folder.",
+      "reason": "This is a generic message about email subscription, not related to the article's main content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The next issue of Top Stories will soon be in your inbox.",
+      "reason": "This is a generic message about email subscription, not related to the article's main content.",
+      "label": 0
+    },
+    {
+      "paragraph": "According to the Liberal Party platform, this accounting change will “create a more transparent categorization of the expenditure that contributes to capital formation in Canada.” In reality, it will muddy the waters, making it harder to evaluate the true state of federal finances.",
+      "reason": "The paragraph discusses the impact of the accounting change on transparency and evaluation of federal finances.",
+      "label": 1
+    },
+    {
+      "paragraph": "First off, the change will make it more difficult to tell how big the deficit is. If fiscal policy evolves as planned, in 2028-29 the government will claim it has “balanced the budget” — because revenues now cover operating costs. But it won’t have stopped borrowing money. Increased capital spending will continue to be financed with new debt. In fact, counting both operating and capital spending, planned deficits over the next four years will rise by a projected $93.4 billion compared to the Trudeau government’s last spending plan. You read that right: Mark Carney’s deficit-spending plan for the next four years dwarfs Justin Trudeau’s, and Trudeau was the biggest spender (per-person, inflation-adjusted) in Canadian history. That will add almost $100 billion more to Canada’s mountain of federal debt. Yet Prime Minister Carney has tried to sell his plan as more responsible than his predecessor’s.",
+      "reason": "The paragraph provides specific details on the projected deficits and compares Carney's plan to Trudeau's, highlighting the implications of the accounting change.",
+      "label": 1
+    },
+    {
+      "paragraph": "In addition to camouflaging borrowing, splitting the budget allows the government to get creative with its accounting. Certain types of spending clearly fall into either operating or capital. For example, salaries for bureaucrats clearly represent day-to-day operations while funding for long-term infrastructure projects is clearly capital investment. But Carney’s definition of “capital spending” remains vague. Instead of limiting this spending to direct investments in long-term assets such as roads, ports or military equipment, the government will also include in the capital budget “new incentives” that “support the formation of private sector capital (e.g. patents, plants, and technology) or which meaningfully raise private sector productivity.” In other words, corporate welfare.",
+      "reason": "The paragraph explains how the budget split could lead to vague definitions and potential misuse of the capital budget.",
+      "label": 1
+    },
+    {
+      "paragraph": "In fact, any government subsidies to corporations — as long as they somehow relate to creating an asset — could potentially land in the same spending category as new infrastructure spending. Not only would this be inaccurate but such a broad definition means the government could potentially balance the operating budget, not by reducing spending, but simply by shifting it over to the capital budget. This would add to the debt but allow the government to pretend to be practicing “responsible” budgeting.",
+      "reason": "The paragraph discusses the potential for misclassification of spending and its impact on perceived budget responsibility.",
+      "label": 1
+    },
+    {
+      "paragraph": "To increase transparency, rather than split federal spending into two budgets the Carney government could give provide additional breakdowns of line items into “operating” and “capital” within the existing budget framework. Then Canadians could decide for themselves whether the government’s accounting was politically self-serving or helpfully clarifying.",
+      "reason": "The paragraph suggests an alternative approach to improve transparency, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "As laid out in the Liberal platform, however, Carney’s new spending framework will only further complicate government finances and make it harder for Canadians to hold their government to account.",
+      "reason": "This paragraph directly discusses the impact of Carney's spending framework on government transparency and accountability.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jake Fuss and Grady Munro are fiscal policy analysts at the Fraser Institute.",
+      "reason": "This paragraph provides background information about the authors, which is not directly relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bookmark our website and support our journalism: Don’t miss the business news you need to know — add financialpost.com to your bookmarks and sign up for our newsletters here.",
+      "reason": "This paragraph is promotional content unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "This website uses cookies to personalize your content (including ads), and allows us to analyze our traffic. Read more about cookies here. By continuing to use our site, you agree to our Terms of Use and Privacy Policy.",
+      "reason": "This paragraph is a standard website disclaimer and not relevant to the article's content.",
+      "label": 0
+    }
+  ]
+}

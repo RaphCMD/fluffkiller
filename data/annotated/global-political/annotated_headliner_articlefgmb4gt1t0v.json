@@ -1,0 +1,64 @@
+{
+  "headline": "Trump wants a baby boom. Here's why a 'baby bonus' probably won't help fertility rates | CBC News",
+  "context": [
+    "He's called himself the \"fertilization president\" and the \"king of IVF.\"",
+    "U.S. President Donald Trump, as he promotes so-called traditional family values, has been on a mission to convince more women to have more babies — including touting efforts to expand in vitro fertilization (IVF), hence the self-proclaimed nickname."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Faced with a birth rate still considered \"below replacement,\" or below the level at which a generation can exactly replace itself, the Trump administration has repeatedly urged women to, well, get to it.",
+      "reason": "Provides context on the administration's concern about low birth rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "On the campaign trail, for instance Trump said he wanted a \"baby boom.\" Vice-President JD Vance, told crowds at the anti-abortion March for Life rally in January that he wants to see \"more babies in the United States of America.\"",
+      "reason": "Offers specific examples of Trump and his administration's public statements on increasing birth rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last week, Trump ally and Tesla CEO Elon Musk (who reportedly has 14 children with four different women), wrote on X that \"low birth rates will end civilization.\"",
+      "reason": "Mentions a notable figure's opinion on low birth rates, adding context to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "And now, the Trump administration is reportedly mulling incentives that could include a $5,000 US \"baby bonus,\" reserving scholarship placements for applicants who are married or have children and motherhood medals for women who have six or more children, according to multiple media outlets.",
+      "reason": "Details potential policy measures being considered by the Trump administration.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Sounds like a good idea to me,\" Trump told reporters last week when asked about the cash incentive.",
+      "reason": "Provides a direct quote from Trump supporting the proposed incentive.",
+      "label": 1
+    },
+    {
+      "paragraph": "But a wave of advocates and experts are arguing otherwise, pointing out that these incentives don't address the systemic issues contributing to a low fertility rate. At the same time, others point out, Trump's administration is slashing programs that help families, such as maternal and child health programs, the Head Start program for low-income families and child-care supports.",
+      "reason": "This paragraph provides relevant context and criticism of Trump's policies related to fertility rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"If they were really serious about increasing fertility rates, I think the number one thing they could do is increase paid maternity leave, and then increase the availability of affordable daycare spaces,\" said Marina Adshade, an assistant professor of teaching at the University of British Columbia who specializes in economics and gender.",
+      "reason": "This paragraph offers expert commentary on alternative solutions to increasing fertility rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other countries have tried to pay women to have babies, said Lisa Strohschein, a sociology professor at the University of Alberta and the editor-in-chief of the journal Canadian Studies in Population. And like the U.S., some of those countries have also made it more difficult to control births with abortion bans, she added.",
+      "reason": "This paragraph provides comparative context with other countries' policies on fertility rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"No surprise that Trump, with his authoritarian tendencies, thinks that the best way to fix the problem is to pay women to have babies and simultaneously make it more difficult to control reproduction,\" Strohschein said.",
+      "reason": "This paragraph includes a direct quote that critiques Trump's approach to fertility rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "U.S. births and birth rates have been falling for years. They dropped most years after the 2008-09 recession, aside from a 2014 uptick.",
+      "reason": "This paragraph provides relevant statistical context about U.S. birth rates.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Well, maybe the children will have two dolls instead of 30. Maybe the two dolls will cost a couple of bucks more than they would normally,\" he said.",
+      "reason": "The quote is vague and does not provide new information or context related to the main topic of fertility rates or baby bonuses.",
+      "label": 0
+    }
+  ]
+}

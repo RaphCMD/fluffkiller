@@ -1,0 +1,139 @@
+{
+    "headline": "Canada election 2025: Groups call for polling investigation",
+    "context": [
+        "Polling hours for voters to cast ballots in Quebec’s Nunavik region during Monday’s federal election were inconsistent across many communities and in some cases, not open at all, CTV News has learned.",
+        "Tiivi Tulaugak was keen to vote in his first federal election. But his excitement was quickly dashed when he went to the polling station in his northern Quebec community of Ivujivik, only to find it was closed."
+    ],
+    "annotations": [
+        {
+            "paragraph": "“I was frustrated. I was sad,” he told CTV News. “Everybody was unable to vote in Ivujivik.”",
+            "reason": "Personal reaction illustrating the problem.",
+            "label": 1
+        },
+        {
+            "paragraph": "Tulaugak, who is still in high school, said he went to the polling station on the morning of Election Day on April 28. He said there seemed to be a lot of confusion when he arrived.",
+            "reason": "Provides timeline and stakes for first-time voter.",
+            "label": 1
+        },
+        {
+            "paragraph": "“I was waiting and asking when we were able to vote, and the people there kept saying, ‘I don’t know,’” he said.",
+            "reason": "Details the confusion encountered at the station.",
+            "label": 1
+        },
+        {
+            "paragraph": "“I kept asking, but they didn’t have a response.”",
+            "reason": "Emphasizes lack of information for voters.",
+            "label": 1
+        },
+        {
+            "paragraph": "Tulaugak waited at the polling station until 3:30 p.m. That’s when he heard from the town’s mayor that the election workers had allegedly arrived in Ivujivik but quickly left without any votes being cast.",
+            "reason": "Chronicles sequence leading to no votes being taken.",
+            "label": 1
+        },
+        {
+            "paragraph": "“This is not right,” he said. “They took our votes away and this is illegal.”",
+            "reason": "Expresses the perceived injustice and legal concern.",
+            "label": 1
+        },
+        {
+            "paragraph": "Kativik Regional Government’s chairperson Hilda Snowball confirmed in a statement to CTV News that many residents in the surrounding Nunavik region were unable to vote.",
+            "reason": "Official confirmation of widespread voting issues.",
+            "label": 1
+        },
+        {
+            "paragraph": "“I was shocked and unsettled about the news regarding the early closing of polling stations,” part of the statement reads. “I was outraged to hear that some were not open at all. This only highlights recurring challenges that we’ve communicated with our governmental partners”",
+            "reason": "Elaborates on grievance and calls for partner engagement.",
+            "label": 1
+        },
+        {
+            "paragraph": "Snowball says she will be communicating with Elections Canada to come up with solutions to make sure this does not happen again.",
+            "reason": "Notes planned follow-up action by local authorities.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Makivik Corporation, the organization representing Inuit in Nunavik, is calling for Elections Canada to investigate.",
+            "reason": "Reports advocacy group’s call for formal probe.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Makivvik is deeply disappointed by the handling of the voting process in Nunavik by Elections Canada. We have learned that polling hours were inconsistent across many communities, and, alarmingly, that some communities were unable to vote altogether,” a statement on their website reads.",
+            "reason": "Includes organizational statement detailing failures.",
+            "label": 1
+        },
+        {
+            "paragraph": "“In many cases, Nunavimmiut were effectively denied their right to participate in this election.”",
+            "reason": "Powerful quote on disenfranchisement claim.",
+            "label": 1
+        },
+        {
+            "paragraph": "Elections Canada Chief Electoral Officer Stephane Perrault “deeply regrets that some electors in Nunavik were not able to cast their vote,” he said in a statement to CTV News on Wednesday.",
+            "reason": "Official apology and regret from federal agency.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Elections Canada will review the circumstances that led to this situation, as well as the measures taken during this election to improve voting services to Indigenous electors. We will publish the findings.”",
+            "reason": "Outlines the agency’s commitment to investigate and report.",
+            "label": 1
+        },
+        {
+            "paragraph": "On election night, a source with Elections Canada confirmed there were a combination of factors at play causing issues with staffing at polls in the riding of Abitibi—Baie-James—Nunavik—Eeyou.",
+            "reason": "Identifies staffing and logistical challenges as causes.",
+            "label": 1
+        },
+        {
+            "paragraph": "In some communities, Elections Canada was unable to recruit workers despite significant efforts, and in others, it was difficult or impossible to get workers and materials to some communities because of weather, the source said.",
+            "reason": "Details the specific recruitment and weather hurdles.",
+            "label": 1
+        },
+        {
+            "paragraph": "The source also said that some communities did have the ability to cast ballots during the advanced poll weekend.",
+            "reason": "Notes partial mitigation via advanced polling where possible.",
+            "label": 1
+        },
+        {
+            "paragraph": "Liberal Mandy Gull-Masty won the riding of Abitibi—Baie-James—Nunavik—Eeyou over incumbent, Bloc Quebecois’ Sylvie Berube.",
+            "reason": "Reports election outcome in the affected riding.",
+            "label": 1
+        },
+        {
+            "paragraph": "Despite a more than 68 per cent voter turnout across the country, ballot numbers in Canada’s north fell well below the national average.",
+            "reason": "Contrasts national turnout with northern turnout data.",
+            "label": 1
+        },
+        {
+            "paragraph": "The riding of Churchill-Keewatinook Aski in northern Manitoba, for example, only saw 43 per cent of eligible voters in that region cast their ballots.",
+            "reason": "Provides specific turnout statistic for comparison.",
+            "label": 1
+        },
+        {
+            "paragraph": "Sean Carleton, a professor of history and Indigenous studies at the University of Manitoba, say those living in northern and remote communities face a lot of barriers when it comes to voting.",
+            "reason": "Includes expert commentary on structural voting barriers.",
+            "label": 1
+        },
+        {
+            "paragraph": "“There is a long history of Inuit people having uneven access to being able to cast their ballot. Extra steps are needed to ensure that everyone that wants to cast their ballot, has the ability to do so,” he says. “We need to learn from these issues.”",
+            "reason": "Expert quote calling for systemic improvements.",
+            "label": 1
+        },
+        {
+            "paragraph": "Tulaugak agrees. He says this never should have happened.",
+            "reason": "Reinforces the personal perspective on injustice.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Next time they are planning to vote, and doing the election in the north, they should prepare,” he says.",
+            "reason": "Direct call to action from a voter affected.",
+            "label": 1
+        },
+        {
+            "paragraph": "“This was unacceptable. It’s an unfair election.”",
+            "reason": "Summarizes the concluding sentiment of disenfranchisement.",
+            "label": 1
+        },
+        {
+            "paragraph": "With files from CTV News National Correspondent Rachel Aiello",
+            "reason": "Credit line, not part of the substantive reporting.",
+            "label": 0
+        }
+    ]
+}

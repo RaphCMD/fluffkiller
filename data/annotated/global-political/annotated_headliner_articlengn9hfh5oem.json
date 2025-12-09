@@ -1,0 +1,169 @@
+{
+  "headline": "Reform UK makes big gains in English local elections",
+  "context": [
+    "Political reporter",
+    "Nigel Farage's Reform UK has made big gains in English local elections, cementing it as a prime challenger to Britain's traditional main parties."
+  ],
+  "annotations": [
+    {
+      "paragraph": "It won 677 of around 1,600 seats contested on Thursday across a clutch of mainly Tory-held councils last contested in 2021.",
+      "reason": "Provides specific results of the election, showing the extent of Reform UK's gains.",
+      "label": 1
+    },
+    {
+      "paragraph": "Reform seized control of eight authorities from the Conservatives, including former strongholds Kent and Staffordshire.",
+      "reason": "Details specific areas where Reform UK gained control, highlighting significant victories.",
+      "label": 1
+    },
+    {
+      "paragraph": "The party has also won control of Doncaster, the only council Labour was defending, and Durham, where Labour was previously the largest party.",
+      "reason": "Describes additional significant victories over Labour, showing Reform UK's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Reform also displaced Labour in Runcorn and Helsby, where it won a tightly-fought Westminster by-election to make Sarah Pochin its fifth MP.",
+      "reason": "Highlights a specific by-election victory, adding to the narrative of Reform UK's success.",
+      "label": 1
+    },
+    {
+      "paragraph": "As well as winning control of its first-ever councils, Reform has also won its first mayoral contests in the newly-created combined authorities of Greater Lincolnshire, and Hull and East Yorkshire.",
+      "reason": "Provides information on new mayoral victories, showing the breadth of Reform UK's success.",
+      "label": 1
+    },
+    {
+      "paragraph": "A jubilant Farage said the results meant Reform had overtaken the Tories as the main opposition party to Sir Keir Starmer's Labour government.",
+      "reason": "This paragraph provides a direct quote from Farage, highlighting the significance of Reform UK's gains.",
+      "label": 1
+    },
+    {
+      "paragraph": "The elections in 23 councils, across mainly rural and suburban areas of England, marked the first major electoral test since Labour's landslide general election victory last year.",
+      "reason": "This paragraph provides context about the scope and significance of the elections.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Tories, who were defending the most seats, had been braced for big losses since the councils up for re-election were last contested in 2021, when the party was riding high under Boris Johnson during the Covid vaccine rollout.",
+      "reason": "This paragraph provides background on the Tories' position and expectations going into the elections.",
+      "label": 1
+    },
+    {
+      "paragraph": "But their results have been even worse than expected, with the party losing over 676 seats and control of all the 16 authorities it was defending.",
+      "reason": "This paragraph provides specific results of the elections, showing the extent of the Tories' losses.",
+      "label": 1
+    },
+    {
+      "paragraph": "It captured the Cambridgeshire & Peterborough mayoralty from Labour - a silver lining for the party in an otherwise dismal set of results.",
+      "reason": "This paragraph provides a specific outcome of the elections, highlighting a minor success for the Tories.",
+      "label": 1
+    },
+    {
+      "paragraph": "Reacting to the results in the Times on Saturday, Sir Keir said simply: \"I get it\".",
+      "reason": "This quote does not provide substantial information or context about Reform UK's gains.",
+      "label": 0
+    },
+    {
+      "paragraph": "The prime minister said he shared in the \"sharp edge of fury\" felt by voters leaning away from the major parties, arguing that it spurs him on to \"go further and faster\" in delivering Labour's promised changes to public services, immigration and cost of living pressures.",
+      "reason": "This paragraph provides context on voter sentiment and political reactions, relevant to the election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tory leader Kemi Badenoch acknowledged that her party was facing a \"long journey\" to rebuild after its long spell in government, adding that \"protest is in the air\" in a \"very competitive political environment\".",
+      "reason": "This paragraph provides context on the political environment and challenges faced by major parties.",
+      "label": 1
+    },
+    {
+      "paragraph": "Writing for the Telegraph, she acknowledged the results had been a \"bloodbath\" for her party, but argued it had been \"making progress\" under her leadership, including on party unity and holding Labour ministers to account.",
+      "reason": "This paragraph provides context on the impact of the election results on the Tory party.",
+      "label": 1
+    },
+    {
+      "paragraph": "Labour, which was defending far fewer seats this year, was down by 186 seats.",
+      "reason": "This paragraph provides specific election results relevant to the overall outcome.",
+      "label": 1
+    },
+    {
+      "paragraph": "It held a trio of mayoralties in Doncaster, North Tyneside and the West of England, but saw its share of the vote significantly dented by Reform in all of them.",
+      "reason": "This paragraph provides specific information about the impact of Reform UK's gains on existing political positions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sir Keir said the results showed the need for his party to go \"further and faster\" to deliver on voters' priorities in government, adding: \"I get it.\"",
+      "reason": "This paragraph includes a reaction from a political leader, which is relevant to the election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lib Dem leader Sir Ed Davey said the party had supplanted the Conservatives as the \"party of Middle England\" after gaining 163 seats.",
+      "reason": "This paragraph provides information about the performance of another party in the elections, which is relevant context.",
+      "label": 1
+    },
+    {
+      "paragraph": "The party seized Shropshire from the Tories, and gained control of Oxfordshire and Cambridgeshire, two county councils where previously no party was in overall control.",
+      "reason": "This paragraph details specific electoral gains, contributing to the narrative of the election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "They have also become the biggest party in Hertfordshire and Wiltshire, as well as in Gloucestershire and Devon, where they narrowly fell short of overall majorities.",
+      "reason": "This paragraph provides additional details on the election outcomes, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Greens gained over 40 seats, but will have been disappointed not to snatch the West of England mayoral contest from Labour, where they came a narrow third to Reform.",
+      "reason": "This paragraph provides context on Reform UK's performance relative to other parties in a specific contest.",
+      "label": 1
+    },
+    {
+      "paragraph": "The BBC is estimating that, if elections had taken place across Britain on Thursday, the Conservatives would have slumped to just 15% of the national vote, its worst-ever share of such a projection, behind the Liberal Democrats on 17%.",
+      "reason": "This paragraph provides context on the overall political landscape and the performance of other parties.",
+      "label": 1
+    },
+    {
+      "paragraph": "Labour would have won 20% of the vote, according to the projection, equalling its lowest previous recorded performance in 2009.",
+      "reason": "This paragraph provides context on Labour's performance, relevant to the political landscape.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is the first time the combined projected share of the vote for the Conservatives and Labour has fallen below 50%, underlining the continuing fragmentation of the British political landscape.",
+      "reason": "This paragraph highlights the fragmentation of the political landscape, relevant to Reform UK's gains.",
+      "label": 1
+    },
+    {
+      "paragraph": "Farage has made gaining a foothold in town halls a key staging post ahead of the next UK general election, which is expected in 2029.",
+      "reason": "This paragraph provides insight into Farage's strategy and future plans for Reform UK.",
+      "label": 1
+    },
+    {
+      "paragraph": "Before Thursday's elections it only had around 100 councillors, mainly as a result of defections from other parties.",
+      "reason": "Provides context on the party's previous standing before the elections.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the results will also increase scrutiny of how his party performs in office and how it intends to wield its newly-acquired local powers.",
+      "reason": "Discusses the implications of the election results for Reform UK.",
+      "label": 1
+    },
+    {
+      "paragraph": "During the campaign, both the Reform UK and Tory leaders were repeatedly questioned during media interviews about how their local councillors might co-operate with each other after the elections.",
+      "reason": "Describes campaign dynamics and potential post-election cooperation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Farage ruled out striking formal coalitions with other parties to share power, but left the door open to more informal forms of co-operation, including the Conservatives.",
+      "reason": "Details Farage's stance on coalition and cooperation strategies.",
+      "label": 1
+    },
+    {
+      "paragraph": "That position could soon be put to the test in councils including Leicestershire and Worcestershire, where it fell short of a majority despite becoming the largest party.",
+      "reason": "Highlights specific councils where Reform UK's strategy will be tested.",
+      "label": 1
+    },
+    {
+      "paragraph": "Speaking to supporters on Friday, Farage said his party would seek to \"reduce excessive expenditure\" in local government, and suggested his councillors would scale back local diversity and climate policies.",
+      "reason": "This paragraph provides specific policy intentions of Reform UK following their election gains.",
+      "label": 1
+    },
+    {
+      "paragraph": "He added his party would also look to push back on asylum seekers being housed in hotels, saying he was opposed to the government \"plonking scores of young men\" in counties where his party now has control.",
+      "reason": "This paragraph details another policy stance of Reform UK, relevant to their election gains.",
+      "label": 1
+    }
+  ]
+}

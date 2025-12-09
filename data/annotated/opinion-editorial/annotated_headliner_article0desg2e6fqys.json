@@ -1,0 +1,119 @@
+{
+  "headline": "Opinion: Canada’s democracy had a decent day. But it can do better to reflect all Canadians in this moment of crisis - The Globe and Mail",
+  "context": [
+    "David Moscrop is a writer and political commentator. He is the author of Too Dumb for Democracy and a Substack newsletter.",
+    "It’s been nearly 10 years since Justin Trudeau promised that Canada’s 2015 election would be the last one under the first-past-the-post electoral system. You might have noticed this week that it was not."
+  ],
+  "annotations": [
+    {
+      "paragraph": "After his Liberals formed government, the then-prime minister made a half-hearted effort at changing how Canadians vote. But he balked when he recognized that the feedback was favouring a switch to proportional representation, which he opposed, rather than the “alternative vote” system he preferred: a winner-take-all ranked ballot.",
+      "reason": "This paragraph provides context on Trudeau's past efforts and preferences regarding electoral reform, which is relevant to the discussion of Canada's democratic system.",
+      "label": 1
+    },
+    {
+      "paragraph": "And so, for this extraordinary federal election, Canada once again used first-past-the-post. With the country’s sovereignty under attack, it felt like this election needed, more than anything else, to return a House of Commons that reflected the myriad disagreements within the country so members could navigate and negotiate them and find an acceptable way forward for Canada. Indeed, during the campaign, Liberals said they needed a strong, majority mandate to face threats from Donald Trump and the lingering crises Canada must manage, including affordability, housing, health care, climate and economic growth.",
+      "reason": "This paragraph discusses the implications of using the first-past-the-post system in the recent election and the challenges Canada faces, which is relevant to the article's focus on democracy.",
+      "label": 1
+    },
+    {
+      "paragraph": "They didn’t get it. On Monday night, Canadian voters returned a minority Parliament in which the Liberals, now without Mr. Trudeau, will hold the most seats. So they will keep government – at least so long as they can co-operate with opposition parties to maintain the confidence of the House of Commons.",
+      "reason": "This paragraph provides the outcome of the election and its implications for the Liberal party, which is relevant to the article's discussion on democracy.",
+      "label": 1
+    },
+    {
+      "paragraph": "And while the Liberals won roughly 43.7 per cent of a high-turnout vote, that robust level of support rests atop deep geographical, regional and demographic divisions in the country, some of which have been weaponized by politicians seeking strategic advantage, to the detriment of the country. As CTV News chief political correspondent Vassy Kapelos put it on the Paul Wells Show podcast, just ahead of the vote: “You’ve got rural versus urban, men versus women, old versus young, and East versus West.” The electoral system Canada has used since its founding has delivered a House of Commons that may make it harder to overcome these divides.",
+      "reason": "This paragraph highlights the divisions within Canada and how the electoral system affects them, which is relevant to the article's focus on democracy.",
+      "label": 1
+    },
+    {
+      "paragraph": "The campaign itself was also polarized and deeply divisive. It became a two-way race between those who desire change – in the form of the Conservatives – and those who preferred the Liberals’ Mark Carney to lead the country in its defence against Donald Trump and his tariff war. Many Canadians on the left felt obliged to vote strategically to avoid splitting their support – a factor in the cratering of the NDP vote.",
+      "reason": "This paragraph discusses the polarization of the campaign and strategic voting, which is relevant to the article's examination of the electoral process.",
+      "label": 1
+    },
+    {
+      "paragraph": "We ought to ask, during a time of overlapping crises and persistent division, would democratic reform – specifically, proportional representation – have delivered us the materials with which we could build a foundation for dealing with our present threats?",
+      "reason": "The paragraph introduces the main question of the article regarding democratic reform and its potential impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "With a proportional electoral system, majority governments in Canada would likely become rarer. Existing smaller parties would gain vote share and, perhaps, new parties would emerge. Caucuses that more accurately reflect local constituencies’ interests would have to co-operate and work together to form governments and pass legislation after each election. This has already become a common trend in Canada, where voters have returned three minority Parliaments in a row. Under proportional representation, the coalitions, supply-and-confidence agreements, or informal arrangements that follow such elections would simply be formalized, and thus incentivize a more ecumenical approach to policy making while keeping any single party from dominating the legislature and government.",
+      "reason": "The paragraph provides detailed analysis and context on how proportional representation could change the political landscape in Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "To those who say we need only a few, strong parties to deal with the crises of the day, it’s worth recalling that deal-making and aggregating is a core feature of all democratic political systems, but that work is done at different times and in different ways depending on the electoral system. Under ours, parties do much of that work before elections by trying to forge big-tent coalitions, working out ideological differences through leadership contests, and gathering the grassroots at policy conventions that deliver at least a general direction. But even then, as we saw recently in the supply-and-confidence agreement between the Liberals and the NDP, parties must still work with one another following an election.",
+      "reason": "The paragraph discusses the current political system and compares it to the potential changes under proportional representation, providing relevant context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Under a proportional representation electoral system, you’d simply have more of that government-formation and maintenance work done after elections. What’s more, that work would be carried out under circumstances in which the parties would be required, and thus incentivized, to sort out co-operative arrangements and coalition bargains that respond to the exigencies and preferences of the day. That work would have to be done while accounting for a more fine-grained distinction of voters at the party level.",
+      "reason": "The paragraph elaborates on how proportional representation would affect post-election processes, adding depth to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "The system change would not be a panacea in itself. But Canada could stand to introduce a party system and governments that more expressly represent – and publicly seek to account for and manage – the many disagreements that mark Canadian political life.",
+      "reason": "The paragraph concludes with a reflection on the potential benefits of system change, tying back to the article's main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "It would also give Canada a shot at more of the sort of co-operation we saw between the Liberals and New Democrats in the last parliament. We’ve seen this spirit in the past; Canada was led by minority governments during the global financial crisis and, again, during the COVID-19 pandemic after the 2019 and 2021 elections. In these instances, opposition parties helped produce policies that left the country better off. For instance, as global markets collapsed in the early 2010s, the NDP successfully forced Stephen Harper’s Conservative government to offer supports for Canadians and to increase government spending, which was precisely the right move to guide the country through the crisis. During the pandemic, the NDP did it again, this time with the Trudeau government and pandemic supports, and, later, with much-needed dental care, pharmacare and daycare programs. Their agreement also achieved sick days for workers in federally regulated industries and anti-scab legislation.",
+      "reason": "Provides historical context and examples of political cooperation relevant to the discussion of electoral reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "But proportional representation is not perfect. Indeed, in some countries that use certain varieties of the system, division can be particularly pronounced. Belgium, for instance, went 541 days without a government in 2010-2011. It’s also worth noting that Canada’s recent election results are fairly proportional, with vote percentages roughly aligning with the number of seats each party won. But those results belie voting preferences that were forced to fit within our single-member-plurality system, as the push for strategic voting indicated.",
+      "reason": "Discusses the potential downsides of proportional representation and its relevance to Canada's electoral system.",
+      "label": 1
+    },
+    {
+      "paragraph": "Still, other varieties of proportional representation might be more stable and fitting for a country like Canada, such as mixed-member proportional (MMP) representation, which is used in Germany and New Zealand.",
+      "reason": "Introduces alternative electoral systems that could be suitable for Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "Under MMP, voters cast two ballots: one for their preferred party, and another for a local candidate from the party of their choice. The system comes with the benefit of returning a legislature that more closely represents the electoral preferences of voters while also including a local member of Parliament that would remain close to them. It can also be customized to feature a vote threshold for obtaining seats in the legislature to control for extreme division and fringe parties. In Germany, for instance, a party must receive a minimum of 5 per cent of the vote or win at least three single-member seats to be returned to the legislature.",
+      "reason": "Explains how MMP works and its potential benefits for Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "That threshold generally keeps out fringe parties with no significant constituency, making for a more workable legislature, which is good. For instance, Canada, under MMP, might stand a good chance of avoiding a tiny Western separatist party in the legislature (even if some would surely complain this, too, is a form of unreasonable disenfranchisement). Nonetheless, extremist parties can still break through in proportional systems: In February’s German federal election, the far-right AfD went from 76 to 152 seats in the 630-member Bundestag.",
+      "reason": "Discusses the implications of MMP on fringe parties and provides a relevant example from Germany.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now, one hopes the minority Parliament will once again meet the moment – amid the challenges posed by Mr. Trump, tariffs, global geopolitical and economic realignment – through co-operation, deal-making and a recognition that no one party bridges the many cleavages that exist within Canada. That work can only be done through a multiplicity of parties working together in the Commons. It can, and must, be done. And if, indeed, it is done, that will only help make the case that Canada is better off with proportional representation.",
+      "reason": "The paragraph discusses the need for cooperation in Parliament and how it supports the case for proportional representation, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Establishing a new electoral system will nonetheless be tough work. Such a massive, structural change to Canadian elections would require broad support from parties and the public, and it would require officials to have answers for reasonable questions people will have: about the risks of fringe parties being mainstreamed by entering the legislature (minimal), the effect of perpetual minority parliaments and/or coalition governments (a net positive, if done properly), and the persistent problem under proportional representation of blurred lines of accountability (a genuine challenge). The failure to provide reassurances on many of these points was a big reason that a referendum to implement proportional representation in B.C. failed in 2018.",
+      "reason": "This paragraph provides context on the challenges of implementing proportional representation, which is relevant to the article's discussion on electoral reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "A look at the 2025 election results may yield some ideas about undertaking the work of changing the country’s electoral system. During the campaign, Canadians were pressed to vote strategically, an undertaking that rarely, if ever, works, and one that would be largely unnecessary under a proportional system. Smaller parties collapsed, particularly the NDP, which failed to win enough seats to even secure official party status in the House of Commons; the Greens, meanwhile, managed a single seat. The Conservatives won many more seats, but internal divisions emerged immediately, reminding Canadians that the right is a fractious lot in this country, and their standard-bearer party is made up of distinct movements and philosophies jammed together, awkwardly, under a single tent.",
+      "reason": "The paragraph discusses the implications of the current electoral system and how proportional representation could address these issues, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a proportional system with many organized, value-driven parties, voters could have cast their ballots without worrying too much about a strategic vote split. Parties could scale down and publicly represent their true preferences, making their cases to the public as they went. A multiplicity of parties would allow for a representation of a multiplicity of views, all on offer for the public to consider when casting a ballot. Those same parties could co-operate with others after the election to navigate complex problems in ways that account for and respond to Canada’s complexities and divisions. And while party negotiations around government formation would likely happen privately, the public would be welcome to influence them throughout the process – and afterward, too. This more constant churn of political activity can also strengthen a democracy that can feel participatory only when the writs are issued – and, even then, not so much.",
+      "reason": "This paragraph explains the benefits of a proportional system, directly contributing to the article's argument for electoral reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "Perhaps a change to our proportional system will be a tough sell to Canadians right now. With such a focus on Mr. Trump, tariffs, national divisions and persistent policy crises including housing, climate and affordability, the seemingly arcane subject of electoral reform appears to be, at best, a distraction. But it is precisely these challenges that necessitate a serious discussion about the trade-offs around reforming Canada’s electoral system to incentivize a more fine-grained, representative approach to solving them.",
+      "reason": "The paragraph ties current challenges to the need for electoral reform, reinforcing the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keep your opinions sharp and informed with a helpful summary of The Globe’s most provocative columns, covering politics, world affairs, business, arts, health and the way we live",
+      "reason": "This paragraph is promotional and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a promotional call to action and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

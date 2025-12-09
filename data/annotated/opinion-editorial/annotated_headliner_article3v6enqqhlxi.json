@@ -1,0 +1,44 @@
+{
+  "headline": "Opinion: Construction defect laws make condos scarce in San Diego, state – San Diego Union-Tribune",
+  "context": [
+    "The dream of affordable homeownership is increasingly out of reach for middle-class households in California. This is not just because of soaring prices, but also an invisible barrier — outdated construction defect laws have made condos incredibly rare. Across most of the world, people have been able to live near jobs and amenities by owning instead of renting a unit in a multifamily building — otherwise known as condominiums. Yet in California, we have a serious problem: Very few new homes in multifamily buildings are for sale.",
+    "We are creating a more economically segregated society where homeownership is only available to those who can purchase a more expensive single-family home far from city centers. Urban households in California live in real estate markets where only renting an expensive apartment unit is possible, without a chance to access long-term financial stability and wealth-building through a condominium."
+  ],
+  "annotations": [
+    {
+      "paragraph": "According to the Public Policy Institute of California, there is a preference for renters to live in dense, mixed-use developments. That isn’t possible if ownership is not an option in California’s cities. Many households have been moving out of California to states where the entry fee to get on the homeownership ladder is much lower, in part because condominiums are much more affordable as “starter homes” in regions with growing economic prospects. If my wife and I had children tomorrow and wanted to raise them in a home we can afford close to jobs and schools, we could either rent in San Diego, possibly forever, or buy a condo in Chicago or Philadelphia. More families like ours should be able to choose to live in California.",
+      "reason": "The paragraph provides context on the impact of condo scarcity on homeownership and migration patterns.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2023, less than 3,000 new multifamily (five-plus unit) homes were built for sale across the entire state. More babies are born in two days than the amount of condominiums we build in one year. In 2005, San Diego alone built more condos than the entire state of California built in 2023. This drastic decline in condominium construction is not just a reflection of market trends but a direct consequence of California’s outdated and overly punitive construction defect liability laws. I have spoken to multiple developers in the San Diego area who want to sell their rental stock portfolio as homeownership options, but simply cannot. Our laws have created a legal environment where for-sale multifamily homes are almost guaranteed to face litigation, making it nearly impossible for developers to build them without significant risk.",
+      "reason": "The paragraph provides specific data and insights into the decline of condo construction and its causes.",
+      "label": 1
+    },
+    {
+      "paragraph": "My recent study for UC Berkeley’s Terner Center for Housing Innovation (co-authored by my colleague Sarah Karlinsky) highlights how these well-intentioned laws, designed to protect homeowners from substandard construction, are in fact favoring a renters’ market. Under current law, developers can be held liable for construction defects for up to 10 years after a project is completed, even for cosmetic damages. The report makes it clear: Without alternative pathways to prevent litigation, the workforce needed to build housing — architects, engineers, developers, subcontractors and more — will rarely be insured by insurance companies. Without insurance, they are unable to build new homes for sale. Pair that with home insurance issues we are experiencing across the state, and it is a recipe for disaster.",
+      "reason": "The paragraph discusses the impact of construction defect laws on the housing market and insurance issues.",
+      "label": 1
+    },
+    {
+      "paragraph": "The low supply of condos has created an unsustainable situation where older condominiums cost as much as new ones, and reflect their age in steep homeowners association fees. We propose several sensible reforms that would strike a balance between protecting homeowners and encouraging lower-cost housing development. Without reforms, California will continue to see a shortage of new condos for sale, forcing more residents into renting, driving out more young families and leading to greater inequality in the coming decades.",
+      "reason": "The paragraph suggests reforms and discusses the consequences of the current condo shortage.",
+      "label": 1
+    },
+    {
+      "paragraph": "Reforming construction defect liability isn’t just about making it easier for developers to build; it’s about ensuring that all Californians have access to affordable homeownership opportunities. I hope that one day soon we will rethink our approach to construction defects and build more wealth-building options for San Diego residents.",
+      "reason": "The paragraph emphasizes the broader goal of reforming laws to improve homeownership access.",
+      "label": 1
+    },
+    {
+      "paragraph": "Alameldin is California YIMBY’s senior policy adviser and lives in the Bay Area.",
+      "reason": "This paragraph provides background information about the author, which is not directly relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Originally Published: May 1, 2025 at 6:10 AM PDT",
+      "reason": "This is a publication date and time, which does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

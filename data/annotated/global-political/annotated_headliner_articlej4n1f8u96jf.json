@@ -1,0 +1,204 @@
+{
+  "headline": "Trump slams Zelenskyy for rejecting Ukraine-Russia negotiations, saying a deal was 'very close'",
+  "context": [
+    "LONDON — President Donald Trump slammed Ukrainian leader Volodymyr Zelenskyy on Wednesday, accusing him of derailing negotiations to end the war in Ukraine while a peace deal was “very close.”",
+    "In a long post on Truth Social, Trump described Zelenskyy’s rejection of Russia's takeover of Crimea, which Russia illegally annexed in 2014, as “very harmful” to achieving peace."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“It’s inflammatory statements like Zelenskyy’s that makes it so difficult to settle this War,” Trump wrote.",
+      "reason": "This paragraph provides a direct quote from Trump criticizing Zelenskyy, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Zelenskyy has consistently rejected the suggestion that his country give up its claim to the Crimean Peninsula.",
+      "reason": "This paragraph provides context on Zelenskyy's stance on Crimea, which is relevant to the negotiations mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“There’s nothing to talk about here,” he said at a media conference Tuesday. “This is against our constitution.”",
+      "reason": "This paragraph includes a direct quote from Zelenskyy explaining his position, which is relevant to the topic of negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "During an Oval Office media event Wednesday evening, Trump suggested negotiations with Zelenskyy have been “harder” than dealings with Russian President Vladimir Putin.",
+      "reason": "This paragraph provides new information about Trump's perspective on negotiations, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We have to get a deal with Zelenskyy,” Trump said. “I thought it might be easier to deal with Zelenskyy. So far, it’s been harder.”",
+      "reason": "This paragraph contains a direct quote from Trump about the difficulty of negotiations, which is relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Follow live politics coverage here",
+      "reason": "This is a generic call to action for live coverage and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump's comments come after months of discord between the two leaders, including a heated exchange in the Oval Office in February. The two men had a near-shouting match when Zelenskyy noted that Russia has broken previous agreements with Ukraine during a disagreement that included Vice President JD Vance.",
+      "reason": "This paragraph provides context about the discord between Trump and Zelenskyy, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The situation escalated when Trump raised his voice and pointed his finger at Zelenskyy, accusing him of \"gambling with World War III\" and being \"disrespectful\" to the U.S.",
+      "reason": "This paragraph adds specific details about the confrontation between Trump and Zelenskyy, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump ordered a pause on military aid, including providing Ukraine with intelligence, following the Oval Office clash.",
+      "reason": "This paragraph provides important information about the consequences of the clash, relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Zelenskyy urged Trump to visit Ukraine earlier this month after Russia launched two ballistic missiles at Sumy, killing 34 people and injuring 119. He suggested that a visit to the destruction would help U.S. leadership \"understand what Putin did.\"",
+      "reason": "This paragraph provides context on Zelenskyy's actions and appeals to Trump, relevant to the ongoing narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "High-level talks aimed at bringing a pause to fighting in Ukraine disintegrated earlier after Secretary of State Marco Rubio and special envoy Steve Witkoff pulled out, dealing a blow to Kyiv’s hopes for a short-term peace agreement.While ministerial talks that had been planned in London fell apart, Trump’s special envoy to Ukraine, Keith Kellogg, still planned to meet with Ukrainian presidential chief of staff Andriy Yermak, who arrived in London early Wednesday with the Ukrainian defense and foreign ministers.",
+      "reason": "Provides context on the breakdown of peace talks and Trump's envoy's involvement.",
+      "label": 1
+    },
+    {
+      "paragraph": "The parties in London agreed to \"continue the dialogue,\" Yermak said on Telegram following the meeting.",
+      "reason": "Mentions continuation of dialogue, relevant to ongoing negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We conveyed our position and emphasized that an immediate, complete, and unconditional ceasefire must be the first step toward launching negotiations aimed at achieving a just and lasting peace,\" he said. \"We expressed hope that this aligns with the vision of President Donald Trump.\"",
+      "reason": "Details Ukraine's position and its alignment with Trump's vision.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a post on X, Zelenskyy commended the meeting, though \"emotions have run high.\"",
+      "reason": "Provides Zelenskyy's reaction to the meeting, relevant to the negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It’s important that each side was not just a participant but contributed meaningfully. The American side shared its vision. Ukraine and other Europeans presented their inputs,\" Zelenskyy wrote. \"And we hope that it is exactly such joint work that will lead to lasting peace.\"",
+      "reason": "Describes the contributions of different parties to the negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "The latest setback comes during a week in which the Trump administration has doubled down on efforts to push Kyiv and Moscow toward a truce. Next week marks 100 days of Trump's second presidential term, and he promised to end the war on his first day back in office. Rubio suggested last week that the United States may walk away from ceasefire efforts, failing any further progress.",
+      "reason": "Provides context on Trump's administration efforts and potential U.S. actions related to the negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Vance said earlier in the day that he was “optimistic” about the talks but also doubled down on the threat to walk away from negotiations.",
+      "reason": "Mentions a relevant figure's stance on the negotiations, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I think that we put together a very fair proposal,” he told reporters on his trip in India. “We’re going to see if the Europeans, the Russians and the Ukrainians are ultimately able to get this thing over the finish line.”",
+      "reason": "Provides a direct quote about the negotiation efforts, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier, Kremlin spokesperson Dmitry Peskov said that the U.S. has not set a deadline for a ceasefire and that \"Russia does not consider it appropriate to set deadlines either,\" Russian news agency Tass reported.",
+      "reason": "Offers insight into Russia's stance on the negotiations, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The downgrading is significant,\" said Bence Németh, a senior lecturer in the defense studies department at King’s College London, citing Zelenskyy's rejection of Russia's maintaining control of Crimea as part of any deal.",
+      "reason": "Provides expert commentary on the impact of Zelenskyy's decision, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rubio and Witkoff's absence \"suggests that Washington is increasingly disinterested in drawn-out, multilateral negotiations,\" Németh added. \"This is not just about diplomacy fatigue. It also signals a hard pivot: The U.S. is not positioning itself as a neutral mediator.\"",
+      "reason": "The paragraph provides context on the U.S. stance in negotiations, which is relevant to the broader diplomatic situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "State Department spokesperson Tammy Bruce confirmed Tuesday that Rubio would skip the meeting hours after saying the opposite. “That is not a statement regarding the meetings. It’s a statement about logistical issues in his schedule,” he said.",
+      "reason": "This paragraph provides logistical details about a U.S. official's attendance, which is not directly related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Despite initial plans to attend the scheduled talks, neither Rubio nor Witkoff were in London on Wednesday, a European diplomat told NBC News.",
+      "reason": "The paragraph provides logistical information about attendance, which does not contribute to the main story about Trump and Zelenskyy.",
+      "label": 0
+    },
+    {
+      "paragraph": "But representatives from the U.K., Germany and France still met with Yermak and Defense Minister Rustem Umerov in what the British Foreign Ministry described as \"productive and successful\" discussions.",
+      "reason": "This paragraph provides context on ongoing diplomatic efforts, which is relevant to the broader negotiations context.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"All parties reiterated their strong support for President Trump’s commitment to stopping the killing and achieving a just and lasting peace,\" the ministry said. \"The talks today were productive and successful, and significant progress was made on reaching a common position on next step.\"",
+      "reason": "The paragraph provides information on diplomatic support for Trump's peace efforts, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Expectations that Kyiv and Moscow would make a deal to end their three-year war this week remained low after the U.S. presented Ukraine and its European allies with peace proposals last week in Paris that both sides saw as unacceptable, according to NBC News’ international partner, Sky News.",
+      "reason": "Provides context on the current state of negotiations and the rejection of peace proposals.",
+      "label": 1
+    },
+    {
+      "paragraph": "Under a “terms sheet” offered by Rubio and Witkoff, a land-for-peace deal would recognize Russia’s currently illegal annexation of Crimea and work toward lifting European Union sanctions on Russia. Both parties have since rejected the terms.",
+      "reason": "Details specific proposals related to the negotiations and their rejection.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yulia Svyrydenko, the country’s deputy prime minister, wrote on X that Ukraine was ready to negotiate “but not to surrender.”",
+      "reason": "Includes a relevant quote from a Ukrainian official on the negotiation stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our people will not accept a frozen conflict disguised as peace,” she wrote.",
+      "reason": "Provides a direct quote emphasizing Ukraine's position on the conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "After months of upbeat statements on indirect U.S.-led talks, but limited practical engagement, Putin on Tuesday suggested for the first time that he would be open to bilateral ceasefire talks with Zelenskyy.",
+      "reason": "Mentions a significant development in the negotiation process involving Putin.",
+      "label": 1
+    },
+    {
+      "paragraph": "The issue of Crimea may well be one of the most difficult points of difference to overcome, said Matthew Savill, director of military sciences at the Royal United Services Institute, a London-based think tank.",
+      "reason": "Provides expert commentary on the challenges of negotiating over Crimea, directly related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think it will be extraordinarily difficult, bordering on political suicide, for him [Zelenskyy] to commit to paper on things like giving up Crimea,\" Savill said. That said, \"Ukraine is not going to recapture Crimea anytime soon. Ukraine is unlikely to be a NATO member anytime soon.\"",
+      "reason": "Offers specific insights into the political implications for Zelenskyy, relevant to the negotiation topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There might be some formulation [of a deal] that effectively kicks those into the long grass,\" he added, with the caveat that \"the terms of any deal at the moment are not going to be particularly favorable to Ukraine.\"",
+      "reason": "Discusses potential outcomes of negotiations, directly related to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Astha Rajvanshi is a reporter for NBC News Digital, based in London. Previously, she worked as a staff writer covering international news for TIME.",
+      "reason": "Provides background information on a reporter, not relevant to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Daniele Hamamdjian is an NBC foreign correspondent based in London.",
+      "reason": "Provides background information on a correspondent, not relevant to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Doha Madani is a senior breaking news reporter for NBC News. Pronouns: she/her.",
+      "reason": "This paragraph is a byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "and",
+      "reason": "This is an incomplete fragment and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "contributed",
+      "reason": "This is an incomplete fragment and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": ".",
+      "reason": "This is an incomplete fragment and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

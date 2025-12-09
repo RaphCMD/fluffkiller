@@ -1,0 +1,184 @@
+{
+  "headline": "Trump avoids prison sentence, fines in felony hush-money case | CBC News",
+  "context": [
+    "World",
+    "U.S. president-elect Donald Trump has escaped any penalty other than a criminal record for his felony crimes after a judge on Friday handed him an alternative sentence called an unconditional discharge."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Rhianna Schmunk  · CBC News",
+      "reason": "This is an author byline and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump gets unconditional discharge on felony hush-money conviction",
+      "reason": "This is a headline reiteration and does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "4 months ago",
+      "reason": "This is a date stamp and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "U.S. president-elect Donald Trump has escaped any legal punishment other than a criminal record for his felony crimes, after a judge on Friday handed him an alternative sentence called an unconditional discharge.",
+      "reason": "This paragraph provides essential information about Trump's legal outcome.",
+      "label": 1
+    },
+    {
+      "paragraph": "Judge Juan Merchan's ruling spares Trump any jail time, fines or probation supervision for his conviction, though the sentence cements his status as the first convicted felon to hold the White House.",
+      "reason": "This paragraph offers important details about the judge's ruling and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "The incoming president appeared remotely during the hearing with his lawyer on TV screens in the courtroom. Taking his opportunity to address the court, Trump maintained his innocence and said the case was a \"tremendous setback\" for the justice system.",
+      "reason": "This paragraph provides details about Trump's court appearance and his statement, which are directly related to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I'm totally innocent, I did nothing wrong,\" said Trump, who takes office on Jan. 20.",
+      "reason": "This quote reiterates Trump's claim of innocence, which is relevant to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "The president-elect was convicted in May on charges he falsified business records to cover up a sex scandal threatening to break during his first presidential campaign in 2016.",
+      "reason": "This paragraph provides essential background on the charges and conviction.",
+      "label": 1
+    },
+    {
+      "paragraph": "A jury found him guilty on all 34 counts, making him the first president to be convicted as a felon.",
+      "reason": "This paragraph provides significant information about the conviction and its historical context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump, 78, fought hard to stop his historic sentencing, including through an emergency application to the U.S. Supreme Court this week. Late Thursday, the top court declined to do so, in a narrow 5-4 majority.",
+      "reason": "This paragraph details Trump's legal efforts and the Supreme Court's decision, which are relevant to the case outcome.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's crimes came with a potential penalty of up to four years in prison and $5,000 US in fines for each count. But trial courts have the power to impose a different sentence if they see fit, based on all the circumstances of the crime and the criminal.",
+      "reason": "Provides context on potential penalties and judicial discretion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Under New York law, a judge can choose an unconditional discharge if they don't see prison time or probation as being in the public's best interest.",
+      "reason": "Explains the legal basis for the judge's decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"An unconditional discharge is virtually nothing in terms of punishment,\" David Dorfman, a law professor at Pace University in New York, told CBC News in an interview Friday.",
+      "reason": "Offers expert commentary on the nature of the sentence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"You are now known forever as a felon, but basically there's no direct consequence to the 34 convictions. The former and soon-to-be-president owes nothing to the courts.\"",
+      "reason": "Provides insight into the implications of the sentence.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Breaking down the evidence that led to Trump's N.Y. conviction:",
+      "reason": "Serves as a prompt for a video, not contributing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump guilty: Key evidence behind the conviction",
+      "reason": "The paragraph is a headline and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "11 months ago",
+      "reason": "The paragraph is a timestamp and does not contribute to the narrative or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dorfman said Merchan was bound by sentencing guidelines. In this case, Trump is a first-time, non-violent offender convicted of the lowest-level felony in New York — and incarcerating the president of the United States would be deeply impractical.",
+      "reason": "This paragraph provides context about the sentencing guidelines and rationale for the decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think Judge Merchan would've been a lot tougher on him had he lost the election,\" said Dorfman, who is unconnected to the case.",
+      "reason": "This quote offers speculative commentary and does not add substantial information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prosecutor Joshua Steinglass told the court on Friday that Manhattan District Attorney Alvin Bragg's office supported Merchan's planned sentence.",
+      "reason": "This paragraph provides relevant information about the prosecutor's stance on the sentence.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The verdict in this case was unanimous and decisive, and it must be respected,\" Steinglass said.",
+      "reason": "This quote emphasizes the finality and acceptance of the verdict.",
+      "label": 1
+    },
+    {
+      "paragraph": "With sentencing over, Trump is now free to formally appeal the jury's verdict. He cannot pardon himself because those presidential powers only apply to federal crimes, not those brought at the state level.",
+      "reason": "This provides important legal context about Trump's options and limitations post-sentencing.",
+      "label": 1
+    },
+    {
+      "paragraph": "Canada is among dozens of countries in the world to refuse entry to felons. It will likely fall upon Canada's immigration minister to grant Trump special status to make him legally admissible for entry into the country moving forward.",
+      "reason": "This is tangential information about international travel implications, not directly related to the case outcome.",
+      "label": 0
+    },
+    {
+      "paragraph": "The New York case revolved around porn star Stormy Daniels, who threatened to go public in the middle of Trump's first presidential campaign about an extramarital encounter between them in 2006.",
+      "reason": "This provides essential background on the case's origins and context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's former attorney, Michael Cohen, negotiated a $130,000 hush-money payment to keep Daniels quiet.",
+      "reason": "This details a key fact about the hush-money payment central to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump paid him back, but Cohen told jurors last spring the former president orchestrated a scheme to falsify records and cover up the deal.",
+      "reason": "This paragraph provides specific details about Trump's involvement in the scheme, which is central to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a last-ditch U.S. Supreme Court filing to stop sentencing, Trump's lawyers argued ​​their client was entitled to full immunity on account of his election win on Nov. 5.",
+      "reason": "This paragraph details a legal argument made by Trump's lawyers, which is relevant to the case's legal proceedings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The claim drew on a landmark Supreme Court ruling last year that granted former presidents sweeping immunity for official acts.",
+      "reason": "This paragraph provides context about the legal basis for Trump's immunity claim, which is relevant to the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "In rejecting Trump's last-minute request to stop his sentencing, five Supreme Court justices said Trump could address his stated issues in the ordinary course of appeal. They also found the burden sentencing would pose on the president-elect's responsibilities to be \"relatively insubstantial.\"",
+      "reason": "This paragraph explains the Supreme Court's decision regarding Trump's request, which is directly related to the case outcome.",
+      "label": 1
+    },
+    {
+      "paragraph": "The hush money case was the only one of Trump's four criminal indictments to go to trial. Each stemmed from an investigation that began before Trump announced his intention to run for a second term.",
+      "reason": "This paragraph provides context about the uniqueness of the case and its timing, which is relevant to understanding the broader legal situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since Trump's election win, special counsel Jack Smith has moved to wind down two federal cases.",
+      "reason": "Provides context about ongoing legal matters involving Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "One pertained to Trump's efforts to overturn his 2020 election loss, which resulted in hundreds of his supporters storming the Capitol on Jan. 6, 2021. In the other case, Trump was accused of hoarding classified documents at his estates in Florida and New Jersey and defying several attempts by the government to get him to return them after his first term as president ended.",
+      "reason": "Details specific legal cases involving Trump, relevant to his legal situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "There are ongoing legal arguments over the public release of the special counsel's reports concerning those cases.",
+      "reason": "Mentions ongoing legal proceedings related to Trump's cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump was charged in Georgia over 2020 election interference. That case is largely on hold.",
+      "reason": "Provides information on another legal case involving Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rhianna Schmunk is a senior writer covering domestic and international affairs at CBC News. Her work over the past decade has taken her across North America, from the Canadian Rockies to Washington, D.C. She routinely covers the Canadian courts, with a focus on precedent-setting civil cases. You can send story tips to rhianna.schmunk@cbc.ca.",
+      "reason": "Contains biographical information about the author, not directly related to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

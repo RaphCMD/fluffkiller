@@ -1,0 +1,349 @@
+{
+  "headline": "Opinion | Maureen Dowd and Carlos Lozada on 100 Days of Trump’s ‘Fake Reality’ - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "April 30, 2025"
+  ],
+  "annotations": [
+    {
+      "paragraph": "In this episode of “The Opinions,” the deputy Opinion editor Patrick Healy is joined by the columnists Maureen Dowd and Carlos Lozada to dissect the first 100 days of President Trump’s second term and prepare for what’s to come.",
+      "reason": "This paragraph introduces the main topic of the discussion, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Nothing like this has ever happened in Washington.”",
+      "reason": "This quote is vague and lacks context, making it fluff.",
+      "label": 0
+    },
+    {
+      "paragraph": "Listen · 29:35 min",
+      "reason": "This is a technical detail about the podcast length, not relevant to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Below is a transcript of an episode of “The Opinions.” We recommend listening to it in its original form for the full effect. You can do so using the player above or on the NYT Audio app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts.",
+      "reason": "This paragraph is promotional and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The transcript has been lightly edited for length and clarity.",
+      "reason": "This is a disclaimer about the transcript editing, not relevant to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Patrick Healy: This is the First 100 Days, a weekly series examining President Trump’s use of power and his drive to change America.",
+      "reason": "Introduces the series and its focus on Trump's use of power.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Tuesday we hit the milestone: President Trump has been in office 100 days. So what have we learned? He has used power chaotically — but for a purpose: to throw an entire country off balance, to gain maximum leverage while keeping friends and enemies alike on their back heel. He’s ruled by executive order to an unprecedented degree, and he’s trying to remake America in his image.",
+      "reason": "Provides analysis of Trump's first 100 days in office.",
+      "label": 1
+    },
+    {
+      "paragraph": "He decides who matters and who is disposable. So tens of thousands of federal workers are gone. D.E.I. is gone. Transgender people are erased as a matter of government policy. Undocumented migrants are being rounded up, and deportations are also underway of people lawfully in the country, and even American citizens. The president is doing much of this in defiance of the courts and the Constitution.",
+      "reason": "Details specific actions taken by Trump during his first 100 days.",
+      "label": 1
+    },
+    {
+      "paragraph": "So how do we make sense of the last 100 days, and what should we prepare for as we look ahead? I wanted to talk about all of this with my colleagues Maureen Dowd and Carlos Lozada, two Times columnists in Washington who’ve watched President Trump closely.",
+      "reason": "Sets up the discussion with columnists about Trump's presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Thank you both for being here.",
+      "reason": "A generic expression of gratitude without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Maureen Dowd: Thank you, Patrick.",
+      "reason": "This is a polite introductory remark with no substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carlos Lozada: Good to be here, Patrick.",
+      "reason": "This is a polite introductory remark with no substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Healy: So thinking back on the last few months, I want to ask both of you first — how would you describe Trump’s approach to power in a word or a phrase?",
+      "reason": "This sets up the discussion about Trump's approach to power, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: Graspy.",
+      "reason": "This provides a succinct characterization of Trump's approach to power, relevant to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Tell me more.",
+      "reason": "This prompts further elaboration on the topic, contributing to the narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: Well, he’s more imperialistic. I mean, all this craziness about wanting to annex Canada and Greenland and Panama, the Kennedy Center, D.C., Ivy League school departments, law firms. But he’s graspy in the sense that we’ve never seen a president doing business like he’s doing with the meme coin and his crypto company, where the conflict of interest becomes a confluence of interest.",
+      "reason": "The paragraph provides specific examples and commentary on Trump's actions and business dealings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Is there anything he doesn’t want, Maureen? I mean, of all these things, is there anything he hasn’t ——",
+      "reason": "This is a low-information question that does not add new facts or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dowd: No. I mean, he wants all the gold in the world. He actually has a cabinetmaker in Florida who’s called the gold guy, who has come up to put all of that crazy gold in the Oval Office and ruin it.",
+      "reason": "The paragraph provides a specific anecdote about Trump's desire for gold, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Carlos, what about you? What word or phrase comes to mind for you?",
+      "reason": "This is a low-information question that does not add new facts or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Lozada: When I think about Trump in power, it’s not just that he takes power or seizes power or uses power. He also just assumes power. The administration’s working assumption seems to be: Just do it. It’s like the Nike presidency. His justification is that the election gave him a broad mandate, but even more than as president, he embodies the popular will.",
+      "reason": "The paragraph provides analysis and commentary on Trump's approach to power.",
+      "label": 1
+    },
+    {
+      "paragraph": "They use that vision of the popular will to justify a lot of these power grabs. When Stephen Miller, his aide, talks about 80-20 issues, that’s what he’s talking about. Sort of like, well, this is the popular will, so who cares about the details? It’s like the old line about how it’s easier to ask for forgiveness than permission. Trump doesn’t ask for either one because either one is a sign of weakness.",
+      "reason": "The paragraph provides insight into Trump's approach to governance and decision-making, which is relevant to the discussion of his first 100 days.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Carlos, you just nailed something that came up repeatedly in a focus group we just did of first-time Trump voters, people who voted for Hillary Clinton in 2016, Joe Biden in 2020 and then voted for Trump last November, and it was that “Just do it” element that you identified. These people, even if they are now uncomfortable with Trump — some of them even regretting their choice — they do feel really moved by the idea that, as one of them said, “God, a president can do something. He can do something.” Is the action the point there, Carlos?",
+      "reason": "The paragraph discusses voter sentiment and perception of Trump's actions, which is relevant to understanding his impact during the first 100 days.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Let’s go back to January. Maureen, how did you think President Trump’s first 100 days would go and then how did it go by comparison to what you might’ve been thinking?",
+      "reason": "The paragraph sets up a comparison of expectations versus reality regarding Trump's first 100 days, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: Well, The Times is very strict about letting us use the word “irony,” because it’s so often misused. But I think the irony of Trump’s first 100 days is that he’s always presented himself as this brand expert. He slapped his name on half of New York, but he has taken the greatest brand in the history of the world, which is the United States, and destroyed it in 100 days. And he’s well on his way to destroying the brand of our dollar. So I don’t think anyone expected that.",
+      "reason": "The paragraph provides Maureen Dowd's perspective on the impact of Trump's first 100 days, which is central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Did you think the destruction would go quite like this? Because for me, I really thought retribution was going to be the thing, that he’d be going after his enemies and he’d be so consumed by his targets that it would really throw him off track. But instead it does feel like, whether it’s Stephen Miller or Susie Wiles, they’ve kind of kept him on those executive orders that Carlos was talking about. Every day, it’s kind of a new target. But did you see the destruction ——",
+      "reason": "The paragraph discusses the unexpected nature of Trump's actions and the role of his aides, which is relevant to the analysis of his first 100 days.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lozada: That’s so hard — there’s such a fire hose of news every day. I think about, every day, looking at the New York Times app or other news apps, and I look at what’s at the top and I think: Is that the most important thing going on, or is that just the latest thing going on? And I don’t know. That’s a difficult thing. The sense of hierarchy is sort of eluding me sometimes. It takes time to figure out what is really the most important thing.",
+      "reason": "This paragraph is a general reflection on news consumption and does not directly relate to Trump's 'fake reality.'",
+      "label": 0
+    },
+    {
+      "paragraph": "I think that one thing I’ve been thinking about is the notion, as you just put it, of “We, the people” — that’s how the Constitution begins. And what I’ve been thinking about with Trump is that so much of what he’s doing is limiting the universe of “We, the people.” He’s telling us that there are people who really don’t count in that world. And that could be federal workers — they’re expendable, their loyalties are suspect, we don’t need them. The U.S.-born children of undocumented immigrants also don’t belong, aren’t really “We, the people,” should not receive citizenship at birth as the 14th Amendment tells us. Opponents of the president, former officials who have criticized him don’t deserve to be protected.",
+      "reason": "This paragraph provides specific commentary on Trump's actions and their implications, directly relating to the theme of 'fake reality.'",
+      "label": 1
+    },
+    {
+      "paragraph": "You know, it’s another one of the key aspects of populism that populist leaders purport to speak for the people, but the definition of the people is always malleable. It always changes, it’s always shifting. And inevitably it becomes smaller, it shrinks until the only people who are “We, the people” are the supporters of the leader. And to me that’s one of the through lines of the Trump era, certainly of the first 100 days of this second term.",
+      "reason": "This paragraph provides analysis of populism in the context of Trump's presidency, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Maureen, what has Trump done that matters most?",
+      "reason": "This is a setup question for further commentary and does not provide new information itself.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dowd: Well, again, I come back to the fake reality he’s trying to create. He pardoned the 1,600 Jan. 6 insurrectionists and is trying to change the narrative of that day, which shall go down in infamy. He’s going after The Associated Press because they won’t use “Gulf of America.” So it’s like, if he says it and you don’t go along with it because it’s not true, then he punishes you the way he’s doing with Zelensky.",
+      "reason": "This paragraph provides specific examples of Trump's actions that contribute to the 'fake reality' theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "There was this sense that Washington would endure. Administrations come and go, but civil servants, public servants keep doing their work. And part of that is DOGE. Part of that is also the abdication of Congress’s own powers of oversight. It’s not just that Trump is doing these things that are affecting the livelihoods and the life work and missions of civil servants, of D.O.J. lawyers and of N.I.H. scientists, but it’s also the sense that it seems like nothing can stop it. It seems like no one is doing anything about it. The normal checks and balances aren’t operating.",
+      "reason": "The paragraph provides context on the impact of Trump's administration on Washington and the perceived lack of checks and balances.",
+      "label": 1
+    },
+    {
+      "paragraph": "And so it’s not just: Oh, I’m losing my job. It’s: No one is really stopping this thing that is moving forward relentlessly and somewhat chaotically.",
+      "reason": "This paragraph emphasizes the chaotic progression of Trump's policies, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Carlos, are Republicans in D.C. sad, too? And I ask that because I know some are quite triumphal, but others who I’ve talked to don’t like the instability, and they don’t like the sense that there isn’t a clear plan or logic to some of what is happening. So I want to include that wing of America, too. Are Republicans sad?",
+      "reason": "The paragraph introduces a question about Republican sentiment, relevant to the discussion of Trump's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lozada: Well, I guess I would ask you what sort of Republican you’re thinking about?",
+      "reason": "This paragraph is a conversational filler without substantial information.",
+      "label": 0
+    },
+    {
+      "paragraph": "If you’re thinking about the Wall Street Chamber of Commerce, free trader, pro-immigration, robust internationalism, George H.W. Bush or Mitt Romney type of Republican, then these first 100 days have not been good for that kind of Republican. But I don’t know if that’s really the party that exists anymore today. And I don’t think that party is coming back. The Republican Party we have instead is a lot of things. There’s the kind of populist, anti-immigrant wing of the party. They’ve had big victories. There’s the pro-Trump, Silicon Valley wing of the party. They’ve had some wins, and some losses as well, as Maureen is pointing out.",
+      "reason": "The paragraph provides analysis on the current state of the Republican Party under Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "But those parts don’t really like each other. Trump is a mix of all of those things. And so I wouldn’t say that the sadness in Washington or the constant expression of concern is solely the province of the left or of liberals. But it really depends on what kind of Republican you’re thinking of.",
+      "reason": "The paragraph provides context on the political landscape and sentiment in Washington, which is relevant to understanding Trump's presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: I want to talk about how all of this is landing with voters. We’ve definitely seen some recent polls suggesting that more voters are souring on President Trump, particularly on the economy and even on immigration. How do you both think Americans are reflecting on his first 100 days?",
+      "reason": "The paragraph introduces a discussion on voter sentiment and polling data, which is relevant to the evaluation of Trump's first 100 days.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: I asked my siblings, who are two-time Trump voters, how they feel now that their 401(k)s are dropping, as Dave Barry would say, faster than a pig out of a helicopter. And they are not as alarmed as I would think. They’re waiting and thinking that Trump has a plan.",
+      "reason": "The paragraph provides a personal anecdote reflecting voter sentiment, which is relevant to the discussion of Trump's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "But when people begin to realize that their Veterans Affairs office has been closed, or when DOGE is messing with Social Security and Medicare, when it filters down to them, which it’s going to do really fast — it’s cliché to say he’s like the Wizard of Oz, but the curtain is opening. Toto is opening the curtain and you’re just seeing that this is a con man with a lame con.",
+      "reason": "The paragraph offers a critical perspective on the potential consequences of Trump's policies, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lozada: What was that John McCain line that he would say? It’s always darkest just before it goes completely pitch black. Right? I may be misquoting the late John McCain, but ——",
+      "reason": "The paragraph contains a vague quote without adding substantial information to the discussion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dowd: No, he did. That’s great.",
+      "reason": "This is a vague and low-information quote.",
+      "label": 0
+    },
+    {
+      "paragraph": "Lozada: In some ways, I think about these polls and it’s not a huge stretch to say it’s kind of par for the course for Trump. His approval ratings are never great, even if his approval among his base remains high. It’s often been like that.",
+      "reason": "This provides context on Trump's historical approval ratings.",
+      "label": 1
+    },
+    {
+      "paragraph": "What is interesting is that his approval rating on the core issues that helped him win the election are becoming weaknesses. Not among his hardest-core supporters, but maybe among the voters who weren’t totally crazy about him, who maybe voted for Biden in 2020 but now went back to Trump because of inflation and the border.",
+      "reason": "This discusses changes in Trump's approval ratings on key issues.",
+      "label": 1
+    },
+    {
+      "paragraph": "But now those don’t seem like winning issues for him. I guess it’s one thing to say you want a disruptor, that you want a wrecking ball in Washington. It’s another to experience the disruption to your retirement account, or to see the wrecking ball against basic civil liberties. Then you might not be so crazy about it. I wonder if that’s what’s being reflected in the polls.",
+      "reason": "This provides analysis on the impact of Trump's policies on public opinion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Maureen, in your most recent column, you captured some of the ways that Trump has become what you called “the Emperor of Chaos.” And I think both of those words are so key: “emperor” and “chaos.”",
+      "reason": "This references a characterization of Trump relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "You would think that an emperor or a strongman would be able to prevent chaos. That they would have control. Why has President Trump lost a handle on so many things? Or was it an illusion that he ever had a handle on things in the first place?",
+      "reason": "The paragraph introduces the theme of Trump's perceived control and chaos, which is relevant to the discussion of his presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: Yeah. We talked about that with “The Apprentice.” I think that gave the illusion.",
+      "reason": "This paragraph provides context on how Trump's image was shaped by 'The Apprentice,' relevant to the theme of 'fake reality.'",
+      "label": 1
+    },
+    {
+      "paragraph": "I remember Carl Hulse, our chief Washington correspondent, saying to me the first time Trump got elected that it’s going to be a federal day care because he’s the high-chair king. He’s a child in many ways who wants to throw the applesauce at the wall. He enjoys that. He enjoys the chaos.",
+      "reason": "This paragraph offers a metaphorical description of Trump's leadership style, contributing to the narrative of chaos.",
+      "label": 1
+    },
+    {
+      "paragraph": "But I think he’s gotten himself into a fix this time because he’s — what’s the line from “Network”? He’s messed with primal forces. He’s upended the American economy, the global economy, American values in one fell swoop. He just turned everything that’s important to us upside down. And I think it’s going to be very hard to put it all back together again.",
+      "reason": "The paragraph discusses the consequences of Trump's actions, relevant to the theme of his presidency's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Yeah. Presidents can only control so much, but boy, they can make a mess of a lot.",
+      "reason": "This statement summarizes the potential impact of presidential actions, relevant to the discussion of Trump's presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s good if your country is the place where people want to come to make their dreams come true. That shouldn’t be a bad thing. But now we’ve decided that it is — we don’t want to be that place anymore. And you can’t un-ring that bell with a new president, that trust. You can’t un-ring that bell with a midterm election.",
+      "reason": "This paragraph provides a general commentary on America's changing image, which is relevant to the discussion of Trump's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: Yeah, I think one of the most shocking things about Trump is just this casual cruelty that America was never known for. I mean, my father came here from Ireland when he was a teenager. Now his daughter is a columnist at The New York Times.",
+      "reason": "This paragraph includes a personal anecdote and commentary on Trump's perceived cruelty, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "America stood for dreams and idealism, and now Trump goes to the pope’s funeral and he’s blowing off Europe, all of our friends and allies, and they’re scrambling around trying to figure out what they’re going to do without America as the leader of the world. The Canadian election where someone who opposed Trump is now the leader of Canada, it’s just — even in this brief time, it has realigned the entire world and not in a way that’s positive for us.",
+      "reason": "This paragraph discusses the global impact of Trump's actions, which is directly relevant to the article's focus on his presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: I want to end where we started this show, which was about Trump’s desire to change America. I want to ask each of you: What still gives you hope for America? I don’t mean to be a Pollyanna about this, but this is one person, this is one president. This is one 100 days. And while a midterm election does feel inadequate to the task of what is going on, as Carlos was getting at, I do want to ask you: What gives you hope about America?",
+      "reason": "This paragraph sets up a question about hope for America, which is relevant to the discussion of Trump's presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: Dead silence, Patrick. Yikes.",
+      "reason": "This paragraph is a low-information response that does not add to the discussion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Lozada: I guess maybe America itself, in a way, is what gives me hope. And here I’m just — what’s the word I’m looking for? I’m just kind of retroactively affirming my own decisions, but I became an American citizen in November of 2014. So 2016 was the first American election I ever voted in.",
+      "reason": "The paragraph provides personal context about Lozada's citizenship and voting experience, which is not directly related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Especially living where I do, the suburbs of Washington, D.C., I often get the joke, like: Oh, you have any regrets for joining us just at this time? And the answer is never — not at all, not at all. And all the ideals and all the principles that we purport to hold dear here are what continues to give me hope.",
+      "reason": "This paragraph is personal reflection and does not contribute directly to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Now, if we’ve learned anything in this time, it is that norms don’t norm themselves. You have to realize that institutions are only as strong and as resilient as the people defending them. The appeal that this place has held for so long for so many is what continues to give me hope, even if it means we have to work a lot harder at it than we thought we did before.",
+      "reason": "The paragraph discusses the resilience of institutions, which is relevant to the theme of Trump's impact on norms.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dowd: Yeah, I would agree. I think America’s a very big, fantastic idea and Trump is a very small, petty man, and I think that’s going to become more obvious with each moment.",
+      "reason": "This paragraph provides a direct opinion on Trump, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Healy: Maureen, Carlos, thanks so much for joining me.",
+      "reason": "This is a closing remark and does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dowd: Thank you, Patrick.",
+      "reason": "This is a closing remark and does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Lozada: Thank you, Patrick.",
+      "reason": "This is a closing remark and does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Thoughts? Email us at theopinions@nytimes.com.",
+      "reason": "This is a call to action for reader engagement and does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "This episode of “The Opinions” was produced by Jillian Weinberger. It was edited by Alison Bruzek and Kaari Pitkin. Mixing by Carole Sabouraud and Sonia Herrero. Original music by Sonia Herrero, Carole Sabouraud and Aman Sahota. Fact-checking by Mary Marge Locker and Kate Sinclair. Audience strategy by Shannon Busta and Kristina Samulewski. The director of Opinion Audio is Annie-Rose Strasser.",
+      "reason": "This is production credit information and does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.",
+      "reason": "This paragraph is promotional and not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.",
+      "reason": "This paragraph is promotional and not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Maureen Dowd is an Opinion columnist for The Times. She won the 1999 Pulitzer Prize for distinguished commentary. She is the author, most recently, of “Notorious.”  @MaureenDowd • Facebook",
+      "reason": "This paragraph provides background information about the author, not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carlos Lozada is an Opinion columnist based in Washington, D.C. He is the author, most recently, of “The Washington Book: How to Read Politics and Politicians.”  @CarlosNYT",
+      "reason": "This paragraph provides background information about the author, not directly related to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "headline": "‘My heart is broken’: Mother, wife killed at Lapu Lapu festival tragedy in Vancouver | Globalnews.ca",
+  "context": [
+    "Posted April 29, 2025 9:30 pm",
+    "Updated April 30, 2025 12:25 pm"
+  ],
+  "annotations": [
+    {
+      "paragraph": "2 min read",
+      "reason": "This is a reading time estimate and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "1:13\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t‘She was larger than life’: Husband of Vancouver Lapu Lapu festival victim pays moving tribute to wife",
+      "reason": "This is a video caption and does not contribute new information to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "A man who lost his wife in the Lapu Lapu festival tragedy spoke about her love and legacy at a vigil for the victims on Monday night.",
+      "reason": "This paragraph provides relevant information about the husband's tribute to his wife, which is directly related to the tragedy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jen Darbellay was struck and killed by an SUV at the Filipino festival on Saturday night.",
+      "reason": "This paragraph provides essential details about the incident, including the victim's name and how she died.",
+      "label": 1
+    },
+    {
+      "paragraph": "Noel Johansen was also injured in the incident but that was secondary to him when he spoke in front of a crowd gathered near the site of the deadly incident at East 41st Avenue and Fraser Street.",
+      "reason": "This paragraph provides relevant information about another victim and the location of the incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "2:19\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFundraising for Vancouver Lapu Lapu Day victims underway, 10 survivors still in hospital",
+      "reason": "Provides an update on the aftermath of the tragedy, including fundraising efforts and the condition of survivors.",
+      "label": 1
+    },
+    {
+      "paragraph": "“What you see here is an injury that means nothing to me because what’s inside my heart is broken,” Johansen said, holding back tears.",
+      "reason": "Includes a direct quote from a victim's family member, adding emotional depth to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not contributing to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Because my wife passed away behind me at the incident.”",
+      "reason": "Provides a direct quote that adds personal impact and context to the tragedy.",
+      "label": 1
+    },
+    {
+      "paragraph": "For news affecting Toronto and surrounding communities, sign up to receive Toronto news alerts when they break.",
+      "reason": "This is a promotional line unrelated to the article's main story.",
+      "label": 0
+    }
+  ]
+}

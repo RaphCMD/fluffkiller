@@ -1,0 +1,69 @@
+{
+  "headline": "Let's make it rain — with cloud seeding | Opinion – Deseret News",
+  "context": [
+    "Isaiah is the external affairs director at the American Conservation Coalition. He is a Young Voices Contributor and is a recent graduate of Dartmouth College. Follow him on X @IsaiahMenning.",
+    "As China turns cloud seeding into a cornerstone of its climate strategy, the U.S. is falling behind — except, perhaps, in Utah, where key innovations could offer a way forward."
+  ],
+  "annotations": [
+    {
+      "paragraph": "For over 70 years, Utah has been boosting snowpack with cloud seeding technology. Once an intractable phenomenon, precipitation can now be directed by people, at least partially. In Utah, cloud seeding is helping significantly, but large regions of the American Southwest continue to suffer from prolonged periods of drought.",
+      "reason": "This paragraph provides relevant historical context and current application of cloud seeding in Utah, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Related",
+      "reason": "This is a placeholder or section header with no substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Water conservation is important, but it isn’t enough. Water supply in the American West is so low that some scientists have suggested retiring two-thirds of agricultural production in the Great Salt Lake Basin to bring the lake back to healthy levels. Droughts are diminishing hydropower capacity, and dry conditions are reducing the ability for ecosystems to recover after fires, reducing habitat for wildlife and forage for livestock.",
+      "reason": "This paragraph provides context on the water crisis in the American West, which is relevant to the discussion of cloud seeding as a potential solution.",
+      "label": 1
+    },
+    {
+      "paragraph": "We need more water. Desalination, pipelines and water reclamation are part of the solution, but these projects are often expensive and time consuming. Recycled water costs over $180 per acre-foot, and desalinating ocean water costs $800-1400 per acre-foot. At only $3 per acre-foot of water, cloud seeding beats all other programs on price. Utah has modeled how cloud seeding can increase the state’s snowpack by 10% in some years with planes and on-the-ground generators. To increase program effectiveness, the state is piloting a program to use drones.",
+      "reason": "This paragraph provides specific cost comparisons and details on Utah's cloud seeding efforts, directly supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Eight other states also use cloud seeding programs to increase precipitation. Arizona, California and Nevada pay upstream Colorado River states — Utah, Wyoming and Colorado — for cloud seeding to increase flows in the river. Expanding these programs and developing advanced cloud seeding technologies could further increase river flows and help America’s desert bloom.",
+      "reason": "This paragraph expands on the use of cloud seeding in other states and its potential benefits, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "But a recent movement in state legislatures has attempted to ban cloud seeding. Last month, the Florida Senate passed a bill that would make cloud seeding illegal, even though cloud seeding isn’t even used in the state. The legislation’s supporters express concerns over the negative health impacts of cloud seeding, in addition to its effects on natural disasters like hurricanes.",
+      "reason": "This paragraph provides relevant information about legislative actions against cloud seeding and the concerns driving these actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Available evidence does not support these concerns. Recent studies show that the current use of silver iodide has no negative health effects. And cloud seeding can’t create hurricanes — natural clouds are needed to do any cloud seeding at all.",
+      "reason": "This paragraph offers relevant counterarguments to the concerns about cloud seeding, contributing to the main discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "This kind of anti-innovation environmental hand-wringing is nothing new. Environmental opposition to nuclear energy stunted the industry in the United States, even though nuclear energy produces no air pollution and is among the safest, least land-intensive sources available. It would be short-sighted to make the same mistake for cloud seeding technology.",
+      "reason": "This paragraph is fluff as it provides a generalization and comparison to nuclear energy without adding new information about cloud seeding.",
+      "label": 0
+    },
+    {
+      "paragraph": "Such a misstep would pose a real threat to American sovereignty and leadership. China has invested in cloud seeding activities across the country, using weather modification to reduce droughts, suppress hail and even clear urban pollution. In recent years, China has aimed to create nearly 50 million acre-feet of new precipitation, about 10% of the country’s water consumption. In Xinjiang, officials claim weather modification has reduced hail crop damage by 70%. Because America has relinquished cloud seeding leadership to China, we risk losing advantages in water-intensive industries, whether agriculture or AI development.",
+      "reason": "This paragraph provides relevant information about China's advancements in cloud seeding and its implications for the U.S.",
+      "label": 1
+    },
+    {
+      "paragraph": "Instead of limiting cloud seeding, America should follow Utah’s lead and expand and innovate the use of water-making technology. Currently, there is no federal program dedicated to researching or deploying cloud seeding. With federal support, American innovators can develop new technologies to deliver water where it’s needed, support agriculture, and bolster national security.",
+      "reason": "This paragraph is relevant as it suggests a course of action for the U.S. regarding cloud seeding, tying back to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Cloud seeding bans in the name of environmentalism would hurt America. The environmental movement has too often been focused on preserving scarce natural resources and skeptical of new technologies. For the sake of our ranchers, public lands, ecosystems and cities, it’s time for a new paradigm focused on creating resources. It’s time to make it rain.",
+      "reason": "The paragraph discusses the potential benefits of cloud seeding and the need for a shift in environmental strategy, which is relevant to the article's focus on cloud seeding.",
+      "label": 1
+    },
+    {
+      "paragraph": "Related",
+      "reason": "This is a placeholder or navigation text with no informational content.",
+      "label": 0
+    }
+  ]
+}

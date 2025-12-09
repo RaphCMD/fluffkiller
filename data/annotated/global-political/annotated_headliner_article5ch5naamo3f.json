@@ -1,0 +1,74 @@
+{
+  "headline": "President Trump declares May 8 as 'Victory Day' for World War II | Fox News",
+  "context": [
+    "President Donald Trump late Thursday announced plans to designate May 8 as World War II \"Victory Day\" in the United States, which coincides with the \"Victory in Europe Day\" that has been celebrated in most of Europe since the Germans surrendered in 1945.",
+    "Trump acknowledged in a Truth Social that \"many of our allies and friends\" already celebrate on May 8, but said America should join in because \"we did more than any other Country, by far, in producing a victorious result.\""
+  ],
+  "annotations": [
+    {
+      "paragraph": "WORLD WAR II'S D-DAY: PHOTOS REVEAL WORLD'S LARGEST AMPHIBIOUS INVASION",
+      "reason": "This is a headline for a photo gallery unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "FILE: President Donald Trump and first lady Melania Trump participate in a wreath-laying ceremony at the World War II Memorial in Washington, D.C., to commemorate the 75th anniversary of Victory in Europe Day on May 8, 2020. (AP Photo/Evan Vucci)",
+      "reason": "This is a caption for a photo and does not add new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "On May 7, 1945, the Germans surrendered to the Allied Forces, and agreed to cease all operations the next day.",
+      "reason": "This provides historical context relevant to the designation of May 8 as Victory Day.",
+      "label": 1
+    },
+    {
+      "paragraph": "World War II officially ended later in the year on Sept. 2 when the Japanese signed an instrument of surrender, though Japan waved a white flag on Aug. 14 – about a week after the United States dropped atomic bombs on Hiroshima and Nagasaki.",
+      "reason": "This paragraph offers additional historical context about the end of World War II.",
+      "label": 1
+    },
+    {
+      "paragraph": "The U.S. does not have any public holidays commemorating World War II specifically, but there have been remembrance ceremonies in May, August and September across the country for decades.",
+      "reason": "This provides context about the current state of World War II commemorations in the U.S.",
+      "label": 1
+    },
+    {
+      "paragraph": "WWII VETERAN TURNS 100, REVEALS THE SECRETS OF A LONG, HEALTHY LIFE",
+      "reason": "This paragraph is unrelated to the main topic of Trump's declaration.",
+      "label": 0
+    },
+    {
+      "paragraph": "Former President Harry Truman, who was in office during the end of WWII, issued a proclamation in August 1946 declaring Aug. 14 as \"Victory Over Japan Day.\"",
+      "reason": "Provides historical context about previous WWII victory commemorations.",
+      "label": 1
+    },
+    {
+      "paragraph": "President Harry S. Truman congratulates Hershel \"Woody\" Williams upon receiving the Medal of Honor in October 1945 for his actions during the Battle of Iwo Jima. (Courtesy U.S. Department of Defense)",
+      "reason": "This is an image caption and does not contribute to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"And I call upon the people of the United States to observe Victory Day as a day of solemn commemoration of the devotion of the men and women by whose sacrifices victory was achieved, and as a day of prayer and of high resolve that the cause of justice, freedom, peace, and international good-will shall be advanced with undiminished and unremitting efforts, inspired by the valor of our heroes of the Armed Services,\" Truman's proclamation read, in part.",
+      "reason": "Provides relevant historical context about the observance of Victory Day.",
+      "label": 1
+    },
+    {
+      "paragraph": "CLICK HERE TO GET THE FOX NEWS APP",
+      "reason": "This is a promotional line unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "In the same post, Trump stated that Nov. 11 will also be recognized as World War I \"Victory Day.\"",
+      "reason": "This paragraph provides additional information about Trump's plans to designate another day as a 'Victory Day.'",
+      "label": 1
+    },
+    {
+      "paragraph": "American troops in the front northeast of St. Mihiel, France, cheer after hearing the news that the Armistice has been signed, ending World War I in Nov. 1918. (AP)",
+      "reason": "This is an image caption and does not contribute new information to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We won both Wars, nobody was close to us in terms of strength, bravery, or military brilliance, but we never celebrate anything,\" the president wrote. \"That’s because we don’t have leaders anymore, that know how to do so! We are going to start celebrating our victories again!\"",
+      "reason": "This paragraph contains a direct quote from Trump, providing insight into his reasoning for the declaration.",
+      "label": 1
+    }
+  ]
+}

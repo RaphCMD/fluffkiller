@@ -1,0 +1,134 @@
+{
+  "headline": "Why House Bill 1461 won't fix Indy's pothole problem | Opinion",
+  "context": [
+    "A lot of folks are celebrating the passage of House Bill 1461, which gives Indianapolis access to up to $50 million in additional state road funding. But before we pop the champagne, let’s be honest: This bill doesn’t solve our problem. It puts lipstick on a pig.",
+    "HB 1461 provides two funding paths. First, it allows the city to raise the local wheel tax, but Indianapolis isn’t maxing out the current rate and Mayor Joe Hogsett's administration has previously said it won’t raise the wheel tax."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Second, the bill offers $50 million in state money, but only if the city can match it with new revenue. There’s a catch: That match can’t come from existing infrastructure or public safety budgets, which already make up most of the city’s spending. So, we’d have to either defund other services or raise taxes. And, even then, the money can’t be used on greenways, sidewalks or bike lanes to reduce our oversized streets.",
+      "reason": "This paragraph provides specific details about the limitations and conditions of the funding from House Bill 1461.",
+      "label": 1
+    },
+    {
+      "paragraph": "In other words, we’re being asked to double down on the same overbuilt, underfunded road network that got us here in the first place.",
+      "reason": "This paragraph summarizes the main argument against the bill's effectiveness.",
+      "label": 1
+    },
+    {
+      "paragraph": "The real issue in Indianapolis isn’t that we spend too little on roads; it’s that we’ve built too many of them. We’ve stretched infrastructure across a landscape that doesn’t generate enough tax revenue to support it.",
+      "reason": "This paragraph provides context about the underlying problem with Indianapolis's infrastructure.",
+      "label": 1
+    },
+    {
+      "paragraph": "This started decades ago. In the 1970s and ’80s, the city expanded rapidly under Unigov, pouring money into widening arterials like Shadeland and Emerson avenues. But the development that followed, mostly low-density, single-use housing, doesn’t pay the bills.",
+      "reason": "This paragraph gives historical context to the infrastructure issues in Indianapolis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Take a single-family home on a large lot. It needs roads, sewers, water, streetlights, trash pickup, fire protection and maybe even a school bus stop. But it only contributes a few thousand dollars a year in property taxes, nowhere near enough to cover the costs of service.",
+      "reason": "This paragraph illustrates the financial imbalance caused by low-density housing.",
+      "label": 1
+    },
+    {
+      "paragraph": "Multiply that pattern citywide and you get the math problem: long-term infrastructure liabilities that are not supported by surrounding properties. The way we’ve built is financially imprudent.",
+      "reason": "This paragraph provides context on the financial imprudence of current infrastructure planning, relevant to the discussion of the bill's inadequacy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now, imagine that same parcel with an attached duplex or a micro-retail store or small apartment. Same infrastructure, more tax revenue. More people helping to pay for the street they use. Less long-term maintenance liability.",
+      "reason": "This paragraph suggests alternative development strategies that could alleviate infrastructure costs, relevant to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Instead of encouraging this kind of efficient growth, our zoning code locks over 80% of Indianapolis into low-return land uses. In most of Marion County, it’s still illegal to build anything but a single-family house. That’s a policy choice and it’s bankrupting our city one pothole at a time.",
+      "reason": "This paragraph discusses zoning policies that contribute to the problem, directly relevant to the article's critique of current solutions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Just as our costs are ballooning, our ability to raise money is shrinking.",
+      "reason": "This paragraph highlights the financial challenges faced by the city, relevant to the discussion of funding issues.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier this year, the Indiana General Assembly passed Senate Bill 1, capping property tax revenue growth for local governments. It’s a budget squeeze that will hit every city in the state, but especially one like Indianapolis, already struggling to pay for the system it has.",
+      "reason": "This paragraph provides context on legislative actions affecting funding, relevant to the article's focus on financial constraints.",
+      "label": 1
+    },
+    {
+      "paragraph": "Indiana uses a three-tier property tax cap: roughly 1% for owner-occupied homes, 2% for rentals and farmland, and 3% for commercial and mixed-use properties. But, because we zone so much of the city for low-yield residential use, we’re blocking the higher-return development that could help fund our streets, parks and public safety.",
+      "reason": "This paragraph provides context on property tax caps and zoning issues affecting funding, relevant to the discussion of funding problems.",
+      "label": 1
+    },
+    {
+      "paragraph": "Urban3’s land-use analysis conducted for IndyGo showed this clearly: most parcels in Indianapolis cost more to serve than they return in taxes. Our property tax ecosystem makes that imbalance worse.",
+      "reason": "This paragraph offers specific analysis on land-use and tax issues, contributing to the argument about funding inefficiencies.",
+      "label": 1
+    },
+    {
+      "paragraph": "So, here’s the question: Is saving $300 on your tax bill really worth blowing a tire every spring?",
+      "reason": "This is a rhetorical question that doesn't add new information or context to the main argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "Even if we could fix our land-use and tax system overnight, we’d still be fighting an uphill battle because Indiana funds roadwork in a fundamentally flawed way.",
+      "reason": "This paragraph introduces the issue of flawed roadwork funding, relevant to the main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The state allocates money based on lane miles, not traffic volume. So, a four-lane arterial in Indy is treated the same as a two-lane local road in Kokomo. That encourages overbuilding and punishes efficient design.",
+      "reason": "This paragraph explains the flawed funding allocation method, directly relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Indianapolis is funded as if it has about 3,300 lane miles, but in reality we maintain more than 8,000. That’s 5,000 miles of road we’re responsible for, with no funding to back it up.",
+      "reason": "Provides essential context about the funding shortfall for road maintenance in Indianapolis.",
+      "label": 1
+    },
+    {
+      "paragraph": "HB 1461 doesn’t fix this. It just patches over the gap without asking why the hole exists.",
+      "reason": "Directly critiques the bill's effectiveness in addressing the core issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "If a household is struggling to pay its bills, it has two options: Make more money, or reduce expenses. Cities are no different.",
+      "reason": "Uses a general analogy that doesn't add specific information about the bill or the problem.",
+      "label": 0
+    },
+    {
+      "paragraph": "We can’t just keep paving our way out of this. Raising taxes is politically unpopular, and cutting roads sparks backlash. But there’s a third option: Allow property owners to do more with their land.",
+      "reason": "Introduces an alternative solution to the problem, relevant to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "When we let people build more housing, small businesses or mixed-use projects, we get more value out of the infrastructure we already have. That’s revenue without raising tax rates and growth without adding costs. HB 1461 simply treats the symptoms and not the disease.",
+      "reason": "Explains a potential solution and critiques the bill's approach, relevant to the main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The administration has said it isn’t concerned about what’s in the bill; only that it’s passed. That’s not good enough. We need to ask why we’re in this hole in the first place. HB 1461 solves the short-term funding issue by throwing more money at an inefficient system and then makes it illegal to change that system. Then, it takes away the flexibility we need to grow smarter.",
+      "reason": "This paragraph critiques the bill's approach and its implications, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "If we’re serious about fixing our roads, we need to fix our development code too. That means liberalizing zones, simplifying permitting, and encouraging land uses that pull their financial weight that justify and support our roadways.",
+      "reason": "This paragraph suggests alternative solutions to the problem, relevant to the discussion of the bill's effectiveness.",
+      "label": 1
+    },
+    {
+      "paragraph": "We need to stop treating infrastructure as a cost to absorb and start treating it like an investment that has to earn a return.",
+      "reason": "This paragraph provides a general perspective on infrastructure investment, not directly related to the bill.",
+      "label": 0
+    },
+    {
+      "paragraph": "HB 1461 feels like throwing money down a well expecting to get water — you lose your money, and you’re still left with a giant hole.",
+      "reason": "This paragraph uses a metaphor to critique the bill, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jeffery Tompkins is an urban planner. He lives in downtown Indianapolis.",
+      "reason": "This paragraph provides background information about the author, not related to the bill.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "headline": "Editorial: Live weather coverage can save lives",
+  "context": [
+    "Spring in Iowa can mean a lot of things. Tulip blossoms. Freshly tilled fields and gardens ready for spring planting. And warmer temperatures. Spring in Iowa also often means violent, life-threatening weather. Look no further than the EF-4 tornado that hit Greenfield last May. Or more recently the mile-wide EF-1 tornado that hit near Essex. We live in a part of the country where weather can turn destructive – many times in minutes.This past Monday was one of those days. Our team detected potential weather conditions they knew could lead to tornadoes and high winds days in advance. And when conditions produce deadly weather that threatens lives, we always move heaven and earth to protect Iowans. This means cutting into programming – for as long as even one Iowan is in harm's way. We serve 40-plus counties. Quite often there are large portions of our viewing area that aren't threatened. But for those that are facing deadly weather, our mission is simple. Save lives. Because if it matters to one of you, it matters to all of us. During last year's tornado outbreak that led to the Greenfield tornado, our team provided early warnings an hour in advance. There's no doubt our live coverage helped to save lives.We love our programming as much as you, but we will always prioritize life-saving early warnings. I couldn't be prouder of the broadcast meteorologists here at KCCI and throughout our market who use technology and their weather forecasting skills to keep Iowans safe. Afterall, the mission of local broadcasters is to serve our communities.And what can be of greater service than helping keep people safe.",
+    "Spring in Iowa can mean a lot of things. Tulip blossoms. Freshly tilled fields and gardens ready for spring planting. And warmer temperatures."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Spring in Iowa also often means violent, life-threatening weather. Look no further than the EF-4 tornado that hit Greenfield last May. Or more recently the mile-wide EF-1 tornado that hit near Essex. We live in a part of the country where weather can turn destructive – many times in minutes.",
+      "reason": "Provides context about the frequency and severity of dangerous weather in Iowa.",
+      "label": 1
+    },
+    {
+      "paragraph": "This past Monday was one of those days. Our team detected potential weather conditions they knew could lead to tornadoes and high winds days in advance. And when conditions produce deadly weather that threatens lives, we always move heaven and earth to protect Iowans. This means cutting into programming – for as long as even one Iowan is in harm's way. We serve 40-plus counties. Quite often there are large portions of our viewing area that aren't threatened. But for those that are facing deadly weather, our mission is simple. Save lives. Because if it matters to one of you, it matters to all of us.",
+      "reason": "Describes the proactive measures taken by the team to protect lives during severe weather.",
+      "label": 1
+    },
+    {
+      "paragraph": "During last year's tornado outbreak that led to the Greenfield tornado, our team provided early warnings an hour in advance. There's no doubt our live coverage helped to save lives.",
+      "reason": "Highlights the effectiveness of live coverage in saving lives during past tornado events.",
+      "label": 1
+    },
+    {
+      "paragraph": "We love our programming as much as you, but we will always prioritize life-saving early warnings. I couldn't be prouder of the broadcast meteorologists here at KCCI and throughout our market who use technology and their weather forecasting skills to keep Iowans safe. Afterall, the mission of local broadcasters is to serve our communities.",
+      "reason": "Emphasizes the commitment of broadcasters to prioritize safety over regular programming.",
+      "label": 1
+    },
+    {
+      "paragraph": "And what can be of greater service than helping keep people safe.",
+      "reason": "Concludes with a rhetorical question that reinforces the article's main message.",
+      "label": 0
+    }
+  ]
+}

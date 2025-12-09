@@ -1,0 +1,49 @@
+{
+  "headline": "World Animal Protection Launches ‘Just Transition’ Campaign Ahead of COP30 - Africa Science News",
+  "context": [
+    "World Animal Protection has launched a global campaign calling for a just transition away from industrial animal agriculture, ahead of the 30th United Nations Climate Change Conference (COP30) set to take place in Belém, Brazil in November 2025.",
+    "The campaign was unveiled during a high-level webinar on Tuesday as part of the organization’s “Road to Belém” initiative, which will culminate in active participation at COP30. The initiative aims to drive urgent reforms in global food systems to align with climate, biodiversity, and human rights goals."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Sally Kahiu, External Affairs Lead at World Animal Protection, emphasized the destructive impact of industrial animal agriculture on people, animals, and the planet.",
+      "reason": "The paragraph provides a direct quote from a key figure, adding credibility and emphasis to the campaign's message.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our global food system, especially industrial animal agriculture, accelerates biodiversity loss, depletes water resources, and contributes to rural poverty and public health crises—while compromising animal welfare on a massive scale,” she said. “Our rallying call to world leaders at COP30 is simple: we need a food system that puts people, animals, and the planet before profit.”",
+      "reason": "This paragraph contains a detailed quote that outlines the campaign's core arguments and goals.",
+      "label": 1
+    },
+    {
+      "paragraph": "The campaign advocates for the phase-out of factory farming and a transition to sustainable, humane, and equitable food systems. It argues that reforming animal agriculture is essential to meeting global climate targets such as the Paris Agreement.",
+      "reason": "The paragraph outlines the campaign's specific goals and its relevance to global climate targets.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to World Animal Protection’s research, emissions from the food system alone could push global temperatures beyond the 1.5°C threshold—even if fossil fuel emissions are eliminated.",
+      "reason": "This paragraph provides a significant research finding that supports the campaign's urgency.",
+      "label": 1
+    },
+    {
+      "paragraph": "The organization calls for a 50% reduction in greenhouse gas emissions from animal agriculture by 2030, alongside a shift toward plant-based diets and agroecological practices, particularly in high-consuming and high-producing countries.",
+      "reason": "The paragraph details specific actions and targets proposed by the campaign.",
+      "label": 1
+    },
+    {
+      "paragraph": "Industrial farming, the group says, not only causes severe animal suffering but also fuels the risk of zoonotic disease outbreaks, antimicrobial resistance, and environmental degradation. The expansion of farmland for animal feed and livestock production is a major driver of deforestation and habitat destruction, placing wild species at risk of extinction.",
+      "reason": "Provides essential context on the issues the campaign addresses.",
+      "label": 1
+    },
+    {
+      "paragraph": "Key demands of the campaign include:",
+      "reason": "Introduces the specific demands of the campaign, which are central to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the lead-up to COP30, World Animal Protection plans to work closely with civil society organizations, indigenous communities, youth groups, and sustainable agriculture networks to push for a just transition in food systems globally.",
+      "reason": "Details the strategy and partnerships for the campaign, relevant to its implementation.",
+      "label": 1
+    }
+  ]
+}

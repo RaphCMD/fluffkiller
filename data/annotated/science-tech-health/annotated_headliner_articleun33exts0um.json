@@ -1,0 +1,24 @@
+{
+  "headline": "A gas cloud 5,500 times as massive as the sun lurks nearby",
+  "context": [
+    "Dubbed Eos, this giant cloud of molecular hydrogen has been hiding in plain sight",
+    "A giant interstellar cloud dubbed Eos (illustrated, green) lurks just 300 light-years from our solar system. Its chemical composition kept it hiding in plain sight until now."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Matt Twombly/Simons Foundation",
+      "reason": "This is an image credit and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Astronomers have found a giant interstellar cloud surprisingly close to Earth.",
+      "reason": "This sentence introduces the discovery of the cloud, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lurking about 300 light-years from our solar system, this immense cloud of gas and dust is the closest of its kind ever found to Earth, beating the previous record holder by roughly 90 light-years.",
+      "reason": "This provides specific details about the cloud's proximity and significance, directly related to the headline.",
+      "label": 1
+    }
+  ]
+}

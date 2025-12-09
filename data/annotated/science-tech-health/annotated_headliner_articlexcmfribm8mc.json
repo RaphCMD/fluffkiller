@@ -1,0 +1,19 @@
+{
+  "headline": "Mayo is weirdly great for understanding nuclear fusion experiments",
+  "context": [
+    "A schmear campaign aims to understand how materials transition from elastic to plastic behavior",
+    "Connoisseurs call it “creamy,” haters call it “slimy,” and mechanical engineers call it a “soft solid.” Mayonnaise could help scientists better design nuclear fusion experiments."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Mayonnaise’s texture inspires love and loathing. Either way, it’s perfect for physics experiments.",
+      "reason": "This paragraph provides a general statement about mayonnaise's texture and its suitability for physics experiments, but lacks specific information related to nuclear fusion.",
+      "label": 0
+    },
+    {
+      "paragraph": "The classic condiment is useful for understanding how materials behave, not only when smeared on sandwiches or plopped in potato salads, but also when deployed in nuclear fusion experiments.",
+      "reason": "This paragraph directly connects mayonnaise to nuclear fusion experiments, explaining its relevance to the topic.",
+      "label": 1
+    }
+  ]
+}

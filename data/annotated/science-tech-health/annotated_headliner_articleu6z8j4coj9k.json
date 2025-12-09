@@ -1,0 +1,239 @@
+{
+  "headline": "Mānoa: VNR: Bizarre ‘bone collector’ caterpillar discovered by UH scientists wears dead insects | University of Hawaii News",
+  "context": [
+    "University of Hawaiʻi at Mānoa",
+    "Contact:"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Posted: Apr 27, 2025",
+      "reason": "The paragraph provides a date, which is not directly relevant to the discovery of the caterpillar.",
+      "label": 0
+    },
+    {
+      "paragraph": "A pair of “bone collector” caterpillars.",
+      "reason": "The paragraph mentions the caterpillars but does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "UH researchers study specimens in CTAHR’s insect museum.",
+      "reason": "The paragraph provides context about where the research is conducted, which is relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "The caterpillar undergoes metamorphosis and transforms into a moth.",
+      "reason": "The paragraph provides relevant information about the life cycle of the caterpillar.",
+      "label": 1
+    },
+    {
+      "paragraph": "CTAHR team working in the Waiʻanae mountains.",
+      "reason": "The paragraph provides context about the location of the research, which is relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Link to video and sound (details below): https://go.hawaii.edu/Cq8",
+      "reason": "This is a link to additional media, not contributing new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "***VOSOT script below for consideration***",
+      "reason": "This is a placeholder for a script, not contributing new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Scientists at the University of Hawaiʻi at Mānoa have found a new caterpillar species with unique and bizarre behaviors—it lives in spider webs and decorates its portable home with the body parts of the spider’s prey. This remarkable discovery, reported in a new study in the journal Science, also reveals the species to be endangered.",
+      "reason": "This paragraph introduces the discovery of the new caterpillar species and its unique behaviors, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The caterpillar, a member of the Hawaiian Fancy Case Caterpillar group also known as the genus Hyposmocoma, has been named the “bone collector” caterpillar due to its macabre habit of adding insect body parts into its silken, portable case. Researchers have observed these caterpillars measuring and attaching body parts such as fly wings, weevil heads and earwig abdomens to their cases.",
+      "reason": "This paragraph provides specific details about the caterpillar's behavior and its classification, which is relevant to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The bone collector caterpillar is another example of how incredible and unpredictable evolution in Hawaiʻi can be,” said Dan Rubinoff, an etomology professor at the UH Mānoa College of Tropical Agriculture and Human Resilience. “Not only are they the only caterpillars in the world to decorate their homes with body parts but maybe more shocking, they make their living hanging around spider webs. This is something we never even imagined was possible. But in Hawaiʻi, here it is.”",
+      "reason": "This paragraph includes a quote from a professor providing expert commentary on the significance of the discovery, which is relevant to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rubinoff co-authored the new study with UH Mānoa scientists Michael San Jose and Camiel Doorenweerd.",
+      "reason": "This paragraph provides relevant information about the authors of the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carnivorous caterpillar",
+      "reason": "This is a heading and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The caterpillars are carnivorous and live with spiders in webs located in tree hollows, logs, or rock cavities. The predator opportunistically feeds on weakened or recently deceased insects within the web, even chewing through silken webbing to reach their meals.",
+      "reason": "This paragraph provides relevant details about the behavior and habitat of the caterpillar.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the study also reveals a troubling reality: the newly discovered species is already endangered. After decades of searching, the caterpillar has only been found in a small 15-square-kilometer area of forest in the Waiʻanae mountain range on Oʻahu.",
+      "reason": "This paragraph provides important information about the conservation status and location of the species.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ancient roots",
+      "reason": "This is a heading and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The researcher team estimates that the evolutionary origin of the bone collector caterpillar lineage dates back at least six million years, significantly older than the current islands of Hawaiʻi. This suggests that the species may have once been more widespread across the ancient and now sunken islands to the northwest of the main Hawaiian archipelago.",
+      "reason": "Provides essential context about the evolutionary history and geographical distribution of the caterpillar species.",
+      "label": 1
+    },
+    {
+      "paragraph": "Scientists at UH Mānoa are calling for immediate conservation efforts to preserve the habitat of the bone collector caterpillar and prevent the loss of this remarkable species.",
+      "reason": "Directly relates to the conservation status and efforts needed for the caterpillar species.",
+      "label": 1
+    },
+    {
+      "paragraph": "Link to video and sound (details below): https://go.hawaii.edu/Cq8",
+      "reason": "Provides a link to additional resources but does not add new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "***VOSOT script below for consideration***",
+      "reason": "Indicates a script for consideration but does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "B-ROLL: (1:30)",
+      "reason": "Indicates a video segment but does not provide new information relevant to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": ":00-08 Video of “bone collector” caterpillar eating another caterpillar",
+      "reason": "This paragraph provides a visual description of the caterpillar's behavior, which is directly related to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": ":09-:20 UH researchers working in field",
+      "reason": "This paragraph provides context about the researchers' fieldwork, which is relevant to the discovery process.",
+      "label": 1
+    },
+    {
+      "paragraph": ":21-:26 Waiʻanae mountains where caterpillar was discovered",
+      "reason": "This paragraph provides the location of the discovery, which is relevant to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": ":28-:32 UH researchers working in lab",
+      "reason": "This paragraph provides context about the researchers' lab work, which is relevant to the discovery process.",
+      "label": 1
+    },
+    {
+      "paragraph": ":33-:37 Adult moth (what caterpillar transforms into)",
+      "reason": "This paragraph provides information about the caterpillar's transformation, which is relevant to understanding its lifecycle.",
+      "label": 1
+    },
+    {
+      "paragraph": ":38-:49 More UH researchers",
+      "reason": "The paragraph likely contains additional information about researchers, which is not directly related to the discovery of the caterpillar.",
+      "label": 0
+    },
+    {
+      "paragraph": ":50-1:29 Insect specimens",
+      "reason": "The paragraph likely discusses insect specimens, which may not directly contribute to the main story about the caterpillar discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "SOUNDBITES:",
+      "reason": "This is a section header and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "(:12) Dan Rubinoff/ Entomology professor, UH Mānoa",
+      "reason": "This is a speaker identification and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "“When we first saw them we really didn’t know what they were. Literally, we weren’t sure if they were caterpillars because they look so different from everything else and again they’re covered in bug bits from things that were just lying around and we’ve never seen anything like that.”",
+      "reason": "This quote provides direct commentary from a scientist about the uniqueness of the caterpillar, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "(:12)",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I can safely say this is the last thing I would’ve expected was to find a caterpillar that’s carnivorous and living with spiders and covering itself in body parts again—that is the definition of unimaginable to me.”",
+      "reason": "This quote provides direct commentary on the unusual discovery of the caterpillar, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "(:13)",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“If we let things like feral pigs and feral goats and strawberry guava take over that’s all we’re going to have left. Instead of having these bizarre and magical weird things that are only in Hawaiʻi. We’re going to look like a lot of the rest of the world.”",
+      "reason": "This quote is a general statement about environmental concerns and does not directly relate to the discovery of the caterpillar.",
+      "label": 0
+    },
+    {
+      "paragraph": "(:16)",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“It’s akin in the entomological world for us for finding a unicorn because it’s something that just shouldn’t be. Caterpillars are overwhelmingly herbivorous. That means they just eat plants. So to find one that isn’t eating plants, that’s eating meat is already enough of a weird situation.”",
+      "reason": "This paragraph provides context about the rarity and unusual nature of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "VO SCRIPT",
+      "reason": "This is a placeholder text and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "INTROThey’re calling it the “bone collector” caterpillar. UH Mānoa scientists have made a wild discovery — a new caterpillar species that lives in spider webs—and decorates its case with insect body parts.",
+      "reason": "This paragraph introduces the main discovery and provides essential details about the caterpillar's behavior.",
+      "label": 1
+    },
+    {
+      "paragraph": "VO:Take a look–this is video of it feeding on another caterpillar. Unlike most caterpillars that munch on plants, this one is carnivorous, scavenging inside spider webs and using insect wings, legs and heads to armor its silk case. Researchers say they were shocked!",
+      "reason": "This paragraph describes the caterpillar's unique behavior and the researchers' reaction, adding to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "SOT ( Dan Rubinoff/ Entomology professor, UH Mānoa)<“When we first saw them we really didn’t know what they were. Literally, we weren’t sure if they were caterpillars because they look so different from everything else and again they’re covered in bug bits from things that were just lying around and we’ve never seen anything like that.”>",
+      "reason": "This quote provides direct commentary from a scientist involved, adding credibility and insight into the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "VO",
+      "reason": "This is a placeholder for voiceover and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "But scientists say the discovery comes with an urgent warning — the “bone collector” is already endangered, surviving only in a small patch of forest in the Waiʻanae mountains.",
+      "reason": "This paragraph provides important information about the endangered status and habitat of the caterpillar.",
+      "label": 1
+    },
+    {
+      "paragraph": "SOT (Dan Rubinoff/ Entomology professor, UH Mānoa)",
+      "reason": "This is a placeholder for a soundbite and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "<“If we let things like feral pigs and feral goats and strawberry guava take over that’s all we’re going to have left. Instead of having these bizarre and magical weird things that are only in Hawaiʻi. We’re going to look like a lot of the rest of the world.”>",
+      "reason": "This quote provides context on the threats to the caterpillar's habitat and the uniqueness of Hawaii's ecosystem.",
+      "label": 1
+    },
+    {
+      "paragraph": "VO",
+      "reason": "This is a placeholder for voiceover and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Scientists say urgent conservation efforts are needed to protect this remarkable piece of Hawaiʻi’s ancient evolutionary history.",
+      "reason": "The paragraph provides a general statement about conservation efforts without specific details related to the discovery.",
+      "label": 0
+    }
+  ]
+}

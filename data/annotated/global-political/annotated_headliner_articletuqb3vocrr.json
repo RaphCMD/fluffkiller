@@ -1,0 +1,109 @@
+{
+  "headline": "What are the sanctions on Russia and have they affected its economy?",
+  "context": [
+    "23 February 2024",
+    "The US, UK and EU have announced new sanctions on Russia, two years after its invasion of Ukraine."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The measures also marked a week since the death in custody of opposition leader Alexei Navalny.",
+      "reason": "This paragraph is not directly related to the sanctions or their economic impact.",
+      "label": 0
+    },
+    {
+      "paragraph": "Sanctions are penalties imposed by one country on another, to stop them acting aggressively or breaking international law.",
+      "reason": "This paragraph provides general information about what sanctions are.",
+      "label": 0
+    },
+    {
+      "paragraph": "They are among the toughest measures nations can take, short of going to war.",
+      "reason": "This paragraph provides general information about the severity of sanctions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Announcing 500 new sanctions against Russia, US President Joe Biden said they would target Russia's war machine. Export restrictions will be imposed on nearly 100 firms or individuals.",
+      "reason": "This paragraph provides specific details about the new sanctions and their targets.",
+      "label": 1
+    },
+    {
+      "paragraph": "The sanctions include companies and individuals involved in shipping North Korean armaments to Russia.",
+      "reason": "This paragraph provides specific details about the entities targeted by the sanctions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since Russia's invasion of Ukraine in February 2022, the US, UK and EU, along with countries including Australia, Canada and Japan, have imposed more than 16,500 sanctions on Russia.",
+      "reason": "Provides specific information about the number of sanctions imposed on Russia.",
+      "label": 1
+    },
+    {
+      "paragraph": "Their main target has been Russia's money.",
+      "reason": "Indicates the primary focus of the sanctions, which is relevant to understanding their impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Western nations have also:",
+      "reason": "Incomplete information that does not contribute to understanding the sanctions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia's oil industry has been another major target.",
+      "reason": "Identifies another key area affected by the sanctions, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The US and UK banned Russian oil and natural gas. The EU has banned seaborne crude imports.",
+      "reason": "Details specific actions taken by countries, contributing to the understanding of the sanctions' scope.",
+      "label": 1
+    },
+    {
+      "paragraph": "The G7 - an organisation of the world's seven largest \"advanced\" economies - has imposed a maximum price of $60 (£47) a barrel on Russian crude oil, to try to reduce its earnings.",
+      "reason": "This paragraph provides specific information about a sanction imposed on Russia.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, some still do business in Russia.",
+      "reason": "This is a vague generalization without specific details.",
+      "label": 0
+    },
+    {
+      "paragraph": "The International Energy Agency says Russia is still exporting 8.3 million barrels of oil a day - having increased supplies to India and China.",
+      "reason": "This paragraph provides relevant data on Russia's oil exports despite sanctions.",
+      "label": 1
+    },
+    {
+      "paragraph": "China has been a vital supplier of alternative hi-tech products to those produced in the West, says Dr Maria Snegovaya from the US think tank, the Center for Strategic and International Studies.",
+      "reason": "This paragraph provides context on China's role in supporting Russia's economy.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"China sells it chips and other components it needs to for keep its military production going,\" she says. \"Russia wouldn't be able to pull that off without China's help.\"",
+      "reason": "This quote provides specific information on how China aids Russia's military production.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2022, the first year of the war, Russia's economy shrank by 2.1%, according to the International Monetary Fund.",
+      "reason": "Provides specific data on the impact of sanctions on Russia's economy.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, it estimates that Russia's economy grew by 2.2% in 2023 and predicts growth of 1.1% in 2024.",
+      "reason": "Offers information on Russia's economic recovery and future projections despite sanctions.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Dr Snegovaya suggests: \"Sanctions have not made waging this war sufficiently costly for Russia, and that means it can continue with it for some time to come\".",
+      "reason": "Provides expert commentary on the effectiveness of sanctions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The US Treasury also says that the war in Ukraine and sanctions have led more than a million people - many of them young and highly educated - to leave Russia.",
+      "reason": "Details a significant demographic impact of the sanctions on Russia.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This mainly hits people in rural areas,\" says James Nixey of foreign affairs think tank Chatham House. \"The government makes cuts there rather than in the major cities, where they might cause uprisings.\"",
+      "reason": "Provides insight into the domestic impact of sanctions within Russia.",
+      "label": 1
+    }
+  ]
+}

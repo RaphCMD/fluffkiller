@@ -1,0 +1,119 @@
+{
+    "headline": "Express Entry: Canada holds first-ever draw for Education professionals | CIC News",
+    "context": [
+        "Immigration, Refugees and Citizenship Canada (IRCC) has issued invitations to apply (ITA) through the Express Entry system.",
+        "The immigration department issued 1,000 ITAs to candidates in the first-ever education category-based draw."
+    ],
+    "annotations": [
+        {
+            "paragraph": "To be considered in this draw, candidates needed to have:",
+            "reason": "Introduces eligibility criteria for the draw.",
+            "label": 1
+        },
+        {
+            "paragraph": "See your eligibility for all Express Entry streams",
+            "reason": "Link prompt unrelated to article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Today's draw marks the first candidate selection under IRCC's new education category, set to be added to the immigration department's economic priorities.",
+            "reason": "Outlines the significance of the inaugural draw.",
+            "label": 1
+        },
+        {
+            "paragraph": "More information on the occupations included within this category can be found here.",
+            "reason": "Referral link without substantive content.",
+            "label": 0
+        },
+        {
+            "paragraph": "The May 1 draw is also the first Express Entry selection after Canada's recent national election.",
+            "reason": "Provides timely political context.",
+            "label": 1
+        },
+        {
+            "paragraph": "Much attention has been given in recent weeks to Prime Minister and what immigration policy may look like going forward under the new liberal government.",
+            "reason": "Places the draw in broader governmental context.",
+            "label": 1
+        },
+        {
+            "paragraph": "Thus far, IRCC has issued 32,929 ITAs to candidates through the Express Entry system.",
+            "reason": "Presents key statistics on overall ITAs issued.",
+            "label": 1
+        },
+        {
+            "paragraph": "Express Entry draws in 2025 thus far have focused primarily on points-based criteria such as language proficiency and Canadian Experience Class (CEC) candidates:",
+            "reason": "Describes prior draw priorities.",
+            "label": 1
+        },
+        {
+            "paragraph": "Hiring a lawyer for the Express Entry application can help ensure paperwork accuracy and compliance.",
+            "reason": "Promotional advice tangential to the draw announcement.",
+            "label": 0
+        },
+        {
+            "paragraph": "Assuming you submitted the same application either online or on paper, your profile is automatically entered into the pool for future draws.",
+            "reason": "General procedural detail beyond main story.",
+            "label": 0
+        },
+        {
+            "paragraph": "However, a skilled and reputable Canadian immigration lawyer can:",
+            "reason": "Service promotion not essential to draw details.",
+            "label": 0
+        },
+        {
+            "paragraph": "In addition, a qualified immigration lawyer can:",
+            "reason": "Continued promotional content without new draw information.",
+            "label": 0
+        },
+        {
+            "paragraph": "The main value of hiring an immigration lawyer is guidance on complex applications.",
+            "reason": "Advice content irrelevant to draw mechanics.",
+            "label": 0
+        },
+        {
+            "paragraph": "Consult with an experienced immigration representative if you need personalized support.",
+            "reason": "Generic recommendation unrelated to the draw.",
+            "label": 0
+        },
+        {
+            "paragraph": "Did you find this article helpful?",
+            "reason": "Reader feedback prompt, not content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Thank you for your feedback.",
+            "reason": "User interaction line without article substance.",
+            "label": 0
+        },
+        {
+            "paragraph": "Did you find this article helpful?",
+            "reason": "Repeated feedback request.",
+            "label": 0
+        },
+        {
+            "paragraph": "Please provide your feedback",
+            "reason": "Feedback solicitation unrelated to article facts.",
+            "label": 0
+        },
+        {
+            "paragraph": "Please provide a response",
+            "reason": "Another feedback prompt.",
+            "label": 0
+        },
+        {
+            "paragraph": "Thank you for your helpful feedback",
+            "reason": "Acknowledgment of feedback prompt.",
+            "label": 0
+        },
+        {
+            "paragraph": "Please contact us if you would like to share additional feedback, have a question, or would like Canadian immigration assistance.",
+            "reason": "Promotional contact information.",
+            "label": 0
+        },
+        {
+            "paragraph": "Join our free newsletter. Get Canada's top immigration stories delivered to your inbox.",
+            "reason": "Newsletter subscription prompt.",
+            "label": 0
+        }
+    ]
+}

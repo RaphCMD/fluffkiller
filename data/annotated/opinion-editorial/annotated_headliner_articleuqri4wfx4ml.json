@@ -1,0 +1,309 @@
+{
+  "headline": "Opinion | Who is the enemy of South Sudan? - Radio Tamazuj",
+  "context": [
+    "The month of May marks significant events in global and local history, including, among others, International Labour Day on May 1st, the death of Osama bin Laden on May 2nd, 2011, World Press Freedom Day on May 3rd, 1993, Victory Day in Europe when Germany surrendered to mark the end of World War II on May 8th, 1945, Victory Day in Russia on May 9th—a national holiday commemorating the surrender of Nazi Germany during World War II—Alan Shepard becoming the first American in space on May 5th, 1961, piloting the spacecraft Freedom 7 during a 15-minute suborbital flight, and Dr. Edward Jenner’s development of the smallpox vaccine on May 14th, 1796, introducing the concept of vaccination. Locally, May 16th marks the initiation of the Sudan People’s Liberation Army/Movement (SPLA/M) in 1983. Who was the enemy of the SPLA/M?",
+    "May is a month of struggles, surrenders, defeats, and victories. What does South Sudan have in store? Who is the enemy of South Sudan?"
+  ],
+  "annotations": [
+    {
+      "paragraph": "South Sudan’s status quo provokes scholars who read An Enemy of the People, a play by Henrik Ibsen published in 1882, to reflect on the question, “Who is the enemy in An Enemy of the People?”",
+      "reason": "This paragraph introduces a literary reference that may be used to draw parallels with South Sudan's situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The story revolves around two brothers: Dr. Thomas Stockmann, a physician who discovers that the water supply system in a spa town is contaminated with typhoid bacteria, and Peter Stockmann, the municipality mayor in charge of governing affairs, who is overwhelmed with personal interest.",
+      "reason": "This paragraph provides a summary of the play's plot, which is not directly related to South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dr. Stockmann’s findings are met with resistance from the town’s authorities and business leaders, who prioritize economic interests over public health. Despite the backlash, Dr. Stockmann remains committed to revealing the truth.",
+      "reason": "This paragraph continues the plot summary of the play, which is not directly relevant to the article's focus on South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The most dangerous enemy to truth and freedom among us is the compact majority” (Ibsen, Act 4).",
+      "reason": "This quote from the play may be used to draw a parallel to South Sudan's situation, but it is not directly relevant on its own.",
+      "label": 0
+    },
+    {
+      "paragraph": "Such a quote highlights the tension between individual conviction and collective interests.",
+      "reason": "This paragraph provides an analysis of the quote, which may be used to draw parallels with South Sudan's situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Every decision Hovstad and Billing make is prompted by appeasing someone who might hurt the newspaper,” highlighting the media’s self-interest and susceptibility to external pressures.",
+      "reason": "The paragraph discusses media dynamics unrelated to South Sudan, thus not contributing to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I don’t want you to think I blame the Doctor for using your columns. After all, every performer goes for the audience that applauds him most” (Act 1, Scene 1).",
+      "reason": "This is a quote from a play and does not relate to the topic of South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "Such a quote illustrates the media’s focus on appealing to its audience rather than presenting objective truth sometimes.",
+      "reason": "The paragraph provides a general commentary on media behavior, not specific to South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "The media in the play is clearly shown to take sides, prioritizing the interests of the powerful and influential over the truth. The editors of the People’s Messenger are more interested in advancing their own agenda and maintaining their power than in presenting objective truth.",
+      "reason": "This paragraph discusses media bias in a play, not directly related to South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dr. Stockmann’s attempts to expose the truth about the contaminated water supply system are met with resistance and manipulation by the media, highlighting its role in suppressing dissenting voices. The scenario here indicates the media is at times at a crossroads between being the enemy of the people and the friend of the people.",
+      "reason": "The paragraph discusses a fictional scenario unrelated to South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bringing the play home, South Sudan’s political landscape is marked by challenges similar to those in the play. The current South Sudanese political leadership, for instance, prioritizes power over people, hence making its own power and interests more important than the welfare of the people.",
+      "reason": "This paragraph provides direct commentary on the political situation in South Sudan, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Government officials and powerful individuals have resisted accountability for human rights abuses and corruption. Courageous individuals and organizations in South Sudan have spoken out against injustices and advocated for human rights and accountability. They are most times referred to as the ‘enemies of the people’.",
+      "reason": "This paragraph discusses the resistance to accountability and the labeling of advocates as 'enemies,' directly relating to the headline's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The play’s themes resonate with South Sudan’s political landscape, where the political leadership’s priorities and accountability remain pressing concerns.",
+      "reason": "This paragraph connects the themes of a play to South Sudan's political issues, but it is repetitive and lacks new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "In An Enemy of the People, the characters’ actions and utterances convey powerful themes, which resonate with South Sudan’s political landscape. Dr. Stockmann’s character embodies the theme of truth versus power. His determination to expose the contaminated water, despite resistance, highlights the importance of individual conviction.",
+      "reason": "This paragraph discusses a play's themes without adding new information about South Sudan, making it tangential.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The strongest man in the world is he who stands most alone” (Ibsen, Act 5).",
+      "reason": "This is a quote from a play without direct relevance to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Defection, like in South Sudan’s scenery, is unheard of in the world of principledness in the Norwegian theatre. Dr. Stockmann’s resolve to stand up for truth, even in isolation, is a powerful message.",
+      "reason": "This paragraph is a tangential reference to a Norwegian play and does not directly address the situation in South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "Peter Stockmann, the mayor, represents the corrupting influence of power and the prioritization of economic interests over public welfare. His actions mirror South Sudanese leadership, which has prioritized personal gain over national interests.",
+      "reason": "This paragraph draws a direct comparison between a fictional character and South Sudanese leadership, contributing to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The minority is always right” (Ibsen, Act 4).",
+      "reason": "This is a low-information quote from a play that does not contribute to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "The mayor’s statement here highlights the dangers of authoritarianism and the suppression of dissenting voices.",
+      "reason": "This paragraph discusses themes relevant to the political situation in South Sudan.",
+      "label": 1
+    },
+    {
+      "paragraph": "South Sudan’s political landscape is marked by similar dynamics. The leadership has often prioritized its own power and interests over the welfare of the people. The government has been accused of suppressing dissenting voices and limiting freedom of expression.",
+      "reason": "This paragraph provides direct commentary on the political situation in South Sudan, aligning with the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The enemy of the people in South Sudan can be seen as he who prioritizes his or her own power and interests over the welfare of the people. Such include the corrupt, who engages in corruption and embezzlement to deprive the country of much-needed resources for public service delivery and development.",
+      "reason": "This paragraph directly addresses the question of who the enemy of South Sudan is by identifying corruption and self-interest as key issues.",
+      "label": 1
+    },
+    {
+      "paragraph": "He who suppresses dissenting voices, like the security operative who limits freedom of expression and suppresses opposition voices, is in the category of the enemy of South Sudan.",
+      "reason": "This paragraph contributes to the main premise by identifying suppression of dissent as a factor harming South Sudan.",
+      "label": 1
+    },
+    {
+      "paragraph": "The greatest enemy of South Sudan is its own internal dynamic actor, who often fuels ethnic and personal interests. The 2013 conflict between President Salva Kiir and his former Vice President, Dr. Riek Machar, was a prime example of how the internal divider escalates a party-political tension into full-blown violence.",
+      "reason": "This paragraph provides specific historical context and examples related to internal conflicts in South Sudan.",
+      "label": 1
+    },
+    {
+      "paragraph": "The human, with the aspects of the mind, the body, and the soul, is an enemy to itself. In the body, for example, the hand, the penis, the vagina, or the tongue can be the worst enemy of the whole human system by acting wrongly to damage one’s good reputation and health. So, within oneself, there is an enemy to watch for a better world.",
+      "reason": "This paragraph is a philosophical tangent unrelated to the main topic of South Sudan's enemies.",
+      "label": 0
+    },
+    {
+      "paragraph": "The corrupt with oppressive governance systems and strategies plaguing South Sudan is the enemy. The country’s vast oil wealth fails to translate into tangible benefits for its citizenry because of the corrupt. The corrupt is the enemy of South Sudan.",
+      "reason": "This paragraph reiterates the issue of corruption as a major problem in South Sudan, directly addressing the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "As former UN Secretary-General Ban Ki-moon noted,",
+      "reason": "This is an introductory phrase without substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Corruption is a curse for any country, but it is particularly devastating for a country like South Sudan, where the need for development is so great.”",
+      "reason": "This quote highlights corruption as a significant issue in South Sudan, relevant to identifying its challenges.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ethnic and identity political player is the enemy of South Sudan, for he has further exacerbated the country’s instability. The manipulator of ethnic differences for political gain has led to violence and displacement, with many civilians caught in the crossfire. He is the enemy of South Sudan.",
+      "reason": "This paragraph directly addresses the headline by identifying ethnic politics as a key enemy of South Sudan.",
+      "label": 1
+    },
+    {
+      "paragraph": "As Jok Madut Jok, a South Sudanese scholar, observes:",
+      "reason": "This is an introductory phrase without substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The politicization of ethnicity has been a major factor in the country’s instability.”",
+      "reason": "This quote supports the argument about ethnic politics contributing to instability in South Sudan.",
+      "label": 1
+    },
+    {
+      "paragraph": "The dictator is an enemy of South Sudan because he suppresses democratic institutions, freedoms, and human rights to the extent of undermining the country’s development and stability. Authoritarian rule or dictatorial rule leads to human rights abuses, corruption, and economic stagnation.",
+      "reason": "The paragraph provides specific reasons why a dictator is considered an enemy of South Sudan, directly addressing the headline's question.",
+      "label": 1
+    },
+    {
+      "paragraph": "An oppressor is an enemy of South Sudan. An oppressor violates human rights, including freedom, dignity, and equality. Oppression causes suffering, trauma, and long-term psychological impacts on individuals and communities. Oppression creates divisions and conflict, thus undermining social cohesion and stability. An oppressor marginalizes certain groups, limiting their access to resources, opportunities, and power. Oppression stifles progress as marginalized groups are unable to contribute fully to society. Oppression leads to instability, as marginalized groups resist or rebel against the oppressor. Oppression violates fundamental human rights, including dignity, equality, and freedom. Oppression undermines social justice as it perpetuates inequality and marginalization.",
+      "reason": "The paragraph elaborates on how oppression and oppressors are enemies of South Sudan, providing detailed explanations relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "A killer is an enemy of South Sudan. A killer causes loss of life, leading to trauma and suffering for families and communities. The killer creates an atmosphere of fear and insecurity, undermining public safety and stability. The killer disregards human life, undermining the rule of law and respect for human rights. The killer often acts with impunity, highlighting a lack of accountability and ineffective justice systems. Killing traumatizes communities, leading to long-term psychological and social impacts. Killing contributes to social and economic instability, particularly in already fragile contexts. Killing violates fundamental human rights, including the right to life. The killer undermines public safety, creating an environment of fear and insecurity.",
+      "reason": "The paragraph discusses the impact of killers on South Sudan, directly addressing the question of who the enemies are.",
+      "label": 1
+    },
+    {
+      "paragraph": "The cattle raider is an enemy of South Sudan as he leads the country to violence, displacement, and instability, particularly in rural areas. The cattle raider has caused significant economic impacts to the extent of affecting livestock and agricultural production in the country.",
+      "reason": "The paragraph identifies cattle raiders as enemies of South Sudan, providing specific impacts relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "A robber is an enemy of South Sudan. A robber causes financial loss to individuals and businesses, contributing to economic instability. Robbery undermines trust in communities and institutions, making it challenging to build stable economic relationships. Robbery creates an atmosphere of fear and insecurity, impacting public safety and well-being. In some cases, robbery leads to displacement and trauma, particularly if it involves violence. Resources, which could be used for development, are often diverted to address the consequences of robbery. High rates of robbery undermine investment and economic growth, as investors may view the environment as unstable. Robbery violates human rights, including the right to security and property. Robbery undermines public safety, thus creating an environment of fear and insecurity.",
+      "reason": "The paragraph explains how robbers are considered enemies of South Sudan, detailing their negative impacts.",
+      "label": 1
+    },
+    {
+      "paragraph": "The warmonger or aggressor is an enemy of South Sudan as he promotes conflict and violence, often for personal or political gain. Warmongering leads to humanitarian crises, displacement, and human suffering.",
+      "reason": "This paragraph directly addresses the question of who the enemy of South Sudan is by identifying warmongers and their impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "The propagandist is an enemy of South Sudan as he manipulates information to shape public opinion, often to the extent of promoting divisive or false narratives. The propagandist undermines trust in institutions, media, and information, thus contributing to social divisions.",
+      "reason": "This paragraph identifies propagandists as enemies of South Sudan and explains their negative impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "An egoist is an enemy of South Sudan as he engages in corruption and exploitation, often for personal gain. Greed or egoism leads to economic instability, inequality, and poverty.",
+      "reason": "This paragraph discusses egoists as enemies of South Sudan and their detrimental effects on the economy.",
+      "label": 1
+    },
+    {
+      "paragraph": "The tribalist is an enemy of South Sudan as he promotes division and exclusivity, often prioritizing tribal interests over national unity. Tribalism leads to conflict and instability, particularly in diverse societies like South Sudan.",
+      "reason": "This paragraph identifies tribalists as enemies and explains their role in causing conflict and instability.",
+      "label": 1
+    },
+    {
+      "paragraph": "The traitor is an enemy of South Sudan as he betrays national interests, often collaborating with external forces or engaging in activities which harm the country. A traitor compromises national security to the extent of putting the country and its citizens at risk.",
+      "reason": "This paragraph defines traitors as enemies of South Sudan and describes their harmful actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "The external actor is yet another enemy of South Sudan. The external actor has played a detrimental role. For instance, some regional and international powers have often pursued their vested interests to exacerbate existing tensions. Such individuals and groups undermine national development, stability, and security. Their actions lead to human rights abuses, displacement, and suffering.",
+      "reason": "This paragraph provides specific information about external actors as enemies of South Sudan, detailing their negative impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Whoever falls in the category of the enemy, knowingly or unknowingly, is challenged to change immediately to save the country.",
+      "reason": "This paragraph is a vague generalization and does not provide specific information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "The genuine friend of South Sudan is the person or entity with a deep understanding of the country’s struggles and triumphs. He who has demonstrated actions which prioritize the well-being and safety of the people. He who respects and trusts the people and the territory of South Sudan. He who has built consistent and reliable interactions with the South Sudanese. He who has cultural understanding of South Sudan with appreciation and respect for the local customs and values in diversity.",
+      "reason": "This paragraph is a vague generalization about what constitutes a friend of South Sudan, lacking specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "It is essential to recognize that the primary responsibility for the country’s stability lies within its leadership and citizenry.",
+      "reason": "This paragraph provides a general statement about responsibility without specific context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Having identified the enemy of South Sudan, the next question is, how should we treat the enemy?",
+      "reason": "This paragraph is a rhetorical question that does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "The parable of the lost sheep in Luke 15:7 highlights God’s desire for redemption, peace, and reconciliation, which is relevant to the efforts to promote peace and stability in South Sudan.",
+      "reason": "The paragraph attempts to connect religious teachings to the theme of peace in South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "The treatment of an enemy is a complex issue, which has been debated across various cultures, religions, and moral frameworks.",
+      "reason": "The paragraph provides a general statement about the concept of enemies without specific relevance to South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "Jesus teaches, “Love your enemies and pray for those who persecute you” (Matthew 5:44).",
+      "reason": "The paragraph quotes a religious teaching without direct relevance to the situation in South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Bible emphasizes forgiveness, as seen in Jesus’ words on the cross:",
+      "reason": "The paragraph introduces a religious theme without specific connection to South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Father, forgive them, for they do not know what they are doing” (Luke 23:34).",
+      "reason": "The paragraph provides a religious quote without direct relevance to the topic of South Sudan's enemies.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Quran teaches us to stand for justice and be compassionate, even towards enemies:",
+      "reason": "This paragraph provides a general moral teaching unrelated to the specific context of South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Let not the hatred of a people incite you to act unjustly” (Quran 5:8).",
+      "reason": "This is a religious quote that does not directly relate to the main topic of South Sudan's enemies.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Quran also emphasizes forgiveness:",
+      "reason": "This is a general statement about forgiveness without direct relevance to South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Let them pardon and forgive. Do you not love that God should forgive you?” (Quran 24:22).",
+      "reason": "This is another religious quote that does not contribute to the discussion about South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "In many African cultures, the philosophy of Ubuntu emphasizes the interconnectedness of humanity. This philosophy encourages treating others, including enemies, with dignity and respect.",
+      "reason": "This paragraph provides a cultural philosophy that is not directly related to the specific issue of South Sudan's enemies.",
+      "label": 0
+    },
+    {
+      "paragraph": "African traditions often prioritize reconciliation and forgiveness over revenge. For example, the Truth and Reconciliation Commission in South Africa aimed to heal the wounds of apartheid through forgiveness and reconciliation.",
+      "reason": "The paragraph provides general information about African traditions and does not directly address the question of who the enemy of South Sudan is.",
+      "label": 0
+    },
+    {
+      "paragraph": "Contemporary morality emphasizes the importance of human rights and dignity, regardless of whether someone is considered an enemy. Many contemporary moral frameworks prioritize non-violent conflict resolution and encourage empathy, understanding, and forgiveness.",
+      "reason": "The paragraph discusses general moral frameworks without directly addressing the specific issue of South Sudan's enemy.",
+      "label": 0
+    },
+    {
+      "paragraph": "While different traditions and moral frameworks may approach the treatment of enemies in varying ways, many emphasize the importance of love, forgiveness, justice, and compassion.",
+      "reason": "This paragraph provides a general overview of moral approaches without specific relevance to South Sudan's situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "South Sudanese should embrace and practise love, forgiveness, justice, and compassion for one another, even with the full knowledge of the enemy.",
+      "reason": "The paragraph suggests a moral approach for South Sudanese but does not identify or discuss the enemy of South Sudan.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: ‘It is mine to avenge; I will repay,’ says the Lord” (Romans 12:19).",
+      "reason": "This is a biblical quote that does not provide information about the enemy of South Sudan.",
+      "label": 0
+    }
+  ]
+}

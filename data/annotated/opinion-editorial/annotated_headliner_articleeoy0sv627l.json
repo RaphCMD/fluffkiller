@@ -1,0 +1,99 @@
+{
+  "headline": "Opinion: Hey big spender Mark Carney, poised for economic and fiscal disaster - The Globe and Mail",
+  "context": [
+    "Mark Carney listens as then-Prime Minister Justin Trudeau speaks on the day members of Canada's Liberal Party gather to choose a successor to Mr. Trudeau, in Ottawa, on March 9.Carlos Osorio/Reuters",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Jake Fuss is director of fiscal studies at the Fraser Institute.",
+      "reason": "This is background information about the author.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Liberals won the federal election on Monday partly as a result of the perception that Prime Minister Mark Carney will move his government back to the political centre and be more responsible with taxpayer dollars. But in fact, according to his fiscal plan, he doesn’t think his predecessor, Justin Trudeau, was spending and borrowing enough.",
+      "reason": "This paragraph provides context about the election and Carney's fiscal stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "To recap, the Trudeau government recorded 10 consecutive budget deficits, racked up $1.1-trillion in debt and recorded the six highest-spending years (per person, adjusted for inflation) in Canadian history from 2018 to 2023. Last fall, it projected large deficits (and $400-billion in additional debt) over the next four years, including a $42.2-billion deficit this fiscal year.",
+      "reason": "This paragraph provides relevant background on Trudeau's fiscal record.",
+      "label": 1
+    },
+    {
+      "paragraph": "By contrast, under Mr. Carney’s plan, this year’s deficit is set to increase to a projected $62.4-billion. The combined deficits over the subsequent three years is expected to be $67.7-billion higher than under Mr. Trudeau’s plan. Consequently, the federal debt and associated interest costs will rise sharply.",
+      "reason": "This paragraph provides specific details about Carney's fiscal plan and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Under Mr. Trudeau’s plan, federal debt interest would have reached a projected $66.3-billion in 2028-29, compared with $68.7-billion under the new Carney plan. That’s roughly equivalent to what the government will spend on employment insurance (EI), the Canada Child Benefit and $10-a-day daycare combined.",
+      "reason": "This paragraph provides a comparison of debt interest projections under both plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "More taxpayer dollars are set to be diverted away from programs and services, and toward servicing the debt. Clearly, Mr. Carney plans to surpass Mr. Trudeau as the biggest spender in Canadian history.",
+      "reason": "This paragraph provides a critical opinion on Carney's fiscal plans, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "On the campaign trail, Mr. Carney was creative in attempting to sell this as a responsible fiscal plan. For example, he split operating and capital spending into two separate budgets.",
+      "reason": "This paragraph offers insight into Carney's fiscal strategy, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to his plan’s projections, the government will balance the operating budget –which includes bureaucrat salaries, cash transfers (such as health care funding) and benefits (such as Old Age Security) – by 2028-29, while borrowing huge sums to substantially increase capital spending, defined by Mr. Carney as anything that builds an asset.",
+      "reason": "This paragraph provides specific details about Carney's fiscal projections, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is sleight-of-hand budgeting. Tell the audience to look somewhere – in this case, the operating budget – so it ignores what’s happening in the capital budget.",
+      "reason": "This paragraph offers a critical perspective on Carney's budgeting tactics, relevant to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s also far from certain Mr. Carney will actually balance the operating budget. He’s banking on finding a mysterious $28-billion in savings from “increased government productivity.” His plan to use artificial intelligence and amalgamate service delivery will not magically deliver these savings.",
+      "reason": "This paragraph critiques the feasibility of Carney's budget plan, directly related to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "He’s already said no to cutting the bureaucracy or reducing any cash transfers to the provinces or individuals. With such a large chunk of spending exempt from review, it’s very difficult to see how meaningful cost savings will materialize.",
+      "reason": "This paragraph provides specific information about Carney's stance on spending cuts, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "And there’s no plan to pay for Mr. Carney’s spending explosion. Because of rising deficits and debt, the bill will come due later, and younger generations of Canadians will bear this burden through higher taxes and/or fewer services.",
+      "reason": "This paragraph discusses the potential consequences of Carney's spending, directly relating to the article's focus on economic and fiscal issues.",
+      "label": 1
+    },
+    {
+      "paragraph": "Finally, there’s an obvious parallel between Mr. Carney and Mr. Trudeau on the inventive language used to justify more spending. According to Mr. Carney, his plan is not increasing spending but rather “investing” in the economy. Thus his campaign slogan: “Spend less, invest more.”",
+      "reason": "This paragraph highlights Carney's rhetoric and draws a comparison to Trudeau, which is relevant to the article's critique.",
+      "label": 1
+    },
+    {
+      "paragraph": "This wording is eerily similar to the 2015 and 2019 Trudeau election platforms, which claimed all new spending measures were merely “investments” that would increase economic growth. Regardless of the phrasing, Mr. Carney’s spending increases will produce the same results as under Mr. Trudeau: Federal finances will continue to deteriorate without any improvement in economic growth.",
+      "reason": "The paragraph provides context by comparing Carney's approach to Trudeau's past policies, relevant to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Canadian living standards (measured by per-person gross domestic product) are lower today than they were seven years ago, despite a massive increase in federal “investment” during the Trudeau years. Yet Mr. Carney, not content to double down on this failed approach, plans to accelerate it.",
+      "reason": "This paragraph offers data on living standards and critiques Carney's approach, directly supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The numbers don’t lie: Mr. Carney’s fiscal plan includes more spending and borrowing than Mr. Trudeau’s plan. This will be a fiscal and economic disaster, with Canadians paying the price.",
+      "reason": "This paragraph provides specific information about Mark Carney's fiscal plan and its potential consequences, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keep your opinions sharp and informed with a helpful summary of The Globe’s most provocative columns, covering politics, world affairs, business, arts, health and the way we live",
+      "reason": "This paragraph is promotional content for The Globe's columns and does not contribute to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a call to action unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

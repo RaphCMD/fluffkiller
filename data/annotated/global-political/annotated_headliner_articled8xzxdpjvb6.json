@@ -1,0 +1,49 @@
+{
+  "headline": "B.C.-bound border waits lengthened by U.S. inspections",
+  "context": [
+    "Travellers bound for B.C. from Washington state reported long waits Friday, and traffic volume does not appear to be the sole reason for the delays.",
+    "Both CTV News Vancouver and KOMO News Seattle were contacted by travellers who said U.S. border officials were searching every Canada-bound vehicle before it reached the border and dealt with the Canada Border Services Agency."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The CBSA referred questions to U.S. Customs and Border Patrol.",
+      "reason": "This paragraph provides relevant information about the CBSA's response to inquiries.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a brief statement to KOMO News, the CBP did not confirm that it was inspecting every northbound vehicle, nor did it explain what – if anything – prompted the increased scrutiny on Friday.",
+      "reason": "This paragraph is relevant as it addresses the lack of confirmation from CBP about the inspections.",
+      "label": 1
+    },
+    {
+      "paragraph": "“As part of its national security mission, U.S. Customs and Border Protection routinely conducts inspections on outbound traffic,” the CBP said in the statement.",
+      "reason": "This paragraph provides context about the CBP's routine operations.",
+      "label": 1
+    },
+    {
+      "paragraph": "“These inspections are a vital tool in apprehending wanted individuals as well as in seizing a variety of contraband – which ultimately makes our communities safer.”",
+      "reason": "This paragraph offers general information about the purpose of inspections, not specific to the current situation.",
+      "label": 0
+    },
+    {
+      "paragraph": "A Washington state Department of Transportation traffic camera showed what appeared to be a police checkpoint funnelling Canada-bound traffic into a single lane before the Peace Arch border crossing.",
+      "reason": "This paragraph provides visual evidence of the situation at the border.",
+      "label": 1
+    },
+    {
+      "paragraph": "The CBP’s online border wait time tracker for the Peace Arch crossing showed 40-minute waits for travellers from 11 a.m. to 1 p.m. Friday.",
+      "reason": "This paragraph provides specific data on wait times, which is directly relevant to the headline about border wait lengthening.",
+      "label": 1
+    },
+    {
+      "paragraph": "Typical wait times at 11 a.m., according to the CBP, are less than 20 minutes.",
+      "reason": "This paragraph offers a comparison to typical wait times, highlighting the unusual delay, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Wait times declined to more normal ranges in the 2 p.m. hour.",
+      "reason": "This paragraph provides information on when the wait times returned to normal, contributing to the narrative of the delays.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "headline": "Chase Field repair bill suckers in Arizona taxpayers, again | Opinion",
+  "context": [
+    "We’re suckers.",
+    "And before it’s all said and done, taxpayers will get suckered into handing over hundreds of millions of tax dollars to the billionaire owner of the Arizona Diamondbacks to fancy up Chase Field in downtown Phoenix."
+  ],
+  "annotations": [
+    {
+      "paragraph": "We shouldn’t do it, but we will.",
+      "reason": "This paragraph is a vague generalization and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Right now in the Legislature, they’re trying to figure out a way to pass House Bill 2704, which would have the taxes we pay on items purchased at Chase Field go toward improvements at the ballpark instead of going to state and local governments.",
+      "reason": "This paragraph provides specific information about legislative actions related to the funding of Chase Field improvements.",
+      "label": 1
+    },
+    {
+      "paragraph": "The team says the stadium needs about $500 million in upgrades. The deal also has the Diamondbacks saying they’ll chip in $250 million.",
+      "reason": "This paragraph provides specific financial details about the proposed upgrades and the team's contribution.",
+      "label": 1
+    },
+    {
+      "paragraph": "But will they? And should we?",
+      "reason": "This paragraph poses rhetorical questions without providing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "We shouldn’t. But we always do. Because, yes, we’re suckers. For baseball. For professional sports in general.",
+      "reason": "This paragraph is a generalization and does not add new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "I get it. I was born outside of Pittsburgh at a time when the great Roberto Clemente played for the Pirates, and every kid who played baseball (or any other sport) not only wanted to wear the No. 21 jersey but was willing to fight for it.",
+      "reason": "This paragraph is a personal anecdote unrelated to the main topic of taxpayer funding for Chase Field.",
+      "label": 0
+    },
+    {
+      "paragraph": "Literally.",
+      "reason": "This is a continuation of the personal anecdote and does not contribute to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "A sports franchise unifies a city or a state in ways that nothing else can.",
+      "reason": "This is a general statement about sports franchises and does not directly relate to the taxpayer funding issue.",
+      "label": 0
+    },
+    {
+      "paragraph": "In a ballpark, there are no Republicans or Democrats. People aren’t identified by the color of their skin but by the color of their T-shirts, replica uniforms or ballcaps.",
+      "reason": "This is a general observation about sports fans and does not address the main issue of taxpayer funding for Chase Field.",
+      "label": 0
+    },
+    {
+      "paragraph": "It’s why someone who is a Diamondbacks fan but who was raised in, say, Chicago, will break out the red and blue Cubs gear when his old hometown team visits Arizona.",
+      "reason": "This is an example of sports fan behavior and does not relate to the taxpayer funding issue.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ken Kendrick, the billionaire owner of the Diamondbacks, knows this. The politicians negotiating with the Diamondbacks know this.",
+      "reason": "This paragraph establishes the awareness of both the team owner and politicians about the situation, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "I’d guess Kendrick doesn’t want the hassle of moving a franchise to another city, but he’s smart enough to keep the prospect of such a thing peeking out from his back pocket.",
+      "reason": "This paragraph provides insight into Kendrick's potential strategy, relevant to the negotiation dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Likewise, the politicians who want to keep the team in Arizona don’t want to give away the store, but they know as well that there are a bunch of cities willing to do whatever it takes to lure a team looking for a new home.",
+      "reason": "This paragraph discusses the politicians' perspective and the competitive environment, relevant to the main issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "They range from places like Salt Lake City, Portland and Nashville to Montreal (which lost its team in 2004) and Mexico City.",
+      "reason": "This paragraph lists potential cities for relocation, providing context to the negotiation stakes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Phoenix Mayor Kate Gallego doesn’t like the current deal under consideration at the Legislature, saying it could cost taxpayers $1 billion, more than double what lawmakers were told.",
+      "reason": "This paragraph provides a direct quote from a key political figure, relevant to the financial implications of the deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "Likewise, Maricopa County Board of Supervisors Chairman Thomas Galvin said in an op-ed for The Arizona Republic that he worries “some proposals could create a slush fund for developers.”",
+      "reason": "This paragraph provides a relevant quote from a local official expressing concern about the potential misuse of funds.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gov. Katie Hobbs has chimed in as well, saying, “So, I will sign a bill that has the agreement of all the parties that holds taxpayers harmless and keeps the Diamondbacks here in Arizona.”",
+      "reason": "This paragraph includes a relevant quote from the governor about the conditions under which she would sign the bill.",
+      "label": 1
+    },
+    {
+      "paragraph": "HA!",
+      "reason": "This paragraph is a non-informative interjection and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "She knows, as we all do, that no matter what type of deal is made, it will not hold taxpayers harmless.",
+      "reason": "This paragraph provides commentary on the likely impact of the deal on taxpayers, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "And most of us will fall for it, because the politicians and ball club executives making the pitch know from experience that we can’t hit a curveball.",
+      "reason": "This paragraph offers a generalization about public gullibility, which is more of a moralizing conclusion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Reach Montini at ed.montini@arizonarepublic.com.",
+      "reason": "This is contact information for the author, which does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

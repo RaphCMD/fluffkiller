@@ -1,0 +1,59 @@
+{
+  "headline": "Snake collector’s immunity quest opens path towards universal antivenom | Medical research | The Guardian",
+  "context": [
+    "He has self-administered more than 850 doses of venom from cobras, mambas, rattlesnakes and other deadly species in pursuit of a singular quest: to develop immunity to snake bites in the hope of helping scientists create a universal antivenom.",
+    "Now the extreme 18-year experiment by Tim Friede, a former truck mechanic from Wisconsin, appears to have paid off. Scientists have used antibodies from his blood to create the most broadly protective antivenom to date, which could revolutionise the treatment of snake bites."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“For a period of nearly 18 years, [Tim] had undertaken hundreds of bites and self-immunisations with escalating doses from 16 species of very lethal snakes that would normally a kill a horse,” said Jacob Glanville, the chief executive of the US biotech Centivax and first author of the research. “It blew my mind. I contacted him because I thought if anyone in the world has these properly neutralising antibodies, it’s him.”",
+      "reason": "Provides direct commentary and context about Tim Friede's experiment and its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The cocktail, which combines two protective antibodies from Friede’s blood and a small molecule venom inhibitor, opens a path towards a universal antivenom, according to research published in the journal Cell. This could transform the ability to treat snake bites, which cause about 140,000 deaths and 300,000 permanent injuries each year.",
+      "reason": "Describes the scientific breakthrough and its potential impact on snake bite treatment.",
+      "label": 1
+    },
+    {
+      "paragraph": "Most antivenoms rely on a 100-year-old method that involves immunising horses or sheep with venom from single snake species and collecting the antibodies produced. While effective, there is a risk of severe adverse reactions, including anaphylaxis, to the non-human antibodies. And treatments tend to be species- and sometimes region-specific.",
+      "reason": "Provides context on current antivenom methods and their limitations.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I grew up in Guatemala and they recommend you try to catch the snake and bring it in in a plastic bag so they can determine if they have an appropriate antivenom,” Glanville said. “It’s not a great option to go chasing after the snake that’s just bitten you.”",
+      "reason": "Offers a personal anecdote that highlights the challenges of current antivenom practices.",
+      "label": 0
+    },
+    {
+      "paragraph": "Friede, aware of the shortcomings of antivenoms and hoping to fortify himself against accidental bites from his collection of pet snakes, embarked on his self-immunisation quest in 2000.",
+      "reason": "Provides background on Friede's motivation for his self-immunisation experiment.",
+      "label": 1
+    },
+    {
+      "paragraph": "Despite spending four days in a coma in 2001 after being bitten while milking an Egyptian cobra, he continued with his meticulous dose escalation programme, injecting low doses of venom from 16 lethal species before offering up his arms to the snakes to bite.",
+      "reason": "Provides narrative progression and context about Friede's dedication and methodology.",
+      "label": 1
+    },
+    {
+      "paragraph": "When Glanville came across an article about Friede, who had documented his project on his YouTube channel, he got in touch. “He was like: ‘Finally. I’ve been waiting for this call for a long time,’” Glanville said.",
+      "reason": "Offers narrative progression by detailing how the collaboration between Friede and scientists began.",
+      "label": 1
+    },
+    {
+      "paragraph": "To design the antivenom, the team selected 19 of the World Health Organization’s category 1 and 2 deadliest species, including coral snakes, mambas, cobras, taipans and kraits. After isolating candidate antibodies from Friede’s blood, they tested these out in mice envenomated from each species. This allowed them to identify just two antibodies that, when combined with a synthetic antivenom, provided complete protection against 13 of the species and partial protection against the others.",
+      "reason": "Provides detailed information on the scientific process and results of the antivenom development.",
+      "label": 1
+    },
+    {
+      "paragraph": "“By the time we reached three components, we had a dramatically unparalleled breadth of full protection for 13 of the 19 species and then partial protection for the remaining that we looked at,” Glanville said.",
+      "reason": "Offers a direct quote that summarizes the success of the antivenom development.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said Friede’s meticulous dosing schedule, which involved cyclical exposure to different venoms, meant that any antibodies that offered broader protection were boosted more frequently and were amplified by his immune system.",
+      "reason": "Explains the scientific basis for Friede's immunity and its contribution to the antivenom.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "headline": "Russia reportedly begins rare earth metals talks with US; Trump ‘very angry’ with Putin – as it happened | World news | The Guardian",
+  "context": [
+    "From",
+    "Washington and Moscow have begun discussions on projects related to Russian rare earth metals, the head of Russia’s sovereign wealth fund, Kirill Dmitriev, has said."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Rare earth metals are an important area of cooperation and, of course, we have started discussions on various rare earth metals and projects in Russia,” he told pro-Kremlin Russian newspaper Izvestia.",
+      "reason": "Provides a direct quote from Kirill Dmitriev confirming the discussions on rare earth metals.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dmitriev, who was part of Russia’s negotiating team at talks with US officials in Saudi Arabia in February, also said some companies have already expressed interest in the projects, without going into more detail.",
+      "reason": "Adds context about Dmitriev's role and mentions interest from companies, relevant to the talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Izvestia reported the cooperation may be further discussed at the next round of Russia-US talks that may take place in a couple of weeks in Saudi Arabia.",
+      "reason": "Provides information on potential future discussions, relevant to the ongoing talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "In February, Vladimir Putin suggested that the US might be interested in exploring joint exploration for rare earth metals deposits in Russia, which has the world’s fifth-largest reserves of the metals used in lasers and military equipment.",
+      "reason": "Offers context on Putin's previous suggestion and the significance of Russia's reserves.",
+      "label": 1
+    },
+    {
+      "paragraph": "Donald Trump said on Thursday the US would sign a minerals and natural resources deal with Ukraine soon. Kyiv seems to have little choice but to sign a deal if it wants US military support to continue.",
+      "reason": "Unrelated to the main topic of US-Russia talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump has claimed any such deal would allow the US to recoup hundreds of billions of dollars it spent on military aid to Kyiv. Ukraine wants the deal to include references to long-term US security guarantees to protect it from Russian attacks after the war is over.",
+      "reason": "This paragraph provides context on the potential implications of the rare earth metals deal and its connection to US-Ukraine relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the specifics are still being negotiated and the US has so far signalled that it will not provide significant security guarantees to Ukraine as part of the agreement. You can read more about what rare earth minerals are and why Trump wants access to them in this useful explainer.",
+      "reason": "The paragraph discusses ongoing negotiations and provides a link to further information, but the link itself is not directly relevant.",
+      "label": 1
+    },
+    {
+      "paragraph": "Key events",
+      "reason": "This is a section header and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Closing summary",
+      "reason": "This is a section header and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Netherlands' defence ministry pledges over $2bn for Ukraine in 2025",
+      "reason": "This information is unrelated to the main topic of US-Russia talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Sweden donates major aid package to Ukraine",
+      "reason": "This information is unrelated to the main topic of US-Russia talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Kremlin says Putin 'remains open' to speaking to Trump (again)",
+      "reason": "This paragraph provides relevant information about the ongoing diplomatic relations between Putin and Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump ‘running out of patience’ with Putin over Ukraine ceasefire, says Finnish president",
+      "reason": "This paragraph provides relevant information about the tensions between Trump and Putin, which is related to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia says rare earth metal talks with the US have begun - report",
+      "reason": "This paragraph directly relates to the main topic of the article about rare earth metal talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "What did Putin say to make Trump so angry at him?",
+      "reason": "This is a rhetorical question and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "31 Mar 2025",
+      "reason": "This is a date and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump says he is 'pissed off' with Putin's approach to ceasefire as strikes on Ukraine continue",
+      "reason": "This provides direct commentary on Trump's reaction to Putin's actions, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Show key events only",
+      "reason": "This is a navigation instruction and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Please turn on JavaScript to use this feature",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "We are now closing the Ukraine rolling coverage. Here is a summary of events:",
+      "reason": "This is a transition statement and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Washington and Moscow have reportedly begun discussions on projects related to both countries jointly exploiting Russian rare earth metals. The meeting comes after Donald Trump accused Volodymyr Zelenskyy of attempting to “renegotiate” the minerals deal with Kyiv that would give the US access to Ukraine’s rare earths.",
+      "reason": "This paragraph provides details on the discussions and context about Trump's accusations, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump said he is “pissed off” and “very angry” with Vladimir Putin over his approach to a ceasefire in Ukraine and threatened to levy tariffs on Moscow’s oil exports if the Russian president does not agree to a truce within a month.",
+      "reason": "This paragraph provides Trump's reaction and potential actions, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump signalled that he would levy a 25% or 50% tariff that would affect countries buying Russian oil in a telephone interview with NBC News early Sunday morning.",
+      "reason": "This paragraph provides specific details about Trump's tariff plans, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Netherlands and Sweden both announced significant security and military aid packages to help Ukraine in its continuing efforts to fend off Russian attacks.",
+      "reason": "This paragraph is not directly related to the rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia carried out airstrikes in Kharkiv, Ukraine’s second-largest city, for a second night, while Moscow accused Ukraine’s army of attacking energy sites in the Bryansk border region in a drone and artillery strike on Sunday evening.",
+      "reason": "This paragraph does not pertain to the rare earth metals discussions or Trump's reaction to Putin.",
+      "label": 0
+    },
+    {
+      "paragraph": "Thanks for following along today. You can read all our Ukraine coverage here.",
+      "reason": "This is a closing remark and does not contribute new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Poland and the US will sign an agreement worth nearly $2bn for the delivery of logistical support for the Patriot air defence system, Poland’s defence minister said on Monday.",
+      "reason": "This paragraph is unrelated to the rare earth metals talks or Trump's reaction to Putin.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The safety of Polish skies has no price,” Wladyslaw Kosiniak-Kamysz told journalists.",
+      "reason": "This quote is unrelated to the main topic of rare earth metals talks or Trump's reaction.",
+      "label": 0
+    },
+    {
+      "paragraph": "The agreement with the US concerns the delivery of logistical support for the Patriot system within the armed forces and includes technical support components as well as training, Reuters reports.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Poland’s defence ministry said implementing the agreement would enable the operational readiness of Patriot launchers, which form the foundation of the Wisla programme. It aims to counter, among other things, short-range tactical ballistic missiles, including manoeuvring missiles.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Poland acquired its first two Patriot system batteries from the US in 2018 under the Wisla programme.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Galvanised by Russia’s full-scale invasion of neighbouring Ukraine, Poland has become Nato’s biggest spender in terms of the proportion of its national wealth devoted to defence. Warsaw said it will spend 4.1% of GDP on defence in 2024 with a pledge to increase this to 4.7% in 2025.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Polish prime minister Donald Tusk has recently said every adult male would receive military training and has backed Poland withdrawing from international conventions that ban the use of anti-personnel landmines and cluster munitions.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "China and India could be affected if Donald Trump introduces tariffs of 25-50% against countries buying Russian oil, analysts and officials have suggested. My colleague Dan Sabbagh reports that the US president told NBC he would impose such measures within a month “if a deal isn’t made, and if I think it was Russia’s fault”, as he vented frustration at Vladimir Putin’s delaying tactics and attempts to discredit Volodymyr Zelenskyy.",
+      "reason": "This paragraph provides context on potential US tariffs related to Russian oil, which is relevant to US-Russia relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some countries, including China and India, are not participating in anti-war sanctions against Russian oil. Secondary sanctions or tariffs imposed directly on them by the US could further limit Putin’s access to oil revenue to fund the war.",
+      "reason": "This paragraph discusses the implications of US sanctions on countries buying Russian oil, relevant to the geopolitical context.",
+      "label": 1
+    },
+    {
+      "paragraph": "While not joining the international sanctions against Russia, China has been wary about breaching them in case it attracts secondary penalties. Some Chinese banks, for example, have curtailed dealings with Russian companies for fear of being barred from the international banking system.",
+      "reason": "This paragraph provides context on China's cautious stance regarding sanctions, relevant to the broader geopolitical situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Volodymyr Zelenskyy has marked the third anniversary of the Ukrainian army retaking Bucha, which was seized by Russia soon after Vladimir Putin ordered a full-scale invasion of Ukraine on 24 February 2022.",
+      "reason": "This paragraph is unrelated to the main topic of US-Russia talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ukrainian forces took back control of the small towns of Bucha and Irpin to the northwest of Kyiv in late March in 2022 as Russian soldiers quickly abandoned their attempt to seize the capital Kyiv.",
+      "reason": "This paragraph is unrelated to the main topic of US-Russia talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "As Russian troops withdrew from Bucha, the scale of the destruction and horror there became clear.",
+      "reason": "This paragraph provides context about the situation in Bucha, which is not directly related to the rare earth metals talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Witnesses of alleged atrocities in Bucha told the Guardian that Russian soldiers had fired on men fleeing the town, and had killed civilians at will.",
+      "reason": "This paragraph details events in Bucha, unrelated to the main topic of rare earth metals talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Kyiv says more than 1,400 people were killed in Bucha during the occupation including 37 children, more than 175 people were found in mass graves and torture chambers, and at least 9,000 Russian war crimes have been identified.",
+      "reason": "This paragraph provides statistics on the Bucha situation, not relevant to the rare earth metals discussions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Moscow denies accusations of executions, rapes and torture by its occupying troops who left bodies in the streets when they fled.",
+      "reason": "This paragraph discusses Moscow's denial of war crimes, which is not pertinent to the rare earth metals talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Paying tribute to Ukrainians who have been killed in the war and expressing gratitude to Ukrainian soldiers still fighting to defend their country, Zelenskyy wrote in a post on X on Monday:",
+      "reason": "This paragraph is about Zelenskyy's tribute, unrelated to the rare earth metals discussions.",
+      "label": 0
+    },
+    {
+      "paragraph": "And the world saw what the Russian occupation truly is: people killed in the streets, people tortured, graves in the yards of ordinary houses.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Since then, no one in the world can say they do not know what Ukraine is defending.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Three years ago, our warriors liberated Bucha from the Russian occupiers. And the world saw what the Russian occupation truly is: people killed in the streets, people tortured, graves in the yards of ordinary houses.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Since then, no one in the world can say they do not know what… pic.twitter.com/4mzgpzxSlz",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "In an earlier post, we reported that Sweden announced a fresh military aid package to Kyiv worth about 16 billion kronor ($1.5bn; £1.2bn).",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Now, Dutch defence minister Ruben Brekelmans and defence secretary Gijs Tuinman have announced the Netherlands will allocate €2bn ($2.2bn; £1.7bn) to support Kyiv this year.",
+      "reason": "This paragraph is unrelated to the main topic of Russia-US talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "The security assistance will include support for Ukraine’s Drone Line project, a military initiative that will broaden the use of drones within elite units of the ground forces and the state border guard service.",
+      "reason": "This paragraph is unrelated to the main topic of Russia-US talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "Unveiling details of the project in a Facebook post last month, Ukrainian defence minister Rustem Umerov wrote:",
+      "reason": "This paragraph is unrelated to the main topic of Russia-US talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "We are launching a revolutionary project that will radically strengthen our brigades and scale the experience of effectively destroying the enemy - the Drone Line.",
+      "reason": "This paragraph is unrelated to the main topic of Russia-US talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "This is a new standard of warfare, where unmanned systems are becoming a key element of combat operations, helping our defenders perform the most difficult tasks.",
+      "reason": "This paragraph is unrelated to the main topic of Russia-US talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "We are focusing on the best UAV units. The Drone Line will scale the most effective unmanned systems in the land forces and the state border guard service.",
+      "reason": "This paragraph is unrelated to the main topic of rare earth metals talks between Russia and the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "“These drones will make a difference on the battlefield and literally save lives,” Brekelmans said in a statement on Monday.",
+      "reason": "This quote about drones does not relate to the rare earth metals discussions.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Netherlands has been a staunch ally to Ukraine since Russia’s full-scale invasion three years ago, reportedly providing Kyiv with about €7.33bn ($7.87bn) in support to date.",
+      "reason": "This information about the Netherlands' support to Ukraine is not relevant to the rare earth metals talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "In a video posted to X ahead of the Madrid meeting, Kaja Kallas said today marks three weeks since Ukraine agreed to a ceasefire but “Russia is playing games and not really wanting peace”.",
+      "reason": "This paragraph discusses Ukraine and Russia's ceasefire, not the rare earth metals talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Madrid meeting will also discuss European defence more generally as, she said, “all kinds of threats are coming our way”.",
+      "reason": "This paragraph about European defense is not related to the rare earth metals discussions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Europe’s top diplomat, Kaja Kallas, has urged Russia to show goodwill and agree on a ceasefire in Ukraine.",
+      "reason": "This paragraph is not directly related to the rare earth metals talks or Trump's reaction to Putin.",
+      "label": 0
+    },
+    {
+      "paragraph": "On Monday, the EU’s high representative for foreign affair said “giving back Ukrainian children that have been deported to Russia” and “releasing prisoners of war” were examples of gestures Russia could make to show goodwill.",
+      "reason": "This paragraph does not relate to the rare earth metals talks or Trump's reaction to Putin.",
+      "label": 0
+    },
+    {
+      "paragraph": "Speaking before a meeting of European foreign ministers in Madrid to discuss the war in Ukraine, she also called on the US to apply pressure on the Kremlin to put an end to the three-year-old conflict.",
+      "reason": "This paragraph is not directly related to the rare earth metals talks or Trump's reaction to Putin.",
+      "label": 0
+    },
+    {
+      "paragraph": "Meanwhile, the French foreign minister, Jean-Noel Barrot, said Russia owed a clear response to the US on whether it wants to go on a peace path at all amid Donald Trump’s comments that he was “very angry” with Russia’s Vladimir Putin.",
+      "reason": "This paragraph mentions Trump's reaction to Putin, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sweden will donate 16bn kronor ($1.6bn, £1.24bn, €1.48bn) in fresh military aid to Ukraine, the government said on Monday – the largest such package from the Nordic country since Russia’s 2022 invasion.",
+      "reason": "This paragraph is not directly related to the rare earth metals talks or Trump's reaction to Putin.",
+      "label": 0
+    },
+    {
+      "paragraph": "Swedish Defence Minister Pal Jonson told reporters that Sweden wanted “to send the message now that we are both intensifying our support and increasing its strength and scope”.",
+      "reason": "This paragraph is about Sweden's defense support for Ukraine, unrelated to the main topic of US-Russia talks on rare earth metals.",
+      "label": 0
+    },
+    {
+      "paragraph": "“There are strong reasons to do so in light of the seriousness of the situation in Ukraine,” Jonson added.",
+      "reason": "This is a continuation of the previous paragraph about Sweden's support for Ukraine, not related to the US-Russia talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "The majority of the aid package, 9bn kronor, would go towards the acquisition of newly produced materials, “mainly from the Swedish, but also the European defence industrial base.”",
+      "reason": "This paragraph details Sweden's aid package for Ukraine, not related to the US-Russia rare earth metals discussions.",
+      "label": 0
+    },
+    {
+      "paragraph": "The materials would be selected judged by “Ukrainian needs,” the government said.",
+      "reason": "This paragraph continues to discuss Sweden's aid to Ukraine, not the US-Russia talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "The latest package is the 19th tranche of military aid that Sweden has provided to Ukraine, with the total estimated at 80 billion kronor, according to the government.",
+      "reason": "This paragraph provides historical context on Sweden's aid to Ukraine, unrelated to the US-Russia talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Here are some fuller comments from Kremlin spokesperson Dmitry Peskov, as carried by BBC News:",
+      "reason": "This is an introductory sentence that does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "We continue to work with the American side, primarily on sorting out our bilaterial relations, which had been greatly damaged by the previous [US] administration. And we are also working on several areas regarding the Ukraine peace process.",
+      "reason": "This provides context on the broader US-Russia relations and ongoing discussions, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Work is ongoing. We have nothing concrete yet that we could or should tell you. This process is drawn out due to its complicated nature. The President remains open to contact with President Trump. A telephone call can be organised quickly if needed.",
+      "reason": "This paragraph provides insight into the status of US-Russia communications, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kremlin spokesperson Dmitry Peskov has been talking to journalists in his regular daily media briefing. He has been asked about Donald Trump saying he was “very angry” with Vladimir Putin over his approach to a ceasefire in Ukraine (see opening post for more details on this).",
+      "reason": "This paragraph provides context on Trump's reaction to Putin, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This process is time-consuming, probably due to the fact of the complexity of the substance. The president remains open to contact with President Trump,” Peskov said, adding that “there is no scheduled” phone call between the leaders, but that “when it is necessary, their conversation will be promptly organised”.",
+      "reason": "This provides specific details about the communication process between the US and Russia, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "There have so far been two announced phone calls between Putin and Trump this year - on 12 February and on 18 March - though there has been speculation about much more frequent contact, and also reports that they spoke before Trump was elected last year.",
+      "reason": "This paragraph provides context about the communication between Putin and Trump, which is relevant to the headline's mention of Trump's reaction to Putin.",
+      "label": 1
+    },
+    {
+      "paragraph": "Peskov also confirmed that Putin is expected to meet China’s foreign minister, Wang Yi, during his visit to Moscow this week.",
+      "reason": "This paragraph is not directly related to the rare earth metals talks or Trump's reaction to Putin.",
+      "label": 0
+    },
+    {
+      "paragraph": "Two people were killed and 25 were injured in and around Ukraine’s second city, Kharkiv, in Russian attacks on Saturday night and Sunday morning, according to officials.",
+      "reason": "This paragraph is unrelated to the rare earth metals talks or the US-Russia relations mentioned in the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Overnight, Russia carried out more air strikes on Ukraine’s second-largest city, with two people reportedly being injured in the latest attack. Here are some of the latest images taken in the aftermath of the strikes:",
+      "reason": "This paragraph is unrelated to the rare earth metals talks or the US-Russia relations mentioned in the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia has accused Ukraine’s army of attacking energy sites in the Bryansk border region in a drone and artillery strike on Sunday evening.",
+      "reason": "This paragraph is unrelated to the rare earth metals talks or the US-Russia relations mentioned in the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The continuation of deliberate attacks by the Ukrainian army on Russia’s energy facilities is evidence of the Kyiv regime’s complete lack of commitment to its obligations regarding settling the conflict in Ukraine,” the Russian defence ministry said.",
+      "reason": "This paragraph provides context on the ongoing conflict between Ukraine and Russia, which is relevant to the geopolitical tensions mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russian president Vladimir Putin and his Ukrainian counterpart Volodymyr Zelenskyy have agreed to a partial, loosely defined ceasefire covering energy and civilian infrastructure – but both Moscow and Kyiv have accused the other of violating the agreement.",
+      "reason": "This paragraph offers relevant information about the ceasefire agreement, which is pertinent to the geopolitical context of the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Patrick Wintour is diplomatic editor for the Guardian",
+      "reason": "This is a filler paragraph providing information about the author, not contributing to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Donald Trump is losing patience with Vladimir Putin’s stalling tactics over the Ukraine ceasefire, the Finnish president, Alexander Stubb, said after spending several hours with the US president – including winning a golf competition with him at his Mar-a-Lago resort in Florida on Saturday.",
+      "reason": "This paragraph provides direct commentary on Trump's stance towards Putin, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Stubb, who also spent two days with the Ukrainian president, Volodymyr Zelenskyy, last week in Helsinki suggested in a Guardian interview a plan for a deadline of 20 April, by which time Putin should be required to comply with a full ceasefire.",
+      "reason": "This paragraph offers relevant information about diplomatic efforts and deadlines related to the Ukraine conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "Stubb pointed out that a third golf partner on Saturday, the Republican senator Lindsey Graham, already has a bill in the US Senate proposing what he has described as “bone-breaking” US sanctions on Russia if it did not accept an unconditional ceasefire.",
+      "reason": "This paragraph provides context on US political actions related to Russia, which is relevant to the broader geopolitical context of US-Russia relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "The round of golf diplomacy seemed to make a positive impression on Trump, who wrote afterwards on his Truth Social platform: “I just played a round of Golf with Alexander Stubb, President of Finland. He is a very good player, and we won the Men’s Member-Guest Golf Tournament at Trump International Golf Club in Palm Beach County…",
+      "reason": "This paragraph is about a golf game and does not contribute to the main story about rare earth metals or US-Russia relations.",
+      "label": 0
+    },
+    {
+      "paragraph": "“President Stubb and I look forward to strengthening the partnership between the United States and Finland, and that includes the purchase and development of a large number of badly needed Icebreakers for the U.S., delivering Peace and International Security for our Countries, and the World.”",
+      "reason": "This paragraph discusses US-Finland relations and icebreakers, which is unrelated to the main topic of US-Russia rare earth metals talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Asked how he thought Trump would express his impatience with Putin, Stubb said things would be clear in a matter of days. “When you spend seven hours with someone, you at least get an intuition of the direction in which we’re going,” he said.",
+      "reason": "This paragraph hints at potential future actions by Trump regarding Putin, which is relevant to the article's focus on US-Russia relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "You can read the full story here:",
+      "reason": "This is a prompt to read more and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Washington and Moscow have begun discussions on projects related to Russian rare earth metals, the head of Russia’s sovereign wealth fund, Kirill Dmitriev, has said.",
+      "reason": "This paragraph introduces the main topic of the article, which is the discussions between the US and Russia on rare earth metals.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Rare earth metals are an important area of cooperation and, of course, we have started discussions on various rare earth metals and projects in Russia,” he told pro-Kremlin Russian newspaper Izvestia.",
+      "reason": "This paragraph provides a direct quote from Kirill Dmitriev, confirming the discussions and their importance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dmitriev, who was part of Russia’s negotiating team at talks with US officials in Saudi Arabia in February, also said some companies have already expressed interest in the projects, without going into more detail.",
+      "reason": "This paragraph adds context about Dmitriev's role and mentions interest from companies, which is relevant to the ongoing talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Izvestia reported the cooperation may be further discussed at the next round of Russia-US talks that may take place in a couple of weeks in Saudi Arabia.",
+      "reason": "This paragraph provides information about potential future discussions, which is relevant to the progression of the talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "In February, Vladimir Putin suggested that the US might be interested in exploring joint exploration for rare earth metals deposits in Russia, which has the world’s fifth-largest reserves of the metals used in lasers and military equipment.",
+      "reason": "This paragraph offers context on Russia's rare earth metal reserves and Putin's previous suggestion, which is relevant to the talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Donald Trump said on Thursday the US would sign a minerals and natural resources deal with Ukraine soon. Kyiv seems to have little choice but to sign a deal if it wants US military support to continue.",
+      "reason": "This paragraph is relevant as it discusses a related minerals deal involving the US, which ties into the broader theme of rare earth metals and geopolitical negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump has claimed any such deal would allow the US to recoup hundreds of billions of dollars it spent on military aid to Kyiv. Ukraine wants the deal to include references to long-term US security guarantees to protect it from Russian attacks after the war is over.",
+      "reason": "This paragraph is relevant as it provides context on the US-Ukraine deal, which is part of the broader geopolitical landscape involving rare earth metals.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the specifics are still being negotiated and the US has so far signalled that it will not provide significant security guarantees to Ukraine as part of the agreement. You can read more about what rare earth minerals are and why Trump wants access to them in this useful explainer.",
+      "reason": "This paragraph is partially relevant as it mentions rare earth minerals, but the explainer reference is fluff.",
+      "label": 0
+    },
+    {
+      "paragraph": "In a post on X, Ukraine’s prime minister, Denys Shmyhal, said that his country’s state budget received around $400m (€369m; £309m) from the International Monetary Fund (IMF) after the successful seventh review of the Extended Fund Facility (EFF) arrangement.",
+      "reason": "This paragraph is fluff as it discusses IMF funding unrelated to the main topic of rare earth metals talks.",
+      "label": 0
+    },
+    {
+      "paragraph": "The total IMF support under this program amounts to over $10bn, he said. The EFF funds are meant to help stabilise the Ukrainian economy during the war, aid its postwar recovery and promote economic growth as the country edges closer towards potential EU membership.",
+      "reason": "This paragraph is fluff as it provides details on IMF support unrelated to the rare earth metals discussions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Let’s take a closer look at what Putin said that prompted Trump to say he was “very angry” at him.",
+      "reason": "This paragraph introduces the topic of Putin's comments that angered Trump, setting up the context for the following details.",
+      "label": 1
+    },
+    {
+      "paragraph": "Speaking in the northwestern Russian city of Murmansk on Friday, Putin had suggested the establishment of an interim government in Ukraine under UN supervision, which would be in place “in order to hold a democratic election (in Ukraine), in order to bring in a competent government trusted by people”.",
+      "reason": "This paragraph provides specific details about Putin's proposal regarding Ukraine, which is central to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "By “competent government” he means one not led by Volodymyr Zelenskyy, the current Ukrainian president. Ukrainian law does not allow elections under martial law, which was declared when Russia launched its full-scale invasion in February 2022.",
+      "reason": "This paragraph offers important context about the political situation in Ukraine and Putin's intentions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Putin went on to say that Moscow would then hold so-called peace talks with the new government, which he said would result in “legitimate documents” being signed that would be “recognised worldwide” as “reliable and stable”.",
+      "reason": "This paragraph continues to detail Putin's plan, which is relevant to understanding the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said “such practice does exist”, citing examples of the UN’s involvement in countries such as East Timor, which the UN took over the administration of and oversaw the territory’s transition to independence.",
+      "reason": "This paragraph provides historical context to Putin's proposal, linking it to past UN actions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Putin was quoted by the Tass news agency as having said:",
+      "reason": "This is an introduction to a quote but does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Such practice does exist and, technically, it is possible to discuss the possibility of introducing interim governance in Ukraine under the UN auspices with the United States, with European countries, naturally, with our partners and friends.",
+      "reason": "This paragraph is not directly related to the rare earth metals talks or Trump's reaction.",
+      "label": 0
+    },
+    {
+      "paragraph": "In order to hold a democratic election there, in order to bring in a competent government trusted by people.",
+      "reason": "This is a continuation of the previous topic unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "And then hold talks with it about a peace treaty and sign legitimate documents which would be recognized worldwide and be reliable and stable.",
+      "reason": "This is further elaboration on a different topic, not related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "“You could say that I was very angry, pissed off, when... when Putin started getting into Zelensky’s credibility, because that’s not going in the right location,” Trump reportedly said in an early morning phone call with NBC News on Sunday.",
+      "reason": "This paragraph provides direct commentary from Trump related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Guardian’s defence and security editor, Dan Sabbagh, has this snippet about the ineffectiveness of Trump’s negotiating tactics in regards to trying to end the war in Ukraine. You can read the full story here.",
+      "reason": "This paragraph is a promotional snippet for another story and does not contribute new information to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "During the election campaign, Trump had said that he could end the Ukraine war within 24 hours, comments he more recently claimed were “a little bit sarcastic”.",
+      "reason": "This paragraph provides context on Trump's previous statements related to the Ukraine war, which is indirectly relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "That has proved elusive and his tactics to force Russia and Ukraine into agreeing a ceasefire have so far been focused on bullying and pressurising Kyiv.",
+      "reason": "This paragraph discusses Trump's tactics regarding the Ukraine war, which is indirectly relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump and his vice-president, JD Vance, berated Zelenskyy at the Oval Office a month ago, which was followed by Washington cutting off intelligence and military aid.",
+      "reason": "This paragraph provides specific actions taken by Trump and his administration, which is indirectly relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kyiv then signed up to the principle of a 30-day ceasefire if the Kremlin would reciprocate in return for intelligence and aid being restored.",
+      "reason": "This paragraph provides information on a ceasefire agreement involving Kyiv, which is indirectly relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Putin said earlier this month that although he was in favour of a ceasefire, “there are nuances” and any halt in fighting should “remove the root causes of this crisis”, a sweeping but vague demand.",
+      "reason": "This paragraph provides context on Putin's stance on the ceasefire, which is relevant to the broader geopolitical situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Russian president and his allies have called for the demilitarisation of Ukraine, insisted that the presence of western troops as peacekeepers would be unacceptable and demanded the full annexation of four regions, three of which it only partially occupies.",
+      "reason": "This paragraph offers important context on Russia's demands in the Ukraine conflict, relevant to the article's geopolitical focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Welcome back to our live coverage of Russia’s war on Ukraine. We are leading today’s blog with Donald Trump saying he was “very angry” and “pissed off” over Vladimir Putin’s approach to a ceasefire in Ukraine, in comments that mark a huge shift in tone in the way the US president usually speaks about the Russian leader.",
+      "reason": "This paragraph introduces Trump's reaction to Putin's actions, which is central to the article's headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump also took aim at the Russian president’s criticism of Volodymyr Zelenskyy’s credibility, despite the US President having previously called his Ukrainian counterpart a “dictator”.",
+      "reason": "This paragraph highlights Trump's criticism of Putin, which is relevant to the article's focus on US-Russia relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Putin recently said that Zelenskyy – who was democratically elected in 2019 – lacks the legitimacy to sign a peace deal and suggested that Ukraine needed external governance.",
+      "reason": "This paragraph provides context on Putin's view of Zelenskyy, relevant to the geopolitical narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump, who is eager for Kyiv and Moscow to swiftly agree to a broad ceasefire deal, indicated he would levy a 25% or 50% tariff that would affect countries buying Russian oil in a telephone interview with NBC News.",
+      "reason": "This paragraph provides relevant information about Trump's potential economic actions against Russia, which is related to the broader geopolitical context.",
+      "label": 1
+    },
+    {
+      "paragraph": "“If Russia and I are unable to make a deal on stopping the bloodshed in Ukraine, and if I think it was Russia’s fault, which it might not be, but if I think it was Russia’s fault, I am going to put secondary tariffs on oil, on all oil coming out of Russia,” Trump said.",
+      "reason": "This paragraph contains a direct quote from Trump about potential tariffs, adding relevant context to the geopolitical situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“That would be that if you buy oil from Russia, you can’t do business in the United States. There will be a 25% tariff on all … on all oil, a 25 to 50-point tariff on all oil.”",
+      "reason": "This paragraph provides specific details about the potential tariffs, contributing to the understanding of the economic implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump continued: “I was very angry, pissed off” when Putin “started getting into Zelenskyy’s credibility, because that’s not going in the right location, you understand?”",
+      "reason": "This paragraph offers insight into Trump's personal reaction to Putin's actions, which is relevant to the diplomatic tensions discussed.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said “new leadership means you’re not gonna have a deal for a long time, right” and that he wanted to exert pressure on the Kremlin, which has only agreed to limited maritime and energy ceasefires so far.",
+      "reason": "This paragraph provides relevant commentary on the challenges of reaching a deal with Russia, adding to the narrative of diplomatic efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Seemingly responding to Trump’s comments, Zelenskyy said in his Sunday night address that Putin “does not care about diplomacy”, adding that attacks have continued to attack his country despite ceasefire proposals (being suggested by Washington over recent weeks).",
+      "reason": "This paragraph provides context on the geopolitical tensions involving Russia, Ukraine, and the US, which is relevant to the broader narrative of US-Russia relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "“For several weeks now, there has been a US proposal for an unconditional ceasefire. And almost every day, in response to this proposal, there are Russian drones, bombs, artillery shelling and ballistic strikes,” the Ukrainian president said.",
+      "reason": "This paragraph offers specific details about the ongoing conflict and US diplomatic efforts, which are relevant to the article's focus on US-Russia relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Russia deserves increased pressure - all the tough measures that can break its capacity to wage war and sustain the system that wants nothing but war,” Zelensky added.",
+      "reason": "This paragraph provides Zelensky's perspective on the conflict and calls for action, which is relevant to the geopolitical context of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "In some other developments:",
+      "reason": "This paragraph serves as a transition and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Donald Trump said Volodymyr Zelenskyy wants to back out of a critical minerals deal, which would grant the US access to Ukraine’s rare mineral reserves.\n   “He’s trying to back out of the rare earth deal and if he does that he’s got some problems, big, big problems,” Trump told reporters yesterday. \n   “He wants to be a member of Nato, but he’s never going to be a member of Nato. He understands that.”",
+      "reason": "This paragraph directly relates to the rare earth metals talks and provides Trump's perspective, which is central to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia bombed the city of Kharkiv in north-eastern Ukraine for the second night in a row, injuring two people, sparking fires and damaging a kindergarten and private houses, Ukrainian officials said early on Monday. The attacks lasted most of the night, said Kharkiv’s mayor, Ihor Terekhov. Zelenskyy on Sunday said Moscow had fired more than 1,000 drones in the past week and called for a response from the US and other allies.",
+      "reason": "This paragraph is unrelated to the rare earth metals talks and focuses on military actions in Ukraine.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia’s defence ministry claimed on Sunday that its forces had gained control over Zaporizhzhia settlement in Ukraine’s Donetsk region. The village is unrelated to the Zaporizhzhia nuclear power plant, which is in another region. The Russian claim was reported by Reuters, which said it was not able to verify it. The village is 7km from the border of Ukraine’s central Dnipropetrovsk region. The Donetsk region borders Dnipropetrovsk to the east.",
+      "reason": "This paragraph is unrelated to the rare earth metals talks and focuses on military claims in Ukraine.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Ukrainian air force said Russia launched 131 drones and two ballistic missiles during overnight attacks, 57 of which were shot down and another 45 drones did not reach their targets, likely due to electronic countermeasures. The military did not specify what happened to the remaining 29 drones.",
+      "reason": "This paragraph is unrelated to the rare earth metals talks and focuses on military actions in Ukraine.",
+      "label": 0
+    },
+    {
+      "paragraph": "Russia’s air defence units intercepted and destroyed 66 Ukrainian drones overnight, the Russian defence ministry said this morning. 41 of the drones were destroyed over the border Bryansk region, 24 over the Kaluga region and one over the Kursk region. There were no immediate reports of any casualties.",
+      "reason": "This paragraph is unrelated to the rare earth metals talks and focuses on military actions in Ukraine.",
+      "label": 0
+    }
+  ]
+}

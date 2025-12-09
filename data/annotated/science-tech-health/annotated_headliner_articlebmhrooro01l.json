@@ -1,0 +1,164 @@
+{
+  "headline": "2023 was the hottest year on record — by a long shot | CBC News",
+  "context": [
+    "Science",
+    "After a year of record-breaking wildfires across Canada and the hottest temperature ever recorded on Earth, it likely comes as no surprise that 2023 was the hottest year on record. According to the European Union’s Copernicus Climate Change Service, 2023 was nearly 1.5 C warmer than the pre-industrial average."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Nicole Mortillaro  · CBC News",
+      "reason": "This is an author byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "After a year of record-breaking wildfires across Canada and the hottest temperature ever recorded on Earth, it likely comes as no surprise that 2023 was the hottest year on record.",
+      "reason": "This paragraph repeats information already provided in the context.",
+      "label": 0
+    },
+    {
+      "paragraph": "According to the European Union's Copernicus Climate Change Service (C3S), 2023 was 1.48 C warmer than the pre-industrial average from 1850-1900, beating out 2016's record of 1.25 C.",
+      "reason": "This paragraph provides specific data about the temperature increase in 2023 compared to previous records.",
+      "label": 1
+    },
+    {
+      "paragraph": "As we continue to burn fossil fuels and pump greenhouse gases into the atmosphere, the planet keeps getting warmer. According to the climate agency, global CO2 levels were 419 parts per million (ppm) in 2023, an increase of 2.4 ppm from the previous year.",
+      "reason": "This paragraph provides relevant information about CO2 levels and their increase, contributing to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "To put that into perspective, in 1988, the year climate scientist James Hansen warned the U.S. Congress about global warming, it was 351 ppm. And it's currently increasing at a much faster rate than in the past.",
+      "reason": "This paragraph provides historical context and highlights the acceleration of CO2 level increases.",
+      "label": 1
+    },
+    {
+      "paragraph": "But last year's rapid jump in global temperatures has taken even climate scientists by surprise.",
+      "reason": "This paragraph provides direct commentary on the unexpected nature of the temperature increase.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last year, \"it's fair to say, surprised all climate scientists: the sheer number of records that were broken, and how they were broken. They were broken by very large amounts,\" said Samantha Burgess, deputy director of the C3S.",
+      "reason": "This paragraph includes a relevant quote from a climate expert about the surprising nature of the temperature records.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Our expectation was with this transition to El Niño, that it would be warmer than [2022]. But we weren't sure, particularly at the beginning of the year ... until spring … we didn't think it would be as exceptional as it was,\" she said. \"And then we saw these record-breaking global temperatures in the summer.\"",
+      "reason": "This paragraph provides context and expert commentary on the unexpected temperature rise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here are just some of the unusual records Earth experienced in 2023, according to C3S:",
+      "reason": "This paragraph introduces a list of records, contributing to the narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "NASA and NOAA will release their findings on the global climate on Friday. While there may be a slight variation in their numbers — as their methodology differs from that of C3S — it's likely they will be similar. And, ultimately, it's the continued upward trend that matters.",
+      "reason": "This paragraph provides context about upcoming reports and emphasizes the significance of the trend.",
+      "label": 1
+    },
+    {
+      "paragraph": "While the increase of CO2 in the atmosphere is the main driver of climate change, there were other factors involved in 2023, including the overall increase in ocean temperatures, which store roughly 90 per cent of our planet's heat.",
+      "reason": "This paragraph provides relevant context about other factors contributing to the record heat in 2023.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We saw record sea surface temperatures for the time of year from April all the way through to December, with sea surface temperatures about half a degree or more warmer than they normally are,\" Burgess said. \"And because the ocean is 70 per cent of the surface of the planet, this has a huge impact on global temperatures.\"",
+      "reason": "This paragraph includes a relevant quote explaining the impact of ocean temperatures on global heat records.",
+      "label": 1
+    },
+    {
+      "paragraph": "Added to that was the presence of an El Niño, a cyclical and natural ocean variability in the Pacific Ocean which can cause a rise in global temperatures. However, the effects of an El Niño are typically felt in the subsequent year, so there is a chance that 2024 will be even warmer than 2023.",
+      "reason": "This paragraph provides relevant information about El Niño's impact on global temperatures and its potential future effects.",
+      "label": 1
+    },
+    {
+      "paragraph": "James Hansen, who is now the director of climate science, awareness and solutions at Columbia University, told CBC News in an email that it's likely Earth's average temperature increase will exceed 1.5 C over the coming 12-month period.",
+      "reason": "This paragraph includes a relevant expert prediction about future temperature increases.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"By late spring, it will be in the range 1.6-1.7 C warmer than in 1880–1920, which is our best estimate for pre-industrial,\" he said.",
+      "reason": "Provides specific data on temperature increase related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "But not everyone is surprised by last year's record warmth.",
+      "reason": "This is a vague generalization and does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The warming is within the range we expect from the combined effect of continued long-term warming plus a boost from a major El Niño event,\" Michael Mann, a climate scientist and professor of earth & environmental science at the University of Pennsylvania, told CBC News in an email.",
+      "reason": "Provides expert commentary on the causes of the record warmth.",
+      "label": 1
+    },
+    {
+      "paragraph": "And, he said, global warming is continuing at a steady rate of roughly 0.28 C per decade, which is what was observed in 2023.",
+      "reason": "Offers specific data on the rate of global warming, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, NASA and NOAA both suggest that the warming has been closer to 0.20 C per decade.",
+      "reason": "Provides additional data from authoritative sources, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Hottest September ever recorded:",
+      "reason": "This is a prompt to watch a video, not a paragraph with information.",
+      "label": 0
+    },
+    {
+      "paragraph": "September broke another global temperature record",
+      "reason": "This provides specific information about a record-breaking event in 2023.",
+      "label": 1
+    },
+    {
+      "paragraph": "2 years ago",
+      "reason": "This is a timestamp, not a paragraph with information.",
+      "label": 0
+    },
+    {
+      "paragraph": "But Hansen, who has continued his research since that 1988 congressional hearing, believes the planet is seeing a rapid shift.",
+      "reason": "This provides context about a scientist's ongoing research and perspective on climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It confirms our conclusion that global warming is accelerating,\" he said of 2023's record heat.",
+      "reason": "This is a direct quote confirming the acceleration of global warming, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said the UN's Intergovernmental Panel on Climate Change (IPCC), the leading international authority on the issue, has been assuming that global emissions are near their peak and will begin to decline, as will global warming.",
+      "reason": "This paragraph provides context on the IPCC's assumptions about global emissions and warming.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hansen rejects that perspective. \"The observed record 2023 global temperature, the certainty that it is going still higher in 2024, and the unprecedented planetary energy imbalance (more energy coming in than going out) assure that their assumption is hogwash, to use a milder agricultural [term] than the one I usually use.\"",
+      "reason": "This paragraph offers a direct quote challenging the IPCC's assumptions, adding depth to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Burgess said she hopes that people take notice of this year's record warmth",
+      "reason": "This paragraph contains a low-information quote without adding substantial content.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The more conversations we have about climate, the more likely we are to see that political action and change,\" she said.",
+      "reason": "This is a vague generalization about climate conversations leading to change.",
+      "label": 0
+    },
+    {
+      "paragraph": "With more warming, we will see more severe climate impacts, she added, including wildfires, droughts, more intense hurricanes and floods.",
+      "reason": "This paragraph provides relevant information on the potential impacts of continued warming.",
+      "label": 1
+    },
+    {
+      "paragraph": "1 year ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Based in Toronto, Nicole covers all things science for CBC News. As an amateur astronomer, Nicole can be found looking up at the night sky appreciating the marvels of our universe. She is the editor of the Journal of the Royal Astronomical Society of Canada and the author of several books. In 2021, she won the Kavli Science Journalism Award from the American Association for the Advancement of Science for a Quirks and Quarks audio special on the history and future of Black people in science. You can send her story ideas at nicole.mortillaro@cbc.ca.",
+      "reason": "This paragraph provides background information about the author and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

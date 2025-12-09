@@ -1,0 +1,54 @@
+{
+  "headline": "It's coming closer to earth ― NASA has no idea what it is, but they have a theory",
+  "context": [
+    "Credits: @NASASolarSystem on X",
+    "The Lucy spacecraft from NASA encountered an unidentified object during its second asteroid investigation, which prompted scientific confusion among experts. Astronomers were surprised because asteroid Donaldjohanson revealed its elongated contact binary form after the spacecraft obtained images from a 600-mile distance."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The asteroid’s unusual shape startled all scientific personnel. The unexpected assembly consists of two nested ice cream cone-like forms united through an abnormally contoured constricted linkage, thus producing an unexpected space structure. The strategic exploration method enables the team to progress through encounters sequentially while developing better operational procedures. Analysts believe this distinct structure indicates multiple ancient collisions between space objects that took place around 150 million years ago.",
+      "reason": "The paragraph provides detailed information about the asteroid's shape and possible historical collisions, which is relevant to understanding the object's nature.",
+      "label": 1
+    },
+    {
+      "paragraph": "The asteroid demonstrated substantial brightness changes during a ten-day observation window, which indicated its particular behavior. The high-definition images displayed an astonishing discovery: a structure extending five miles long with two miles of maximum width. The asteroid surface contains well-defined craters, which reveal a difference in the number of impact marks between its two main lobes.",
+      "reason": "This paragraph offers specific observations about the asteroid's behavior and physical characteristics, contributing to the understanding of the object.",
+      "label": 1
+    },
+    {
+      "paragraph": "The L’LORRI imager of the Lucy spacecraft produced images that surpassed all expectations. The asteroid reveals an intricate geological setup that unveils fascinating components that lead to vital information about the solar system’s creation in the early times. The researchers were shocked when the object was more extensive than expected and extended beyond what the imager could observe.",
+      "reason": "The paragraph discusses the unexpected findings from the spacecraft's imaging, which is relevant to the investigation of the unidentified object.",
+      "label": 1
+    },
+    {
+      "paragraph": "This scientific discovery produces effects that reach beyond basic exploration aims. The main point of this discovery becomes clear through Southwest Research Institute’s lead project investigator, Hal Levison, who explains that analyzing complex structures would uncover essential information on the building and collisional processes that formed planets within our solar system. The gathered information would transform our present knowledge about planet formation.",
+      "reason": "The paragraph provides expert commentary on the significance of the discovery, which is relevant to the article's focus on the unidentified object.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Jupiter Trojan asteroids form Lucy’s main targets, but this encounter produced essential knowledge about space objects throughout the solar system. The L’Ralph color imager infrared spectrometer and L’TES thermal infrared spectrometer onboard the spacecraft will continue conducting scientific analyses on the gathered information during the following weeks.",
+      "reason": "This paragraph provides context on the ongoing analysis and the broader mission, which is relevant to the investigation of the unidentified object.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tom Statler from NASA Headquarters indicates that the discovery created fresh opportunities for understanding the solar system’s historical events. Lucy’s successful image acquisition of Donaldjohanson demonstrates its ability to unveil discoveries as it approaches the Trojan asteroids in 2027.",
+      "reason": "The paragraph provides relevant information about the implications of the discovery and the spacecraft's capabilities.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Donaldjohanson encounter is the critical test flight for this spacecraft’s future space missions. The team executed multiple dense observational sequences during this flyby to maximize the collected data, which revealed the spacecraft’s impressive features. A complete dataset measurement that requires the craft to downlink data over one week will deliver an all-encompassing depiction of the asteroid’s structural framework and substance composition.",
+      "reason": "This paragraph offers relevant details about the mission's objectives and the data collection process.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Lucy mission team needs to grow expertise in spacecraft maneuvering operations because the complex missions will continue through their future trajectory. Lucy will spend an entire year traveling through the main asteroid belt before it meets its primary target, Eurybates, which belongs to the Jupiter Trojan asteroids, in August 2027. The strategic exploration method enables the team to progress through encounters sequentially while developing better operational procedures.",
+      "reason": "The paragraph provides context about the mission's future plans and operational strategies.",
+      "label": 1
+    },
+    {
+      "paragraph": "NASA’s innovative space exploration strategy maintains validity because of the mission’s outstanding performance, which includes obtaining high-resolution images of Donaldjohanson’s distinct organization. Every new discovery from the spacecraft journey helps scientists better understand the core mechanisms that formed our cosmic area.",
+      "reason": "This paragraph offers relevant information about the mission's success and its contribution to scientific understanding.",
+      "label": 1
+    }
+  ]
+}

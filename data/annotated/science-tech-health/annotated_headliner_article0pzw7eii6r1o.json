@@ -1,0 +1,119 @@
+{
+  "headline": "Dire wolves or not, these pups could help counter extinction",
+  "context": [
+    "Romulus, Remus and Khaleesi are the first dire wolves to walk the Earth in more than 10,000 years. Or so claims one biotech company and a host of recent headlines.",
+    "On April 7, Colossal Biosciences announced it had achieved the “world’s first de-extinction” — an ice-age species brought back from the dead. It was referring to those three pups, all born in the last year."
+  ],
+  "annotations": [
+    {
+      "paragraph": "With snowy-white coats and muscular bodies, these pups were instant icons. They looked like they could have walked straight out of the fantasy TV series Game of Thrones.",
+      "reason": "This paragraph is descriptive and does not contribute new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "News reports called their birth “scientifically seismic” and said “the dire wolf is back.” Many biologists, however, aren’t buying it. “That is no more a dire wolf than I am Wonder Woman,” says Jacquelyn Gill. She’s a paleoecologist at the University of Maine in Orono. She’s an expert on ice-age species.",
+      "reason": "This paragraph provides expert commentary and skepticism about the claim, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The issue largely comes down to genetics. Colossal didn’t create those pups from a dire wolf’s genome — an instruction book carrying all of that animal’s genes. Instead, the company worked with the genetic instruction book of a gray wolf. Then it tweaked some gray wolf genes based on ancient DNA recovered from two dire-wolf specimens.",
+      "reason": "This paragraph explains the genetic basis of the claim, which is central to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’ve brought these extinct genes back to life in a living animal. … I’m happy to call that a dire wolf.”",
+      "reason": "This quote provides a perspective supporting the claim, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "“For something to be a dire wolf, it should have the full genetic blueprint of a dire wolf,” Gill argues.",
+      "reason": "This quote offers a counterargument to the claim, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "That thinking “kind of misses the point,” counters Beth Shapiro. She’s chief science officer at Colossal Biosciences in Dallas, Texas. Her company’s goal wasn’t to create a true clone of a dire wolf, she says. Instead, it wanted to bring back some of the animal’s core traits. Like its size, body type and face shape.",
+      "reason": "The paragraph provides direct commentary from a key figure at Colossal Biosciences about the company's goals.",
+      "label": 1
+    },
+    {
+      "paragraph": "With a handful of tweaks, “we’ve brought these extinct genes back to life in a living animal,” Shapiro says. In the end, she says, “I’m happy to call that a dire wolf.”",
+      "reason": "This paragraph includes a quote from Shapiro explaining the genetic achievement and her perspective on the result.",
+      "label": 1
+    },
+    {
+      "paragraph": "“At the moment, I think they’re creating interesting zoo-like novelties,” says Paul Wilson. A wildlife geneticist, he works at Trent University. It’s in Peterborough, Ontario, Canada. Even so, he finds the company’s technology impressive.",
+      "reason": "The paragraph provides an external expert's opinion on the company's work, adding depth to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "One reason: It goes beyond crafting a dire wolf, he says. Some of Colossal’s other research — on a living species, the red wolf — shows the same new tools could potentially aid species at risk of soon going extinct.",
+      "reason": "This paragraph highlights the broader implications of the technology for conservation efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last month, Colossal Biosciences announced its creation of “woolly mice.” Those rodents bore genetic tweaks inspired by woolly mammoths.",
+      "reason": "The paragraph provides additional context on the company's other projects, which is tangential to the main focus.",
+      "label": 0
+    },
+    {
+      "paragraph": "In the 1970s, the U.S. Fish and Wildlife Service concluded these animals were on the brink of extinction. It began catching wild ones for a captive-breeding program.",
+      "reason": "Provides historical context on efforts to prevent extinction, relevant to the topic of countering extinction.",
+      "label": 1
+    },
+    {
+      "paragraph": "Pups born in captivity were later released to the wild. But they struggled to survive. Fewer than 20 roam North America today. All descend from only about a dozen animals. They lack enough genetic diversity to help them withstand environmental stresses, says Matt James. He’s Colossal’s chief animal officer.",
+      "reason": "Offers current status and challenges of the species, directly related to the extinction issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Colossal found some wolves on the Gulf Coast of Texas and Louisiana that seem a genetic match to red wolves. (They’re not officially recognized as such, however.) The genomes of these red “ghost” wolves, as Colossal calls them, carry some red-wolf genes that have been largely lost in wild populations.",
+      "reason": "Discusses genetic findings that could impact the species' survival, relevant to countering extinction.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the lab, Colossal cloned four animals from red-ghost-wolf cells. These pups might one day be released into the wild to increase the genetic diversity of other wolves, James says. Or scientists could edit ancestral variants of red-wolf genes into today’s red wolves. That might help “make them more adaptable to climate change and disease and all the challenges that wild species face,” he says.",
+      "reason": "Describes scientific efforts to enhance genetic diversity, directly related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Conserving species that are critically endangered is fantastic,” says Huson at Cornell. “These animals are already in the ecosystem. And we know their role.” That’s not true, she points out, for animals that have been extinct for thousands of years.",
+      "reason": "Provides expert commentary on conservation efforts, relevant to the article's focus on extinction.",
+      "label": 1
+    },
+    {
+      "paragraph": "genome: The complete set of genes or genetic material in a cell or an organism. The study of this genetic inheritance housed within cells is known as genomics.",
+      "reason": "This paragraph provides a definition unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "host: (in biology and medicine) The organism (or environment) in which some other thing resides. Humans may be a temporary host for food-poisoning germs or other infective agents. (v.) The act of providing a home or environment for something. A website, for instance, could host photos, news or other types of information.",
+      "reason": "This paragraph provides a definition unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "icon: (adj. iconic) Something that represents another thing, often as an ideal version of it.",
+      "reason": "This paragraph provides a definition unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Pleistocene: The earlier epoch of the Quaternary Period. It ranged from 2.6 million to 11,700 years ago. The term can also refer to rocks that from this period. During this time, periods of Ice Ages and interglacial warming occurred. The mammoth was one of the largest land animals from this time.",
+      "reason": "This paragraph provides background information that is not directly related to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "population: (in biology) A group of individuals (belonging to the same species) that lives in a given area.",
+      "reason": "This paragraph provides a definition unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "woolly mammoth: A type of extinct mammal that resembled a hairy elephant.",
+      "reason": "The paragraph provides unrelated background information about woolly mammoths, not dire wolves.",
+      "label": 0
+    },
+    {
+      "paragraph": "Meghan Rosen is a staff writer who reports on the life sciences for Science News. She earned a Ph.D. in biochemistry and molecular biology with an emphasis in biotechnology from the University of California, Davis, and later graduated from the science communication program at UC Santa Cruz.",
+      "reason": "The paragraph provides background information about the author, not related to the dire wolves or extinction topic.",
+      "label": 0
+    }
+  ]
+}

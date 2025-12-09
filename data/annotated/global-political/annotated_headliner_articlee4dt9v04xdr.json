@@ -1,0 +1,59 @@
+{
+  "headline": "2 people plunge to their deaths from scenic point at Utah national park - National | Globalnews.ca",
+  "context": [
+    "Two people have died after a 116-metre fall from a viewing area in southern Utah’s Bryce Canyon National Park.",
+    "Tourists spotted the bodies on Tuesday below Inspiration Point after the two hikers fell late Monday or early Tuesday, according to the Garfield County Sheriff’s Office."
+  ],
+  "annotations": [
+    {
+      "paragraph": "According to the National Park Service’s website, Inspiration Point is an area that “provides a birds-eye view of the world’s largest collection of rock spires called ‘hoodoos’ found within the Bryce Amphitheater.”",
+      "reason": "Provides context about the location where the incident occurred.",
+      "label": 1
+    },
+    {
+      "paragraph": "Police say it is unknown how the man and woman fell but noted that they had crossed over safety railings and that they had their cat with them, who survived the fall.",
+      "reason": "Offers details about the circumstances of the fall and the survival of the cat.",
+      "label": 1
+    },
+    {
+      "paragraph": "Park rangers, search and rescue teams and a helicopter crew helped recover the bodies. The cat “was found in a black soft-sided carrier that was dirty and torn, but seemed to have weathered the fall fairly well,” according to the Best Friends Animal Society.",
+      "reason": "Describes the recovery efforts and condition of the cat, adding to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not contributing to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Officials identified the two people as Matthew Nannen, 45, and Bailee Crane, 58, according to the New York Times.",
+      "reason": "Provides essential information by identifying the victims.",
+      "label": 1
+    },
+    {
+      "paragraph": "The two had been living in a U-Haul truck and their last known address was in Florida, according to the outlet.",
+      "reason": "Provides background information about the victims' living situation and last known address.",
+      "label": 1
+    },
+    {
+      "paragraph": "1:02\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFan in critical condition after falling onto field at Pittsburgh Pirates game",
+      "reason": "Unrelated information about a different incident.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Best Friends Animal Society estimated that the cat is 12 years old. She was found next to Nannen and Crane’s bodies.",
+      "reason": "Provides relevant information about a cat found at the scene, linking it to the victims.",
+      "label": 1
+    },
+    {
+      "paragraph": "For news affecting Toronto and surrounding communities, sign up to receive Toronto news alerts when they break.",
+      "reason": "Unrelated promotional content for news alerts.",
+      "label": 0
+    },
+    {
+      "paragraph": "The cat, who is now named Mirage, was taken to the Pawz Dogs boarding facility on Tuesday but the following day, Best Friends was contacted by the sheriff’s office and transported the cat to its Kanab location, according to CBS affiliate KUTV.",
+      "reason": "Provides follow-up information about the cat found at the scene, relevant to the story.",
+      "label": 1
+    }
+  ]
+}

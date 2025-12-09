@@ -1,0 +1,134 @@
+{
+  "headline": "Scientists brought to tears by huge loss of U.S. butterflies | CBC News",
+  "context": [
+    "Science",
+    "Scientists calculated just how much U.S. butterfly populations have declined in the past 20 years. The results brought some scientists to tears, and have them warning about dire implications for other species – not just in the U.S."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Emily Chung  · CBC News",
+      "reason": "This is an author byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "A fluttering butterfly makes most people smile with delight — a reaction that makes them special among insects.",
+      "reason": "This is a general statement about butterflies and does not contribute new information to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Some people love butterflies so much that, like birders, they look for and count them for fun. In the past two decades, those volunteers, along with researchers, have spotted and counted 12.6 million individual butterflies from 554 species as part of 76,000 surveys at 2,478 different locations across the U.S.",
+      "reason": "This paragraph provides relevant context about the data collection process for the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now, a new study funded by the U.S. Geological Survey has finally compiled all that data — and found some bad news. Populations declined 22 per cent between 2000 and 2020, reports the new study published in the journal Science Thursday.",
+      "reason": "This paragraph presents the main findings of the study, which are central to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I was really upset,\" said Collin Edwards, lead author of the new study. Edwards, who worked on the project during his postdoctoral research in quantitative ecology at the University of Washington in Seattle, added that he wasn't the only one devastated by the results.",
+      "reason": "This paragraph includes a direct quote from the lead author, providing insight into the emotional impact of the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I know coworkers or coauthors who cried when they saw the manuscript with the final numbers.\"",
+      "reason": "This quote directly illustrates the emotional impact of the study's findings on scientists.",
+      "label": 1
+    },
+    {
+      "paragraph": "Michelle Tseng, an ecologist and assistant professor at the University of British Columbia in Vancouver who wasn't involved in the study, had heard preliminary reports of the decline at scientific conferences, but initially couldn't believe the declines could be so big.",
+      "reason": "This provides context on the disbelief and shock among scientists regarding the butterfly decline.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"So to see it in front of me, I was a bit shocked actually…. It's depressing,\" she said after reading the study. \"That's massive.\"",
+      "reason": "This quote conveys the emotional reaction and the perceived magnitude of the decline.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Monarch butterfly count is 2nd lowest on record: researchers",
+      "reason": "This is a prompt to watch a video and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Monarch butterfly count is 2nd lowest on record: researchers",
+      "reason": "This provides specific data about the decline in monarch butterfly populations.",
+      "label": 1
+    },
+    {
+      "paragraph": "1 year ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Many of the more than 30 scientists who collaborated on the study had noticed declines among individual butterfly populations, but no one had compiled all the data until now.",
+      "reason": "This provides context about the study's scope and novelty.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This is really the biggest and most comprehensive study of insects in certainly in the U.S., arguably in North America that we've done,\" said Edwards, now a data scientist at the Washington Department of Fish and Wildlife. \"And, and so I think it really should be a bit of a wake-up call.\"",
+      "reason": "This quote emphasizes the significance of the study and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Erica Henry is a prairie ecologist with the Washington Department of Fish and Wildlife who studies rare butterfly conservation and who co-authored the study. She said that the loss of butterflies is a big deal, not just because they're beautiful and they inspire people, but also because of the role they play in ecosystems.",
+      "reason": "This provides expert commentary on the ecological importance of butterflies.",
+      "label": 1
+    },
+    {
+      "paragraph": "As caterpillars, butterflies transfer nutrients from plants up the food chain, while providing food for animals such as baby birds. As butterflies, they pollinate flowering plants.",
+      "reason": "This explains the ecological role of butterflies, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the potential impacts and implications go beyond that; what's happening to butterflies is likely happening to other insect species crucial to ecosystems, she said. \"It could be a canary in a coal mine situation,\" she said.",
+      "reason": "The paragraph provides context on the broader implications of butterfly decline, suggesting it may indicate similar trends in other species.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Where we're seeing these widespread declines with butterfly species … that's likely happening for other species as well.\"",
+      "reason": "This quote reinforces the idea that butterfly declines may reflect broader ecological issues.",
+      "label": 1
+    },
+    {
+      "paragraph": "Besides the overall butterfly population, the new study also looked at trends for individual species with enough data — about 350 of them. It found 13 times more species were declining than increasing. More than 100 species had lost more than half their population. And there was no obvious pattern to the declines – it seemed unrelated to things like location, the size of the species or the type of plants it relied on.",
+      "reason": "The paragraph provides specific data and findings from the study, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "In this paper, Edwards acknowledged the data they have — counting butterflies — just doesn't tell them why butterfly losses are so huge.",
+      "reason": "This paragraph highlights a limitation of the study, which is relevant to understanding the findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Pesticides, climate change, habitat loss are thought to be drivers of decline for many species.",
+      "reason": "The paragraph lists potential causes for the decline, which is relevant to the article's focus on butterfly population loss.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | N.S. woman inspires others to build national butterfly highway",
+      "reason": "This is a video caption unrelated to the main topic of U.S. butterfly population decline.",
+      "label": 0
+    },
+    {
+      "paragraph": "N.S. woman inspires others to help build national butterfly highway",
+      "reason": "This is unrelated to the main topic of U.S. butterfly population decline.",
+      "label": 0
+    },
+    {
+      "paragraph": "4 years ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Tseng said the new study also shows the importance of people volunteering their time to monitor wildlife through citizen science or community science apps.",
+      "reason": "This provides relevant context about the importance of citizen science in monitoring wildlife, related to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We'd love to encourage anybody out there at all to just, if you see a butterfly, take a quick photo and then put it onto iNaturalist or eButterfly or whatever platform is your favourite.\"",
+      "reason": "This quote encourages public participation in monitoring butterflies, which is relevant to the study's implications.",
+      "label": 1
+    }
+  ]
+}

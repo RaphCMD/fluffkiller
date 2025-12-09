@@ -1,0 +1,29 @@
+{
+  "headline": "Opinion | Once a Chinese frog in a well, I’m now living my travel dreams | South China Morning Post",
+  "context": [
+    "Once again, I find myself in sun-drenched Morocco, a North African country steeped in history and culture. I’ve come to bask in the warmth, balancing my days between writing and wandering – one of the joys of being able to work from anywhere.",
+    "At the moment, I am perched on the roof terrace of a co-living hostel, sipping mint tea. Below, the cheerful voices of Berber children playing football echo through narrow streets, while the adhan, the Islamic call to prayer, floats in the air. In the distance, the sea glitters in the sunshine like so many diamonds."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Why do I travel? I often wonder. Perhaps it stems from growing up poor in a confined world, much like that of a frog in a well. Now that I’ve leapt free, I’m driven by an insatiable desire to explore.",
+      "reason": "This paragraph provides personal background and motivation for the author's travel experiences.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the 1980s, while still greasing machine parts at a rocket factory in Nanjing, I discovered Stories of the Sahara by Taiwanese writer Sanmao. Part memoir, part travelogue, it recounted her life in the desert with her Spanish husband. For an ordinary mainland Chinese like me, travelling abroad then felt as unattainable as climbing the sky.",
+      "reason": "This paragraph gives context about the author's early influences and aspirations related to travel.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yet Sanmao’s vivid tales of exotic cultures and romantic escapades awakened a longing: one day, I would also like to venture to faraway lands and see the world. I had long cherished the Chinese saying that it’s better to travel 10,000 miles than read 10,000 books.",
+      "reason": "This paragraph explains the inspiration and cultural perspective that fueled the author's travel dreams.",
+      "label": 1
+    },
+    {
+      "paragraph": "That dream has come true. I have by now visited more than 100 countries, tasting the golden peaches of Samarkand, hiking into base camp at Mount Everest, watching the Mass Games in North Korea and salsaing in the heart of Cuba.",
+      "reason": "This paragraph provides a summary of the author's travel achievements, directly related to the headline.",
+      "label": 1
+    }
+  ]
+}

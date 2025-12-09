@@ -1,0 +1,119 @@
+{
+  "headline": "Simulating scientists: New tool for AI-powered scientific discovery - Monash University",
+  "context": [
+    "Published in Nature Machine Intelligence, an Australian team led by Monash University researchers has developed a generative AI tool that mimics scientists to support and speed up the process of scientific discoveries.",
+    "Named LLM4SD (Large Language Model 4 Scientific Discovery), the new AI system is an interactive Large Language Model (LLM) tool which can carry out basic steps of scientific research i.e. retrieve useful information from literature and develop hypotheses from data analysis. The tool is freely available and open source."
+  ],
+  "annotations": [
+    {
+      "paragraph": "When asked, the system is also able to provide insights to explain its results, a feature that is not available for many current scientific validation tools.",
+      "reason": "The paragraph provides specific information about a unique feature of the AI tool.",
+      "label": 1
+    },
+    {
+      "paragraph": "LLM4SD was tested with 58 separate research tasks relating to molecular properties across four different scientific domains: physiology, physical chemistry, biophysics and quantum mechanics.",
+      "reason": "The paragraph details the testing process and scope of the AI tool.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lead co-author of the research, PhD candidate Yizhen Zheng, is from the Department of Data Science and AI at Monash University’s Faculty of Information Technology.",
+      "reason": "The paragraph provides background information about a researcher, not directly related to the tool's capabilities.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Just like ChatGPT writes essays or solves math problems, our LLM4SD tool reads decades of scientific literature and analyses lab data to predict how molecules behave—answering questions like, ‘Can this drug cross the brain’s protective barrier?’ or ‘Will this compound dissolve in water?’,” Mr Zheng said.",
+      "reason": "The paragraph provides a comparison and examples of the tool's capabilities.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Apart from outperforming current validation tools that operate like a ’black box’, this system can explain its analysis process, predictions and results using simple rules, which can help scientists trust and act on its insights.”",
+      "reason": "The paragraph highlights the advantages and transparency of the AI tool.",
+      "label": 1
+    },
+    {
+      "paragraph": "The LLM4SD tool outperformed state-of-the-art scientific tools that are currently used to carry out these tasks; for example, it boosted accuracy by up to 48 per cent in predicting quantum properties critical for materials design.",
+      "reason": "Provides specific performance metrics of the new AI tool, demonstrating its effectiveness.",
+      "label": 1
+    },
+    {
+      "paragraph": "The study’s lead co-authors include PhD candidate Huan Yee Koh who is jointly at Monash University’s Department of Data Science and AI and the Monash Institute of Pharmaceutical Sciences, and PhD candidate Jiaxin Ju from the School of Information and Communication Technology at Griffith University.",
+      "reason": "Lists authors without contributing to the understanding of the tool's function or impact.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"Rather than replacing traditional machine learning models, LLM4SD enhances them by synthesizing knowledge and generating interpretable explanations,\" Ms Ju said.",
+      "reason": "Explains how the tool complements existing models, adding context to its application.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This approach ensures that AI-driven predictions remain reliable, and accessible to researchers across different scientific disciplines,\" Mr Koh added.",
+      "reason": "Highlights the reliability and accessibility of the tool, relevant to its utility.",
+      "label": 1
+    },
+    {
+      "paragraph": "Data scientist, AI expert and co-author of the research, Professor Geoff Webb from Monash’s Faculty of Information Technology, said that LLMs can accurately mimic the key scientific discovery skills of synthesising knowledge from the literature and developing hypotheses by interpreting data.",
+      "reason": "Provides expert commentary on the capabilities of LLMs, relevant to the tool's function.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We are already fully immersed in the age of generative AI and we need to start harnessing this as much as possible to advance science, while ensuring we are developing it ethically,” Professor Webb said.",
+      "reason": "The paragraph provides a general statement about the importance of generative AI but does not add specific information about the tool.",
+      "label": 0
+    },
+    {
+      "paragraph": "“This tool has the potential to make the drug discovery process easier, faster and more accurate and become a supercharged research support for scientists in every field all across the world.”",
+      "reason": "The paragraph highlights the potential impact of the tool on scientific research, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Research co-author Professor Shirui Pan is a data mining and machine learning expert and an ARC Future Fellow with the School of Information and Communication Technology at Griffith University.",
+      "reason": "The paragraph provides background information about a co-author, which is not directly relevant to the tool itself.",
+      "label": 0
+    },
+    {
+      "paragraph": "“A model like LLM4SD can rapidly synthesize decades of prior knowledge and then turn around to spot new patterns in the data that might not be widely reported,” Professor Pan said.",
+      "reason": "The paragraph explains a specific capability of the tool, which is directly relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We see this as a key development in speeding up research and development processes and beyond.\"",
+      "reason": "The paragraph provides a general statement about the tool's impact but lacks specific details.",
+      "label": 0
+    },
+    {
+      "paragraph": "The research was a collaboration between AI and drug discovery researchers at Monash University’s Faculty of Information Technology, Monash Institute of Pharmaceutical Sciences and Griffith University.",
+      "reason": "Provides context about the collaboration between institutions involved in the research.",
+      "label": 1
+    },
+    {
+      "paragraph": "The project was supported by an Australian Research Council (ARC) grant, a National Health and Medical Research Council of Australia Ideas grant and an ARC Future Fellowship.",
+      "reason": "Details the funding sources for the research project.",
+      "label": 1
+    },
+    {
+      "paragraph": "Co-authors of the research, PhD candidate Yizhen Zheng and Professor Geoff Webb from Monash’s Department of Data Science and Artificial Intelligence at the Faculty of Information Technology, are available for interviews.",
+      "reason": "Offers information about the availability of researchers for interviews, which is not directly relevant to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "To read the full research paper, please click here.",
+      "reason": "Provides a link to the full research paper, which is not directly relevant to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "MEDIA ENQUIRIES",
+      "reason": "Serves as a contact prompt for media inquiries, not contributing to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Teju Hari Krishna, Monash University",
+      "reason": "This is contact information and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "T: +61 450 501 248 E: media@monash.edu",
+      "reason": "This is contact information and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

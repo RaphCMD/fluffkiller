@@ -1,0 +1,49 @@
+{
+  "headline": "King Charles released from hospital after experiencing side effects from cancer treatment",
+  "context": [
+    "King Charles III experienced unspecified side effects of his cancer treatment and was briefly in the hospital on Thursday, Buckingham Palace said.",
+    "\"Following scheduled and ongoing medical treatment for cancer this morning, The King experienced temporary side effects that required a short period of observation in hospital,\" Buckingham Palace said in a statement."
+  ],
+  "annotations": [
+    {
+      "paragraph": "No details were provided on the length of the observation period nor what the king's side effects entailed. He has since returned to Clarence House, one of the royal residences in London.",
+      "reason": "This paragraph provides relevant information about the king's current status and location after the hospital visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "The monarch's engagements for Friday have been postponed as a result. Charles was scheduled to have four events in Birmingham that he is \"greatly disappointed\" to have to miss, according to the palace.",
+      "reason": "This paragraph is relevant as it discusses the impact of the king's health on his scheduled engagements.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"He very much hopes that they can rescheduled in due course and offers his deepest apologies to all those who had worked so hard to make the planned visit possible,\" the palace said.",
+      "reason": "This paragraph provides a direct quote from the palace regarding the king's sentiments about missing engagements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Buckingham Palace revealed that Charles had been diagnosed with cancer in February 2024, but information on the British royal's condition has been sparse. The announcement came weeks ahead of news that Princess Kate was undergoing \"preventative chemotherapy.\"",
+      "reason": "This paragraph provides relevant background information about the king's cancer diagnosis.",
+      "label": 1
+    },
+    {
+      "paragraph": "The palace has not publicized what type of cancer either royal was diagnosed with nor the stage of the disease. Kate announced her cancer was in remission earlier this year.",
+      "reason": "This paragraph provides context about the lack of details on the royals' cancer types and stages.",
+      "label": 1
+    },
+    {
+      "paragraph": "A source told NBC News in December that Charles' treatment is \"moving in a positive direction.\" The source said there's been progress in his condition but that treatment would continue into 2025 as the cancer is in a “managed condition.\"",
+      "reason": "This paragraph provides relevant information about the progress and future expectations of King Charles' cancer treatment.",
+      "label": 1
+    },
+    {
+      "paragraph": "Charles became king on Sept. 8, 2022, following the death of his mother, Queen Elizabeth II. She was the longest serving monarch in the United Kingdom's history and, subsequently, Charles was the longest-serving heir to the throne before becoming the sovereign.",
+      "reason": "This paragraph provides historical context about King Charles' ascension to the throne, which is not directly related to the headline about his hospital release.",
+      "label": 0
+    },
+    {
+      "paragraph": "Doha Madani is a senior breaking news reporter for NBC News. Pronouns: she/her.",
+      "reason": "This paragraph is an author bio and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

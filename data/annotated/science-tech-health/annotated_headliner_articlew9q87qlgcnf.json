@@ -1,0 +1,34 @@
+{
+  "headline": "Ancient 3-Million-Year-Old Tools Discovered—Not Crafted by Our Ancestors! - Faharas News",
+  "context": [
+    "Archaeologists in Kenya discovered stone tools up to 3 million years old, challenging previous beliefs about tool use by early hominins like Paranthropus.",
+    "dailygalaxy.com"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Archaeologists in southwestern Kenya have made a groundbreaking discovery of stone tools estimated to be up to 3 million years old. This find, reported on 2025-05-02 16:00:00, may represent the oldest known examples of Oldowan technology, previously thought to be exclusive to certain hominins.",
+      "reason": "Provides new facts about the discovery and its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "6\n                Key Takeaways",
+      "reason": "This is a section header and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Unearthed at the Nyayanga site near Lake Victoria, over 300 tools made from quartz and rhyolite were found alongside fossils of Paranthropus, a distant relative of modern humans. This significant discovery challenges long-held beliefs about tool use among early hominins.",
+      "reason": "Gives specific details about the location and materials of the tools, and their implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "This remarkable find raises important questions about the capabilities of early hominins. Did they possess the skills to process large animals? The evidence suggests they did, challenging previous assumptions.",
+      "reason": "Discusses the implications of the discovery on our understanding of early hominins.",
+      "label": 1
+    },
+    {
+      "paragraph": "As research continues, we may uncover even more about the lives of our ancient ancestors and their technological advancements.",
+      "reason": "Speculative and does not provide new information.",
+      "label": 0
+    }
+  ]
+}

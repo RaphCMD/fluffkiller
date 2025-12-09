@@ -1,0 +1,29 @@
+{
+  "headline": "EU views break from US as ‘unrealistic’ amid global tech race – POLITICO",
+  "context": [
+    "Obama formally removed around 3 million noncitizens from the United States while president.",
+    "Apr 27\t\t\n\t\n\t\n\t\n\n\t2 mins read"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Sunday’s assault came after Trump cast fresh doubt on Putin’s willingness to end the war.",
+      "reason": "This paragraph is unrelated to the EU's stance on breaking from the US in the tech race.",
+      "label": 0
+    },
+    {
+      "paragraph": "Both canals are are essential for global trade and military operations.",
+      "reason": "This paragraph does not relate to the EU's position on the tech race with the US.",
+      "label": 0
+    },
+    {
+      "paragraph": "Front-runner Marine Le Pen may be banned from running in 2027 after being found guilty of embezzlement.",
+      "reason": "This paragraph is unrelated to the EU's stance on breaking from the US in the tech race.",
+      "label": 0
+    },
+    {
+      "paragraph": "Apr 27\t\t\n\t\n\t\n\t\n\n\t2 mins read",
+      "reason": "This is a timestamp and reading time indicator, not contributing to the article's core story.",
+      "label": 0
+    }
+  ]
+}

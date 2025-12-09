@@ -1,0 +1,59 @@
+{
+  "headline": "TransLink to boost service on key routes as multi-year funding package approved - BC | Globalnews.ca",
+  "context": [
+    "Metro Vancouver’s transit system is poised for a slew of bus service improvements and expansions following the approval of a new multi-year budget package.",
+    "The TransLink Mayor’s Council and TransLink Board of Directors approved the 2025 Investment Plan on Wednesday, a suite of new funding measures that will stave off looming service cuts while funding new routes and buses to address overcrowding in numerous areas."
+  ],
+  "annotations": [
+    {
+      "paragraph": "2:15\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTransLink plans to expand South of Fraser bus routes",
+      "reason": "This is an image caption and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "TransLink says the plan will pay for service boosts on more than 50 overcrowded routes, improving or implementing 40 new routes, including to 14 with poor or no transit service and an extension of the North Shore’s R2 Rapidbus to Metrotown by 2027.",
+      "reason": "Provides specific details about the service improvements and expansions planned.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating continuation and does not provide information.",
+      "label": 0
+    },
+    {
+      "paragraph": "It will also pay for the design phase for three Bus Rapid Transit (BRT) corridors, planned for North Shore-Metrotown, Surrey Centre-White Rock and Langley Centre-Haney Place.",
+      "reason": "Details the specific BRT corridors that will be funded, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "TransLink is pitching BRT as a near-term rapid transit option that can be rolled out more quickly and affordably than SkyTrain or light rail, using higher-capacity buses with traffic signal priority, rail-like stations and off-board fare collection.",
+      "reason": "Explains the benefits and features of the BRT system, adding context to the transit improvements.",
+      "label": 1
+    },
+    {
+      "paragraph": "1:51\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRally supporting more funding for TransLink",
+      "reason": "This is an image caption and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The 2025 Investment Plan includes a one-time provincial cash infusion of $312 million.",
+      "reason": "This paragraph provides specific details about the funding included in the plan.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get the day's top stories from Toronto and surrounding communities, delivered to your inbox once a day.",
+      "reason": "This is a promotional line unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "That funding was contingent on board approvals of a five per cent fare increase in July 2026, followed by two per cent annual increases, a $1.50 increase in the Vancouver airport surcharge, a 0.5 per cent 2025 property tax hike (estimated at about $20 per household) and a five per cent increase in off-street parking taxes.",
+      "reason": "This paragraph provides detailed conditions tied to the funding, relevant to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating continuation and does not provide new information.",
+      "label": 0
+    }
+  ]
+}

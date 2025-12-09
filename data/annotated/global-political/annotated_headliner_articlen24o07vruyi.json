@@ -1,0 +1,39 @@
+{
+  "headline": "New Glarus Brewing Company wins big at World Beer Cup | News | wkow.com",
+  "context": [
+    "NEW GLARUS, Wis. (WKOW) — Thursday night the New Glarus Brewing Company took home three medals at the International World Beer Cup.",
+    "In the Belgian fruit beer category, Brewmaster Dan Carey struck both gold and silver for his spontaneously fermented Belgian-style fruit beer Kriek (Gold) and Champ Du Blanc (Silver)."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Champ Du Blanc took home silver in the same category.",
+      "reason": "This paragraph is redundant as it repeats information already provided in the context.",
+      "label": 0
+    },
+    {
+      "paragraph": "In the category of Other Strong Beer, New Glarus’ Imperial Pilsner took home the Bronze, making for a complete set of medals for New Glarus. Imperial Pilsner is currently available statewide in Wisconsin and is part of the Brewery’s Thumbprint series of beers.",
+      "reason": "This paragraph provides new information about another medal won by New Glarus and details about the beer.",
+      "label": 1
+    },
+    {
+      "paragraph": "___",
+      "reason": "This is a formatting element and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The World Beer Cup is an international competition amongst breweries and this year there were 349 awards from 8,375 entries coming from 1,761 breweries worldwide.",
+      "reason": "This paragraph provides context about the scale and scope of the World Beer Cup.",
+      "label": 1
+    },
+    {
+      "paragraph": "New Glarus Brewing Company was also recently ranked as the 12th largest craft brewery in America by the Brewers Association despite only being sold in their home state of Wisconsin.",
+      "reason": "This paragraph provides relevant context about the brewery's size and distribution.",
+      "label": 1
+    },
+    {
+      "paragraph": "Employee-owned, New Glarus Brewing Company is located in Green County, Wisconsin, and has been crafting world-class brews for their friends in Wisconsin since 1993.",
+      "reason": "This paragraph provides background information about the brewery's location and history, which is not directly related to the specific event of winning at the World Beer Cup.",
+      "label": 0
+    }
+  ]
+}

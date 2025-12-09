@@ -1,0 +1,179 @@
+{
+  "headline": "Grocery stocks are flying. How long can the rally last? - The Globe and Mail",
+  "context": [
+    "Loblaw and Metro’s share prices have been rising much faster than their profits, leading to puzzling price-to-earnings ratios for stocks that tend to be prized for their reasonable valuations. People shop inside a Metro grocery store in Toronto, on July 18, 2023.Cole Burston/The Canadian Press",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Canada’s largest grocery chains are performing the way you’d expect of mature businesses in the steady consumer staples sector: Their quarterly sales and profits are edging upward, and their retail footprints are expanding slowly.",
+      "reason": "Provides context on the performance of grocery chains, relevant to the stock rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "If that sounds dull, their share prices are anything but: Loblaw Companies Ltd.",
+      "reason": "Introduces the contrast between business performance and share price movement, relevant to the stock rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "L-T\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t+0.52%increase",
+      "reason": "Provides specific data on Loblaw's stock price increase, relevant to the rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "MRU-T\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t-0.07%decrease",
+      "reason": "Provides specific data on Metro's stock price change, relevant to the rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "So far in 2025, both stocks have rallied about 19 per cent, on average, outperforming the S&P/TSX Composite Index by 18 percentage points.",
+      "reason": "Gives a summary of the stock performance compared to the index, relevant to the rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "Over the past year, the two stocks have gained 51 per cent, including dividends, or nearly 34 percentage points more than the broad index.",
+      "reason": "Provides specific data on the stock performance of Loblaw and Metro, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Anyone who avoided the Magnificent Seven tech giants over either of these periods and instead dove headfirst into the food aisle is now laughing at their good fortune.",
+      "reason": "This is a generalization and does not provide new information relevant to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "The problem: Loblaw and Metro’s share prices have been rising much faster than their profits, leading to puzzling price-to-earnings ratios for stocks that tend to be prized for their reasonable valuations.",
+      "reason": "Explains the core issue of the rising stock prices relative to profits, directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Loblaw now trades at 33.2-times reported earnings, up from 22.4 last year, according to Bloomberg. Metro trades at 23.9-times reported earnings, up from 16.5 last year.",
+      "reason": "Provides specific data on the price-to-earnings ratios, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some of this is understandable: In an era of erratic U.S. tariff policies and economic uncertainty, domestic grocers – which also operate pharmacies – look like a safe bet.",
+      "reason": "Offers context on why grocery stocks might be appealing, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the first quarter, the U.S. economy contracted by 0.3 per cent, at an annualized pace. Companies as diverse as General Motors Co.",
+      "reason": "This paragraph provides general economic data unrelated to grocery stocks.",
+      "label": 0
+    },
+    {
+      "paragraph": "GM-N\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t+0.55%increase",
+      "reason": "This is a stock ticker update for General Motors, unrelated to grocery stocks.",
+      "label": 0
+    },
+    {
+      "paragraph": "JBLU-Q\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t+8.68%increase",
+      "reason": "This is a stock ticker update for JetBlue, unrelated to grocery stocks.",
+      "label": 0
+    },
+    {
+      "paragraph": "UPS-N\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t+1.90%increase",
+      "reason": "This is a stock ticker update for UPS, unrelated to grocery stocks.",
+      "label": 0
+    },
+    {
+      "paragraph": "PG-N\n\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t+0.34%increase",
+      "reason": "This is a stock ticker update for Procter & Gamble, unrelated to grocery stocks.",
+      "label": 0
+    },
+    {
+      "paragraph": "Some companies have even withdrawn financial guidance for this year, leaving investors and analysts guessing the outlook for profits and valuations.",
+      "reason": "This provides context on the uncertainty in financial guidance affecting investor decisions.",
+      "label": 1
+    },
+    {
+      "paragraph": "But at large grocers, where essentials are sold under a number of different banners that can appeal to a range of budgets, the future appears far clearer.",
+      "reason": "This contrasts the uncertainty with a more stable outlook for large grocers, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“As we enter quarter two, we remain very confident in our 2025 outlook,” Per Bank, chief executive at Loblaw, said during a call with analysts this week.",
+      "reason": "This quote from Loblaw's CEO provides direct commentary on the company's future outlook.",
+      "label": 1
+    },
+    {
+      "paragraph": "This outlook includes generating earnings growth in the high single digits, repurchasing shares and investing $2.2-billion in stores and distribution centres.",
+      "reason": "Details specific plans and financial strategies relevant to the company's future performance.",
+      "label": 1
+    },
+    {
+      "paragraph": "If the future looks bright, the recent past looks pretty good as well.",
+      "reason": "This is a vague generalization without specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Loblaw reported that its revenue increased 4.1 per cent in the first quarter, ended March 22, compared with the same period last year. Net earnings rose 9.6 per cent, suggesting that grocers were largely impervious to last year’s protests over food price inflation.",
+      "reason": "Provides specific financial results and context about Loblaw's performance, relevant to the stock rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "Two weeks ago, Metro also reported upbeat quarterly results that reinforce the predictable nature of the grocery business. Sales increased 5.5 per cent and adjusted earnings rose 12.1 per cent.",
+      "reason": "Offers specific financial results for Metro, contributing to the understanding of the grocery stock rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "The mention of tariffs came with a positive spin: “In this uncertain economic environment, customers are favouring local and Canadian products,” Eric La Flèche, Metro’s chief executive officer, said during a call with analysts.",
+      "reason": "Provides a relevant quote from Metro's CEO about consumer behavior impacting the grocery market.",
+      "label": 1
+    },
+    {
+      "paragraph": "He’s referring to products such as locally grown apples and potatoes. But the comment could also apply to stocks, as investors retreat from U.S. assets in search of more attractive markets elsewhere.",
+      "reason": "Connects consumer behavior to investor behavior, relevant to the stock market context.",
+      "label": 1
+    },
+    {
+      "paragraph": "And if economic clouds move in as tariffs bite and consumer confidence tanks, businesses that offer the essentials will stand out as solid plays.",
+      "reason": "Provides speculative context about the future of grocery stocks in an economic downturn.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The market’s more recent thirst for defensiveness is a clear tailwind,” Mark Petrie, an analyst at CIBC Capital Markets, said in a research note on Loblaw this week.",
+      "reason": "This paragraph provides a relevant quote from an analyst about the market conditions affecting grocery stocks.",
+      "label": 1
+    },
+    {
+      "paragraph": "But with the share prices of grocers soaring to stratospheric heights, the way forward for investors could be challenging if attention turns toward stretched valuations.",
+      "reason": "This paragraph discusses potential challenges for investors, directly relating to the headline's focus on the sustainability of the rally.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even using upbeat estimated earnings for 2025 and 2026, Loblaw’s price-to-earnings ratio is in “uncharted territory,” according to John Zamparo, an analyst at Bank of Nova Scotia.",
+      "reason": "This paragraph provides specific financial analysis relevant to the discussion of grocery stock valuations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Grocers haven’t entered some sort of golden era. Canada’s population growth, which had been rising in recent years to levels unseen since the 1950s, is now slowing as Ottawa clamps down on immigration levels.",
+      "reason": "This paragraph provides context about population growth affecting grocery demand, relevant to the stock performance discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "As well, grocers may have to navigate a rough economy, which is already pushing consumers to explore cheaper brands and discount grocery banners, where margins can be slimmer.",
+      "reason": "This paragraph discusses economic challenges that could impact grocery stocks, relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "And lastly, the rush into defensive stocks – which includes utilities – won’t last forever. If investors look for better value among beaten-up economically sensitive names, interest in grocery stocks could subside.",
+      "reason": "This paragraph provides analysis on the potential future of grocery stocks, directly relating to the headline's question.",
+      "label": 1
+    },
+    {
+      "paragraph": "Loblaw and Metro are among Canada’s top-performing stocks this year. Grocery demand might be a sure thing, but sky-high valuations are not.",
+      "reason": "This paragraph provides specific information about the performance of grocery stocks, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "What is green investing and can it save the planet? A 5-part newsletter course for the climate-conscious investor",
+      "reason": "This paragraph is an unrelated promotional content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This paragraph is a promotional call to action unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

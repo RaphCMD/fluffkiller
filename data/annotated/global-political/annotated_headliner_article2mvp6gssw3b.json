@@ -1,0 +1,134 @@
+{
+  "headline": "Prince Harry 'gutted' to lose U.K. security decision, confirms no communication with King Charles | CBC News",
+  "context": [
+    "World",
+    "Prince Harry told the BBC it was \"impossible for me to take my family back to the U.K. safely\" after he lost his legal challenge to the British government on Friday changing his security arrangements after he stepped down from royal duties."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Prince Harry told the BBC it was \"impossible for me to take my family back to the U.K. safely\" after he lost his legal challenge to the British government on Friday changing his security arrangements after he stepped down from royal duties.",
+      "reason": "This paragraph provides essential context about Prince Harry's reaction to losing his legal challenge regarding security arrangements.",
+      "label": 1
+    },
+    {
+      "paragraph": "King Charles's younger son, the Duke of Sussex unsuccessfully sought to overturn a decision by the Home Office — the ministry responsible for policing — which decided in 2020 he would not automatically receive the highest level of personal police protection in Britain.",
+      "reason": "This paragraph provides relevant background on the legal decision and its implications for Prince Harry's security.",
+      "label": 1
+    },
+    {
+      "paragraph": "The prince told the BBC in an interview conducted in the U.S. that he was \"pretty gutted about the decision.\"",
+      "reason": "This paragraph includes a direct quote from Prince Harry expressing his feelings about the decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We thought it was going to go our way, but it certainly has proven that there was no way to win this through the courts,\" said Harry.",
+      "reason": "This paragraph provides a direct quote from Prince Harry about his expectations and the outcome of the legal challenge.",
+      "label": 1
+    },
+    {
+      "paragraph": "The decision was originally made under a Conservative government. Harry said there was nothing legally preventing the Labour government of Prime Minister Keir Starmer from stepping in to review the decision.",
+      "reason": "This paragraph offers relevant political context regarding the decision and potential for review.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I would ask the prime minister to step in. I would ask Yvette Cooper, the home secretary, to look at this very, very carefully,\" he told the BBC.",
+      "reason": "This paragraph provides Harry's direct appeal to government officials regarding his security concerns.",
+      "label": 1
+    },
+    {
+      "paragraph": "Harry said he still hoped for a reconciliation with members of his family, but he said his father \"won't speak to me because of this security stuff,\" and that he was unaware of the status of the King's recovery from a cancer diagnosis.",
+      "reason": "This paragraph offers insight into Harry's personal relationships and the impact of the security issue on his family communication.",
+      "label": 1
+    },
+    {
+      "paragraph": "Harry, 40, told the BBC that whether he is fulfilling royal duties or not, he is still a member of a high-profile family and his security requirements are not that of a typical private citizen. He pointed out that prime ministers and other high-profile officials, rightly, in his view, receive the highest level of security protection long after their years of public service.",
+      "reason": "This paragraph provides Harry's argument about his security needs compared to other high-profile individuals.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"My status hasn't changed — it can't change,\" he said. \"I am who I am, I am part of what I am part of, I can't escape that.\"",
+      "reason": "This paragraph emphasizes Harry's view on his unchangeable status and identity.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH l Harry wins tabloid battle, but not without compromise:",
+      "reason": "This is a prompt for a video and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prince Harry settles U.K. tabloid lawsuit for ‘substantial’ damages, apology",
+      "reason": "This paragraph is unrelated to the security decision and focuses on a separate legal matter.",
+      "label": 0
+    },
+    {
+      "paragraph": "3 months ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Harry and his American wife Meghan Markle married at Windsor Castle in May 2018. Within two years the couple quit royal duties, and after a temporary stay in British Columbia, they moved to California, citing what they saw as the media's racist treatment of Meghan and a lack of support from the palace.",
+      "reason": "This paragraph provides background information on Harry and Meghan's departure from royal duties, which is relevant to the security decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "The couple now have two children.",
+      "reason": "This paragraph provides personal information that is not directly related to the security decision.",
+      "label": 0
+    },
+    {
+      "paragraph": "The couple detailed the evolution of the breach in a high-profile interview with Oprah Winfrey and a six-part Netflix documentary. Harry then wrote a memoir, Spare, in which he alleged his older brother William assaulted him in a 2019 incident and called Meghan \"difficult,\" \"rude\" and \"abrasive.\"",
+      "reason": "This paragraph provides context on the couple's public disclosures, which is indirectly related to the security decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last year, the High Court in London ruled the decision was lawful and that decision was upheld by three senior Court of Appeal judges.",
+      "reason": "This provides relevant information about the legal ruling related to Prince Harry's security arrangements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Judge Geoffrey Vos said Harry's lawyer had made \"powerful and moving arguments\" about the impact of the decision about his security.",
+      "reason": "This offers direct commentary on the legal arguments presented in the case.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It was plain that the Duke of Sussex felt badly treated by the system, but I conclude — having studied the detail of the extensive documentation — I could not say that the Duke's sense of grievance translated into a legal argument for the challenge to [the original] decision,\" he told the court.",
+      "reason": "This provides a direct quote from the judge explaining the legal reasoning behind the decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "Harry attended two days of hearings in person in April, when his lawyer told the court that he had been singled out for different, unjustified and inferior treatment.",
+      "reason": "This details Prince Harry's personal involvement and the arguments made in court.",
+      "label": 1
+    },
+    {
+      "paragraph": "His lawyers said al-Qaeda had recently called for him to be murdered and that he and his wife had been involved in \"a dangerous car pursuit with paparazzi in New York City\" in 2023.",
+      "reason": "This provides context on the security threats faced by Prince Harry, relevant to the security decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"One must not forget the human dimension to this case: there is a person sitting behind me whose safety, whose security and whose life is at stake,\" his lawyer Shaheed Fatima told the court as Harry watched on.",
+      "reason": "This paragraph provides a direct quote from Prince Harry's lawyer, emphasizing the personal impact of the security decision.",
+      "label": 1
+    },
+    {
+      "paragraph": "With respect to King Charles, Buckingham Place said Friday that he and his wife Queen Camilla will visit Canada from May 26 to May 27.",
+      "reason": "This paragraph is unrelated to the main story about Prince Harry's security decision.",
+      "label": 0
+    },
+    {
+      "paragraph": "The monarch's attendance comes after his recent acknowledgement that he is also the King of Canada, a country that U.S. President Donald Trump has made clear he has designs on.",
+      "reason": "This paragraph is unrelated to the main story about Prince Harry's security decision.",
+      "label": 0
+    },
+    {
+      "paragraph": "The visit to Canada would be Charles's second overseas trip this year, after his visit to Italy where he held a private meeting with Pope Francis shortly before the pontiff's death.",
+      "reason": "This paragraph is unrelated to the main story about Prince Harry's security decision.",
+      "label": 0
+    },
+    {
+      "paragraph": "With files from CBC News",
+      "reason": "This is a standard attribution line and does not contribute to the main story.",
+      "label": 0
+    }
+  ]
+}

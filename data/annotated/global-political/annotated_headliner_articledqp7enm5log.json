@@ -1,0 +1,94 @@
+{
+  "headline": "World breaks hottest day record twice in a week",
+  "context": [
+    "The record for the world's hottest day has tumbled twice in one week, according to the European climate change service.",
+    "On Monday the global average surface air temperature reached 17.15C, breaking the record of 17.09C set on Sunday."
+  ],
+  "annotations": [
+    {
+      "paragraph": "It beats the record set in July 2023, and it could break again this week.",
+      "reason": "Provides context on the frequency of record-breaking temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "Parts of the world are experiencing powerful heatwaves including the Mediterranean, Russia and Canada.",
+      "reason": "Gives specific examples of regions affected by heatwaves.",
+      "label": 1
+    },
+    {
+      "paragraph": "Climate change is driving up global temperatures as greenhouse gas emissions released when humans burn fossil fuels warm the Earth's atmosphere.",
+      "reason": "Explains the underlying cause of rising global temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"While fluctuations are to be expected, as the climate continues to warm, we are likely to keep seeing records being broken, and each new record is taking us further into uncharted territory,\" says Prof Rebecca Emerton, a climate scientist at the Copernicus Climate Change Service.",
+      "reason": "Provides expert commentary on the implications of the record-breaking temperatures.",
+      "label": 1
+    },
+    {
+      "paragraph": "The naturally-occurring climate phenomenon El Niño also added heat to the climate in the first six months of this year but its effects have now waned.",
+      "reason": "Offers additional context on factors contributing to temperature changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Extreme heat is a serious health hazard, with thousands of deaths attributed to high temperatures every year.",
+      "reason": "This paragraph provides general information about the dangers of extreme heat but does not directly relate to the record-breaking temperatures.",
+      "label": 0
+    },
+    {
+      "paragraph": "In 2000-2019, almost half a million heat-related deaths around the world occurred each year, according to the World Health Organization.",
+      "reason": "This paragraph provides statistical context about heat-related deaths but does not directly relate to the record-breaking temperatures.",
+      "label": 0
+    },
+    {
+      "paragraph": "China has issued heat alerts this week, with central and northwestern areas of the country recording temperatures higher than 40C.",
+      "reason": "This paragraph provides relevant information about current heat alerts in China, which is related to the global heat records.",
+      "label": 1
+    },
+    {
+      "paragraph": "Russia has been battling wildfires in Siberia, and Spain and Greece also endured days of high temperatures.",
+      "reason": "This paragraph provides relevant information about high temperatures and their effects in various countries, related to the global heat records.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the US, more than 40 million people on Tuesday faced dangerous temperatures, and wildfires have broken out in western areas of the country.",
+      "reason": "This paragraph provides relevant information about the impact of high temperatures in the US, related to the global heat records.",
+      "label": 1
+    },
+    {
+      "paragraph": "The global average temperature usually peaks in July or August during summer in the northern hemisphere.",
+      "reason": "Provides context about typical temperature patterns relevant to the record-breaking event.",
+      "label": 1
+    },
+    {
+      "paragraph": "The northern hemisphere has large land masses - like the US or Russia - that warm up faster than the oceans that dominate the southern hemisphere.",
+      "reason": "Explains why the northern hemisphere contributes to higher global temperatures, relevant to the record.",
+      "label": 1
+    },
+    {
+      "paragraph": "The recent sudden rise in temperatures is also down to significantly-above-average temperatures over large parts of Antarctica, according to Prof Emerton.",
+      "reason": "Provides a specific reason for the temperature rise, directly related to the record-breaking event.",
+      "label": 1
+    },
+    {
+      "paragraph": "Large swings in temperature are not unusual in Antarctica at this time of year - they also contributed to record temperatures in 2023.",
+      "reason": "Offers context about temperature variability in Antarctica, relevant to the current record.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sea ice in the region is almost as low as this time last year, which also leads to above-average sea temperatures in the Southern Ocean.",
+      "reason": "Explains a contributing factor to the temperature rise, relevant to the record-breaking event.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The hottest day record has been broken once again because the world continues to burn huge amounts of oil, gas, and coal,\" says Friederike Otto, Senior Lecturer in Climate Science at Grantham Institute at Imperial College London.",
+      "reason": "Provides expert commentary linking the record to fossil fuel consumption.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Every broken record is a warning that our climate is heating to dangerous levels. These warnings are becoming much more frequent; however, we have all the tools, technology and knowledge to stop things from getting worse – replace fossil fuels with renewable energy and get emissions down to net zero as quickly as possible,\" she added.",
+      "reason": "Offers general commentary on climate change and solutions, not directly related to the specific record-breaking event.",
+      "label": 0
+    }
+  ]
+}

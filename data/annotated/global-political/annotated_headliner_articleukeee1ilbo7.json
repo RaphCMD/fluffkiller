@@ -1,0 +1,79 @@
+{
+  "headline": "Ray Dalio Warns Global Order on Brink Amid Trump Tariff Impacts - Business Insider",
+  "context": [
+    "2025-04-29T13:22:45Z",
+    "Billionaire investor Ray Dalio is once again sounding the alarm: the international order is on the verge of breaking point, and President Donald Trump's aggressive use of tariffs is accelerating the unravelling of global trade and capital flows, according to the billionaire investor."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In a sweeping statement on Monday posted to X, the founder of Bridgewater, the world's largest hedge fund, issued a warning to those who think the impact of US tariffs can be mitigated.",
+      "reason": "The paragraph introduces Dalio's warning about the impact of US tariffs, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I am now hearing from a large and growing number of people who are having to deal with these issues that it is already too late,\" Dalio, who has made similarly bombastic assertions before, wrote.",
+      "reason": "This paragraph provides a direct quote from Dalio, emphasizing the urgency of his warning.",
+      "label": 1
+    },
+    {
+      "paragraph": "In early April, Trump announced a series of steep tariffs on dozens of countries, including longtime allies, but then paused the highest duties for 90 days, keeping a 10% baseline rate in place for most countries, except the 145% tariffs on most imports from China.",
+      "reason": "This paragraph provides context on Trump's tariff actions, which are relevant to Dalio's warning.",
+      "label": 1
+    },
+    {
+      "paragraph": "US Treasury Secretary Scott Bessent defended Trump's trade policies in an ABC News interview last Sunday, calling his back-and-forth tariff strategy a way to create \"strategic uncertainty\" and gain \"leverage\" in trade negotiations with world leaders.",
+      "reason": "This paragraph offers a counterpoint to Dalio's view, providing balance to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "But for Dalio, the impact is destabilizing rather than strategic.",
+      "reason": "This paragraph contrasts Dalio's perspective with the previous paragraph, reinforcing the article's main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Many exporters to the United States and importers from other countries that trade with the US are saying they have to greatly reduce their dealings with the United States, recognizing that whatever happens with tariffs, these problems won't go away,\" Dalio said.",
+      "reason": "This paragraph provides a direct quote from Dalio about the impact of tariffs on global trade, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dalio suggested this could cause a readjustment of global markets around the US, as they find trading alternatives.",
+      "reason": "This paragraph discusses potential consequences of the tariffs, directly relating to the headline's focus on global order.",
+      "label": 1
+    },
+    {
+      "paragraph": "He also returned to his long-term criticism of US's debt-fuelled consumption model and questioned its sustainability. \"Assuming that one can sell and lend to the U.S. and get paid back with hard (i.e. not devalued) dollars on their U.S. debt holdings is naive thinking,\" he wrote.",
+      "reason": "This paragraph provides Dalio's critical perspective on US economic practices, which is relevant to the broader context of global order and trade.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dalio warned, \"We are on the brink of the monetary order, the domestic political and the international world orders breaking down due to unsustainable, bad fundamentals that can be easily seen and measured.\"",
+      "reason": "This paragraph contains a direct warning from Dalio about the breakdown of global orders, directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "He couched this statement saying today's trajectory is the \"contemporary version\" of historical events that have led to major power shifts in the past. The argument aligns with his past theses on the historical cycles of world order, and supposedly that of his new book — which he references in the post on X.",
+      "reason": "This paragraph provides context on Dalio's historical perspective, which supports the main premise of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a LinkedIn post on Thursday, Dalio said he dreamed of US-China trade negotiations leading to a \"beautiful rebalancing\" — an idea he reiterated in his statement on X.",
+      "reason": "This paragraph provides direct commentary from Ray Dalio on his vision for US-China trade negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "He wrote that investors and policy makers should turn away from reactive positions on daily market changes, and instead focus on planning for \"big fundamental changes\" to forge a better future.",
+      "reason": "This paragraph offers Dalio's advice to investors and policy makers, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bridgewater Associates' three co-chief investors issued a similarly dramatic caution in their latest letter to clients which they included an excerpt of in their company newsletter late last week.",
+      "reason": "This paragraph provides additional context on similar warnings from Dalio's firm, supporting the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "They warned a \"new macroeconomic and geopolitical paradigm\" was roiling markets and potentially reshaping the global economic status-quo.",
+      "reason": "This paragraph contains a direct warning from Bridgewater Associates, relevant to the article's focus on global economic changes.",
+      "label": 1
+    }
+  ]
+}

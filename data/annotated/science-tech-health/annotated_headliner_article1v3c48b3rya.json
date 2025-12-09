@@ -1,0 +1,99 @@
+{
+  "headline": "New planet that could support human life discovered 'close' to Earth by UK scientists | Science, Climate & Tech News | Sky News",
+  "context": [
+    "UK scientists have discovered a new planet that could potentially support human life and it isn't that far away… relatively speaking.",
+    "The temperature on Gliese 12b is around 42C which means it could be liveable. In fact, it is one of the few known planets where humans could theoretically survive."
+  ],
+  "annotations": [
+    {
+      "paragraph": "\"It'd be uncomfortable for a human but the way we define 'habitability' is that liquid water could exist on the surface of the planet, which in this case it could,\" says Larissa Palethorpe from University of Edinburgh.",
+      "reason": "Provides a direct quote explaining the criteria for habitability and its relevance to the new planet.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ms Palethorpe and a team of scientists from around the world used NASA's Transiting Exoplanet Survey Satellite, known as TESS, to spot the planet orbiting around its star. It took them less than a year to then calculate its size, temperature and how it moves.",
+      "reason": "Describes the method and timeline used to discover and analyze the planet, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Smaller planets are really hard to find,\" said Ms Palethorpe. \"We want to know more about Earth-sized planets so we can understand how many other Earths are out there.",
+      "reason": "Provides context on the difficulty of finding similar planets and the significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Detecting one so nearby is really exciting because it allows us to do follow up analysis of the atmosphere, so we will be able to learn a lot more about it.\"",
+      "reason": "Highlights the importance of the planet's proximity for further research.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gliese 12b is relatively close in space terms, at just 40 light years away. However, it'd take our fastest spaceship around 300,000 years to get there currently, according to Ms Palethorpe.",
+      "reason": "Provides context on the planet's distance and the current limitations of space travel.",
+      "label": 1
+    },
+    {
+      "paragraph": "NASA astronauts on spacewalk at International Space Station",
+      "reason": "This paragraph is unrelated to the discovery of the new planet.",
+      "label": 0
+    },
+    {
+      "paragraph": "'You can start with me': Commander of NASA flight that was stranded in space for more than nine months says he is partly to blame",
+      "reason": "This paragraph is unrelated to the discovery of the new planet.",
+      "label": 0
+    },
+    {
+      "paragraph": "Stranded astronauts have just returned to a very different world",
+      "reason": "This paragraph is unrelated to the discovery of the new planet.",
+      "label": 0
+    },
+    {
+      "paragraph": "The planet, which is around the same size as Venus, orbits its sun every 12.8 days. The sun, called Gliese 12, is a cool red dwarf located in the constellation Pisces.",
+      "reason": "This paragraph provides specific details about the newly discovered planet and its sun.",
+      "label": 1
+    },
+    {
+      "paragraph": "Read more from Sky News:Huge new images of space revealedMicrosoft AI feature investigated over screenshots",
+      "reason": "This paragraph is a promotional link and unrelated to the discovery of the new planet.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The light we are seeing now is from 40 years ago - that's how long it has taken to reach us here on Earth,\" said Warwick's Professor Thomas Wilson, who was involved in the discovery.",
+      "reason": "Provides a direct quote from a scientist involved in the discovery, adding credibility and context.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Planets like Gliese 12b are few and far between, so for us to be able to examine one this closely and learn about its atmosphere and temperature is very rare.\"",
+      "reason": "Offers insight into the rarity and significance of the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Follow Sky News on WhatsApp",
+      "reason": "Promotional content unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keep up with all the latest news from the UK and around the world by following Sky News",
+      "reason": "General promotional content not related to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Tap here",
+      "reason": "Call to action unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "The next step is for the team to examine the planet's atmosphere and find out whether it is similar to Earth's.",
+      "reason": "This paragraph provides information on the next steps in the research process, which is relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It could actually be a planet with no atmosphere, which would mean it's not that habitable,\" said Ms Palethorpe.",
+      "reason": "This quote provides insight into the potential habitability of the planet, which is directly related to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Ideally for habitability, you want a thin atmosphere - thick-atmosphere planets tend to be too hot. It could be cloud like, it could be hazy, or it could just be no atmosphere at all.\"",
+      "reason": "This quote explains the conditions necessary for habitability, which is relevant to the planet's potential to support life.",
+      "label": 1
+    }
+  ]
+}

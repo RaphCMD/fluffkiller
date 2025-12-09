@@ -1,0 +1,189 @@
+{
+  "headline": "El Salvador president says he won't return Maryland resident who was deported by mistake | CBC News",
+  "context": [
+    "U.S. President Donald Trump's top advisers and Nayib Bukele, the president of El Salvador, said Monday that they have no basis for the small Central American nation to return a Maryland man who was wrongly deported there last month.",
+    "Bukele called the idea \"preposterous\" even though the U.S. Supreme Court has called on the administration to \"facilitate\" the return of Kilmar Abrego Garcia."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Trump administration officials emphasized that Abrego Garcia, who was sent to a notorious gang prison in El Salvador, was a citizen of that country and that the U.S. has no say in his future.",
+      "reason": "This paragraph provides essential context about Abrego Garcia's citizenship and the U.S. position on his deportation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bukele, who has been a vital partner for the Trump administration in its deportation efforts, said \"of course\" he would not release him back to U.S. soil.",
+      "reason": "This paragraph contains a direct quote from Bukele about his stance on the issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The question is preposterous. How can I smuggle a terrorist into the United States?\" Bukele, seated alongside Trump, told reporters in the Oval Office Monday. \"I don't have the power to return him to the United States.\"",
+      "reason": "This paragraph provides a direct quote from Bukele, highlighting his position and reasoning.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump hosted Bukele at the White House, encouraging him to build more prisons to house criminals deported from the U.S.",
+      "reason": "This paragraph provides context about the relationship between Trump and Bukele, relevant to the deportation issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Trump administration has deported hundreds of Venezuelans to El Salvador under the 1798 Alien Enemies Act. It has acknowledged in court filings that Abrego Garcia was deported by mistake.",
+      "reason": "This paragraph provides important context about the deportation policy and acknowledges the mistake in Abrego Garcia's case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Abrego Garcia was sent to El Salvador's so-called Terrorism Confinement Center on March 15 despite an order protecting him from deportation.",
+      "reason": "This paragraph provides specific details about Abrego Garcia's deportation and detention, which is directly relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Justice Department in a Supreme Court filing on April 7 stated that while Abrego Garcia was deported to El Salvador through \"administrative error,\" his actual removal from the United States \"was not error.\" The error, department lawyers wrote, was in removing him specifically to El Salvador despite the deportation protection order. A U.S. Immigration and Customs Enforcement official said Abrego Garcia was wrongfully placed on a flight to El Salvador despite a 2019 judgment granting him protection from deportation, where it was feared he would face persecution.",
+      "reason": "This paragraph provides important legal context and details about the deportation error, contributing to the understanding of the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The U.S. Supreme Court upheld an order from Judge Paula Xinis directing the administration to \"facilitate and effectuate\" his return, but said the term \"effectuate\" was unclear and might exceed her authority.",
+      "reason": "This paragraph offers relevant information about the legal proceedings and the Supreme Court's stance, which is central to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, in a court filing on Sunday, the administration said it was not obligated to help Abrego Garcia — who is married to a U.S. citizen — get out of prison in El Salvador.",
+      "reason": "This paragraph provides a significant update on the administration's position, which is crucial to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Trump speaks about deportations:",
+      "reason": "This is a prompt for a video link and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump encourages El Salvador to build more prisons to house deportees from U.S.",
+      "reason": "This paragraph is a tangential statement about Trump's encouragement to build prisons, not directly related to the mistaken deportation case.",
+      "label": 0
+    },
+    {
+      "paragraph": "U.S. Attorney General Pam Bondi and U.S. Secretary of State Marco Rubio, in the Oval Office with the two presidents, each said that Abrego Garcia, 29, was a member of MS-13, the gang that originated in California but grew in strength and numbers in El Salvador.",
+      "reason": "This paragraph provides specific information about Abrego Garcia's alleged gang affiliation, which is relevant to the deportation issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "The cabinet officials, who did not address why no federal criminal or extradition proceedings were ever brought against Abrego Garcia, essentially said the decision is now El Salvador's to make.",
+      "reason": "This paragraph discusses the lack of legal proceedings and the decision-making process, directly related to the deportation case.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump, who came into office in January promising to reform U.S. immigration policy, has found a kindred spirit for that effort in Bukele. The migrants El Salvador accepts from the U.S. are housed in a high-security prison critics say engages in human rights abuses.",
+      "reason": "This paragraph provides context on U.S.-El Salvador relations and immigration policy, relevant to the deportation issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "When asked how many \"illegal criminals\" he planned on deporting to El Salvador, Trump said \"as many as possible.\"",
+      "reason": "This paragraph provides a general statement from Trump on deportation numbers, not directly related to the specific case of mistaken deportation.",
+      "label": 0
+    },
+    {
+      "paragraph": "WATCH | Bukele speaks about deported U.S. resident:",
+      "reason": "This is a prompt for a video, not a paragraph with information.",
+      "label": 0
+    },
+    {
+      "paragraph": "El Salvador's president dismisses question about returning Maryland resident to U.S. as 'preposterous'",
+      "reason": "This provides a direct quote from Bukele relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I just asked [Bukele], you know, it's this massive complex that he built, a jail complex. I said, 'Can you build some more of them, please?'\" Trump remarked.",
+      "reason": "This quote from Trump is unrelated to the main story about the deportation issue.",
+      "label": 0
+    },
+    {
+      "paragraph": "Pressed on Friday whether he had concerns about alleged human rights abuses at the mega-prison, Trump said no.",
+      "reason": "This is unrelated to the deportation issue and focuses on a different topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "In the Oval Office on Monday, Trump called them \"great facilities\" and said he'd \"like to go a step further,\" musing about deporting American citizens who commit violent crimes.",
+      "reason": "This is a tangent about Trump's views on deportation unrelated to the specific case of the Maryland resident.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I don't know what the laws are, we always have to obey the laws, but we also have homegrown criminals that push people into subways … I'd like to include them in the group of people to get out of the country.\"",
+      "reason": "The paragraph is a vague generalization and does not contribute directly to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The U.S. on Saturday deported 10 more people it alleges are gang members to El Salvador, said Rubio, who called the alliance between Trump and Bukele \"an example for security and prosperity in our hemisphere.\"",
+      "reason": "This paragraph provides context on the deportation practices and political alliances relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lawyers and relatives of the migrants held in El Salvador say they are not gang members and had no opportunity to contest the U.S. government's assertion that they were. The Trump administration says it vetted migrants to ensure they belonged to Tren de Aragua, which it labels a terrorist organization.",
+      "reason": "This paragraph offers important context about the deportation process and the controversy surrounding it.",
+      "label": 1
+    },
+    {
+      "paragraph": "Democrats and human rights groups have previously slammed Department of Homeland Security Secretary Kristi Noem for a video late last month in which she appears before a crowded group of tattooed men behind bars in the El Salvador prison.",
+      "reason": "This paragraph provides background on political reactions but does not directly relate to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "In the first days of the administration, White House press secretary Karoline Leavitt said the administration considers any unauthorized person in the U.S. a \"criminal.\" Entering the country between border points or staying in the U.S. without legal status has traditionally been considered a civil offence.",
+      "reason": "This paragraph provides context on the administration's stance on immigration, relevant to the deportation issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Wartime law, but no war:",
+      "reason": "This is a video caption and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "How can Trump use a wartime law to deport people when there's no war? | About That",
+      "reason": "This is a video title and does not provide relevant information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "2 months ago",
+      "reason": "This is a timestamp and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bukele's strongman tendencies first gained widespread attention internationally when he sent armed security forces and an ultimatum to the El Salvadorean legislature in early 2020 to push through his security legislation. After positive 2021 legislative election results, he replaced judges of the constitutional court with compliant ones.",
+      "reason": "This provides context on Bukele's political actions, which is relevant to understanding his stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "He then manoeuvred to run for re-election, even though El Salvador's constitution banned presidents from serving consecutive five-year terms.",
+      "reason": "This offers additional context on Bukele's political maneuvers, relevant to his leadership style.",
+      "label": 1
+    },
+    {
+      "paragraph": "El Salvador had one of the worst homicide rates in the world until the past few years, when a significant drop occurred.",
+      "reason": "This paragraph provides background information on El Salvador's crime rates, which is not directly related to the deportation issue.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bukele and his supporters hail his tough-on-crime approach — some estimates have at least five per cent of the country's male population between 14 and 29 detained — but the U.S. Treasury Department in Joe Biden's administration alleged that Bukele's government secretly negotiated a truce with leaders of the gangs to quell deadly violence.",
+      "reason": "This paragraph provides context on Bukele's governance and U.S. allegations, which indirectly relates to the political dynamics affecting the deportation case.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Biden administration alleged that Bukele's government bought the gangs' support with financial benefits and privileges for their imprisoned leaders, including prostitutes and cellphones. Bukele has vehemently denied the accusations.",
+      "reason": "This paragraph offers insight into the U.S. administration's stance on Bukele, which is relevant to understanding the political backdrop of the deportation issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "As well, the U.S. State Department in Biden's term expressed concern about what it called \"credible reports\" of human rights abuses such as arbitrary arrest, a lack of due process, torture at the hands of security forces and life-threatening prison conditions.",
+      "reason": "This paragraph provides context on human rights concerns in El Salvador, which is relevant to the broader implications of the deportation case.",
+      "label": 1
+    },
+    {
+      "paragraph": "LISTEN | Lawyer says Trump, Bukele 'thumbing their nose' at Supreme Court:",
+      "reason": "This is a prompt for an audio segment and does not provide new information in the text.",
+      "label": 0
+    },
+    {
+      "paragraph": "As It Happens6:25U.S. and El Salvador presidents ‘thumbing their nose’ at Supreme Court, says lawyer",
+      "reason": "The paragraph is a caption for a radio segment and does not provide new information or context.",
+      "label": 0
+    }
+  ]
+}

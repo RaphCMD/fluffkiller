@@ -1,0 +1,134 @@
+{
+  "headline": "New evidence finds Mars may have had conditions that could have supported life | CBC News",
+  "context": [
+    "Science",
+    "A new study led by a University of Calgary scientist has found evidence that suggests Mars once had a carbon cycle, giving further support for the habitability of the red planet."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Nicole Mortillaro  · CBC News",
+      "reason": "This is an author byline and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "A new study led by a University of Calgary scientist has found evidence that suggests Mars once had a carbon cycle, giving further support for the past habitability of the red planet.",
+      "reason": "This paragraph introduces the main finding of the study, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Using data collected from the Mars rover Curiosity, a team of scientists found an iron carbonate mineral called siderite in the planet's Gale Crater.",
+      "reason": "This paragraph provides specific details about the evidence found, which is relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's believed that this mineral formed through the process of water evaporating, and then being deposited in pores on the Martian surface.",
+      "reason": "This paragraph explains the formation process of the mineral, adding context to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "These findings around the sequestration of CO2 suggest that 3½ billion years ago, Mars had a very thick atmosphere and flowing water, making it a habitable environment.",
+      "reason": "This paragraph provides crucial implications of the findings, directly supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The finding of sederite was surprising, the scientists said, particularly because orbital measurements taken by satellites hadn't been able to detect any siderite.",
+      "reason": "This paragraph provides new information about the unexpected discovery of siderite on Mars, which is relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"[The samples] contain CO2, which we've been predicting for decades that should be there, but they weren't necessarily forthcoming in most of the missions to date,\" said Ben Tutolo, the paper's lead author and an associate professor at the University of Calgary's faculty of science.",
+      "reason": "This paragraph includes a direct quote from the lead author about the presence of CO2, which is relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier orbital data had found magnesium sulfates, Tutolo said, more commonly known as epsom salts here on Earth.",
+      "reason": "This paragraph provides context about previous findings on Mars, which is relevant to understanding the new discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Then when we get there on the ground with the drill, we find that it contains more siderite than any deposit that's ever really been investigated on Mars,\" Tutolo said. \"So that's a surprise, right?",
+      "reason": "This paragraph provides a direct quote about the significant discovery of siderite, which is relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"And then we have to go back: Did all of those [scientists] that were doing all this very careful work, looking at this data, miss something?\"",
+      "reason": "This paragraph raises a question about previous scientific work, which adds depth to the narrative of the new findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The answer was no: It was simply that the siderite was masked by the magnesium sulfate salts.",
+      "reason": "This sentence provides specific information related to the study's findings about Mars' conditions.",
+      "label": 1
+    },
+    {
+      "paragraph": "These new findings are a testament to the value of the Curiosity rover, said Chris Herd, a planetary geologist and professor at the University of Alberta who was not involved in the study. Since landing in 2012, the car-sized rover has travelled more than 33 kilometres across the red planet's surface, collecting rock, soil and air samples.",
+      "reason": "This paragraph provides context about the Curiosity rover's role in gathering data for the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The rover has been going for over 12 years now and still going strong,\" he said.",
+      "reason": "This quote is a general statement about the rover's longevity and does not add new information about the study.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"It's a testament to the team itself, to the science team, that they're able to continue to get such great data. And not just get the data, but actually make use of it, interpreting it in a very meaningful way.\"",
+      "reason": "This quote is a general commendation of the team and does not provide specific information about the study.",
+      "label": 0
+    },
+    {
+      "paragraph": "Though conditions were right for a habitable environment on Mars, it doesn't mean it was steadily habitable.",
+      "reason": "This sentence provides a nuanced understanding of the study's findings regarding Mars' habitability.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Even though these sediments in Gale Crater were laid down about 3½ billion years ago, the planet's about 4½ billion years old. It didn't have continually habitable conditions,\" explained Tutolo.",
+      "reason": "Provides specific information about the age of sediments and the habitability conditions on Mars.",
+      "label": 1
+    },
+    {
+      "paragraph": "Instead, some theorize that the conditions went back and forth between habitable conditions, to dry, inhospitable conditions.",
+      "reason": "Discusses the variability of Mars' conditions, relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It seems like whenever the water was present on the surface of Mars, more likely than not, that water was habitable — it was capable of originating life,\" Tutolo said.",
+      "reason": "Directly relates to the potential for life on Mars, supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The question is, if life originated, but then you go back into these conditions, at least periodically, that are not habitable, what does that mean for the long-term evolution of Mars and the potential that it ever originated life?\"",
+      "reason": "Poses a relevant question about the implications of Mars' changing conditions on life.",
+      "label": 1
+    },
+    {
+      "paragraph": "Carbon sequestration — taking carbon out of the atmosphere and putting it underground — is something that various companies and institutions are looking at here at home.",
+      "reason": "Unrelated to the main topic of Mars' habitability.",
+      "label": 0
+    },
+    {
+      "paragraph": "On Earth, it happens naturally. But due to plate tectonics and our carbon cycle, it's largely balanced: We release and store more or less the same amount. But Mars' carbon cycle is imbalanced, meaning more carbon was stored than was released, unlike our own carbon cycle here on Earth.",
+      "reason": "Provides relevant comparison between Earth's and Mars' carbon cycles, supporting the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, due to humans releasing greenhouse gases into the atmosphere, it's now become imbalanced here on Earth, which is why scientists are trying various ways of carbon capture.",
+      "reason": "Discusses Earth's current carbon imbalance, which is unrelated to Mars' conditions.",
+      "label": 0
+    },
+    {
+      "paragraph": "WATCH | Canada eyed as future leader for removing carbon from air:",
+      "reason": "Unrelated to Mars or its potential habitability.",
+      "label": 0
+    },
+    {
+      "paragraph": "Canada eyed as future leader for removing carbon from air",
+      "reason": "Unrelated to Mars or its potential habitability.",
+      "label": 0
+    },
+    {
+      "paragraph": "1 year ago",
+      "reason": "Unrelated to Mars or its potential habitability.",
+      "label": 0
+    }
+  ]
+}

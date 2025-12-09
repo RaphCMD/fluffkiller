@@ -1,0 +1,164 @@
+{
+  "headline": "Trump says he ‘may give a lot of countries breaks’ from April 2 tariffs - National | Globalnews.ca",
+  "context": [
+    "U.S. President Donald Trump said Monday that he “may give a lot of countries breaks” from the so-called “reciprocal” tariffs he’s set to impose on foreign trade next week.",
+    "Trump made the comment after Bloomberg and the Wall Street Journal reported Monday that what is meant to be a global matching of tariffs imposed on U.S. goods starting on April 2 — which Trump has touted as “Liberation Day” — may be far narrower and exempt some countries and specific sectors."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“I may give a lot of countries breaks,” Trump said at an announcement at the White House when asked about the reports, but did not say specifically which ones.",
+      "reason": "This paragraph directly quotes Trump on the potential exemptions from tariffs, which is central to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’ll be announcing some additional tariffs over the next few days, having to do with automobiles, cars, and having also to do with lumber down the road — lumber and (semiconductor) chips,” Trump said.",
+      "reason": "This paragraph provides new information about upcoming tariffs on specific sectors, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "“We’ve been ripped off by every country,” he told reporters after a meeting of his cabinet earlier Monday, predicting that the tariffs expected on April 2 would raise “rather astronomical” amounts of money for the U.S., allowing tax rates to remain low or come down.",
+      "reason": "This paragraph provides Trump's rationale for the tariffs and their expected economic impact, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump’s announcement Monday that Hyundai was building a new steel manufacturing plant in Louisiana, as well as expanding its auto manufacturing footprint in Georgia, was pointed to by lawmakers and officials at the event as further proof that Trump’s trade policies were producing results.",
+      "reason": "This paragraph provides context on the perceived impact of Trump's trade policies, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "2:20\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada election 2025: Trump trade war takes centre stage as campaign gets underway",
+      "reason": "This is an unrelated caption about a future Canada election, not relevant to the tariffs.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Wall Street Journal and Bloomberg earlier reported that the sector-specific tariffs are expected to be delayed, citing a Trump administration official. Yet Reuters, also citing an unnamed administration official responding to those reports, said the situation was fluid and no final decisions had been made.",
+      "reason": "This paragraph provides relevant information about the potential delay and uncertainty of the tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "For news affecting Toronto and surrounding communities, sign up to receive Toronto news alerts when they break.",
+      "reason": "This is a promotional paragraph unrelated to the main topic of tariffs.",
+      "label": 0
+    },
+    {
+      "paragraph": "Canada has had discussions with the Trump administration in recent weeks to seek exemptions from the April 2 tariffs and others imposed on Canadian goods since early this month.",
+      "reason": "This paragraph is relevant as it discusses Canada's efforts to seek exemptions from the tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating continuation, not relevant content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Officials who held meetings in Washington two weeks ago expressed confidence that a deal could be made.",
+      "reason": "This paragraph provides context about ongoing negotiations related to the tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "Prime Minister Mark Carney, who triggered a federal election on Sunday, said during an event where he was campaigning as Liberal leader on Monday that broad negotiations on trade and security with the U.S. may have to wait until after a new government is elected on April 28.",
+      "reason": "This paragraph is not directly related to Trump's tariff comments and focuses on Canadian political events.",
+      "label": 0
+    },
+    {
+      "paragraph": "“The president is waiting for the outcome of the election to see who has a strong mandate from Canadians,” he told reporters in Gander, N.L. “I hope Canadians will back me, and then we’ll have a discussion.”",
+      "reason": "This quote is about Canadian elections and not directly related to the tariff issue.",
+      "label": 0
+    },
+    {
+      "paragraph": "Under the caretaker convention, Carney can still act in the prime ministerial capacity during an election campaign for matters that are routine, non-controversial, reversible, agreed to by opposition parties or that are “urgent and in the public interest.” That could include responding to additional tariffs from the U.S.",
+      "reason": "This paragraph provides context on how Canada might respond to tariffs, linking it to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "1:08\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCarney says Trump using tariffs ‘to break us, so America can own us’",
+      "reason": "This quote directly relates to the impact of Trump's tariffs on Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "Two senior Trump officials — Treasury Secretary Scott Bessent and top White House Economic Adviser Kevin Hassett — said last week that the administration is expected to focus the April 2 reciprocal tariff announcement on a narrower set of countries with the biggest trade surpluses and high tariff and non-tariff barriers.",
+      "reason": "This paragraph provides relevant information about the focus of the upcoming tariff announcement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Montreal brothers plead guilty after keeping woman’s body on couch for six months",
+      "reason": "This paragraph is unrelated to the topic of Trump's tariff announcement.",
+      "label": 0
+    },
+    {
+      "paragraph": "Conservative MP will resign Alberta riding so Pierre Poilievre can run again",
+      "reason": "This paragraph is unrelated to the topic of Trump's tariff announcement.",
+      "label": 0
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bessent referred to these as the “Dirty 15” or 15 per cent of countries in an interview with Fox News, while Hassett told Fox Business the focus would be on between 10 and 15 countries.",
+      "reason": "This paragraph provides specific details about the countries targeted by the tariffs.",
+      "label": 1
+    },
+    {
+      "paragraph": "If the focus is on trade deficits, Canada could end up being included on that list, as its trade deficit with the U.S. is among the highest of all trading partners at over US$60 billion. That deficit is mainly due to energy exports from Canada, which when removed flips the trade balance into a surplus for the U.S.",
+      "reason": "This paragraph provides specific information about Canada's trade deficit with the U.S., which is relevant to the potential tariff exemptions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even if Canada is not included, April 2 also marks the deadline for Trump’s temporary exemption of auto parts and other goods traded under North American free trade rules from 25 per cent tariffs, which were imposed on March 4 to pressure Canada and Mexico to take action on fentanyl trafficking.",
+      "reason": "This paragraph provides relevant information about the deadline for temporary tariff exemptions and the context of their imposition.",
+      "label": 1
+    },
+    {
+      "paragraph": "10:23\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada election 2025: How will the U.S. trade war impact the campaign?",
+      "reason": "This is a video timestamp and title, which does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Bessent told Fox News last week that the U.S. will give trading partner countries a reciprocal tariff number that reflects their own rates, non-tariff trade barriers, currency practice and other factors, but avoid a “tariff wall” through negotiations or simply stopping those “unfair” practices.",
+      "reason": "This paragraph provides relevant information about the U.S. strategy for setting reciprocal tariffs and avoiding trade barriers.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating continuation of the article, not contributing to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I’m optimistic that (on) April 2, some of the tariffs may not have to go on because a deal is pre-negotiated, or that once countries receive their reciprocal tariff number, that right after that they will come to us and want to negotiate it down,” Bessent said.",
+      "reason": "This paragraph provides a quote that directly relates to the potential exemptions from the tariffs, which is central to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The action aims to shrink a US$1.2 trillion global goods trade deficit by raising U.S. tariffs to levels charged by other countries and counteracting their non-tariff trade barriers.",
+      "reason": "This paragraph provides context about the purpose of the tariffs, which is relevant to understanding the broader implications of the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump further widened his global trade war on Monday by announcing 25 per cent secondary tariffs on any country that buys oil or gas from Venezuela.",
+      "reason": "This paragraph introduces new information about additional tariffs, which is relevant to the topic of Trump's tariff policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "He has also tariffed foreign steel and aluminum at 25 per cent rates and threatened additional levies on goods from the European Union. Global tariffs on pharmaceuticals are also on the table, he said Monday.",
+      "reason": "This paragraph provides additional context on Trump's broader tariff strategy, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "—with files from Reuters",
+      "reason": "This is a credit line and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "© 2025 Global News, a division of Corus Entertainment Inc.",
+      "reason": "This is a copyright notice and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

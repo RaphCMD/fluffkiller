@@ -1,0 +1,44 @@
+{
+  "headline": "How Social Media Has Changed How We Consume News",
+  "context": [
+    "It’s the age of “fake news” and gone are the days of waiting for the morning news for breaking stories or reading gossip magazines for the latest celebrity dirt. We now have all the information we need at the touch of an app and most people now get their news information online, specifically from social media.",
+    "Social media has become the main source of news online with more than 2.4 billion internet users, nearly 64.5 percent receive breaking news from Facebook, Twitter, YouTube, Snapchat and Instagram instead of traditional media."
+  ],
+  "annotations": [
+    {
+      "paragraph": "PROMOTED",
+      "reason": "This is a promotional label and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "In a recent survey, 50 percent of Internet users surveyed said that they hear about the latest news via social media before ever hearing about it on a news station. Many internet users will see the breaking stories on their feed and go to the news sites to learn more. The survey found 57 percent increase in traffic to news sites referred from social media.",
+      "reason": "This paragraph provides relevant statistics and insights into how social media is a primary source of news.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, there has been a decrease in how much of an article that people read. Most people will just scroll through their newsfeed and stumble upon relevant news content but just read the headlines or a short video clip of the piece. An average visitor will only read an article for 15 seconds or less and the average video watch time online is 10 seconds.",
+      "reason": "This paragraph offers relevant information about changing consumption habits due to social media.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, social platforms have a control over what news and information we see. Our social media friends have become the “managing editors” deciding what we see. An article needs to be \"liked\" and shared multiple times before many people see it in their feed. Therefore social media and your social friends have control over what news pieces you see and what you do not. There are also many \"fake news\" websites that compete for attention with sensational headlines and ridiculous storylines that tend to get shared more often due to the lack of readers fact checking or reading more than the headline. That means that authentic content is hard to come by now. In fact, fake news is actually more likely to spread than the truth.",
+      "reason": "This paragraph discusses the influence of social media on news visibility and the spread of fake news, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Falsehood diffused significantly farther, faster, deeper, and more broadly than the truth in all categories of information, and the effects were more pronounced for false political news than for false news about terrorism, natural disasters, science, urban legends, or financial information,” the team, led by Sinan Aral of the Massachusetts Institute of Technology, wrote in the journal Science.",
+      "reason": "This paragraph provides a relevant quote from a study that supports the article's discussion on the spread of fake news.",
+      "label": 1
+    },
+    {
+      "paragraph": "Also, timely and sensational news does better like Buzzfeed who has 17.2 million subscribers. Content needs to be shareable and likable so often times it is overly exaggerated for social. Brands can pay more to appear in news feeds and get noticed. While syndication is nothing new, it is more prevalent in social media with so much information allowed to be given at once and 24/7.",
+      "reason": "This paragraph provides relevant information about how social media platforms prioritize sensational and shareable content, impacting news consumption.",
+      "label": 1
+    },
+    {
+      "paragraph": "News happens fast now. Today’s story will be tomorrow’s forgotten story. It is easy to miss things now because of how quick stories can get turned around and shared. While having so much information at our fingertips is great, it is worth always checking sources and not taking headlines as truth. With social media as our new news managers, it is up to us to be the new fact checkers for media.",
+      "reason": "This paragraph discusses the rapid news cycle and the importance of fact-checking, which is relevant to the impact of social media on news consumption.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "headline": "Opinion | Climate Change Urgency Has Declined. The Green Transition Hasn’t. - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "You’re reading the David Wallace-Wells newsletter, for Times subscribers only.  The best-selling science writer and essayist explores climate change, technology, the future of the planet and how we live on it."
+  ],
+  "annotations": [
+    {
+      "paragraph": "If the world is retreating from climate policy, as I argued in last week’s newsletter, then what? Where does it leave the fate of the transition to clean energy — and for that matter, the future of the planet — if climate urgency has cooled as a rapid but inadequate green rollout continues?",
+      "reason": "The paragraph introduces the main premise of the article, discussing the implications of declining climate urgency on the green transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Every year the energy consultant Nat Bullard prepares a comprehensive survey of the big-picture state of play. In his latest installment he devoted a whole chapter to the possibility that the cultural and political momentum behind climate action is several years past its peak. “It’s a 2021 thing,” he wrote, citing the performance of the S&P Global clean energy index, corporate E.S.G. commitments and the number of climate policies springing up around the world, all of which are dramatically down in recent years.",
+      "reason": "This paragraph provides specific data and expert analysis on the decline in cultural and political momentum for climate action.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Bullard’s presentation also contained some contrary indicators, too — both more hopeful and in many ways, I think, more telling. Last year worldwide spending on the energy transition was almost twice as high as it was in 2021, for instance, surpassing $2 trillion. In many places, green energy is tracking the exponential curves we consider vertiginous in other contexts — in energy they’re often called S-curves, and for many technologies we appear to be on that fast takeoff phase. In the United States, Vox recently tallied, wind capacity has grown more than 20-fold in two decades, and utility-scale battery capacity is up almost 30-fold in just five years. In Pakistan, nearly five times as much solar power was imported in 2024 as in 2022; the boom in Saudi Arabia has been even larger. Worldwide, solar capacity installation more than doubled since 2022. In 2024, more than 90 percent of all new power installed globally was clean.",
+      "reason": "This paragraph provides data and examples of positive trends in the green energy transition, countering the decline in climate urgency.",
+      "label": 1
+    },
+    {
+      "paragraph": "These are two pretty different pictures, which, taken together, give a confounding, cross-eyed sense of the green transition. The two trends have at least for now decoupled, and whether we judge climate action to be on the march or in retreat depends on how the contradictory-seeming trends balance out. (It may also be a proxy measure for your relative faith in politics and in markets.)",
+      "reason": "The paragraph summarizes the contrasting trends in climate action and green transition, contributing to the article's analysis.",
+      "label": 1
+    },
+    {
+      "paragraph": "On the one hand, there’s the politics and rhetoric, which I emphasized last week, in the first of this three-part climate-politics temperature check. It would be extremely hard to imagine a major candidate for the American presidency in 2028, say, building a campaign around climate as fully as Jay Inslee or even Bernie Sanders did in 2020. And it’s just as hard to imagine any successor agreement to the Paris accords, perhaps because the climate geopolitics of the last decade were a last-gasp holdover of 1990s liberal internationalism. While those ideas may have already seemed anachronistic in 2015, they seem truly orphaned today.",
+      "reason": "This paragraph discusses the political challenges and changes in climate rhetoric, relevant to the article's theme of declining climate urgency.",
+      "label": 1
+    },
+    {
+      "paragraph": "At the same time, the green energy numbers tell us the opposite story: In spite of cultural backsliding and a diminishing sense of political urgency, the clean energy rollout continues. In fact, it continues at a pace that would have astonished even optimistic forecasters a decade ago.",
+      "reason": "This paragraph provides relevant information about the ongoing progress in green energy despite declining urgency.",
+      "label": 1
+    },
+    {
+      "paragraph": "One explanation you sometimes hear, particularly from those turned off by hard-line activism, is that confrontational climate politics may have always been a distraction. Perhaps progress is easier when political salience is turned down, when technocrats are freed to do their work without partisan interference and investors and entrepreneurs pursue pure profit.",
+      "reason": "This paragraph offers a perspective on why green energy progress continues despite less political urgency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Intuitively, some amount of measurable progress may dampen the mood of alarm, even when it’s insufficient. Another possibility is that climate rhetoric was always likely to cool and harden once the disasters it predicted actually arrived — prophecy burns hotter when pronounced than fulfilled.",
+      "reason": "This paragraph discusses potential reasons for the decline in climate urgency, contributing to the article's main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "This pattern of normalization is sometimes called, more wonkily, shifting base lines syndrome. Lately I’ve found myself wondering whether warning about future impacts itself contributes to the problem — familiarizing the public with horrifying-seeming possibilities that, when they do come to pass, seem less horrifying for having already been processed. How else can we make sense of the seeming banality, just three months on, of the January firestorms in Los Angeles, which incinerated whole neighborhoods in some of the richest and most well-connected corners of one of the world’s cultural capitals? Were those fires unthinkable, as so many of us suggested, or did the fact that we had imagined some version of them before make it easier to watch them burn their way through reality?",
+      "reason": "This paragraph explores the concept of normalization in climate change perception, relevant to the article's discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "What worries me most at the moment is a final possibility. Perhaps hard-edge climate politics is no longer necessary to achieve a rapid build-out of green energy in an era when we’ve grown less preoccupied with rallying public support and more preoccupied with particular bottlenecks (permitting and interconnection and the limitations of the grid in places like the United States, for instance, or the burdensome costs of capital in poorer parts of the world). But are we sure that without a greater sense of political urgency, new clean infrastructure will lead to meaningful global emissions reductions anytime soon?",
+      "reason": "This paragraph raises concerns about the effectiveness of green energy progress without political urgency, directly related to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Each year, it seems, we get predictions of an imminent emissions peak, and each year we watch emissions grow higher. Particular countries continue their downward slopes, but not globally. In the absence of concerted climate-focused policy, cheap renewable energy and booming demand may be a recipe for adding green energy without retiring the dirty stuff, letting emissions climb as the rollout of renewables continues. That is, not a project of energy transition but, as skeptics sometimes say, energy addition.",
+      "reason": "The paragraph discusses the ongoing issue of emissions growth despite renewable energy efforts, directly relating to the headline's theme of climate change urgency and green transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is the central contention of “More and More and More: An All-Consuming History of Energy,” by the French historian Jean-Baptiste Fressoz, forthcoming this fall in the United States. The history is bracing for anyone, like me, who has spent the last decade dreaming of decarbonization, partly to hold at bay the fear of what may come without it. For all that hopeful talk of an energy transition, Fressoz argues, the world has never really experienced one, and certainly isn’t now.",
+      "reason": "The paragraph introduces a relevant book and its argument that the world hasn't truly experienced an energy transition, aligning with the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "“After two centuries of ‘energy transitions,’ humanity has never burned so much oil and gas, so much coal and so much wood,” Fressoz writes. Yes, that’s right: It’s not just that we haven’t moved on from oil, we haven’t even moved on from trees. “Today, around two billion cubic meters of wood are felled each year to be burned, three times more than a century ago.”",
+      "reason": "The paragraph provides specific data and quotes from Fressoz, supporting the argument about the lack of true energy transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "We may talk about the age of oil or the age of steam, but in almost all cases, Fressoz writes, the energy systems supplemented rather than supplanting one another — the equivalent, in past centuries, of today’s electrified L.N.G. terminals, running on renewable power but spewing fossil fuels out into the rest of the world, where they will be burned.",
+      "reason": "The paragraph offers historical context and comparison to modern energy systems, reinforcing the article's discussion on energy transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "You may think of coal as 19th-century energy, if you’re thinking of a British Empire built by bricks of carbon, or perhaps you think of it as a 20th-century power source, if you’re thinking about Pennsylvania miners and an American Rust Belt juggernaut. But worldwide, the period of greatest growth in coal power was between 1980 and 2010, when global use grew by 300 percent — increasing 10-fold in China and the Philippines, and just over that much in Taiwan and Vietnam (and roughly 50-fold in Indonesia). In the same period, it doubled in the United States and Japan: As Fressoz points out, President George W. Bush’s America consumed four times as much coal as President Franklin D. Roosevelt’s.",
+      "reason": "The paragraph provides historical data on coal usage, illustrating the ongoing reliance on fossil fuels, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "These are the transitions often invoked as models for the one we are embarking on now, but “faced with the climate crisis, we can no longer be satisfied with a history written in relative terms,” Fressoz writes. “A ‘transition’ toward renewables that would see fossil fuels diminish in relative terms but stagnate in terms of tons would solve nothing.” Instead of a transition, he suggests, we need an energy “amputation”: “to get rid, in four decades, of the proportion of the world’s energy — more than three-quarters — derived from fossil fuels. To think that we can draw some useful analogies from history dramatically underestimates the novelty and scale of the climate challenge.”",
+      "reason": "The paragraph provides a critical perspective on the inadequacy of historical analogies for the current climate challenge, directly relating to the urgency of the green transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fressoz isn’t the first to make this retrospective observation; On Barak and Vaclav Smil have both offered memorable versions of it, too (among others emphasizing the jaw-dropping scale of the net-zero project). And because Fressoz’s history largely ends before the recent renewables boom, it delivers its skepticism primarily in the form of analogy, allowing readers to at least entertain the proposition that this time, things could be different. And they could! Those S-curves really are taking off, and it’s not hard to imagine near-future scenarios in which so much clean energy is coming online that truly consequential dirty energy is taken off as well. But “More and More and More” makes for especially sober reading as we watch the global relaxation of climate politics and consider the possibility that, having passed a local peak of environmental urgency, we may have to wait awhile for the next one.",
+      "reason": "This paragraph discusses the potential for change in the energy sector and the current state of climate politics, which is relevant to the article's theme of the green transition.",
+      "label": 1
+    },
+    {
+      "paragraph": "What future is promised by our current form of decarbonization — haphazard, politically fraught, breakneck in ways and halting in others? I’ll write more about that in the coming weeks.",
+      "reason": "The paragraph hints at future content but does not provide new information relevant to the current article.",
+      "label": 0
+    }
+  ]
+}

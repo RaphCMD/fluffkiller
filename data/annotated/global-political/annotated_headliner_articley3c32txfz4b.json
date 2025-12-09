@@ -1,0 +1,104 @@
+{
+  "headline": "Reform takes control of Nottinghamshire County Council",
+  "context": [
+    "BBC News, East Midlands",
+    "BBC"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Reform UK has gained control of Nottinghamshire County Council, taking over from the Conservatives.",
+      "reason": "This paragraph provides the main news about Reform UK taking control of the council.",
+      "label": 1
+    },
+    {
+      "paragraph": "The party secured 40 of the council's 66 seats, having needed 34 for an overall majority.",
+      "reason": "This paragraph provides specific details about the number of seats won by Reform UK.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Conservatives now sit in second place with 17 seats, and Labour in third with four seats.",
+      "reason": "This paragraph gives additional context about the current standings of other parties.",
+      "label": 1
+    },
+    {
+      "paragraph": "A full picture will be confirmed in June when the two remaining seats are set to be contested in a by-election, following the death of Mansfield North candidate Karen Seymour.",
+      "reason": "This paragraph provides future context about the by-election and its cause.",
+      "label": 1
+    },
+    {
+      "paragraph": "Outgoing Nottinghamshire County Council leader Sam Smith retained his seat in the Newark East ward.",
+      "reason": "This paragraph provides information about the outgoing leader retaining his seat.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, Kate Foale, leader of the county's Labour group, lost her seat to Broxtowe Alliance candidate Teresa Cullen, who defected from the party in January.",
+      "reason": "This paragraph provides relevant information about a significant political change related to the council.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ashfield Independent leader Jason Zadrozny - the leader of the main opposition group on the council - also lost his seat.",
+      "reason": "This paragraph is relevant as it details another significant political change affecting the council's composition.",
+      "label": 1
+    },
+    {
+      "paragraph": "His party now have only one seat.",
+      "reason": "This paragraph provides relevant information about the current status of the Ashfield Independent party in the council.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dr Doddy told the BBC that Reform was going to do things \"differently\".",
+      "reason": "This paragraph is relevant as it includes a direct quote from a key figure about the future plans of the Reform party.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said: \"We're looking at how to use taxpayers' money better and that's what people say to me - they don't understand where all the money is going and their services are going down and the money they're paying is going up and they can't put that together.\"",
+      "reason": "This paragraph is relevant as it provides specific commentary on the party's intended fiscal policies.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"That's where the common sense comes in.\"",
+      "reason": "The quote is vague and does not provide specific information about the council control.",
+      "label": 0
+    },
+    {
+      "paragraph": "By Hugh Casswell, BBC Nottingham political reporter",
+      "reason": "This is an author byline and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Coming into today, most parties and candidates I spoke to expected Reform UK to gain a decent number of seats in Nottinghamshire, perhaps enough to be the junior partners in some form of coalition with the Conservatives.",
+      "reason": "Provides context on expectations before the election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "But they've smashed all those expectations and ended up not just in control of the council, but with what looks like a comfortable majority.",
+      "reason": "Describes the unexpected outcome of the election.",
+      "label": 1
+    },
+    {
+      "paragraph": "It's striking that they seem to have taken seats from the Tories and Labour alike, as well as very nearly wiping the Ashfield Independents off the map in what is now not just a surprising but convincing victory.",
+      "reason": "Details the extent of Reform UK's victory and its impact on other parties.",
+      "label": 1
+    },
+    {
+      "paragraph": "There is still the small matter of who will be the council's leader.",
+      "reason": "This paragraph introduces an unresolved issue related to the council's leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "As Reform's only incumbent, de facto spokesperson John Doddy told me there will be a \"democratic process\" among the party's councillors within the next 24 hours.",
+      "reason": "This paragraph provides specific information about the process for selecting the council's leader.",
+      "label": 1
+    },
+    {
+      "paragraph": "When I asked if he wants the job himself, he told me: \"If the ball comes loose from the back of the scrum, you'd be tempted to pick it up and run for the line.\"",
+      "reason": "This paragraph includes a direct quote from a key figure, adding insight into his personal stance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Related internet links",
+      "reason": "This is a placeholder for links and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

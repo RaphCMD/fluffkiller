@@ -1,0 +1,89 @@
+{
+  "headline": "Trump pardoned Michele Fiore, and that's unpardonable | Opinion",
+  "context": [
+    "It’s nearly impossible to determine the worst thing Donald Trump does on any given day, let alone a week, or a month.",
+    "The atrocities pile up so fast."
+  ],
+  "annotations": [
+    {
+      "paragraph": "But the worst thing Trump did in April is indisputable. Beyond doubt.",
+      "reason": "This paragraph sets up the main argument but does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "On April 23, Trump pardoned a Nevada Republican politician and MAGA sycophant name Michele Fiore, who was convicted of using money collected for a statue honoring a murdered police officer for cosmetic surgery, rent and her daughter’s wedding.",
+      "reason": "This paragraph provides specific details about the pardon and the actions of Michele Fiore.",
+      "label": 1
+    },
+    {
+      "paragraph": "Again, with emphasis, this woman used money meant for a statue honoring a murdered police officer for cosmetic surgery, rent and her daughter’s wedding.",
+      "reason": "This paragraph repeats information already provided without adding new details.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fiore was found guilty in October and could have — should have — wound up in prison. Her request for a retrial had been turned down. She was about to be sentenced.",
+      "reason": "This paragraph provides context about Fiore's legal situation before the pardon.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now, she’s free and clear, thanks to Trump.",
+      "reason": "This paragraph summarizes the outcome of the pardon.",
+      "label": 1
+    },
+    {
+      "paragraph": "A jury determined that Fiore raised more than $70,000 for the statue of one of two Las Vegas police officers fatally shot in 2014.",
+      "reason": "This paragraph provides specific information about Michele Fiore's actions related to the fundraising scheme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The killings made national news.",
+      "reason": "This paragraph provides general background information that is not directly related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Las Vegas officers Alyn Beck, 41, and Igor Soldo, 31, were having lunch at a pizza buffet when a lunatic anti-government husband and wife walked in and shot them, leaving a note saying, “This is the beginning of a revolution.”",
+      "reason": "This paragraph provides context about the incident related to the statue fundraising but is not directly about Fiore's actions or pardon.",
+      "label": 0
+    },
+    {
+      "paragraph": "One of the people ripped off by Fiore’s statue scheme is Nevada’s current governor, Joe Lombardo, who at the time was Clark County sheriff.",
+      "reason": "This paragraph provides relevant information about the impact of Fiore's actions on a notable individual.",
+      "label": 1
+    },
+    {
+      "paragraph": "The question now is whether state prosecutors will take the case.",
+      "reason": "This paragraph discusses potential legal actions related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Benjamin Edwards, a professor at the University of Nevada, Las Vegas’ William S. Boyd School of Law, said, “A presidential pardon has the effect of removing any criminal liability for the pardoned actions under federal law, but the same underlying acts can form the basis for a state law prosecution.”",
+      "reason": "This provides relevant legal context about the implications of a presidential pardon.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fiore’s lawyer believes she may be off the hook by way of the statute of limitations. We’ll see.",
+      "reason": "This offers relevant information about the potential legal outcome for Fiore.",
+      "label": 1
+    },
+    {
+      "paragraph": "If Obama or Biden — or any other president — had pardoned someone like Fiore, who did what she did, they would never be let off the hook. Never.",
+      "reason": "This is a hypothetical scenario that does not add new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "And loudly condemning such a pardon would have been Trump, and all of his MAGA sycophants, more than a few of whom proudly fly “thin blue line” American flags.",
+      "reason": "This is speculative and does not provide new facts or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "And yet their guy, their Dear Leader, granted a full pardon to a woman who used money meant for a statue honoring a murdered police officer for cosmetic surgery, rent and her daughter’s wedding.",
+      "reason": "This provides specific details about Fiore's actions, which are central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Reach Montini at ed.montini@arizonarepublic.com.",
+      "reason": "This is contact information for the author, not relevant to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "headline": "Paris 2024: Record-breaking Olympic Games on and off the field",
+  "context": [
+    "These Olympic Games were the first to be planned and delivered in line with the reforms of Olympic Agenda 2020. They were younger, more inclusive, more urban and more sustainable.",
+    "They were the very first Olympic Games with full gender parity, because the International Olympic Committee (IOC) allocated 50 per cent of the quota places to female athletes and 50 per cent to male athletes. Olympic and world records were broken, and athletes recorded historic firsts for their countries. On top of this was record breaking engagement, with more than half of the entire world’s population expected* to have followed the Olympic Games Paris 2024. Media Rights-Holders (MRHs) are reporting record figures compared to previous Games, with Paris 2024 anticipated to be the most followed Games ever, with over half of the world’s population expected to have engaged with them."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Ahead of the Closing Ceremony at the Stade de France, join us in looking back at the incredible facts and figures from the Olympic Games Paris 2024.",
+      "reason": "This paragraph is an introduction and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "All data as of 11 August 2024.",
+      "reason": "This paragraph provides a timestamp but no new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "*Full audience report will be published by the IOC towards the end of 2024.",
+      "reason": "This paragraph is a note about future information, not current content.",
+      "label": 0
+    },
+    {
+      "paragraph": "© IOC/Greg Martin",
+      "reason": "This is a photo credit and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Sport",
+      "reason": "This is a section header and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "19 days of competition",
+      "reason": "This provides a specific detail about the duration of the event, contributing to the understanding of the Games' scale.",
+      "label": 1
+    },
+    {
+      "paragraph": "Athletes from the territories of 206 National Olympic Committees and the IOC Refugee Olympic Team represented",
+      "reason": "This paragraph provides relevant information about the diversity and inclusivity of the participating athletes.",
+      "label": 1
+    },
+    {
+      "paragraph": "32 sports/48 disciplines",
+      "reason": "This gives specific information about the variety of sports and disciplines, contributing to the understanding of the event's scope.",
+      "label": 1
+    },
+    {
+      "paragraph": "35 competition venues",
+      "reason": "This provides relevant logistical information about the number of venues used, contributing to the understanding of the event's scale.",
+      "label": 1
+    },
+    {
+      "paragraph": "4 additional sports proposed by the Paris 2024 Organising Committee: skateboarding, sport climbing, surfing and breaking",
+      "reason": "This paragraph provides new information about the inclusion of additional sports, which is relevant to the Games' innovation and appeal.",
+      "label": 1
+    },
+    {
+      "paragraph": "15 new events",
+      "reason": "This provides specific information about the number of new events introduced at the Paris 2024 Olympics.",
+      "label": 1
+    },
+    {
+      "paragraph": "1 sport made its Olympic debut – breaking",
+      "reason": "This mentions a specific sport making its debut, contributing to the narrative of record-breaking and new developments.",
+      "label": 1
+    },
+    {
+      "paragraph": "754 competition sessions",
+      "reason": "This provides a specific detail about the number of competition sessions, contributing to the scale of the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "329 medal events",
+      "reason": "This provides specific information about the number of medal events, contributing to the understanding of the event's scale.",
+      "label": 1
+    },
+    {
+      "paragraph": "5,084 medals have been produced, using 18 grammes of iron from the Eiffel Tower",
+      "reason": "This provides a unique fact about the medals, linking them to a famous landmark and adding to the narrative of the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "20 mixed-gender medal events",
+      "reason": "This provides specific information about the number of mixed-gender events, contributing to the theme of inclusivity.",
+      "label": 1
+    },
+    {
+      "paragraph": "125 Olympic records broken in 10 disciplines",
+      "reason": "This gives concrete data on the number of Olympic records broken, supporting the record-breaking theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "32 world records broken in 8 disciplines",
+      "reason": "This offers specific details on world records, reinforcing the narrative of athletic achievement.",
+      "label": 1
+    },
+    {
+      "paragraph": "91 NOCs and the IOC Refugee Olympic Team won medals",
+      "reason": "This highlights the diversity and success of participating teams, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "4 NOCs won their first Olympic Games gold medal:",
+      "reason": "This provides information on historic firsts for countries, aligning with the article's theme of record-breaking achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Botswana: Letsile Tebogo – athletics – men’s 200m",
+      "reason": "This paragraph lists an athlete and event, contributing to the narrative of record-breaking performances.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dominica: Thea LaFond – athletics – women’s triple jump",
+      "reason": "This paragraph lists an athlete and event, contributing to the narrative of record-breaking performances.",
+      "label": 1
+    },
+    {
+      "paragraph": "Guatemala: Adriana Ruano Oliva – shooting – women’s trap",
+      "reason": "This paragraph lists an athlete and event, contributing to the narrative of record-breaking performances.",
+      "label": 1
+    },
+    {
+      "paragraph": "Saint Lucia: Julien Alfred – athletics – women’s 100m",
+      "reason": "This paragraph lists an athlete and event, contributing to the narrative of record-breaking performances.",
+      "label": 1
+    },
+    {
+      "paragraph": "First medal for the Refugee Olympic Team: Cindy Ngamba (bronze) – boxing - women’s 75kg",
+      "reason": "This paragraph highlights a historic first, directly related to the theme of record-breaking achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "First medal won:",
+      "reason": "This is a heading for the list of first medals won by countries, providing context for the following details.",
+      "label": 1
+    },
+    {
+      "paragraph": "Albania: Chermen Valiev (bronze) – wrestling – men’s 74kg freestyle",
+      "reason": "This provides specific information about Albania's first medal win, contributing to the narrative of record-breaking achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Cape Verde: David de Pina (bronze) – boxing – men’s 51kg",
+      "reason": "This provides specific information about Cape Verde's first medal win, contributing to the narrative of record-breaking achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dominica: Thea LaFond (gold) – athletics – women’s triple jump",
+      "reason": "This provides specific information about Dominica's first medal win, contributing to the narrative of record-breaking achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Saint Lucia: Julien Alfred (gold) – athletics – women’s 100m",
+      "reason": "This provides specific information about Saint Lucia's first medal win, contributing to the narrative of record-breaking achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fans",
+      "reason": "The paragraph is a single word and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Throughout Paris and across France, fans have packed out the competition venues and hundreds of celebration sites.",
+      "reason": "This provides context about fan engagement and atmosphere during the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "Over 9.5 out of 10 million tickets have been sold",
+      "reason": "This provides specific data on ticket sales, indicating high engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "145,000 spectators from all around the world gathered in 743 Carrés des Supporters zones located in venue stands during the Games, to cheer for the athletes and create a festive atmosphere – 2,250 of them gathered along the River Seine for the Opening Ceremony",
+      "reason": "This provides detailed information on spectator engagement and specific events.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nearly one million people came out into the streets to watch the two Olympic road cycling races on 3 and 4 August",
+      "reason": "This provides specific information on public engagement with a particular event.",
+      "label": 1
+    },
+    {
+      "paragraph": "More than 6 million visitors to celebration sites across the country, including:",
+      "reason": "This paragraph introduces the scale of visitor engagement, which is relevant to the record-breaking theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "4.5 million fans across 171 Club 2024 sites that opened for the Games period, with the three biggest – Paris Hôtel de Ville, Parc Georges-Valbon and Marseille – welcoming 15,000 to 20,000 people per day",
+      "reason": "This paragraph provides specific details about visitor numbers and major sites, contributing to the narrative of record engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nations Park: 15 nations hosted their own “House” at La Villette, including Club France, with Park attendance at more than 90,000 people per day",
+      "reason": "This paragraph offers specific information about international participation and visitor numbers, relevant to the theme of global engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Champions Park: 280,000 people experienced the celebration space at the Eiffel Tower, cheering for 600 medallists from around the world",
+      "reason": "This paragraph provides details on a specific celebration site and its significance, relevant to the overall engagement theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Across all types of celebration sites, 95 per cent of visitors rated their experience as good or excellent, demonstrating the enthusiasm of the fans for the Games and free celebrations",
+      "reason": "This paragraph highlights visitor satisfaction, supporting the narrative of successful and engaging Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some examples of sports that set new attendance records at the Games:",
+      "reason": "This paragraph introduces the topic of attendance records but does not provide specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "More than one million tickets were sold to athletics events – the highest number ever for the sport at an Olympic Games.",
+      "reason": "This paragraph provides specific data on ticket sales, contributing to the narrative of record-breaking attendance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Basketball - nearly 1.08 million spectators",
+      "reason": "This paragraph provides specific attendance figures for basketball, contributing to the record-breaking theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rugby 7s – over 530,000 spectators",
+      "reason": "This paragraph provides specific attendance figures for Rugby 7s, contributing to the record-breaking theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Handball – nearly 500,000 spectators",
+      "reason": "This paragraph provides specific attendance figures for handball, contributing to the record-breaking theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Beach volleyball – nearly 450,000 spectators",
+      "reason": "Provides specific data on spectator engagement, relevant to the theme of record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "On 30 July alone, around 743,000 spectators attended Paris 2024 events",
+      "reason": "Offers specific data on a single day's attendance, contributing to the narrative of high engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "More than 4,800 communities have been awarded the Terre de Jeux label, bringing the Games to those who are far from the stadiums",
+      "reason": "Highlights the outreach and inclusivity efforts of the Games, relevant to the theme of broader engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "There were more than 2,500 Cultural Olympiad projects, offering over 100,000 events",
+      "reason": "Provides context on the cultural aspect of the Games, contributing to the narrative of inclusivity and engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last night, more than 48,000 Olympic enthusiasts took part in the first-ever mass-participation event organised during the Olympic Games, the Marathon Pour Tous",
+      "reason": "Describes a unique event that highlights public engagement, relevant to the theme of record-breaking participation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gender equality",
+      "reason": "The paragraph is a vague heading without additional information.",
+      "label": 0
+    },
+    {
+      "paragraph": "196 NOC delegations (96 per cent) selected one male and one female athlete as their flagbearers",
+      "reason": "Provides specific data on gender equality efforts at the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "28 out of 32 sports reached full gender equality",
+      "reason": "Offers specific information on gender equality in sports at the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "A more gender-balanced number of medal events, with the competition schedule comprising 152 women’s events, 157 men’s events and 20 mixed-gender events",
+      "reason": "Details the gender balance in the competition schedule.",
+      "label": 1
+    },
+    {
+      "paragraph": "Women accounted for 50 per cent of the 45,000 volunteers",
+      "reason": "Provides specific data on gender parity among volunteers.",
+      "label": 1
+    },
+    {
+      "paragraph": "The staff and Board of the Paris 2024 Organising Committee were 50/50 gender balanced",
+      "reason": "This paragraph provides specific information about gender parity within the organizing committee, which is relevant to the theme of inclusivity and gender parity.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gender parity was achieved among the 10,000 torchbearers/relay participants",
+      "reason": "This paragraph contributes relevant information about gender parity in a specific aspect of the Games, aligning with the article's focus on inclusivity.",
+      "label": 1
+    },
+    {
+      "paragraph": "The 40,000 spots for the Marathon Pour Tous mass-participation event were also split equally between men and women",
+      "reason": "This paragraph provides relevant details about gender parity in a specific event, supporting the article's theme of inclusivity.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some examples of record attendances for women's sports:",
+      "reason": "This paragraph introduces examples of record attendances but does not provide specific information, making it more of a lead-in than substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "World record for women’s rugby: 66,000 at the Stade de France",
+      "reason": "This paragraph provides a specific example of record attendance, contributing to the article's narrative about record-breaking achievements.",
+      "label": 1
+    },
+    {
+      "paragraph": "European record for women’s basketball: 27,000 in Lille",
+      "reason": "This provides specific data on record attendance, contributing to the theme of record-breaking events.",
+      "label": 1
+    },
+    {
+      "paragraph": "Record attendance for women’s handball: 26,500",
+      "reason": "This provides specific data on record attendance, contributing to the theme of record-breaking events.",
+      "label": 1
+    },
+    {
+      "paragraph": "(data correct as of end of competition on 10 August 2024)",
+      "reason": "This is a timestamp and does not contribute new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Olympic Solidarity programme helped thousands of athletes qualify for and compete at the Games by providing crucial funding to cover training, equipment and other essential costs, leading to outstanding results.",
+      "reason": "This provides context on how athletes were supported, contributing to the narrative of inclusivity and success.",
+      "label": 1
+    },
+    {
+      "paragraph": "599 Olympic Solidarity individual scholarship-holders competed (303 men and 296 women)",
+      "reason": "This provides specific data on the number of athletes supported, contributing to the narrative of inclusivity and success.",
+      "label": 1
+    },
+    {
+      "paragraph": "75 medals won by scholarship-holders: 26 gold, 20 silver and 29 bronze, plus 132 diplomas",
+      "reason": "This paragraph provides specific data on the achievements of scholarship-holders, contributing to the narrative of record-breaking performances.",
+      "label": 1
+    },
+    {
+      "paragraph": "195 NOCs received Olympic Solidarity athlete scholarship funding for Paris (159 through individual scholarships and 36 through tailor-made assistance)",
+      "reason": "This paragraph offers detailed information about the funding and support provided, relevant to the theme of inclusivity and support.",
+      "label": 1
+    },
+    {
+      "paragraph": "1 medal and 3 diplomas won by Refugee Athlete Support Grant beneficiaries",
+      "reason": "This paragraph highlights the achievements of refugee athletes, aligning with the theme of inclusivity and historic firsts.",
+      "label": 1
+    },
+    {
+      "paragraph": "5 medals won by teams who received Olympic Solidarity Team Support grants: 3 gold, 1 silver and 1 bronze, plus 12 diplomas",
+      "reason": "This paragraph provides specific achievements of teams supported by grants, relevant to the article's focus on record-breaking performances.",
+      "label": 1
+    },
+    {
+      "paragraph": "139 Paris 2024 scholarship-holders (64 women and 75 men) were selected as the flagbearers for their NOC at the Opening Ceremony",
+      "reason": "This paragraph highlights gender parity and the role of scholarship-holders, relevant to the article's themes.",
+      "label": 1
+    },
+    {
+      "paragraph": "88 Paris 2024 scholarship-holders (45 women and 43 men) were selected as the flagbearers for their NOC at the Closing Ceremony (figure based on provisional list)",
+      "reason": "This paragraph provides specific information about the selection of flagbearers, contributing to the narrative of inclusivity and gender parity.",
+      "label": 1
+    },
+    {
+      "paragraph": "Media and broadcast",
+      "reason": "This is a heading and does not provide any new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Paris 2024 reached billions of people around the world thanks to new media rights agreements and the work of the Olympic Broadcasting Services (OBS) team.",
+      "reason": "This paragraph provides relevant information about the global reach and media engagement of the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "36 Media Rights-Holders (including the Olympic Channel)",
+      "reason": "This is a fragment and does not provide complete information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "182 broadcast sublicensees",
+      "reason": "This is a fragment and does not provide complete information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Over half of the world’s population is expected to have engaged via broadcast or digital channels with the Olympic Games Paris 2024",
+      "reason": "This paragraph provides a specific statistic about global engagement with the Games, which is relevant to the article's focus on record-breaking aspects.",
+      "label": 1
+    },
+    {
+      "paragraph": "11,000+ hours produced by OBS",
+      "reason": "This paragraph provides a specific detail about the production scale of the Games, contributing to the narrative of record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "8,300+ broadcast personnel",
+      "reason": "This paragraph provides a specific detail about the number of personnel involved, contributing to the narrative of record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "1,000+ OBS cameras",
+      "reason": "This paragraph provides a specific detail about the equipment used, contributing to the narrative of record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "3,680 microphones",
+      "reason": "This paragraph provides a specific detail about the equipment used, contributing to the narrative of record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "OBS's online content delivery platform (Content+) has become the primary method of delivering short-form and social media content to the MRHs – more than 17,000 pieces are available (of which approximately 790 pieces are vertical content designed specifically for social media)",
+      "reason": "Provides specific details about the content delivery platform used during the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "This has resulted in a total of more than 113,000 downloads over the course of the Games",
+      "reason": "Offers quantitative data on the engagement with the content delivery platform.",
+      "label": 1
+    },
+    {
+      "paragraph": "Over 440 Athlete Moments completed, more than double that of Tokyo 2020",
+      "reason": "Gives a comparative statistic highlighting the increase in Athlete Moments from previous Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "70+ countries connecting to athletes via the Athlete Moment",
+      "reason": "Provides information on the international reach and engagement of the Athlete Moment feature.",
+      "label": 1
+    },
+    {
+      "paragraph": "AI used to support MRHs with automatic highlights generation – over 95,000 highlights created",
+      "reason": "Describes the use of AI technology to enhance content delivery and engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "5,733 accredited media (4,155 press + 1,578 photographers)",
+      "reason": "This provides specific data on media accreditation, relevant to the record-breaking aspect of the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "903 domestic / 4,830 international press and photographers",
+      "reason": "This offers detailed information on the composition of the accredited media, relevant to the article's focus on record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "2,113 news organisations",
+      "reason": "This provides a specific figure on the number of news organizations involved, relevant to the article's theme of record-breaking media engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "© IOC",
+      "reason": "This is a copyright notice and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Digital",
+      "reason": "This is a single word with no context or contribution to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "More Olympics fans than ever before used the IOC’s various digital and social platforms to follow the Games:",
+      "reason": "This paragraph introduces the topic of digital engagement, which is relevant to the record-breaking theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unprecedented results on Olympics social media handles, with over 12 billion engagements, more than double that of Tokyo 2020",
+      "reason": "This paragraph provides specific data on social media engagement, contributing to the narrative of record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Over 32 million new followers joined Olympics social media during Paris 2024, more than tripling the growth seen during Tokyo 2020",
+      "reason": "This paragraph offers specific figures on social media growth, supporting the article's focus on record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Record usage of the Olympic web and app, reaching approximately 300 million people during Paris 2024, the highest for any Olympic Games edition",
+      "reason": "This paragraph provides concrete data on digital platform usage, relevant to the article's theme of record-breaking engagement.",
+      "label": 1
+    },
+    {
+      "paragraph": "No. 1 sports app in over 70 territories and the no. 1 app overall in key markets, including the USA, France and Italy",
+      "reason": "This paragraph gives specific information about the app's success, contributing to the record-breaking narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Legacy and impact",
+      "reason": "The paragraph is a section header and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Paris 2024 has set new benchmarks for the positive impact and legacy the Games can create for the local communities before, during and long after the event.",
+      "reason": "The paragraph provides relevant information about the impact and legacy of the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "Paris 2024 has brought more sport to more people across France",
+      "reason": "The paragraph provides relevant information about the increased accessibility of sports due to the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "30 minutes of daily physical activity at primary schools adopted as a national policy and introduced in all 36,800 French primary schools",
+      "reason": "The paragraph provides specific information about a national policy change related to the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "26,000 children across France received free swimming lessons as part of the 1,2,3 Nagez! programme – including 9,400 from Seine-Saint-Denis",
+      "reason": "The paragraph provides specific information about a program initiated due to the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "5 million young people engaged across eight editions of the Olympic and Paralympic Week",
+      "reason": "This provides specific data on engagement related to the Olympic Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "5,000 community sports facilities across French neighbourhoods have brought more opportunities to practise sport closer to people’s homes",
+      "reason": "This highlights the impact of the Games on local sports infrastructure, relevant to the theme of inclusivity and accessibility.",
+      "label": 1
+    },
+    {
+      "paragraph": "4.5 million people directly benefitting from 1,100 grassroots projects that use sport to improve people’s lives",
+      "reason": "This provides specific information on the social impact of the Games, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Aquatics Centre – strategically located in Seine-Saint-Denis, which lacks sports facilities and where one in every two 11-year-olds cannot swim",
+      "reason": "This gives context about the location and its significance, relevant to the article's focus on inclusivity.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Olympic Village, also in Seine-Saint-Denis, will become a new residential district with 2,800 apartments, including 25 per cent social housing",
+      "reason": "This provides information on the legacy and urban development impact of the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "Between EUR 6.9 and 11.1 billion in economic activity expected to be generated by the Games within the Paris metropolitan area",
+      "reason": "This paragraph provides specific economic impact data related to the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "181,100 people found employment in Games-related jobs",
+      "reason": "This paragraph offers specific employment figures directly related to the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "30,000 people have been trained in new skills for future careers, enhancing their employability and career prospects",
+      "reason": "This paragraph provides information on skill development and future career prospects linked to the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "90 per cent of Games suppliers from France, 78 per cent are small- and middle-sized suppliers",
+      "reason": "This paragraph gives details about the local economic impact and supplier demographics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sustainability",
+      "reason": "This paragraph is too vague and lacks specific information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Paris 2024 has set new sustainability standards for global sporting events by doing more with less to reduce the environmental impact of the Games while maximising social and economic benefits.",
+      "reason": "Provides new information about sustainability efforts at Paris 2024.",
+      "label": 1
+    },
+    {
+      "paragraph": "Paris 2024 aimed to cut carbon emissions by half compared to the average of London 2012 and Rio 2016",
+      "reason": "Gives specific details about carbon emission goals for Paris 2024.",
+      "label": 1
+    },
+    {
+      "paragraph": "95 per cent of venues were existing or temporary",
+      "reason": "Offers specific information about venue usage for sustainability.",
+      "label": 1
+    },
+    {
+      "paragraph": "All venues accessible by public transport",
+      "reason": "Details accessibility efforts related to sustainability.",
+      "label": 1
+    },
+    {
+      "paragraph": "Second life secured for 90 per cent of equipment and goods",
+      "reason": "Provides specific information on the reuse of equipment and goods.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Olympic Village – a new residential and business eco-district constructed with 30 per cent less carbon compared to a regular French construction",
+      "reason": "Provides relevant information about the sustainability aspect of the Paris 2024 Olympics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Around 14,000 athletes and entourage members stayed at the Olympic Villages in Paris, Lille, Châteauroux, Marseille and Tahiti",
+      "reason": "Gives specific details about the scale and locations of the Olympic Villages, relevant to the event's logistics.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Paris Olympic Village will become a new residential and business eco-district with 2,800 apartments for 6,000 people, 25 per cent of which will be social housing",
+      "reason": "Provides information on the post-Games use of the Olympic Village, relevant to sustainability and urban development.",
+      "label": 1
+    },
+    {
+      "paragraph": "Olympic Torch Relay",
+      "reason": "This is a heading without any substantive information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The relay lasted for 68 days, travelling across French cities, towns and territories",
+      "reason": "Offers specific details about the Olympic Torch Relay, relevant to the event's cultural significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The torch passed through over 450 towns and cities",
+      "reason": "Provides specific details about the Olympic Torch Relay, contributing to the narrative of the Games.",
+      "label": 1
+    },
+    {
+      "paragraph": "It covered 65 regions, including five overseas territories: Guadeloupe, French Guiana, Martinique, French Polynesia and Réunion Island",
+      "reason": "Offers additional context about the geographic scope of the Torch Relay, relevant to the Games' reach.",
+      "label": 1
+    },
+    {
+      "paragraph": "Approximately 11,000 torchbearers participated",
+      "reason": "Gives specific information about the number of participants in the Torch Relay, relevant to the event's scale.",
+      "label": 1
+    },
+    {
+      "paragraph": "Around 8 million spectators came to see the Olympic Torch Relay",
+      "reason": "Provides data on public engagement with the Torch Relay, relevant to the Games' impact.",
+      "label": 1
+    }
+  ]
+}

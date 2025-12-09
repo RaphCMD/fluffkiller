@@ -1,0 +1,259 @@
+{
+    "headline": "Conservatives lose election; Poilievre loses Carleton riding | Ottawa Citizen",
+    "context": [
+        "The Conservative leader will not be the next prime minister, nor will he return as a local MP.",
+        "Conservative Leader Pierre Poilievre lost his battle to become prime minister Monday evening, hours before he found out he failed to secure his own seat in Carleton."
+    ],
+    "annotations": [
+        {
+            "paragraph": "In an early-morning speech to supporters, Poilievre vowed to fight on saying “we have much to celebrate tonight,” noting the party gained its highest vote count since 1988 and “denied the NDP and Liberals enough seats to form a coalition government.",
+            "reason": "Reports Poilievre’s speech and highlights the party’s electoral performance.",
+            "label": 1
+        },
+        {
+            "paragraph": "He congratulated Mark Carney for winning a “razor-thin” minority and said the Conservatives would work with the prime minister and all parties to defend Canada against threats from U.S. President Trump.",
+            "reason": "Describes Poilievre’s conciliatory remarks and policy stance.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Ottawa Citizen’s best journalism, delivered directly to your inbox by 7 p.m. on weekdays.",
+            "reason": "Promotional newsletter subscription prompt unrelated to article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "A welcome email is on its way. If you don't see it, please check your junk folder.",
+            "reason": "Subscription confirmation instruction not relevant to story.",
+            "label": 0
+        },
+        {
+            "paragraph": "The next issue of The Evening Citizen will soon be in your inbox.",
+            "reason": "Newsletter notice that does not add article information.",
+            "label": 0
+        },
+        {
+            "paragraph": "A crowd gathered at Poilievre’s watch party at the Rogers Centre in Ottawa — many wearing shirts saying “Pierre Poilievre for Prime Minister” — became subdued when a Liberal minority win was declared in what was a tight race. Some were in tears.",
+            "reason": "Describes supporters’ reaction to the election outcome.",
+            "label": 1
+        },
+        {
+            "paragraph": "Poilievre led the party during a stunning reversal of fortune. A year ago, the party seemed poised to lead a majority government, but that lead evaporated amid U.S. President Donald Trump’s tariffs and threats and the election of former Bank of Canada head Carney to head the Liberals.",
+            "reason": "Provides context on the party’s shifting prospects.",
+            "label": 1
+        },
+        {
+            "paragraph": "Supporters said Monday that they believed the country was desperately in need of change and Poilievre represented that change.",
+            "reason": "Shares supporters’ motivations for backing Poilievre.",
+            "label": 1
+        },
+        {
+            "paragraph": "Instead, there was change found in Poilievre’s long-held riding of Carleton after he lost a close race with Liberal challenger Bruce Fanjoy.",
+            "reason": "Introduces the unexpected result in Poilievre’s own riding.",
+            "label": 1
+        },
+        {
+            "paragraph": "The riding was the target of a protest movement that flooded the ballot with candidates, slowing the vote count. Fanjoy was not declared the victor until almost 5 a.m. local time",
+            "reason": "Explains factors delaying the Carleton result and protest tactic.",
+            "label": 1
+        },
+        {
+            "paragraph": "Poilievre, a populist with western Canadian roots, has represented Carleton for more than 20 years, first winning the seat when he was just 24 years old. This was his first election campaign as Conservative leader.",
+            "reason": "Offers background on Poilievre’s tenure and leadership role.",
+            "label": 1
+        },
+        {
+            "paragraph": "Fanjoy, meanwhile, believed people wanted change in Carleton. Two years before the campaign, he began knocking on doors, announcing his intention to defeat Poilievre.",
+            "reason": "Details challenger’s long-term campaign strategy.",
+            "label": 1
+        },
+        {
+            "paragraph": "Fanjoy, a former businessman and environmentalist, knocked on tens of thousands of doors and raised more than $100,000 in the first weeks of campaigning. He said he consistently heard that people wanted change in the riding.",
+            "reason": "Provides specifics on Fanjoy’s campaign efforts and fundraising.",
+            "label": 1
+        },
+        {
+            "paragraph": "Anticipation hung in the air throughout the evening for the Liberal supporters of Carleton after early polling suggested Fanjoy was in the lead, with cheers erupting often from his crowd of supporters.",
+            "reason": "Captures atmosphere at Fanjoy’s watch party.",
+            "label": 1
+        },
+        {
+            "paragraph": "“My heart is filled with gratitude,” Fanjoy said, addressing his supporters briefly.",
+            "reason": "Quotes the winner’s expression of thanks.",
+            "label": 1
+        },
+        {
+            "paragraph": "Fanjoy said he was grateful for the “remarkable efforts” of the hundreds of volunteers who have shown up for him, which have lifted his spirits since he started campaigning in 2023.",
+            "reason": "Highlights reliance on volunteer support in campaign.",
+            "label": 1
+        },
+        {
+            "paragraph": "“I will never forget what this feels like,” Fanjoy said in an early speech. “This doesn’t happen without you.”",
+            "reason": "Conveys Fanjoy’s emotional response to victory.",
+            "label": 1
+        },
+        {
+            "paragraph": "With all but one poll reporting, Fanjoy was ahead by 3,837 votes over Poilievre.",
+            "reason": "Provides the final margin of victory.",
+            "label": 1
+        },
+        {
+            "paragraph": "Several volunteers and residents gathered to watch Fanjoy’s election night party at Manotick Legion, located next to Poilievre’s campaign office.",
+            "reason": "Describes supporters’ location for the watch party.",
+            "label": 1
+        },
+        {
+            "paragraph": "June and Bob Neske were two dedicated volunteers with Fanjoy’s campaign and former Conservative voters. They said they began swinging to the left after Carney won the Liberal leadership and focused on economic policy as one of their main concerns.",
+            "reason": "Introduces local volunteers and their reasons for switching support.",
+            "label": 1
+        },
+        {
+            "paragraph": "“When Mark Carney was looking like the guy who was looking to take over the part, I looked into him a lot more,” Bob said. “I realized we have the opportunity here to elect a brilliant economist who’s been in the government and what we need right now to deal with Donald Trump.”",
+            "reason": "Quotes a volunteer explaining policy motivations.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Neskes said Fanjoy was their “local guy” and the Liberal party was now a party that aligned most with what Canada needed right now.",
+            "reason": "Summarizes volunteers’ rationale for backing Fanjoy.",
+            "label": 1
+        },
+        {
+            "paragraph": "“If Bruce wins, I’m going to cry,” Bob said. “We were more or less resigned to Pierre Poilievre. It really swung to the point where we realized that we can win this riding.”",
+            "reason": "Shows the emotional stakes for volunteers.",
+            "label": 1
+        },
+        {
+            "paragraph": "Bob said many residents in the Carleton riding were looking for a change in representation, an ironic contradiction to Poilievre’s campaign on change for the country.",
+            "reason": "Highlights the local sentiment for change.",
+            "label": 1
+        },
+        {
+            "paragraph": "June said volunteers had placed hundreds of hours into canvassing for Fanjoy, especially in the final days leading up to election day.",
+            "reason": "Emphasizes the intensity of ground campaign efforts.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Every blister, every sore, everything, it’ll be worth it,” June said.",
+            "reason": "Quotes volunteer determination and commitment.",
+            "label": 1
+        },
+        {
+            "paragraph": "Fanjoy’s hard-fought campaign to defeat Poilievre drew attention and support from across the country with Carleton, to some, becoming a microcosm of the national race. Adding to the intensity, Nepean, the riding that borders Carleton, was where Liberal leader Mark Carney sought a seat.",
+            "reason": "Places Carleton’s contest in the broader national context.",
+            "label": 1
+        },
+        {
+            "paragraph": "Long viewed as a safe, even sleepy Conservative seat on the outskirts of Ottawa, Carleton became one of the most-watched races in the country during a campaign shaped by threats from the Trump administration, both economic and existential.",
+            "reason": "Describes how Carleton’s profile changed during the campaign.",
+            "label": 1
+        },
+        {
+            "paragraph": "In the final days of the campaign, the race between Poilievre and Fanjoy tightened, and there were reports that both the Liberals and Conservatives were sending extra campaign workers into the riding that stretches between Arnprior and near Cumberland along the southern edge of Ottawa.",
+            "reason": "Notes last-minute campaign intensification.",
+            "label": 1
+        },
+        {
+            "paragraph": "Poilievre held an 11th-hour election night eve whistle stop in the riding on Sunday night.",
+            "reason": "Mentions Poilievre’s final campaign event.",
+            "label": 1
+        },
+        {
+            "paragraph": "By then, though, close to half of the eligible residents had already cast their votes. Carleton saw the highest number of voters in the country cast ballots during advance polls between April 18 and 21.",
+            "reason": "Reports high advance voter turnout in Carleton.",
+            "label": 1
+        },
+        {
+            "paragraph": "In total, a record 7.28 million Canadians voted during advance polls, according to Elections Canada, resulting in hours-long waits at some polling stations.",
+            "reason": "Provides nationwide advance voting statistics.",
+            "label": 1
+        },
+        {
+            "paragraph": "In Carleton alone, 43,394 of the riding’s 105,091 eligible voters participated in the advance polls.",
+            "reason": "Gives specific local voter turnout numbers.",
+            "label": 1
+        },
+        {
+            "paragraph": "High numbers of advance voters are seen as a sign of high engagement among voters and usually a motivation for change.",
+            "reason": "Explains significance of advance vote levels.",
+            "label": 1
+        },
+        {
+            "paragraph": "Not only did Carleton have the highest early voter turnout in the country, but it also had the longest ballots in the country, with a historic 91 candidates running in the riding. Most of those candidates did not campaign or even visit the riding and were part of a protest.",
+            "reason": "Introduces the record number of candidates and protest impact.",
+            "label": 1
+        },
+        {
+            "paragraph": "The riding became the target of a group calling itself the Longest Ballot Committee, which flooded ballots in two previous by-elections. Its organizers say the protest is meant to draw attention to the need for electoral reform in Canada.",
+            "reason": "Details the protest group’s purpose and history.",
+            "label": 1
+        },
+        {
+            "paragraph": "The sheer volume of candidates created logistical difficulties and left voters wading through a metre-long ballot for the name of the candidate they planned to vote for.",
+            "reason": "Describes voting challenges caused by protest.",
+            "label": 1
+        },
+        {
+            "paragraph": "Elections Canada warned final results would be delayed because of the size of the ballot takes five times as long to count as a regular ballot. It allowed counting of advance polls starting at 3:30 p.m. on Monday, six hours before the polls closed, “due to the unusually large number of candidates on the ballot.”",
+            "reason": "Explains procedural adjustments for counting ballots.",
+            "label": 1
+        },
+        {
+            "paragraph": "Most candidates who were part of the protest did not campaign and some seemed only vaguely aware of where the riding is. At least one apologized for any inconvenience, saying they were exercising their democratic right.",
+            "reason": "Notes protest candidates’ lack of engagement.",
+            "label": 1
+        },
+        {
+            "paragraph": "Benjamin Firth, a resident in the riding, said he was frustrated and angry that the Longest Ballot protest was able to disrupt voting.",
+            "reason": "Includes voter criticism of the protest impact.",
+            "label": 1
+        },
+        {
+            "paragraph": "Firth, who uses a wheelchair and has disabilities, said the long wait caused discomfort for him and “made me feel like my voice and right to vote has no value over their disgruntled election opinion.”",
+            "reason": "Presents personal testimony on voting accessibility issues.",
+            "label": 1
+        },
+        {
+            "paragraph": "He was able to vote with assistance, he said, “but I left feeling extremely frustrated.”",
+            "reason": "Follows up on voter experience of frustration despite assistance.",
+            "label": 1
+        },
+        {
+            "paragraph": "Threats from the U.S. were a focus of the campaign, as were affordability, housing and the prospect of cuts to the public service, candidates said.",
+            "reason": "Summarizes main campaign issues identified by candidates.",
+            "label": 1
+        },
+        {
+            "paragraph": "Most of the candidates on the Carleton ballot were part of the protest.",
+            "reason": "Reiterates protest participation among candidates.",
+            "label": 1
+        },
+        {
+            "paragraph": "In addition to Poilievre and Fanjoy, candidates included:",
+            "reason": "Introduces list of additional candidates.",
+            "label": 1
+        },
+        {
+            "paragraph": "Beth Prokaska running for the NDP. The retired teacher spent the last 25 years teaching music and supporting families across the Ottawa–Carleton District School Board.",
+            "reason": "Provides biographical detail on NDP candidate.",
+            "label": 1
+        },
+        {
+            "paragraph": "Mark Watson for the Greens.",
+            "reason": "Identifies Green Party candidate.",
+            "label": 1
+        },
+        {
+            "paragraph": "Chantale Dore represented the People’s Party of Canada in the riding. The party’s biography said Dore had a “strong dedication” to the community and stands for the values of freedom, personal responsibility, respect and fairness.",
+            "reason": "Details People’s Party candidate profile.",
+            "label": 1
+        },
+        {
+            "paragraph": "Please check back as we update results live.",
+            "reason": "A live-update prompt not relevant to article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "This website uses cookies to personalize your content (including ads), and allows us to analyze our traffic. Read more about cookies here. By continuing to use our site, you agree to our Terms of Use and Privacy Policy.",
+            "reason": "Standard cookie and privacy notice unrelated to article.",
+            "label": 0
+        }
+    ]
+}

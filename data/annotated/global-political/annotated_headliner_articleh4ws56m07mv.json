@@ -1,0 +1,34 @@
+{
+  "headline": "US army plans for a potential parade of 6,600 soldiers on Trump’s birthday | Donald Trump | The Guardian",
+  "context": [
+    "Detailed army plans for a potential military parade on Donald Trump’s birthday in June call for more than 6,600 soldiers, at least 150 vehicles, 50 helicopters, seven bands and possibly a couple of thousand civilians, the Associated Press has learned.",
+    "At the same time, Fox News reported that the parade was a definite go-ahead and would happen on 14 June, the 250th birthday of the United States army as well as Trump’s own birthday, when he will become 79."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In addition to active-duty soldiers, the parade will include re-enactors, equipment and more from a variety of historical US conflicts from the revolutionary war to the civil war and the two world wars and the more recent conflicts in Vietnam, Iraq and Afghanistan, Fox reported.",
+      "reason": "Provides specific details about the parade's composition and historical elements.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The president is planning an historic celebration of the army’s 250th birthday that will honor generations of selfless Americans who have risked everything for our freedom,” Vince Haley, the White House domestic policy council director, told the outlet.",
+      "reason": "Contains a quote that adds context to the purpose and significance of the parade.",
+      "label": 1
+    },
+    {
+      "paragraph": "The planning documents obtained by the AP are dated 29 and 30 April and have not been publicly released. They represent the army’s most recent blueprint for its long-planned anniversary festival on the National Mall and the newly added element – a large military parade that Trump has long wanted but is still being discussed.",
+      "reason": "Provides information about the planning status and the significance of the parade.",
+      "label": 1
+    },
+    {
+      "paragraph": "While the slides do not include any price estimates, it would probably cost tens of millions of dollars to put on a parade of that size. Costs would include the movement of military vehicles, equipment, aircraft and troops from across the country to Washington and the need to feed and house thousands of service members.",
+      "reason": "Discusses potential costs and logistical considerations of the parade.",
+      "label": 1
+    },
+    {
+      "paragraph": "High costs halted Trump’s push for a parade in his first term, and the tanks and other heavy vehicles that are part of the army’s latest plans have raised concerns from city officials about damage to roads.",
+      "reason": "Provides historical context and current concerns related to the parade plans.",
+      "label": 1
+    }
+  ]
+}

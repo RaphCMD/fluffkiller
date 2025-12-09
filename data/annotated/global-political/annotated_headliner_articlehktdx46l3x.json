@@ -1,0 +1,89 @@
+{
+  "headline": "Israeli drones hit Gaza aid flotilla in international waters off Malta, NGO says",
+  "context": [
+    "A group of activists organising an aid boat for Gaza said it was attacked on Friday by Israeli drones in international waters off Malta as they headed towards the Palestinian territory.",
+    "\"At 00:23 Maltese time, the Conscience, a Freedom Flotilla Coalition ship came under direct attack in international waters,\" the group said in a statement."
+  ],
+  "annotations": [
+    {
+      "paragraph": "\"Armed drones attacked the front of an unarmed civilian vessel twice, causing a fire and a substantial breach in the hull,\" it added, blaming Israel.",
+      "reason": "Provides specific details about the attack on the vessel.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Israeli ambassadors must be summoned and answer to violations of international law, including the ongoing blockade and the bombing of our civilian vessel in international waters.\"",
+      "reason": "Contains a call for diplomatic action and references international law violations.",
+      "label": 1
+    },
+    {
+      "paragraph": "To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.",
+      "reason": "This is a technical note unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The group said activists from 21 countries were on board. They are on what it called a \"mission to challenge Israel's illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid\".",
+      "reason": "Provides context about the mission and the international nature of the activists.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israel has not commented on the allegation.",
+      "reason": "Notes the lack of response from Israel, relevant to the story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The strike, the activists said, appeared to target the boat's generator. It left the boat without power and at risk of sinking, the statement added.",
+      "reason": "This paragraph provides specific details about the attack's impact on the boat, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Everyone aboard the aid flotilla for Gaza that was hit by drones are \"confirmed safe\", the Maltese government said in a statement on Friday.",
+      "reason": "This paragraph provides important information about the safety of those on board, relevant to the incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The vessel had 12 crew members on board and four civilian passengers; no casualties were reported,\" the statement said, adding that a nearby tug had been directed to aid the vessel.",
+      "reason": "This paragraph gives specific details about the people on board and the response to the incident, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Read moreUN food agency warns food stock in Gaza has run out amid Israeli aid blockade",
+      "reason": "This paragraph is a tangential reference to another topic and does not contribute directly to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The tug arrived on scene and began firefighting operations. By 1:28am (23:28 GMT Thursday), the fire was reported under control. An Armed Forces of Malta patrol vessel was also dispatched to provide further assistance,\" the government said.",
+      "reason": "This paragraph provides details about the response to the incident, contributing to the narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"By 2:13am, all crew were confirmed safe but refused to board the tug ... The ship remains outside territorial waters and is being monitored by the competent authorities,\" the statement concluded.",
+      "reason": "This paragraph provides an update on the status of the crew and the ship after the attack.",
+      "label": 1
+    },
+    {
+      "paragraph": "Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",
+      "reason": "This paragraph provides relevant context about the blockade and military operations affecting Gaza.",
+      "label": 1
+    },
+    {
+      "paragraph": "A previous \"Freedom Flotilla\" launched from southern Turkey in 2010 ended in bloodshed when Israeli forces stormed the Mavi Marmara vessel, killing 10 and wounding 28.",
+      "reason": "This paragraph provides historical context about a similar past event involving a flotilla.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hamas's attack on Israel in October 2023, which sparked the Gaza war, resulted in the deaths of 1,218 people, mostly civilians, according to an AFP tally based on official figures.",
+      "reason": "This paragraph provides background on the recent conflict that is relevant to the current situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The health ministry in Hamas-run Gaza said on Thursday that at least 2,326 people have been killed since Israel resumed strikes, bringing the overall death toll since the war broke out to 52,418.",
+      "reason": "This paragraph provides updated casualty figures relevant to the ongoing conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "(FRANCE 24 with AFP and Reuters)",
+      "reason": "This is a source attribution and does not contribute new information to the story.",
+      "label": 0
+    }
+  ]
+}

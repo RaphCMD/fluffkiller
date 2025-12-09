@@ -1,0 +1,119 @@
+{
+    "headline": "First global pandemic treaty agreed — without the US",
+    "context": [
+        "The World Health Organization accord promotes sharing scientific data in exchange for more-equitable distribution of drugs and vaccines.",
+        "By"
+    ],
+    "annotations": [
+        {
+            "paragraph": "For the first time — and despite fears that it might never happen — nations have agreed a series of measures to prevent, prepare for and respond to pandemics. The terms of the first global pandemic accord were still being hashed out at the World Health Organization (WHO) headquarters in Geneva, Switzerland, up until the early hours of 16 April.",
+            "reason": "Summarizes the core achievement and timing of the treaty agreement.",
+            "label": 1
+        },
+        {
+            "paragraph": "Access Nature and 54 other Nature Portfolio journals",
+            "reason": "Subscription promotion unrelated to article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Get Nature+, our best-value online-access subscription",
+            "reason": "Subscription promotion unrelated to article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "$29.99 / 30 days",
+            "reason": "Subscription pricing detail, no news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "cancel any time",
+            "reason": "Subscription instruction, no news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Subscribe to this journal",
+            "reason": "Subscription prompt, not article information.",
+            "label": 0
+        },
+        {
+            "paragraph": "Receive 51 print issues and online access",
+            "reason": "Subscription benefit, not article information.",
+            "label": 0
+        },
+        {
+            "paragraph": "$199.00 per year",
+            "reason": "Subscription pricing detail, no news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "only $3.90 per issue",
+            "reason": "Subscription pricing detail, no news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Rent or buy this article",
+            "reason": "Transaction prompt, not news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Prices vary by article type",
+            "reason": "Subscription detail, not news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "from$1.95",
+            "reason": "Subscription detail, not news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "to$39.95",
+            "reason": "Subscription detail, not news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Prices may be subject to local taxes which are calculated during checkout",
+            "reason": "Subscription detail, not news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "doi: https://doi.org/10.1038/d41586-025-00839-0",
+            "reason": "Bibliographic detail, not core news content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Preparing the world for the next pandemic",
+            "reason": "Related-article link, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "Hope for global pandemic treaty rises — despite missed deadline",
+            "reason": "Related-article link, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "A global pandemic treaty is in sight: don’t scupper it",
+            "reason": "Related-article link, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "What the WHO’s new treaty could mean for the next pandemic",
+            "reason": "Related-article link, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "Global ‘pandemic treaty’: nations wrestle with how to fairly share virus data",
+            "reason": "Related-article link, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "Global pandemic treaty: what we must learn from climate-change errors",
+            "reason": "Related-article link, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "Negotiating a pandemic treaty is just the first step — how will countries comply?",
+            "reason": "Related-article link, not part of this story.",
+            "label": 0
+        }
+    ]
+}

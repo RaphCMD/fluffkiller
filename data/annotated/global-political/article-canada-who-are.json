@@ -1,0 +1,234 @@
+{
+    "headline": "Canada election results: Who are the key winners and losers? | Elections News | Al Jazeera",
+    "context": [
+        "Canada’s governing Liberal Party led by Prime Minister Mark Carney has won the national elections for a fourth term in a remarkable comeback prompted in part by unprecedented attacks by United States President Donald Trump.",
+        "The Liberals beat Pierre Poilievre’s main opposition Conservative Party on Monday after millions of people voted in snap elections dominated by the big question: Which candidate can better handle Trump, who has slapped tariffs and threatened to annex Canada?"
+    ],
+    "annotations": [
+        {
+            "paragraph": "Here is a closer look at the results of Canada’s federal elections and what comes next.",
+            "reason": "Introduces the deeper analysis of results.",
+            "label": 1
+        },
+        {
+            "paragraph": "Soon after 22:00 EDT on Tuesday (02:00 GMT on Wednesday), national broadcaster CBC projected that the Liberal Party was headed to win an adequate number of seats in the House of Commons to form a government.",
+            "reason": "Reports the projection of a governing outcome.",
+            "label": 1
+        },
+        {
+            "paragraph": "Voting was held for the 343-member House of Commons – the lower house of parliament. A party has to win 172 seats (also called federal ridings) to form a government.",
+            "reason": "Explains the mechanics of forming government.",
+            "label": 1
+        },
+        {
+            "paragraph": "It is too soon to say whether the Liberals will cross the majority mark.",
+            "reason": "Notes uncertainty around a majority.",
+            "label": 1
+        },
+        {
+            "paragraph": "These are the seat projections for the main parties in Canada, according to CBC:",
+            "reason": "Signals detailed seat projections.",
+            "label": 1
+        },
+        {
+            "paragraph": "In the 2025 election, the number of seats went up to 343, from 338.",
+            "reason": "Provides updated seat count context.",
+            "label": 1
+        },
+        {
+            "paragraph": "Trump’s threats of tariffs and annexation were a key issue in this election, experts said.",
+            "reason": "Identifies a defining campaign issue.",
+            "label": 1
+        },
+        {
+            "paragraph": "US politics, Canada’s multiculturalism, South America’s geopolitical rise—we bring you the stories that matter.",
+            "reason": "Generic newsroom tagline, not article content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Arguing that Canada had not done its part in preventing irregular migration and drug trafficking to the US, Trump imposed a 25 percent tariff on products from Canada and a 10 percent tariff on Canadian energy.",
+            "reason": "Details the rationale for tariffs.",
+            "label": 1
+        },
+        {
+            "paragraph": "The US president also threatened to annex Canada. “I think Canada would be much better off being a 51st state,” Trump said in an interview with Fox News in February.",
+            "reason": "Provides direct quote of annexation threat.",
+            "label": 1
+        },
+        {
+            "paragraph": "“The most important factor in Canadian politics right now doesn’t live in Canada – it’s Donald Trump,” Daniel Beland, a professor at McGill University in Montreal and director of the McGill Institute for the Study of Canada, told Al Jazeera in February.",
+            "reason": "Expert quote on Trump’s outsized influence.",
+            "label": 1
+        },
+        {
+            "paragraph": "Other issues included the affordability of groceries and housing. The Canadian cost of living crisis intensified over former Prime Minister Justin Trudeau’s tenure due to inflation during the COVID-19 pandemic. Trudeau was prime minister since 2015 and stepped down on March 9 this year after facing mounting pressure for months to resign.",
+            "reason": "Summarizes domestic economic concerns.",
+            "label": 1
+        },
+        {
+            "paragraph": "In June 2022, the inflation rate was 8.1 percent more than the previous year, the largest yearly change since 1983, according to Statistics Canada. Some Canadians blamed Trudeau for a spike in housing prices due to his pro-immigration agenda. Last year, Poilievre made comments attacking the “massive uncontrolled population growth that put strain on our housing market, our healthcare and our job market” under Trudeau.",
+            "reason": "Provides historical inflation data and political context.",
+            "label": 1
+        },
+        {
+            "paragraph": "Inflation has since gone down and is currently at 2.3 percent. However, prices remain much higher than they were in 2020.",
+            "reason": "Updates the inflation trend.",
+            "label": 1
+        },
+        {
+            "paragraph": "While Poilievre’s Conservatives enjoyed had a lead throughout 2024, the Liberals made an unexpected jump in the opinion polls starting February this year, thanks to Trump’s diatribe against Canada.",
+            "reason": "Explains polling shift drivers.",
+            "label": 1
+        },
+        {
+            "paragraph": "“In Canadian polling history, at least in this century, it is the first time I’ve ever seen this. To come back from a 25-point deficit is very unheard of, especially for a government that’s been in power for almost a decade,” Philippe J Fournier, analyst and creator of electoral projection model and website 338Canada, told Al Jazeera in March.",
+            "reason": "Expert comment on polling comeback.",
+            "label": 1
+        },
+        {
+            "paragraph": "At the time, Fournier said the growing popularity of the Liberals could be explained by Trudeau’s decision to step down, Trump’s threats and Canadians’ “discomfort” with Poilievre.",
+            "reason": "Further analysis of Liberal resurgence.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Poilievre is using the same style and the same language and the same tactics as Trump,” Fournier said, explaining that Trump’s threats to Canada swayed swing voters away from the Conservative leader.",
+            "reason": "Quote on stylistic parallels with Trump.",
+            "label": 1
+        },
+        {
+            "paragraph": "Carney promised to scrap some of Trudeau’s unpopular policies, including a carbon pricing programme, as Canadians faced a cost-of-living crisis.",
+            "reason": "Outlines Carney’s policy commitments.",
+            "label": 1
+        },
+        {
+            "paragraph": "On the campaign trail, Carney promised to handle the crisis, counter the tariffs, protect workers and take on Trump head-on. “I am ready and I have managed crises over the years … We will fight back with counter-tariffs and we will protect our workers,” he said during the English language debate on April 18. “We can give ourselves far more than Donald Trump can ever take away.”",
+            "reason": "Direct campaign pledge and quote.",
+            "label": 1
+        },
+        {
+            "paragraph": "Trump was the “elephant in the room” and Canadians needed a new candidate to deal with the US president, Bob Richardson, a Canadian public affairs analyst at Hammersmith Consulting, told Al Jazeera.",
+            "reason": "Analyst framing of the campaign dynamic.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We need an adult in the room. We need somebody with experience. We need somebody with economic experience, which [Carney] has a tonne of, having been governor of the Bank of Canada and the governor of the Bank of England… He’s more of somebody who can deal with the situation that Canada has to face over the next two or three years,” Richardson said.",
+            "reason": "Expert quote on Carney’s qualifications.",
+            "label": 1
+        },
+        {
+            "paragraph": "Tari Ajadi, an assistant professor at the department of political science, McGill University, told Al Jazeera that Carney “came across as competent and qualified enough to lead Canada in this uncertain time. Despite being a rookie politician, he was able to run a well-managed campaign.”",
+            "reason": "Academic perspective on Carney’s campaign.",
+            "label": 1
+        },
+        {
+            "paragraph": "He explained that another chief factor in the Liberal win was the collapse of the NDP. “A significant number of those votes went to the Liberal Party, ultimately powering them to a win.”",
+            "reason": "Analysis of vote transfers from NDP to Liberals.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Conservative leader has been projected to lose his seat in Carleton, Ontario, to Liberal candidate Bruce Fanjoy. Poilievre was first elected there in 2004.",
+            "reason": "Notes Poilievre’s projected personal defeat.",
+            "label": 1
+        },
+        {
+            "paragraph": "The NDP is so far projected to win 7 seats, giving it 6.3 percent of the vote share. This means it falls short of the 12 seats that a party needs to maintain official party status, which is needed for parliamentary privileges such as research funding.",
+            "reason": "Explains NDP’s outcome and impacts.",
+            "label": 1
+        },
+        {
+            "paragraph": "Jagmeet Singh, 46, announced he is stepping down as the leader of the NDP on Monday. He acknowledged that his party did not perform as well as he expected it to.",
+            "reason": "Reports Singh’s resignation and rationale.",
+            "label": 1
+        },
+        {
+            "paragraph": "Singh also did not win his riding. He conceded defeat in his constituency of Burnaby Central in British Columbia.",
+            "reason": "Details Singh’s personal loss.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We’re only defeated when we believe those that tell us that we can never dream of a better Canada, a fairer Canada, a more compassionate Canada,” said Singh.",
+            "reason": "Motivational post-defeat quote.",
+            "label": 1
+        },
+        {
+            "paragraph": "“These results were quite surprising and point to the competing priorities of Canadians this election: A significant faction of Canadians wanted change, but also were terrified of the threats coming from the United States,” Ajadi from McGill University said.",
+            "reason": "Academic insight on voter priorities.",
+            "label": 1
+        },
+        {
+            "paragraph": "“This led to a coalescing of votes on the centre and on the left at the expense of the NDP and Greens,” he added.",
+            "reason": "Further analysis of vote consolidation.",
+            "label": 1
+        },
+        {
+            "paragraph": "The election, Ajadi said, saw the strengthening of the Conservative Party on the right, with the party vote share being the highest it has been since 1998.",
+            "reason": "Historical perspective on Conservative performance.",
+            "label": 1
+        },
+        {
+            "paragraph": "He said these outcomes imply a “shy Conservative” vote that empowered the Conservatives to a significant seat count, but did not get them enough seats to win the parliamentary minority.",
+            "reason": "Explains latent vote dynamics.",
+            "label": 1
+        },
+        {
+            "paragraph": "Carney declared victory in a speech during a rally in Ottawa, the capital of Canada. He pledged to put up a strong front in the face of Trump’s threats.",
+            "reason": "Notes Carney’s victory speech and stance.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We have built one nation in harsh conditions despite a sometimes-hostile neighbour. Yes, they have form on this, the Americans,” he said.",
+            "reason": "Direct quote underlining resilience.",
+            "label": 1
+        },
+        {
+            "paragraph": "His speech also mentioned improving housing and energy. “We are masters in our own home. We will build millions of housing units. We will become an energy superpower. We will provide good careers in skilled trades and one economy,” the Canadian leader said, adding “this is Canada, and we decide what happens here.”",
+            "reason": "Highlights policy pledges from the speech.",
+            "label": 1
+        },
+        {
+            "paragraph": "Conceding defeat, Poilievre said: “I would like to congratulate Prime Minister Carney on leading this minority government.",
+            "reason": "Poilievre’s concession statement.",
+            "label": 1
+        },
+        {
+            "paragraph": "“My fellow Conservatives, we have much to celebrate tonight. We’ve gained well over 20 seats. We got the highest share of vote our party has received since 1988,” he said at his election night headquarters in Ottawa.",
+            "reason": "Acknowledges Conservative gains.",
+            "label": 1
+        },
+        {
+            "paragraph": "Poilievre pledged to work with Liberals in countering Trump’s tariff and annexation threats.",
+            "reason": "Notes cross-party cooperation promise.",
+            "label": 1
+        },
+        {
+            "paragraph": "“Conservatives will work with the prime minister and all parties with the common goal of defending Canada’s interests and getting a new trade deal that puts these tariffs behind us while protecting our sovereignty,” he said.",
+            "reason": "Direct cooperation pledge and quote.",
+            "label": 1
+        },
+        {
+            "paragraph": "After leading the Liberals to victory, Carney will remain in the job as prime minister and form a new government and cabinet. He was sworn in as prime minister after Trudeau stepped down from his position on March 9.",
+            "reason": "Explains the transition to Carney’s administration.",
+            "label": 1
+        },
+        {
+            "paragraph": "If the Liberals win a majority, Carney would assemble a cabinet and work on a budget plan before the House reconvenes on May 26.",
+            "reason": "Outlines next steps in a majority scenario.",
+            "label": 1
+        },
+        {
+            "paragraph": "If the Liberals fall short of the majority, they would have to work with another party or more to pass legislation in parliament and survive no-confidence votes. In the past, the NDP emerged as the Liberals’ natural partner.",
+            "reason": "Explains implications of a minority outcome.",
+            "label": 1
+        },
+        {
+            "paragraph": "The Conservatives are set to form the official opposition in parliament.",
+            "reason": "States the opposition role outcome.",
+            "label": 1
+        },
+        {
+            "paragraph": "Ajadi from McGill University said Carney would need to reach out to other party leaders to strike some kind of deal, since the next government would likely be a minority one. “A loss of confidence vote in the House of Commons would prompt another election,” Ajadi said.",
+            "reason": "Expert advice on minority governance strategy.",
+            "label": 1
+        }
+    ]
+}

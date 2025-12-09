@@ -1,0 +1,19 @@
+{
+  "headline": "Behind the Mike Waltz Ouster - WSJ",
+  "context": [
+    "Mike Waltz is out as President Trump’s national-security adviser, and the race to replace him is on while Secretary of State Marco Rubio does double duty in the interim. A factional purge in early April had already depleted Mr. Waltz’s staff and left him weakened.",
+    "Mr. Trump said Thursday he’ll nominate Mr. Waltz to a consolation post as U.S. Ambassador to the United Nations. There’s plenty of work to be done there speaking for U.S. interests, but that job means a loss of influence in White House debates."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The surface explanation is that Mr. Waltz had to take the fall for accidentally adding a reporter to a Signal group chat on the Houthis. But if so, why keep Defense Secretary Pete Hegseth, who shared details of U.S. attack plans on the chat? Without that blunder, Mr. Waltz’s use of Signal to ask for his colleagues’ points of contact would have been a minor embarrassment.",
+      "reason": "This paragraph provides specific details about the incident that led to Waltz's ouster, contributing to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Waltz is also said to have clashed with chief of staff Susie Wiles. But the deeper story may be that Mr. Waltz and his deputies are out because they are “hawks,” a term for anyone who would continue the successful Iran, Russia and China policies of Mr. Trump’s first term rather than default to Obama-style appeasement. Mr. Waltz was targeted from the start by the Tucker Carlson-Donald Trump Jr. wing of the MAGA movement.",
+      "reason": "This paragraph provides context on the political dynamics and factions influencing Waltz's ouster.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "headline": "Earth may be getting darker, which could explain 2023's record heat | CBC News",
+  "context": [
+    "Science",
+    "A new study suggests that there may be a possible explanation to the exceptional warmth the planet experienced in 2023: Earth is getting darker."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Nicole Mortillaro  · CBC News",
+      "reason": "Author attribution does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "A new study suggests that there may be a possible explanation to the exceptional warmth the planet experienced in 2023: a reduction in its reflectivity.",
+      "reason": "Introduces the main premise of the article about Earth's reflectivity affecting warmth.",
+      "label": 1
+    },
+    {
+      "paragraph": "By now it's common knowledge that 2023 was the hottest year on record, coming in at 1.48 C warmer than the pre-industrial average from 1850-1900. The monthly records began to break in the middle of the year, with no sign of abating and carrying into 2024. And now, climate scientists are saying that 2024 is likely to beat out 2023.",
+      "reason": "Provides context and data on the record heat in 2023, relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The frustrating part for these climate scientists is that they don't quite understand why the planet seems to have heated up as much as it has.",
+      "reason": "Highlights the uncertainty and need for further explanation, relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Our continuous use of fossil fuels is changing the atmosphere and warming the planet, but the observed temperatures suggested there was also something else at work.",
+      "reason": "Suggests additional factors beyond fossil fuels, relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some potential theories for the abrupt warming were put forth, including the reduction of sulphur dioxide from ships, which began in 2020, the eruption of the Hunga Tonga–Hunga Ha'apai in 2022, the sun's increased activity in its 11-year cycle, and El Niño was present in 2023.",
+      "reason": "Provides context on other theories for the warming, relevant to the main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now, a new paper published in the journal Science, suggests that one explanation could be that Earth's albedo is in decline, making its surface less reflective.",
+      "reason": "Introduces the main explanation for the warming, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "As sunlight hits Earth, some of it gets absorbed and some of it is reflected back into space. The darker a surface is, the more heat is absorbed. The lighter it is, more of it gets reflected back into space.",
+      "reason": "Explains the concept of albedo, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"2023 [took] us by surprise, and 2024 continues to do so,\" said Thomas Jung, professor for physics of the Climate System at the University of Bremen, Germany, and co-author of the paper. \"And you know, we had some explanations for some of the warming … [but] there was this gap, this 0.2 or so degree of global warming that was unexplained. So the idea was to find out where that was coming from.\"",
+      "reason": "Provides a direct quote from a study co-author, adding credibility and context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jung said that when they began to investigate, they found that there were unusual sea ice conditions in the Antarctic, mainly the reduction of sea ice, which reflects sunlight. But that only accounted for about 15 per cent of the warming.",
+      "reason": "Details findings from the study, relevant to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Less low cloud cover may have factored into 2023's record heat:",
+      "reason": "This is a prompt to watch a video, not a paragraph with information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fewer low-level clouds may have contributed to 2023's record warmth",
+      "reason": "This provides a direct explanation related to the headline about the cause of the record warmth.",
+      "label": 1
+    },
+    {
+      "paragraph": "5 months ago",
+      "reason": "This is a timestamp and does not provide any information related to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Instead, the authors found that low clouds — which are particularly good at reflecting the sun's radiation back into space — seemed to have been reduced by roughly four per cent.",
+      "reason": "This provides specific findings from the study that are directly relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Though that may not seem like a big number, it seems that it may have big implications.",
+      "reason": "This is a vague generalization without specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Jung also said the warming of the oceans — which hit a record high in 2023 — likely plays a role, as a warmer ocean can hold more moisture which can affect the clouds above.",
+      "reason": "Provides relevant information about the role of ocean warming in the context of Earth's changing climate.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another issue is how climate change — mainly driven by fossil fuel emissions — is also affecting our oceans in general.",
+      "reason": "Offers general information about climate change and fossil fuels without specific new insights related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "WATCH | What the hottest year on record means for our future:",
+      "reason": "This is a prompt for a video, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "What the hottest year on record means for our future",
+      "reason": "This is a title or heading, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "1 year ago",
+      "reason": "This is a timestamp, not a paragraph contributing to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "One is the changes in the winds and large-scale circulation, Jung said. In fact, there was a reduction of the trade winds in 2023, so that causes less mixing in the oceans, which can lead to changes in these low clouds.",
+      "reason": "Provides specific information about changes in trade winds and their impact on cloud formation, relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "The role of clouds is one of the biggest uncertainties of climate modelling, Hausfather said. Models that show more warming in response to emissions, he said, tend to have larger changes in clouds which lead to more warming.",
+      "reason": "Discusses the uncertainty of cloud roles in climate models, relevant to the study's findings on Earth's darkness and warming.",
+      "label": 1
+    },
+    {
+      "paragraph": "And it's worrying.",
+      "reason": "Vague generalization without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The big discussion early this year was, is what we're seeing a blip that's going to return to the regular, abnormal conditions of a rapidly warming world, or is this a new phenomenon that's here to stay?\" Hausfather said. \"And at least this paper suggests that part of it might be a new phenomenon that's here to stay, which I think is worrying, because, as the authors point out, a stronger cloud feedback, would — all things being equal — indicate a higher climate sensitivity and potentially higher levels of future warming.\"",
+      "reason": "Provides expert commentary on the study's implications for climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jung said overall the new findings are helpful.",
+      "reason": "Offers a vague and low-information quote.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I think we have now sort of a much clearer view of what to look at in order to understand the origin of that extreme year, and probably also 2024.\"",
+      "reason": "Provides insight into the study's impact on understanding climate patterns.",
+      "label": 1
+    },
+    {
+      "paragraph": "Based in Toronto, Nicole covers all things science for CBC News. As an amateur astronomer, Nicole can be found looking up at the night sky appreciating the marvels of our universe. She is the editor of the Journal of the Royal Astronomical Society of Canada and the author of several books. In 2021, she won the Kavli Science Journalism Award from the American Association for the Advancement of Science for a Quirks and Quarks audio special on the history and future of Black people in science. You can send her story ideas at nicole.mortillaro@cbc.ca.",
+      "reason": "Provides background information about the author.",
+      "label": 0
+    }
+  ]
+}

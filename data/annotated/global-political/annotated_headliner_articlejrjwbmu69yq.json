@@ -1,0 +1,164 @@
+{
+  "headline": "Ukraine signs minerals deal with U.S. in bid for more military aid - The Globe and Mail",
+  "context": [
+    "Ukraine's President Volodymyr Zelensky listens as South Africa's President Cyril Ramaphosa speaks at a joint press conference in Pretoria, South Africa, on April 24.PHILL MAGAKOE/AFP/Getty Images",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The U.S. and Ukraine have signed a long-anticipated mineral resources deal that could help Kyiv secure future military assistance, despite an apparent last-minute disagreement about its terms.",
+      "reason": "This paragraph introduces the main event of the article, the signing of the mineral resources deal between the U.S. and Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "The U.S. Treasury Department said late Wednesday afternoon that the two sides had agreed to establish a United States-Ukraine Reconstruction Investment Fund that would “accelerate Ukraine’s economic recovery” from Russia’s invasion while also recognizing “the significant financial and material support” that Washington has provided.",
+      "reason": "This paragraph provides specific details about the economic fund related to the deal, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The announcement contained few details about the fund, which will be run by Treasury and the U.S. International Development Finance Corporation.",
+      "reason": "This paragraph adds context about the management of the fund, which is relevant to understanding the deal's implementation.",
+      "label": 1
+    },
+    {
+      "paragraph": "The U.S. and Ukraine have announced an economic deal after a weekslong press by President Donald Trump on Ukraine compensate Washington for more billions in military and economic assistance to help Ukraine repel the Russian invasion.",
+      "reason": "This paragraph provides historical context about the pressure for the deal, linking it to military and economic assistance.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Associated Press",
+      "reason": "This is a credit line for the source of information, not contributing new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "U.S. Treasury Secretary Scott Bessent said in a statement that “the Trump administration is committed to a peace process centred on a free, sovereign, and prosperous Ukraine over the long term.” He warned that anyone who “financed or supplied the Russian war machine” will be barred from profiting from Ukraine’s reconstruction.",
+      "reason": "Provides direct commentary on U.S. policy related to Ukraine, relevant to the minerals deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Washington Post, which said it had obtained a copy of the deal, said the agreement covered minerals, oil, gas and other natural resources, but not the Zaporizhzhia nuclear power plant currently under Russian control. It said the deal also did not provide security guarantees to Ukraine but contained language about long-term U.S. support for Kyiv.",
+      "reason": "Offers specific details about the contents and limitations of the minerals deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "Treasury did not respond to requests to confirm the exact terms of the agreement.",
+      "reason": "Provides no new information or context about the deal.",
+      "label": 0
+    },
+    {
+      "paragraph": "Stephen Miller, Mr. Trump’s policy chief, said Thursday that “repayment to the United States” was still the objective of the deal. “It’s meant to pay back the United States, is the key point, for the hundreds of billions of dollars that our taxpayers have spent subsidizing the war in Ukraine,” he told reporters.",
+      "reason": "Includes a direct quote explaining the financial objective of the deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "White House press secretary Karoline Leavitt said the fund will receive half of royalties, licence fees and other payments related to natural resource projects in Ukraine. She framed it as tying the U.S. to Ukraine’s future economic success.",
+      "reason": "Provides specific financial details and implications of the deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This partnership represents the United States taking an economic stake in securing a free, peaceful and sovereign future for Ukraine,” she said.",
+      "reason": "The quote provides direct commentary on the significance of the minerals deal between Ukraine and the U.S.",
+      "label": 1
+    },
+    {
+      "paragraph": "Separately on Wednesday, Prime Minister Mark Carney spoke with Ukrainian President Volodymyr Zelensky. A summary of the call released by Mr. Carney’s office said the pair “agreed that a durable peace can only by achieved with Ukraine at the table,” seemingly a reference to previous American efforts to negotiate with Russia in Ukraine’s absence.",
+      "reason": "This paragraph provides context on diplomatic efforts related to Ukraine, but is not directly related to the minerals deal.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Prime Minister’s Office said Mr. Carney and Mr. Zelensky will meet in June at the G7 Summit in Kananaskis, Alta., and that Mr. Carney committed to backing “lasting peace and security” for Ukraine.",
+      "reason": "This paragraph provides information on future diplomatic meetings, not directly related to the minerals deal.",
+      "label": 0
+    },
+    {
+      "paragraph": "Before the deal closed on Wednesday, Mr. Bessent signalled that there had been some late disagreements over its details, even as Ukrainian Economy Minister Yulia Svyrydenko was in Washington to finalize the accord.",
+      "reason": "This paragraph provides narrative progression and context about the negotiations of the minerals deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The Ukrainians decided last night to make some last-minute changes. We’re sure that they will reconsider that, and we are ready to sign this afternoon if they are,” he said at a televised White House cabinet meeting a few hours before closing the deal.",
+      "reason": "This quote provides direct commentary on the negotiations and finalization of the minerals deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Bessent did not specify what the sticking points were. He said the two sides had reached an agreement over the weekend that the U.S. was ready to sign.",
+      "reason": "This paragraph provides information about the status of the agreement between Ukraine and the U.S.",
+      "label": 1
+    },
+    {
+      "paragraph": "The down-to-the-wire wrangling was consistent with the fraught history of the negotiations.",
+      "reason": "This paragraph offers context about the nature of the negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Trump originally proposed a deal that would have given the U.S. access to US$500-billion worth of rare earths minerals as a way of paying for the military assistance that Washington has provided Kyiv since the start of the war. (Mr. Trump falsely claimed that the U.S. had given aid worth US$350-billion to Ukraine. The real figure, according to the U.S. government‘s own Ukraine Oversight webpage, is US$183-billion.)",
+      "reason": "This paragraph provides background on the initial proposal and clarifies misinformation about aid figures.",
+      "label": 1
+    },
+    {
+      "paragraph": "That deal fell apart after a Feb. 28 clash in the Oval Office between Mr. Trump and Mr. Zelensky, in which Mr. Trump also blamed Mr. Zelensky for the fact that Russia had invaded his country.",
+      "reason": "This paragraph explains a significant event that affected the negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Trump and Mr. Zelensky held a much calmer meeting last weekend on the sidelines of the Rome funeral for Pope Francis. Since then, Mr. Trump has softened his rhetoric toward Ukraine, and expressed stronger criticism of Russian President Vladimir Putin, who has rebuffed Mr. Trump‘s efforts to push the two sides toward a ceasefire. Mr. Trump has mused that Mr. Putin may be “tapping me along” and holding up a peace deal.",
+      "reason": "This paragraph provides recent developments in the relationship between Trump and Zelensky and their impact on negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Wednesday, Mr. Trump explained his rationale for the deal: He felt that the U.S. should be getting something in return for helping Ukraine defend itself.",
+      "reason": "Provides context on the rationale behind the minerals deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "The President said at the cabinet meeting that the U.S. had previously given money to Ukraine “like it‘s throwing it out the window” and he “felt very foolish.” The deal, he said, would ensure the U.S. received rare earth minerals for its military support.",
+      "reason": "Details the terms and motivations of the minerals deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We had no security, we had no nothing – we were just pouring money there, unsecured money, putting it in banks and anybody could have taken it out. Anybody over there. It was their decision,” he said.",
+      "reason": "Provides additional context on the U.S. perspective regarding past aid to Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "“So I said, ‘well, we want something for our efforts beyond what you would think to be acceptable.’”",
+      "reason": "Further elaborates on the U.S. expectations from the deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "Oleksandr Merezhko, the head of the foreign affairs committee in Ukraine’s parliament, said that the agreement was at least a good sign that Mr. Trump may be willing to keep backing Kyiv.",
+      "reason": "Provides a Ukrainian perspective on the implications of the deal.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I think it‘s a sign of the increasing trust between both presidents,” Mr. Merezhko said.",
+      "reason": "This quote provides insight into the perceived diplomatic relationship between the U.S. and Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Trump has not authorized the delivery of any weapons or ammunition to Ukraine since taking office, leading to rising alarm in the Ukrainian military, which has relied on U.S. military support to hold back the Russian troops that currently control about 20 per cent of Ukraine.",
+      "reason": "This paragraph provides context on the current military aid situation and its implications for Ukraine.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mr. Trump once said he could deliver a ceasefire within 100 days of taking office – a milestone that passed on Tuesday with the war still raging.",
+      "reason": "This paragraph provides context on Trump's previous statements and the ongoing conflict.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Trump needs to show a victory for his 100 days in office. And it‘s a sort of such a win for him,” Mr. Merezhko said. “He didn’t deliver on his promise to finish the war and yet he has signed a deal with Ukraine. Now he can say: look, unlike Biden, I have managed to salvage the aid given to Ukraine.”",
+      "reason": "This quote provides analysis on the political implications of the deal for Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "Start your day with context and insight on the biggest stories shaping our lives, written by Danielle Groen",
+      "reason": "This is promotional content unrelated to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a promotional line unrelated to the article's main content.",
+      "label": 0
+    }
+  ]
+}

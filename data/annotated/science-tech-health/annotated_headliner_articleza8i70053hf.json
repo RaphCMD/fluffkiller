@@ -1,0 +1,169 @@
+{
+  "headline": "AI & Network Science Are Helping Us Understand Nutrition",
+  "context": [
+    "Network science and artificial intelligence can identify food molecules that negatively affect health as well as alleviate disease by proposing dietary changes, a Northeastern expert says.",
+    "Since the human genome was decoded in 2003, Albert-László Barabási — a distinguished professor of physics at Northeastern University and director of the Center for Complex Network Research — has used network science to map out connections between proteins in human cells. “That’s where network medicine comes in,” Barabási says."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Eventually, network medicine will be able to provide personalized dietary recommendations and treatments, he says, based on an individual’s genetics, diet and disease stage.",
+      "reason": "This paragraph provides relevant information about the future potential of network medicine in nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Genes define proteins, he says, and disease arises when a gene mutates.",
+      "reason": "This paragraph offers relevant context about the relationship between genes and disease.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Mutations change the protein in the network, which then alters the network itself,” he says.",
+      "reason": "This paragraph provides relevant information on how mutations affect protein networks.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, genetic changes can only explain a fraction of diseases, Barabási says.",
+      "reason": "This paragraph is relevant as it discusses the limitations of genetic explanations for diseases.",
+      "label": 1
+    },
+    {
+      "paragraph": "“From a few percent of cases to, maybe, 30%, depending on the disease,” he says.",
+      "reason": "This paragraph provides specific data on the extent of genetic influence on diseases.",
+      "label": 1
+    },
+    {
+      "paragraph": "The remaining causes stem from lifestyle, including stress, exercise and sleep, and environment, he says, with food being the most significant factor.",
+      "reason": "This paragraph provides context on the significance of food in lifestyle factors affecting health.",
+      "label": 1
+    },
+    {
+      "paragraph": "Recognizing this, Barabási set out about a decade ago to integrate diet into network medicine — a field he named in 2007 that applies network science to biological systems to understand diseases and develop drugs.",
+      "reason": "This paragraph explains Barabási's initiative to integrate diet into network medicine, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "This research has led to a series of scientific papers on topics ranging from defining the “dark matter” of nutrition to discovering universal laws of chemical concentration in food and measuring the degree of food processing.",
+      "reason": "This paragraph highlights the outcomes of the research, which is directly related to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The culmination of this work is a recent review article, “Decoding the Foodome: Molecular Networks Connecting Diet and Health,” published in the Annual Review of Nutrition. It demonstrates how network science and AI can reveal how food molecules affect health and disease.",
+      "reason": "This paragraph discusses a key publication that encapsulates the research findings, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "When food molecules enter the bloodstream and reach cells, some are used for energy, Barabási says, while others can bind to cell proteins or DNA, influencing biological processes. These molecules can either block certain processes from happening or accelerate them.",
+      "reason": "This paragraph provides specific information on how food molecules interact with biological processes, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Initially, Barabási assumed mapping food molecules’ interactions with the human cells would be straightforward. To his surprise, he and his team discovered that scientists had identified only a limited number of food’s chemical components.",
+      "reason": "This paragraph provides narrative progression and insight into the challenges faced by Barabási's team.",
+      "label": 1
+    },
+    {
+      "paragraph": "The U.S. Department of Agriculture has systematically measured 150 essential micro- and macronutrients related primarily to energy intake and metabolism, including fatty acids, amino acids, sugars, fibers, minerals and vitamins. Since 2003, it has expanded its list to 188 components, including some flavonoids — plant compounds responsible for color that have antioxidant, anti-inflammatory and immune-boosting properties.",
+      "reason": "This paragraph provides relevant context about the USDA's role in identifying food components, which is related to the article's focus on understanding nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sign up for NGN’s daily newsletter for news, discovery and analysis from around the world.",
+      "reason": "This is a promotional paragraph unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "“We realized many molecules in the food that have known health consequences are not included in this nutritional list,” Barabási says.",
+      "reason": "This quote directly relates to the article's focus on identifying overlooked food molecules.",
+      "label": 1
+    },
+    {
+      "paragraph": "His team began by examining tens of thousands of food compounds found in the Canadian FooDB, a comprehensive database detailing the chemical composition of foods, but largely overlooked by epidemiological studies. In 2019, they dubbed these unrecognized molecules the “dark matter” of nutrition.",
+      "reason": "This paragraph provides new facts about the team's research and introduces the concept of 'dark matter' in nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since then Barabási and his collaborators have compiled a library of over 139,000 food molecules, drawing from specialized scientific literature, various databases, mass spectrometry repositories and mass spectrometry experiments.",
+      "reason": "This paragraph provides specific information about the research efforts and resources used to compile a comprehensive library of food molecules.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the underlying molecular mechanisms through which the “dark matter” of nutrition affects human health remain largely unexplored. Researchers argue that dietary compounds should not be investigated in isolation, as was common in the 20th century, but rather in the context of their interactions with one another.",
+      "reason": "This paragraph discusses the current gaps in understanding and the need for a holistic approach, which is relevant to the article's focus on new methods in nutrition science.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another discovery from Barabási’s lab concerns ultra-processed foods. They found that relative ratios of concentrations of individual chemicals in different natural foods are consistent and predictable. Deviations from those ratios, Barabási says, signal that the food underwent processing.",
+      "reason": "This paragraph presents a specific finding from the research, contributing to the understanding of food processing's impact on nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "“No matter what foods you look at, as long as there are natural ingredients there will be relatively minor variations from one food to the other one,” he says. “The reason for that is because, in the end, we and what we eat is really the same chemical engine.”",
+      "reason": "This quote provides insight into the consistency of natural food ingredients, supporting the article's theme of understanding nutrition through scientific analysis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Virtually all ingredients of the human diet, Barabási says, were once living organisms, producing and regulating nutrients according to universal biochemical rules.",
+      "reason": "This statement offers context about the origin of dietary ingredients, linking back to the scientific exploration of nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "“These chemical engines cannot produce something [with concentration of a certain chemical] 100 times more than normally, because there are clear constraints of production,” Barabási says. “Typically the difference is like two or three times more in one [food item] compared to the other one.”",
+      "reason": "This quote provides specific insights into the constraints of chemical production in foods, relevant to understanding nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ultra-processed foods such as margarine, packaged bread, sweetened breakfast cereals or cookies typically have longer lists of ingredients, including substances not commonly used in home cooking.",
+      "reason": "This paragraph provides context about ultra-processed foods, relevant to the discussion on nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since the Industrial Revolution, food processing technology has advanced dramatically. However, human biology and physiology, Barabási says, have not evolved as much. This misalignment is believed to contribute to modern diseases.",
+      "reason": "This paragraph provides context on the evolution of food processing and its impact on health, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Food processing alters natural nutrients concentration and often involves adding salt, sugar, fats and other additives to enhance taste and mask undesirable qualities. In the past decade, epidemiological studies have linked ultra-processed foods to higher risks of obesity, type 2 diabetes, cardiovascular conditions, cancer and depression.",
+      "reason": "This paragraph provides relevant information on the health risks associated with ultra-processed foods.",
+      "label": 1
+    },
+    {
+      "paragraph": "The precise underlying mechanisms remain unclear.",
+      "reason": "This sentence is vague and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "“We think that the problem most likely comes from the chemical changes that the processing does to you,” Barabási says. “For example, it has chemicals that turn off the feeling of satiation. That’s really mostly for making us eat more.”",
+      "reason": "This paragraph provides specific insights into how food processing affects health, which is relevant to the article's focus on nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to one of Barabási’s studies, over 73% of the U.S. food supply is ultra-processed.",
+      "reason": "This paragraph presents a significant statistic related to the topic of nutrition and food processing.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It shows on the scale and in the health problems we face,” Barabási says.",
+      "reason": "This is a vague generalization without new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "His best advice for better health is to eat foods our great-grandmothers would recognize as good back when ultra-processing didn’t exist.",
+      "reason": "This is a general piece of advice without specific relevance to the AI and network science focus.",
+      "label": 0
+    },
+    {
+      "paragraph": "Barabási advocates for a large-scale project combining AI, mass spectrometry and network medicine to map the chemical makeup of the foods we consume.",
+      "reason": "This paragraph directly relates to the article's focus on using AI and network science to understand nutrition.",
+      "label": 1
+    },
+    {
+      "paragraph": "He says the project is “doable with the current technologies.”",
+      "reason": "The paragraph is a low-information quote that does not add substantial information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "With proper funding, Barabási estimates that scientists could uncover 50% to 60% of the “dark matter” of nutrition within five years, which is sufficient to cover over 99% of the food we consume. Decoding the remaining portion might get harder and take longer.",
+      "reason": "The paragraph provides specific estimates and projections related to the research, contributing to the article's core story.",
+      "label": 1
+    }
+  ]
+}

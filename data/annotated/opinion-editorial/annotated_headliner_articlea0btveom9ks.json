@@ -1,0 +1,99 @@
+{
+  "headline": "Hilliard has not abandoned Big Darby Accord. We go beyond it. Opinion",
+  "context": [
+    "Michelle Crandall is the city manager of Hilliard.",
+    "A sensational and inaccurate tale of Hilliard’s standards and actions related to proposed development within the Big Darby watershed was told in an April 15 guest column."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Facts matter, and the piece by Bill Stanley, Carol Kauffman and John Tetzloff painted an erroneous picture of the city of Hilliard’s past, present and future commitments to ensuring this unique and special natural resource is protected.",
+      "reason": "This paragraph directly addresses the inaccuracies in the previous column and sets the stage for the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The truth is that Hilliard has always gone above and beyond the recommendations outlined in the Big Darby Accord Plan.",
+      "reason": "This paragraph provides a direct claim about Hilliard's actions regarding the Big Darby Accord.",
+      "label": 1
+    },
+    {
+      "paragraph": "For background, the entire Big Darby Creek watershed covers approximately 555 square miles.",
+      "reason": "This paragraph provides general background information not directly related to the article's main argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "About 84 square miles of the watershed is within portions of the 10 local jurisdictions that signed on to the Darby Accord nearly 20 years ago. While Hilliard’s portion is approximately 6.7 square miles, it is land that our community cherishes and values — and that the city is committed to protecting.",
+      "reason": "This paragraph provides specific information about Hilliard's portion of the watershed and its commitment to protection, relevant to the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Big Darby originates in Logan County and flows more than 80 miles before joining the Scioto River near Circleville. It is designated as a state of Ohio and a National Scenic River and is among the most biologically diverse rivers in the Midwest, providing habitat to several state and federally listed endangered species.",
+      "reason": "This paragraph provides general background information about the Big Darby, not directly related to the article's main argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "Protection of the Big Darby is crucial, and development within the watershed must be thoughtfully and carefully considered.",
+      "reason": "This paragraph is a general statement and does not provide new information specific to Hilliard's actions.",
+      "label": 0
+    },
+    {
+      "paragraph": "Standards for development should be high. That’s why Hilliard has proudly set and ensured standards and requirements for development that go above and beyond the recommendations found within the Big Darby Accord Plan. Despite having just 1.2% of the watershed within Hilliard, we consider our commitment to the Big Darby Accord no small matter.",
+      "reason": "This paragraph provides specific information about Hilliard's commitment and actions regarding the Big Darby Accord.",
+      "label": 1
+    },
+    {
+      "paragraph": "The city has been a leader among local jurisdictions within the Big Darby watershed in establishing open space requirements, preserving and restoring open space, requiring conservation design and investing in stream restoration.",
+      "reason": "This paragraph details Hilliard's leadership and specific actions in environmental conservation.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2023 and 2024, zoning code changes to set open space requirements at 60% for commercial and 70% for residential developments were recommended by Hilliard’s Planning and Zoning Commission and approved by Hilliard City Council.",
+      "reason": "This paragraph provides specific information about recent zoning code changes in Hilliard.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Darby Accord Plan recommends 50% open space for development.",
+      "reason": "This paragraph provides context by comparing Hilliard's standards to the Darby Accord Plan.",
+      "label": 1
+    },
+    {
+      "paragraph": "In addition to open space preservation, Hilliard also requires at least 50% of the required open space to be restored to native prairie and/or forest.",
+      "reason": "This paragraph provides specific information about Hilliard's open space restoration requirements, which is relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Strict state and federal stormwater and wetland regulations are followed and monitored with all development, and Hilliard’s standards require wetland/littoral shelves for all wet ponds — approaches that protect local waterways.",
+      "reason": "This paragraph details Hilliard's adherence to environmental regulations, directly relating to the development standards in the Big Darby watershed.",
+      "label": 1
+    },
+    {
+      "paragraph": "The city’s recently adopted comprehensive community plan calls for a greenbelt to be developed along Hilliard’s westernmost edge within the Big Darby watershed.",
+      "reason": "This paragraph introduces a new initiative by Hilliard, relevant to the development and preservation efforts in the Big Darby watershed.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is envisioned to be a series of restored open-space parcels that eventually will be interconnected with trail access.  To date, Hilliard’s open space requirements have led to the preservation of 681.56 acres of land in the Big Darby watershed.",
+      "reason": "The paragraph provides specific outcomes of Hilliard's open space requirements, relevant to the article's focus on development standards.",
+      "label": 1
+    },
+    {
+      "paragraph": "Two important tributaries of the Big Darby are within the City of Hilliard: the Clover Groff and the Hamilton Run.",
+      "reason": "This paragraph provides geographical context about the Big Darby watershed, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "During the past several years, Hilliard has invested more than $3.5 million to restore substantial sections of both tributaries. Fortunately, about half of this total investment has come from successful grant-funding applications. Finally, with the recent approval of Hill Farm II, the headwaters of the Clover Groff are now being preserved and protected.",
+      "reason": "Provides specific information about Hilliard's investments and actions related to the Big Darby watershed.",
+      "label": 1
+    },
+    {
+      "paragraph": "The city of Hilliard looks forward to continuing to work collaboratively with the nine other jurisdictions that are partners in the Big Darby Accord Plan. This year those 10 jurisdictions began the process of updating the now nearly 20-year-old plan.",
+      "reason": "Mentions ongoing collaboration and updates to the Big Darby Accord Plan, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "As we do this, we will keep at the forefront the same preservation and protection goals we had when the plan was first adopted.",
+      "reason": "Reiterates commitment to original goals without adding new information.",
+      "label": 0
+    }
+  ]
+}

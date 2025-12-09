@@ -1,0 +1,84 @@
+{
+  "headline": "Stouffville terminates lease, picks new sports dome partner",
+  "context": [
+    "More than two years after groundbreaking, Stouffville is announcing a new partner for the Ballantrae Multi-Sport Complex.",
+    "After extensive efforts working with Ballantrae Sports Group to see the facility constructed at Ballantrae Park, the town announced it terminated the lease agreement with Ballantrae Sports Group."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In its place, a new partnership has been finalized with Mentana Group. In a news release, the town said the company has a “proven track record in delivering high-quality community sport and recreation infrastructure” in places like Cambridge and Vaughan.",
+      "reason": "This paragraph provides new information about the new partner, Mentana Group, and their qualifications.",
+      "label": 1
+    },
+    {
+      "paragraph": "ARTICLE CONTINUES BELOW",
+      "reason": "This is a placeholder text and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "“Detailed design will be completed in the coming months and shovels are expected to be in the ground late summer to support indoor play for the 2026 season,” the release notes.",
+      "reason": "This paragraph provides a timeline for the construction and completion of the new sports complex.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The new complex design is being finalized and once completed will feature a dynamic and flexible design to accommodate a wide range of sports and community programming. At a high level, it will include a FIFA regulation soccer pitch which can be divided into smaller indoor turf fields, multi-use courts, fitness spaces and amenities designed for all ages and abilities.”",
+      "reason": "This paragraph gives specific details about the features and design of the new sports complex.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We made a commitment to this community, and we have worked diligently to honour it,” Mayor Iain Lovatt stated in the release. “After exhausting every option with the previous leaseholder, it became clear that a new direction was required to ensure the delivery of this much-needed facility.”",
+      "reason": "This paragraph includes a quote from the mayor explaining the decision to change partners, which is relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Local user groups, including the Stouffville Soccer Club, have remained engaged throughout the process.",
+      "reason": "This provides context about local involvement in the project.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’ve remained in close communication with the town,” Corrado Panacci, president of the Stouffville Soccer Club, stated in the release.",
+      "reason": "This quote shows the involvement and communication between local groups and the town.",
+      "label": 1
+    },
+    {
+      "paragraph": "ARTICLE CONTINUES BELOW",
+      "reason": "This is a placeholder and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "“We shared the same frustration with how the project progressed, but I’m confident that the town has done everything they could to get this project back on track and ensure our players and families have a future home at this facility.”",
+      "reason": "This quote provides insight into the challenges faced and the optimism for the project's future.",
+      "label": 1
+    },
+    {
+      "paragraph": "Earlier this week, Lovatt hinted at news about the sports dome at a town hall.",
+      "reason": "This provides context about recent developments related to the sports dome.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We are very frustrated on what’s happened with the vision for the dome. We are working very diligently with staff to try and put a deal together with another operator that I hope we will be announcing next week,” Lovatt said at the event April 29.",
+      "reason": "This paragraph provides a direct quote from a relevant figure about the current situation and future plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our goal is to see that dome come to completion. If for some reason it doesn’t, we will be taking legal action against the company that was awarded the tender because they have taken out the soccer field, taken out the baseball diamond, have cut down trees.”",
+      "reason": "This paragraph offers important information about potential legal actions and the impact on the sports facilities.",
+      "label": 1
+    },
+    {
+      "paragraph": "The town held a groundbreaking for the facility in April 2023. But in the intervening two years little progress was made and the baseball diamond and soccer field were removed. In the fall, a town spokesperson said the dome opening was still on target for the end of 2024. Panacci also said in the fall he expected the facility to be ready sometime this past winter.",
+      "reason": "This paragraph provides a timeline and context about the delays and expectations for the dome's completion.",
+      "label": 1
+    },
+    {
+      "paragraph": "The long-term agreement between the town and the sports group required the town to commit to providing land to the dome builder for a nominal fee to allow for the design, build and operation of a multi-sport dome for the next 25 years.",
+      "reason": "This paragraph explains the terms of the agreement, which is relevant to understanding the lease termination.",
+      "label": 1
+    },
+    {
+      "paragraph": "Town staff originally started investigating adding an indoor soccer facility to fill a service level gap after the town sold SoccerCity in 2021. In the end, staff decided that air-supported structures were the optimal choice because of the low costs in both construction and maintenance when compared to a fixed building. All operational expenses related to the structure, including maintenance, utilities, staffing, and its surroundings, are the sole responsibility of the owner and not the town. Town staff said they were unable to find a suitable location closer to Stouffville for the facility.",
+      "reason": "This paragraph provides background on the decision-making process and rationale for the dome, which is relevant to the story.",
+      "label": 1
+    }
+  ]
+}

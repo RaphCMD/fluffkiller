@@ -1,0 +1,69 @@
+{
+  "headline": "Meteor shower visible in May 2025",
+  "context": [
+    "Halley’s comet swings near Earth every 75 years. But debris left by the comet leads to two major meteor showers every year including the Eta Aquarids.",
+    "When this meteor shower lights up the night sky, “you’ll know that Earth is crossing the path of the most famous comet,” said Shauna Edson of the Smithsonian’s National Air and Space Museum."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The Eta Aquarids are “pretty fast meteors” said NASA’s Bill Cooke.",
+      "reason": "Provides a specific characteristic of the Eta Aquarids meteor shower.",
+      "label": 1
+    },
+    {
+      "paragraph": "During Tuesday morning’s peak, expect to see 10 to 15 meteors per hour in ideal viewing conditions, said Cooke.",
+      "reason": "Gives specific details about the expected visibility of the meteor shower.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, the moon will be nearly two-thirds full, which will likely reduce visibility.",
+      "reason": "Provides important information about factors affecting visibility.",
+      "label": 1
+    },
+    {
+      "paragraph": "Viewing lasts until May 28. Here’s what to know about the Eta Aquarids and other meteor showers.",
+      "reason": "Mentions the duration of the viewing period, relevant to the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "As the Earth orbits the sun, several times a year it passes through debris left by passing comets and sometimes asteroids. The source of the Eta Aquarids is debris from Halley’s comet.",
+      "reason": "Provides context about the origin of the meteor shower.",
+      "label": 1
+    },
+    {
+      "paragraph": "When these fast-moving space rocks enter Earth’s atmosphere, the debris encounters new resistance from the air and becomes very hot, eventually burning up.",
+      "reason": "Provides relevant information about the process of meteors burning up in the atmosphere.",
+      "label": 1
+    },
+    {
+      "paragraph": "Sometimes the surrounding air glows briefly, leaving behind a fiery tail — the end of a “shooting star.”",
+      "reason": "Describes the visual phenomenon associated with meteor showers.",
+      "label": 1
+    },
+    {
+      "paragraph": "You don’t need special equipment to see the various meteor showers that flash across annually, just a spot away from city lights.",
+      "reason": "Offers practical advice for viewing meteor showers, relevant to the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "The best time to watch a meteor shower is in the early predawn hours when the moon is low in the sky.",
+      "reason": "Provides specific viewing tips for observing the meteor shower.",
+      "label": 1
+    },
+    {
+      "paragraph": "Competing sources of light — such as a bright moon or artificial glow — are the main obstacles to a clear view of meteors. Cloudless nights when the moon wanes smallest are optimal viewing opportunities.",
+      "reason": "Gives additional context on optimal conditions for viewing the meteor shower.",
+      "label": 1
+    },
+    {
+      "paragraph": "And keep looking up, not down. Your eyes will be better adapted to spot shooting stars if you aren’t checking your phone.",
+      "reason": "This is general advice and does not provide new information about the meteor shower.",
+      "label": 0
+    },
+    {
+      "paragraph": "The next major meteor shower, the Southern Delta Aquarids, peaks in late July.",
+      "reason": "This provides information about another meteor shower, not directly related to the May 2025 event.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "headline": "Scientists discover why your middle-age metabolism is being such a jerk - Boing Boing",
+  "context": [
+    "Lithograph by H.B. (John Doyle), 1839. Wellcome Collection. Public Domain",
+    "Ever wonder why your body suddenly decided to start stockpile fat like a doomsday prepper? Science finally has an answer, and it's not your late-night snacking habits."
+  ],
+  "annotations": [
+    {
+      "paragraph": "As reported in Science, researchers at City of Hope discovered your body is running its own underground fat-making operation right under your nose (or more accurately, right around your belly).",
+      "reason": "This paragraph introduces the main discovery related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Think of it like this: When you're young, your body keeps its fat-making cells on a tight leash. But hit middle age, and the fat cells go wild. It's the midlife rebellion you didn't ask for.",
+      "reason": "This paragraph provides an analogy to explain the scientific discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "The scientists took these rowdy cells from older mice and put them in young mice. The young mice promptly developed the kind of belly that says \"I've tried every diet except the one that works.\"",
+      "reason": "This paragraph describes an experiment that supports the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Your body apparently has this built-in self-sabotage switch that flips around the same time you start getting mail from AARP. It's like your cells hit 40 and decided, \"You know what would be fun? Let's turn everything into fat!\"",
+      "reason": "This paragraph humorously describes the phenomenon but doesn't add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The good news? Scientists are working on ways to stop this cellular conspiracy. The bad news? Until then, your body will keep treating your waistline like a retirement savings account – constantly making deposits whether you want it to or not.",
+      "reason": "This paragraph provides information on potential future solutions.",
+      "label": 1
+    },
+    {
+      "paragraph": "At least now when someone asks about your \"dad bod,\" you can blame it on rebellious stem cells instead of those midnight pizza rolls. Though, let's be honest — it's probably both.",
+      "reason": "This paragraph humorously introduces the concept of stem cells affecting metabolism, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Previously:• Your diets keep failing because your cells remember being fat, according to new study",
+      "reason": "This paragraph provides context about previous related findings, which is relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Flowers of the Sky\" is a stunning collection of celestial art throughout the ages from the Public Domain Review. The artwork in this collection covers nearly a millennium of illustrations…        READ THE REST",
+      "reason": "This paragraph is unrelated to the topic of metabolism and stem cells.",
+      "label": 0
+    },
+    {
+      "paragraph": "This sweet turtle named Root is missing his right front foot. Nobody knows how Root lost his foot, but his shell was becoming damaged from scraping against the floor as…        READ THE REST",
+      "reason": "This paragraph is unrelated to the topic of metabolism and stem cells.",
+      "label": 0
+    },
+    {
+      "paragraph": "While dinosaur cloning is still confined to the realm of science fiction, the company that created Mammoth Meatballs is working on creating T. Rex leather. Scientists have yet to discover…        READ THE REST",
+      "reason": "This paragraph is unrelated to the topic of metabolism and stem cells.",
+      "label": 0
+    },
+    {
+      "paragraph": "TL;DR: Get a lifetime license to QuickBooks Desktop Pro Plus 2024 for Windows for just $249.99 (reg. $699). If you've ever wanted to scream into a pile of crumpled receipts while muttering \"there's…        READ THE REST",
+      "reason": "This paragraph is an advertisement unrelated to the article's topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "TL;DR: Get a 1-year Sam's Club membership (with auto-renew) for just $20—includes fuel savings, bulk buys, exclusive perks, and a bonus household card. Imagine walking into a store where the carts are oversized,…        READ THE REST",
+      "reason": "This paragraph is an advertisement unrelated to the article's topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Most language apps start out as a fun new hobby and end up as an icon collecting dust next to your unused meditation app. But Qlango? Qlango doesn't guilt-trip you,…        READ THE REST",
+      "reason": "This paragraph is an advertisement unrelated to the article's topic.",
+      "label": 0
+    }
+  ]
+}

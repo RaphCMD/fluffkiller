@@ -1,0 +1,134 @@
+{
+    "headline": "Prince Harry loses appeal over security protection while in the U.K. - National | Globalnews.ca",
+    "context": [
+        "Prince Harry lost his appeal Friday challenging the U.K. government’s decision to strip him of his publicly funded security after he stepped away from royal family duties and moved to the U.S.",
+        "The Court of Appeal ruled unanimously that a committee hadn’t treated Harry unfairly when it decided to review his protection on a case-by-case basis each time he visits the U.K."
+    ],
+    "annotations": [
+        {
+            "paragraph": "Justice Geoffrey Vos said in a 21-page judgement that the Duke of Sussex felt badly treated and his lawyer had made powerful and moving arguments on his behalf. But he said that Harry’s grievance wasn’t legal grounds to challenge the decision to deny him regular security.",
+            "reason": "Summarizes the court’s reasoning for dismissing the appeal.",
+            "label": 1
+        },
+        {
+            "paragraph": "READ MORE: Prince Harry wants to reconcile with Royal Family, says he’s ‘forgiven’ them",
+            "reason": "Related-article link, not core content.",
+            "label": 0
+        },
+        {
+            "paragraph": "“From the Duke of Sussex’s point of view, something may indeed have gone wrong, in that an unintended consequence of his decision to step back from royal duties and spend the majority of his time abroad has been that he has been provided with a more bespoke, and generally lesser, level of protection than when he was in the U.K.,” Vos said. “But that does not, of itself, give rise to a legal complaint.”",
+            "reason": "Quotes the judge’s key finding on intent versus legality.",
+            "label": 1
+        },
+        {
+            "paragraph": "Story continues below advertisement",
+            "reason": "Advertising placeholder, no story information.",
+            "label": 0
+        },
+        {
+            "paragraph": "The ruling is likely to leave the Duke of Sussex with a large bill to pay the U.K. government’s legal fees — in addition to his own lawyers’ costs.",
+            "reason": "Notes the financial consequence of losing the appeal.",
+            "label": 1
+        },
+        {
+            "paragraph": "It wasn’t immediately clear if he would try to appeal to the U.K. Supreme Court.",
+            "reason": "States the next possible legal avenue.",
+            "label": 1
+        },
+        {
+            "paragraph": "Get the day's top stories from Toronto and surrounding communities, delivered to your inbox once a day.",
+            "reason": "Newsletter signup prompt, not story content.",
+            "label": 0
+        },
+        {
+            "paragraph": "The ruling upheld a High Court judge’s decision last year that found that a “bespoke” plan for the Duke of Sussex’s security wasn’t unlawful, irrational or unjustified.",
+            "reason": "Affirms the consistency of the Court of Appeal with the lower court.",
+            "label": 1
+        },
+        {
+            "paragraph": "Harry made a rare appearance for the two-day hearing last month as his lawyer argued that his life was in danger and the Royal and VIP Executive Committee had singled him out for inferior treatment.",
+            "reason": "Describes Harry’s direct involvement in the appeal hearing.",
+            "label": 1
+        },
+        {
+            "paragraph": "“There is a person sitting behind me who is being told he is getting a special bespoke process when he knows and has experienced a process that is manifestly inferior in every respect,” lawyer Shaheed Fatima said. “His presence here and throughout this appeal is a potent illustration — were one needed — of how much this appeal means to him and his family.”",
+            "reason": "Presents the lawyer’s emotive argument on Harry’s behalf.",
+            "label": 1
+        },
+        {
+            "paragraph": "Story continues below advertisement",
+            "reason": "Advertising placeholder, no story information.",
+            "label": 0
+        },
+        {
+            "paragraph": "A lawyer for the government said that Harry’s argument repeated his misconceived approach that failed in the lower court.",
+            "reason": "Summarizes the government’s rebuttal.",
+            "label": 1
+        },
+        {
+            "paragraph": "“It involves a continued failure to see the wood for the trees, advancing propositions available only by reading small parts of the evidence, and now the judgement, out of context and ignoring the totality of the picture,” lawyer James Eadie said.",
+            "reason": "Quotes the government’s criticism of Harry’s legal strategy.",
+            "label": 1
+        },
+        {
+            "paragraph": "Harry and his wife Meghan, Duchess of Sussex, had stepped back from their official roles in the family in 2020, because they didn’t feel they were “being protected by the institution,” his lawyer said.",
+            "reason": "Provides background on why Harry lost his guaranteed protection.",
+            "label": 1
+        },
+        {
+            "paragraph": "Radio station faces backlash after listeners duped by AI host for 6 months",
+            "reason": "Site-wide news ticker, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "NHL player testifies about group chat screenshot at world junior sex assault trial",
+            "reason": "Site-wide news ticker, not part of this story.",
+            "label": 0
+        },
+        {
+            "paragraph": "After doing so, a Home Office committee ruled there was “no basis for publicly funded security support for the duke and duchess within Great Britain.”",
+            "reason": "Reports the committee’s formal decision.",
+            "label": 1
+        },
+        {
+            "paragraph": "Harry claimed that he and his family are endangered when visiting his homeland because of hostility aimed at him and Meghan on social media and through relentless hounding by news media.",
+            "reason": "Summarizes Harry’s security concerns as argued.",
+            "label": 1
+        },
+        {
+            "paragraph": "Since he lost his government-sponsored protection, Harry faced at least two serious security threats, his lawyer said in court papers. Al-Qaeda had published a document that said Harry’s assassination would please Muslims, and he and his wife were involved in a pursuit by paparazzi in New York.",
+            "reason": "Lists specific security incidents cited in the appeal.",
+            "label": 1
+        },
+        {
+            "paragraph": "Story continues below advertisement",
+            "reason": "Advertising placeholder, no story information.",
+            "label": 0
+        },
+        {
+            "paragraph": "Harry, 40, the younger son of King Charles III, has bucked royal family convention by taking the government and tabloid press to court, where he has a mixed record.",
+            "reason": "Places this case in context of Harry’s broader legal battles.",
+            "label": 1
+        },
+        {
+            "paragraph": "He lost a related court case in which he sought permission to privately pay for a police detail when in the U.K. A judge denied that offer after a government lawyer argued officers shouldn’t be used as “private bodyguards for the wealthy.”",
+            "reason": "Summarizes another failed security-related legal effort.",
+            "label": 1
+        },
+        {
+            "paragraph": "But he won a significant victory at trial against the publisher of the Daily Mirror when a judge found that phone hacking at the tabloid was “widespread and habitual.” He claimed a “monumental” victory in January when Rupert Murdoch’s U.K. tabloids made an unprecedented apology for intruding in his life for years, and agreed to pay substantial damages to settle his privacy invasion lawsuit.",
+            "reason": "Notes a contrasting successful lawsuit in his legal history.",
+            "label": 1
+        },
+        {
+            "paragraph": "He has a similar case pending against the publisher of the Daily Mail.",
+            "reason": "Mentions ongoing related litigation.",
+            "label": 1
+        },
+        {
+            "paragraph": "© 2025 The Canadian Press",
+            "reason": "Copyright notice, not article content.",
+            "label": 0
+        }
+    ]
+}

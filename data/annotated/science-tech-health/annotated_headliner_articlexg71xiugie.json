@@ -1,0 +1,79 @@
+{
+  "headline": "Proposed 2026 NASA budget slashes $6 billion, mostly from science programs",
+  "context": [
+    "The White House on Friday released a budget blueprint that signals major shake-ups at NASA, as part of an effort to axe $163 billion in federal spending.",
+    "The proposed cuts include slashing roughly 25%, or more than $6 billion, from NASA’s budget. The biggest reductions would come from the space agency’s space science, Earth science and mission support divisions."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The blueprint also proposes phasing out the Space Launch System rocket and Orion spacecraft that NASA was developing to return astronauts to the moon, ending the program after only two more flights.",
+      "reason": "This paragraph provides specific details about the impact of the budget cuts on NASA's programs.",
+      "label": 1
+    },
+    {
+      "paragraph": "The SLS megarocket and Orion spacecraft were the cornerstones of NASA’s Artemis moon program. Named after the goddess of Greek mythology who was often associated with the moon, the initiative envisioned conducting regular missions to the moon to establish a base camp on the lunar surface, before the agency eventually ventured to Mars.",
+      "reason": "This paragraph provides background information on the Artemis program, which is not directly related to the budget cuts.",
+      "label": 0
+    },
+    {
+      "paragraph": "The SLS rocket, which surpasses the capabilities and size of the iconic Saturn V boosters that NASA used during the Apollo moon program, had been criticized over the years for being years behind schedule and billions of dollars over budget.",
+      "reason": "This paragraph provides context about the SLS rocket's history and criticisms, which is not directly related to the budget cuts.",
+      "label": 0
+    },
+    {
+      "paragraph": "President Donald Trump's budget blueprint calls to end the SLS rocket and Orion capsule after the Artemis II test flight scheduled to launch in early 2026, and the Artemis III mission, which is slated to launch no earlier than mid-2027.",
+      "reason": "This paragraph provides specific information about the timeline and impact of the budget cuts on NASA's programs.",
+      "label": 1
+    },
+    {
+      "paragraph": "A document outlining the budget request says the proposal “refocuses” NASA funding on “beating China back to the Moon and putting the first human on Mars.”",
+      "reason": "This paragraph provides insight into the strategic goals behind the budget proposal.",
+      "label": 1
+    },
+    {
+      "paragraph": "The proposal would also cancel the planned Lunar Gateway, which was intended as a space station hub in lunar orbit and to play a key role in future missions to the moon and beyond.",
+      "reason": "This paragraph provides specific information about the cancellation of a significant NASA project due to budget cuts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other major shifts include a $2.265 billion reduction in NASA’s space science budget, a $1.161 billion reduction in Earth sciences and cuts of about half a billion dollars for the International Space Station.",
+      "reason": "This paragraph details specific budget reductions in various NASA programs.",
+      "label": 1
+    },
+    {
+      "paragraph": "In addition to decreasing funding for the orbiting outpost, the cuts would reduce the size of the space station crew and its capacity for scientific research, \"preparing for a safe decommissioning of the station by 2030 and replacement by commercial space stations,\" according to the budget request.",
+      "reason": "This paragraph provides details on the impact of budget cuts on the International Space Station and future plans.",
+      "label": 1
+    },
+    {
+      "paragraph": "In an agency-wide email obtained by NBC News, NASA acting Administrator Janet Petro wrote that the proposed budget “reflects the administration’s support for our mission and sets the stage for our next great achievements.”",
+      "reason": "This paragraph contains a general statement from a NASA official without specific information about the budget cuts.",
+      "label": 0
+    },
+    {
+      "paragraph": "She urged NASA employees to “persevere, stay resilient, and lean into the discipline it takes to do things that have never been done before — especially in a constrained environment,” and said the budget would “require tough choices,” and “some activities will wind down.”",
+      "reason": "This paragraph contains motivational statements without specific details about the budget cuts.",
+      "label": 0
+    },
+    {
+      "paragraph": "Among other things, Petro highlighted in her email that under the discretionary budget, NASA would retire the SLS rocket and the Orion spacecraft and Gateway programs; end green aviation spending; and end its Mars Sample Return program.",
+      "reason": "This paragraph provides specific details about the programs affected by the budget cuts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Petro’s email did not name any specific aerospace and defense contractors that may gain or lose federal funding and business resulting from these changes. However, Elon Musk-led SpaceX, Jeff Bezos’ Blue Origin, and United Launch Alliance (a joint venture between Boeing and Lockheed Martin) are seen as the major rocket-makers that could continue to conduct launches in the absence of the SLS.",
+      "reason": "This paragraph provides context on potential industry impacts and key players related to the budget cuts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Denise Chow is a science and space reporter for NBC News.",
+      "reason": "This is background information about a reporter and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Lora Kolodny, CNBC",
+      "reason": "This is a mention of a person and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

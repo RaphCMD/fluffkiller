@@ -1,0 +1,144 @@
+{
+    "headline": "Indigenous Peoples sidelined in global climate fight, UN warns | UN News",
+    "context": [
+        "Launched on Thursday, The State of the World’s Indigenous Peoples exposes a stark imbalance: while Indigenous Peoples make up just six per cent of the global population, they safeguard 80 per cent of the planet’s remaining biodiversity – yet receive less than one per cent of international climate funding.",
+        "The report offers a sobering assessment of climate action that is not only lacking in urgency, but in fairness. From green energy projects imposed without consent to policy decisions made in rooms where Indigenous voices are absent, these communities are too often excluded from climate solutions, displaced by them, and denied the resources to lead the way."
+    ],
+    "annotations": [
+        {
+            "paragraph": "“Although we are disproportionately affected by the climate crisis, Indigenous Peoples are not victims,” writes Hindou Oumarou Ibrahim, Chair of the UN Permanent Forum on Indigenous Issues, in the report’s foreword.",
+            "reason": "Frames Indigenous Peoples’ self-view and agency.",
+            "label": 1
+        },
+        {
+            "paragraph": "“We are custodians of the natural world who are committed to maintaining the natural equilibrium of the planet for the generations to come.”",
+            "reason": "Highlights Indigenous stewardship perspective.",
+            "label": 1
+        },
+        {
+            "paragraph": "The publication, overseen by the UN, brings together contributions from Indigenous leaders, researchers and the World Health Organization (WHO), combining case studies, data and lived experience from seven distinct regions of the world.",
+            "reason": "Describes the report’s scope and contributors.",
+            "label": 1
+        },
+        {
+            "paragraph": "A child from the Badjao Indigenous community in the Philippines sits amid the wreckage left by a typhoon.",
+            "reason": "Image caption without narrative content.",
+            "label": 0
+        },
+        {
+            "paragraph": "The report calls for a seismic shift in how Indigenous knowledge is understood and respected – reframing it not as “traditional” or folkloric, but as scientific and technical knowledge.",
+            "reason": "Summarizes a key recommendation on knowledge paradigms.",
+            "label": 1
+        },
+        {
+            "paragraph": "Indigenous knowledge systems, authors argue, are “time-tested, method-driven” and built on direct relationships with ecosystems that have sustained life for millennia.",
+            "reason": "Explains the rationale for respecting Indigenous knowledge.",
+            "label": 1
+        },
+        {
+            "paragraph": "For example, in Peru, a Quechua community in Ayacucho has revived water sowing and harvesting practices to adapt to shrinking glaciers and drought. These methods, part of ancestral stewardship of hydrological cycles, are now being shared across borders with Costa Rican farmers as a model of South-South climate cooperation.",
+            "reason": "Provides a concrete case study of knowledge transfer.",
+            "label": 1
+        },
+        {
+            "paragraph": "In Somalia, oral traditions serve as ecological law. The report cites cultural norms such as prohibitions on cutting certain trees (gurmo go’an) as evidence of environmental governance embedded in generational wisdom – passed through proverbs, stories, and taboos rather than policy papers.",
+            "reason": "Illustrates governance through Indigenous cultural norms.",
+            "label": 1
+        },
+        {
+            "paragraph": "Meanwhile, the Comcaac people of Mexico encode ecological and maritime knowledge in their language. Names like Moosni Oofia (where green turtles gather) and Tosni Iti Ihiiquet (where pelicans hatch) act as living data points – “vital  to their survival,” the report emphasises.",
+            "reason": "Demonstrates ecological data embedded in place names.",
+            "label": 1
+        },
+        {
+            "paragraph": "Ore containing copper, cobalt and nickel at a mine.",
+            "reason": "Image caption without narrative content.",
+            "label": 0
+        },
+        {
+            "paragraph": "The report also looks at how even as the world embraces a renewable energy future, many Indigenous Peoples are finding themselves on the frontlines not as climate partners, but as collateral damage from some of the solutions.",
+            "reason": "Highlights unintended harms from green projects.",
+            "label": 1
+        },
+        {
+            "paragraph": "“So-called green solutions often pose as much of a threat to Indigenous Peoples as the climate crisis itself,” writes Ms. Ibrahim. From biofuel expansion, carbon offsetting schemes, and mineral extraction for clean energy technologies, the new economy is often being built on old injustices.",
+            "reason": "Quotes the warning about green-energy risks.",
+            "label": 1
+        },
+        {
+            "paragraph": "For example, in Africa, the report draws attention to how demand for minerals linked to the green energy transition — including lithium and cobalt — has led to extractive activities that proceed without free, prior and informed consent. These projects often result in environmental degradation and displacement, echoing colonial patterns of land exploitation.",
+            "reason": "Provides a specific example of extractive harms.",
+            "label": 1
+        },
+        {
+            "paragraph": "In several countries across the Americas, carbon offset projects tied to forest conservation have also been implemented without consultation – often on Indigenous lands – resulting in environmental degradation and exclusion from financial benefits.",
+            "reason": "Details another category of harmful projects.",
+            "label": 1
+        },
+        {
+            "paragraph": "Throughout, the report warns that if climate actions continue to be designed and implemented without Indigenous Peoples at the centre, they risk replicating the extractive and exclusionary systems that fuelled the crisis in the first place.",
+            "reason": "Summarizes the overarching caution of the report.",
+            "label": 1
+        },
+        {
+            "paragraph": "Indigenous young women representatives of the Sami People at the COP26 pavilions.",
+            "reason": "Image caption without narrative content.",
+            "label": 0
+        },
+        {
+            "paragraph": "The report also includes a chapter commissioned by WHO that details how climate-related health impacts intersect with the social, cultural, and spiritual lives of Indigenous communities.",
+            "reason": "Introduces the health-climate intersection chapter.",
+            "label": 1
+        },
+        {
+            "paragraph": "In the Arctic, changes in temperature, wildlife migration, and weather patterns are disrupting traditional practices like hunting and harvesting. These disruptions are causing stress and threatening food security.",
+            "reason": "Describes specific climate impacts on Arctic Indigenous communities.",
+            "label": 1
+        },
+        {
+            "paragraph": "Indigenous women are particularly affected by the intersection of climate change and health. In East Africa, for example, women are more vulnerable to neglected tropical diseases such as schistosomiasis, leishmaniasis, and soil-transmitted helminthiases.",
+            "reason": "Highlights gender-specific health vulnerabilities.",
+            "label": 1
+        },
+        {
+            "paragraph": "In the Amazon, climate-induced biodiversity loss has reduced access to traditional foods and medicinal plants, contributing to nutritional deficiencies among pregnant and nursing women, as well as broader community health vulnerabilities.",
+            "reason": "Gives another region-specific health impact example.",
+            "label": 1
+        },
+        {
+            "paragraph": "Despite these challenges, the report emphasises resilience. Communities are implementing locally rooted adaptation strategies, often led by women and elders. These include restoring traditional diets, strengthening intergenerational knowledge sharing, and adapting harvesting calendars to new ecological rhythms.",
+            "reason": "Summarizes adaptation strategies demonstrating resilience.",
+            "label": 1
+        },
+        {
+            "paragraph": "Participants attend the opening of the 24th Session of the Permanent Forum on Indigenous Issues.",
+            "reason": "Image caption without narrative content.",
+            "label": 0
+        },
+        {
+            "paragraph": "Although Indigenous Peoples are increasingly acknowledged in global environmental frameworks, the report reveals that their role in shaping and implementing climate policy remains severely limited — both in terms of funding and governance.",
+            "reason": "Highlights the core governance and funding imbalance.",
+            "label": 1
+        },
+        {
+            "paragraph": "Indigenous communities continue to face structural barriers that prevent them from accessing international climate finance. While significant resources flow through climate initiatives worldwide, less than 1 per cent reaches Indigenous Peoples directly.",
+            "reason": "Provides the key statistic on funding disparity.",
+            "label": 1
+        },
+        {
+            "paragraph": "The report calls for a fundamental shift: not just to increase funding, but to change who controls it.",
+            "reason": "Summarizes the main structural recommendation.",
+            "label": 1
+        },
+        {
+            "paragraph": "Among its key recommendations are the creation of Indigenous-led financial mechanisms, formal recognition of Indigenous governance systems, and the protection of data sovereignty – ensuring communities control how knowledge about their lands and livelihoods is collected and used.",
+            "reason": "Lists the actionable recommendations.",
+            "label": 1
+        },
+        {
+            "paragraph": "Unless these systems are transformed, the report warns, climate action risks reproducing the same patterns of exclusion and dispossession that have long undermined both Indigenous rights and global environmental goals.",
+            "reason": "Restates the warning about repeating past injustices.",
+            "label": 1
+        }
+    ]
+}

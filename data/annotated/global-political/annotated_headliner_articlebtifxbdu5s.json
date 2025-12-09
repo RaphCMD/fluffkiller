@@ -1,0 +1,174 @@
+{
+  "headline": "How record-breaking Hurricane Beryl is a sign of a warming world",
+  "context": [
+    "5 July 2024",
+    "Climate reporter"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Hurricane Beryl has wreaked havoc in parts of the Caribbean – and put the role of climate change under the spotlight.",
+      "reason": "Introduces the impact of Hurricane Beryl and its connection to climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "With maximum sustained wind speeds of more than 160mph (257km/h), it became the earliest category five Atlantic hurricane in records going back around 100 years.",
+      "reason": "Provides specific data about Hurricane Beryl's intensity and historical significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "In fact, there has only been one previous recorded case of a category five Atlantic hurricane in July – Hurricane Emily, on 16 July 2005.",
+      "reason": "Offers historical context by comparing Hurricane Beryl to a past event.",
+      "label": 1
+    },
+    {
+      "paragraph": "The causes of individual storms are complex, making it difficult to fully attribute specific cases to climate change.",
+      "reason": "Discusses the complexity of attributing individual storms to climate change.",
+      "label": 1
+    },
+    {
+      "paragraph": "But exceptionally high sea surface temperatures are seen as a key reason why Hurricane Beryl has been so powerful.",
+      "reason": "Explains a specific factor contributing to the hurricane's strength.",
+      "label": 1
+    },
+    {
+      "paragraph": "Usually, such strong storms only develop later in the season, after the seas have heated up through the summer.",
+      "reason": "Provides context on the unusual timing of Hurricane Beryl's development.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hurricanes generally need the sea surface to be at least 27C in order to have a chance of developing. As the map below shows, waters along Hurricane Beryl’s path have been much warmer than this.",
+      "reason": "Gives specific information about sea temperatures relevant to Hurricane Beryl.",
+      "label": 1
+    },
+    {
+      "paragraph": "All else being equal, warmer seas mean more powerful hurricanes, because the storms can pick up more energy, enabling higher wind speeds.",
+      "reason": "Explains the relationship between sea temperature and hurricane strength.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We know that as we warm the planet, we’re warming our sea surface temperatures as well,” explains Andra Garner, an assistant professor at Rowan University in the US.",
+      "reason": "Provides expert commentary linking global warming to sea temperature increases.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"And we know that those warm ocean waters are a critical fuel source for hurricanes.\"",
+      "reason": "Further emphasizes the role of warm ocean waters in hurricane development.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the main Atlantic hurricane development region, the ocean heat content – the energy stored throughout the water column - is at levels not usually seen until September.",
+      "reason": "Provides specific information about unusual ocean heat content relevant to the hurricane's strength.",
+      "label": 1
+    },
+    {
+      "paragraph": "That is when the Atlantic hurricane season is usually at its most active, as the sea surface is typically at its warmest at the end of summer.",
+      "reason": "Offers context about typical hurricane season timing, relevant to understanding the anomaly.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is illustrated by the chart below, where a dot represents a major hurricane between 1940 and 2024. As you can see, most major hurricanes happen in late August and September, and earlier ones are very rare.",
+      "reason": "Provides historical context and visual data reference to support the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "While a category five hurricane is unheard of this early in the season, its strength fits into the broader picture of how these storms are changing in a warming world.",
+      "reason": "Directly relates the hurricane's strength to climate change, supporting the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "The number of hurricanes has not been increasing, but a higher proportion of them are expected to reach the highest categories globally as temperatures rise.",
+      "reason": "Provides relevant information about the changing nature of hurricanes in the context of global warming.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Although it is uncertain to what extent climate change contributed to the early formation of Hurricane Beryl, our climate models suggest that the mean intensity of hurricanes will increase in the future due to enhanced global warming,” explains Hiroyuki Murakami, research scientist at Noaa’s Geophysical Fluid Dynamics Laboratory.",
+      "reason": "Provides expert commentary on the link between climate change and hurricane intensity.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another factor to consider this year is regional weather patterns.",
+      "reason": "Introduces a new topic without providing specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "In the eastern Pacific, El Niño conditions have recently come to an end.",
+      "reason": "Provides context on current weather patterns affecting hurricane formation.",
+      "label": 1
+    },
+    {
+      "paragraph": "El Niño inhibits the formation of strong hurricanes in the Atlantic, because of the way it affects winds in the atmosphere. The opposite phase, known as La Niña, favours Atlantic hurricane development.",
+      "reason": "Explains the impact of El Niño and La Niña on hurricane formation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Currently, there are “neutral” conditions – neither El Niño nor La Nina. But La Niña conditions are expected later this year.",
+      "reason": "Provides current and future weather conditions relevant to hurricane development.",
+      "label": 1
+    },
+    {
+      "paragraph": "This likely transition – as well as rising sea temperatures through July and August – has led to concerns that even more powerful hurricanes could form later in the season.",
+      "reason": "It provides context on how rising sea temperatures could lead to more powerful hurricanes.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Hurricane Beryl sets a precedent for what we fear is going to be a very, very active, very dangerous hurricane season, which will impact the entire Atlantic basin,” says Ko Barrett, Deputy Secretary-General of the World Meteorological Organization.",
+      "reason": "The quote directly addresses the significance of Hurricane Beryl in the context of the hurricane season.",
+      "label": 1
+    },
+    {
+      "paragraph": "In May, the US weather agency Noaa warned an “extraordinary” Atlantic hurricane season could be in store, forecasting between four and seven major hurricanes – category three (111mph) or above - between June and November. On average, the Atlantic is hit by three major hurricanes a year.",
+      "reason": "It provides relevant forecasts and comparisons for the hurricane season.",
+      "label": 1
+    },
+    {
+      "paragraph": "Meteorologists and climate scientists have also remarked about how quickly Hurricane Beryl strengthened.",
+      "reason": "It highlights a significant aspect of Hurricane Beryl's development.",
+      "label": 1
+    },
+    {
+      "paragraph": "It took just 42 hours to go from a tropical depression – with maximum sustained wind speeds of 38mph or less - to a major hurricane (meaning above 111mph).",
+      "reason": "This provides specific data on the rapid intensification of Hurricane Beryl.",
+      "label": 1
+    },
+    {
+      "paragraph": "“What makes Beryl particularly notable is that it [...] intensified the fastest from a tropical depression to a hurricane [of any Atlantic hurricane in June or early July],” explains Shuyi Chen, professor of atmospheric science at the University of Washington.",
+      "reason": "Provides specific information about Hurricane Beryl's rapid intensification.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hurricane Beryl is an example of “rapid intensification” - where maximum wind speeds increase very quickly. It can be especially dangerous, because communities have less time to prepare.",
+      "reason": "Explains the concept of rapid intensification and its dangers, relevant to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "The frequency and magnitude of these rapid intensification events in the Atlantic appears to have increased in recent decades.",
+      "reason": "Provides context on the increasing trend of rapid intensification events.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Unprecedented as Beryl is, it actually very much aligns with the kinds of extremes we expect in a warmer climate,” Dr Garner says.",
+      "reason": "Connects Hurricane Beryl to broader climate change patterns.",
+      "label": 1
+    },
+    {
+      "paragraph": "“As we’re warming the planet, we’re essentially “stacking the deck” of extreme events against ourselves, making events like Hurricane Beryl not only possible, but more likely.”",
+      "reason": "Discusses the impact of climate change on the likelihood of extreme weather events.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It’s up to us to reduce our emissions to change that story.”",
+      "reason": "This is a vague generalization and moralizing conclusion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Graphics by Erwan Rivault",
+      "reason": "This is an image credit and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "More on Hurricane Beryl",
+      "reason": "This is a navigation prompt and does not provide new information.",
+      "label": 0
+    }
+  ]
+}

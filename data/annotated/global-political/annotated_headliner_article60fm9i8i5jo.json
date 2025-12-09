@@ -1,0 +1,84 @@
+{
+  "headline": "British woman Ethel Caterham becomes oldest person in the world at 115 | UK News | Sky News",
+  "context": [
+    "A British woman has officially become the oldest person in the world at the age of 115, according to the Guinness World Records.",
+    "Ethel Caterham, who lives in a care home in Surrey, has taken the mantle at 115 years and 252 days, LongeviQuest confirmed."
+  ],
+  "annotations": [
+    {
+      "paragraph": "It comes after the death on 30 April of the previous record holder, Inah Canabarro Lucas, who was a 116-year-old nun from Brazil.",
+      "reason": "Provides context about the previous record holder, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mrs Caterham sets multiple records - including being the last living person to be born in 1909.",
+      "reason": "Adds significant information about her unique status and records.",
+      "label": 1
+    },
+    {
+      "paragraph": "She is also the youngest person to be named the oldest woman in the last 12 years.",
+      "reason": "Provides additional context about her record-setting status.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mrs Caterham is also among the oldest survivors of coronavirus, having contracted it at 110 in 2020.",
+      "reason": "Offers relevant information about her health history and resilience.",
+      "label": 1
+    },
+    {
+      "paragraph": "She has outlived her husband Norman, who died in 1976, and both her children Gem and Anne, who died after the millennium.",
+      "reason": "Gives personal background relevant to her longevity story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Asked what her secret to a long life is, she told the Salisbury Journal: \"Say yes to every opportunity because you never know what it will lead to. Have a positive mental attitude and have everything in moderation.\"",
+      "reason": "Provides a direct quote from Ethel Caterham about her secret to longevity.",
+      "label": 1
+    },
+    {
+      "paragraph": "Read more from Sky NewsEnglish FA will ban transgender women from women's footballFatal paddleboarding trip instructor's police sacking revealed",
+      "reason": "Unrelated content promoting other news articles.",
+      "label": 0
+    },
+    {
+      "paragraph": "Still in good health",
+      "reason": "Lacks context or information; appears to be a fragment.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mrs Caterham remains in good health and enjoys sitting in the garden at her care home, which has been named Ethel's Garden in her honour.",
+      "reason": "Provides information about her current health and a tribute in her honor.",
+      "label": 1
+    },
+    {
+      "paragraph": "She was born in Hampshire on 21 August 1909 - the second-youngest of eight children.",
+      "reason": "Gives relevant biographical information about Ethel Caterham.",
+      "label": 1
+    },
+    {
+      "paragraph": "Her older sister Gladys also lived a long life, having died at 104 years and 78 days in 2002.",
+      "reason": "This provides context on family longevity, which is relevant to the topic of Ethel's age.",
+      "label": 1
+    },
+    {
+      "paragraph": "Mrs Caterham moved to India to work as a nanny when she was 18 and often reminisces about her time there.",
+      "reason": "This is background information about her early life, not directly related to her current status as the oldest person.",
+      "label": 0
+    },
+    {
+      "paragraph": "When she returned she met her future husband, a British Army major, at a dinner party in 1931 - the pair marrying in Salisbury Cathedral two years later.",
+      "reason": "This is personal history that does not contribute to the main story of her being the oldest person.",
+      "label": 0
+    },
+    {
+      "paragraph": "They went to live in Hong Kong and Gibraltar when he was posted abroad, with Mrs Caterham returning to her love of children and opening her own nursery during their time in Asia.",
+      "reason": "This is additional personal history that does not relate to her current status.",
+      "label": 0
+    },
+    {
+      "paragraph": "On the couple's return to the UK - they settled in Surrey where she gave birth to their daughters. Gem died in the early 2000s and Anne aged 82 in 2020.",
+      "reason": "This provides context on her family life, which is not directly relevant to her being the oldest person.",
+      "label": 0
+    }
+  ]
+}

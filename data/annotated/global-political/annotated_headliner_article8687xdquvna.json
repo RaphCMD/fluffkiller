@@ -1,0 +1,89 @@
+{
+  "headline": "Earth has shattered global heat records for the 9th straight month, scientists say | PBS News",
+  "context": [
+    "WASHINGTON (AP) — For the ninth straight month, Earth has obliterated global heat records — with February, the winter as a whole and the world’s oceans setting new high-temperature marks, according to the European Union climate agency Copernicus.",
+    "The latest record-breaking in this climate change-fueled global hot streak includes sea surface temperatures that weren’t just the hottest for February, but eclipsed any month on record, soaring past August 2023’s mark and still rising at the end of the month. And February, as well the previous two winter months, soared well past the internationally set threshold for long-term warming, Copernicus reported Wednesday."
+  ],
+  "annotations": [
+    {
+      "paragraph": "READ MORE: ‘We’re frankly astonished.’ Why 2023’s record-breaking heat surprised scientists",
+      "reason": "This is a prompt to read more and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The last month that didn’t set a record for hottest month was in May 2023 and that was a close third to 2020 and 2016. Copernicus records have fallen regularly from June on.",
+      "reason": "This provides context on the frequency of record-breaking months, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "February 2024 averaged 13.54 degrees Celsius (56.37 degrees Fahrenheit), breaking the old record from 2016 by about an eighth of a degree. February was 1.77 degrees Celsius (3.19 degrees Fahrenheit) warmer than the late 19th century, Copernicus calculated. Only last December was more above pre-industrial levels for the month than February was.",
+      "reason": "This paragraph provides specific data on February 2024's temperatures, directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the 2015 Paris Agreement, the world set a goal of trying to keep warming at or below 1.5 degrees Celsius (2.7 degrees Fahrenheit). Copernicus’ figures are monthly and not quite the same measurement system for the Paris threshold, which is averaged over two or three decades. But Copernicus data shows the last eight months, from July 2023 on, have exceeded 1.5 degrees of warming.",
+      "reason": "This provides context on how recent temperatures compare to international climate goals, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Climate scientists say most of the record heat is from human-caused climate change of carbon dioxide and methane emissions from the burning of coal, oil and natural gas. Additional heat comes from a natural El Nino, a warming of the central Pacific that changes global weather patterns.",
+      "reason": "This explains the causes of the record heat, directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Given the strong El Nino since mid-2023, it’s not surprising to see above-normal global temperatures, as El Ninos pump heat from the ocean into the atmosphere, driving up air temperatures. But the amount by which records have been smashed is alarming,” said Woodwell Climate Research Center climate scientist Jennifer Francis, who wasn’t part of the calculations.",
+      "reason": "The paragraph provides expert commentary on the impact of El Nino on global temperatures, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“And we also see the ongoing ‘hot spot’ over the Arctic, where rates of warming are much faster than the globe as a whole, triggering a cascade of impacts on fisheries, ecosystems, ice melt, and altered ocean current pattern s that have long-lasting and far-reaching effects,” Francis added.",
+      "reason": "This paragraph offers specific information about the Arctic warming and its broader impacts, relevant to the global heat records.",
+      "label": 1
+    },
+    {
+      "paragraph": "Record high ocean temperatures outside the Pacific, where El Nino is focused, show this is more than the natural effect, said Francesca Guglielmo, a Copernicus senior climate scientist.",
+      "reason": "The paragraph provides insight into the broader implications of ocean temperature records beyond El Nino, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "READ MORE: Sea ice lows, extreme ocean heat of 2023 offers glimpse of future warming, study says",
+      "reason": "This is a prompt to read more and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "The North Atlantic sea surface temperature has been at record level — compared to the specific date — every day for a solid year since March 5, 2023, “often by seemingly-impossible margins,” according to University of Miami tropical scientist Brian McNoldy.",
+      "reason": "The paragraph provides specific data about North Atlantic sea surface temperatures, relevant to the global heat records.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those other ocean areas “are a symptom of greenhouse-gas trapped heat accumulating over decades,” Francis said in an email. “That heat is now emerging and pushing air temperatures into uncharted territory.”",
+      "reason": "The paragraph provides expert commentary on the cause of the heat records, linking it to greenhouse gases.",
+      "label": 1
+    },
+    {
+      "paragraph": "“These anomalously high temperatures are very worrisome,” said Cornell University climate scientist Natalie Mahowald. “To avoid even higher temperatures, we need to act quickly to reduce CO2 emissions.”",
+      "reason": "The paragraph includes a relevant expert quote on the implications of the heat records and the need for action.",
+      "label": 1
+    },
+    {
+      "paragraph": "This was the warmest winter — December, January and February — by nearly a quarter of a degree, beating 2016, which was also an El Nino year. The three-month period was the most any season has been above pre-industrial levels in Copernicus record keeping, which goes back to 1940.",
+      "reason": "The paragraph provides specific data on the record-breaking temperatures and historical context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Francis said on a 1-to-10 scale of how bad the situation is, she gives what’s happening now “a 10, but soon we’ll need a new scale because what’s a 10 today will be a five in the future unless society can stop the buildup of heat-trapping gases.”",
+      "reason": "The paragraph offers a dramatic expert opinion on the severity of the situation, adding depth to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "Support PBS News Hour",
+      "reason": "The paragraph is a call to support the news outlet and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Your tax-deductible donation ensures our vital reporting continues to thrive.",
+      "reason": "The paragraph is a call for donations and does not contribute to the article's core story about global heat records.",
+      "label": 0
+    }
+  ]
+}

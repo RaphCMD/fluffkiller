@@ -1,0 +1,154 @@
+{
+  "headline": "Sharri Markson issues own Dutton endorsement as ACM says ‘Australia is Tanya Plibersek’ | Amanda Meade | The Guardian",
+  "context": [
+    "The Murdoch media continued its support for the Coalition on Friday with official election editorials endorsing a Dutton government. The Daily Telegraph said: “A poor campaign by the Coalition should not obscure the risk of continued Labor mismanagement.”",
+    "The Australian said: “We owe our allegiance to no party … But in the key areas of defence, energy and the economy, the Coalition provides the best option for managing the demands of challenging and uncertain times.”"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The Sydney Morning Herald endorsed Labor, saying “the Coalition has proven itself incapable of crafting and selling a plan for government”. The Age’s editorial is slated for Saturday’s paper.",
+      "reason": "This paragraph provides relevant information about media endorsements, contrasting with the Murdoch media's support for the Coalition.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Australian Community Media’s regional titles, a company-wide editorial began: “Right now Australia is Tanya Plibersek.” We wondered if the byline was missing or it was indeed an editorial.",
+      "reason": "This paragraph introduces the unusual editorial stance of ACM, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "It continued: “We are caught in a version of that awkward Seinfeld episode we cringed through last month as Plibersek and Prime Minister Anthony Albanese – longtime factional foes – tangled in a ham-fisted, half-hearted hug-turned-hokey-pokey handshake at Labor’s election campaign launch in Perth.”",
+      "reason": "This paragraph provides context to the ACM editorial's tone and content, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The bizarre piece was published in the Armidale Express and the Examiner, among others, but ACM title the Canberra Times ran its own official editorial criticising the Coalition’s “ill-conceived” and contradictory public service cuts and told readers “a safe set of hands looks a far better electoral choice”.",
+      "reason": "This paragraph provides additional context on ACM's editorial stance, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Guardian Australia published its election editorial on Thursday, saying: “Dutton does not appear ready to lead and the Coalition has not demonstrated the policy coherence necessary for effective government.”",
+      "reason": "This paragraph provides relevant information about Guardian Australia's editorial stance, contrasting with other media endorsements.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a surprise addition to the newspaper election editorials, Sky News Australia host Sharri Markson raised her self-importance to new levels with her very own editorial. “Sharri Markson officially endorses Peter Dutton to be prime minister.” Officially.",
+      "reason": "The paragraph introduces the main subject of the article, which is Markson's endorsement of Dutton.",
+      "label": 1
+    },
+    {
+      "paragraph": "“For the first time in my journalistic career I’m going to also offer a pre-election editorial, endorsing one side of politics,” she said on Sharri on Thursday night.",
+      "reason": "This provides a direct quote from Markson explaining her decision to endorse, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Not out of partisanship – but out of necessity. This election matters more than any in recent memory.”",
+      "reason": "This quote provides context for Markson's reasoning behind her endorsement, which is relevant to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "Markson argues that Albanese had betrayed the Australian Jewish community “for political and ideological purposes”.",
+      "reason": "This paragraph provides specific reasoning behind Markson's endorsement, contributing to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "“A Dutton prime ministership would give our great nation the fresh start we deserve.”",
+      "reason": "This quote summarizes Markson's endorsement, directly relating to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "It was no surprise of course as Sharri embraced Dutton’s “hate media” comment in her own interview with him earlier in the week. “Do you think that sort of media and others like them actually hate mainstream Australian values?” she asked the opposition leader.",
+      "reason": "This paragraph provides direct commentary on Sharri Markson's endorsement of Dutton, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Dutton said in response that some media were “so biased” and “many of them are just activists, not journalists”.",
+      "reason": "This paragraph includes a direct quote from Dutton, contributing to the narrative of media bias discussed in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "Peter Dutton started the last week of the election campaign by declaring “I can still win” on the front page of the Sunday Telegraph. An exclusive interview with the opposition leader “Lifts the lid on his ‘softer side’”, the masthead promised. “He wants voters to know that he does have a ‘softer side’.”",
+      "reason": "This paragraph provides context about Dutton's campaign strategy and media portrayal, relevant to the article's focus on media endorsements.",
+      "label": 1
+    },
+    {
+      "paragraph": "But it was a familiar story which has been told over and over again by the media. Who can forget the Courier Mail’s “He’s no monster” quote from his wife Kirrili Dutton?",
+      "reason": "This paragraph is a redundant background on Dutton's media portrayal, not adding new information to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The softer side of Dutton – “I am an emotional person” – did not last longer than a few hours. On Sunday afternoon he hardened, labelling the ABC and Guardian Australia “hate media”. On Wednesday he warmed to his anti-ABC crusade, telling FM radio that people should not watch the ABC’s election coverage if they wanted to have a good night.",
+      "reason": "This paragraph provides narrative progression on Dutton's stance against certain media outlets, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Friday the Tele’s front page pointed to final pitches by the leaders and their partners Jodie Haydon and Kirilly Dutton: “Why my partner deserves to be elected prime minister.”",
+      "reason": "This paragraph provides context about the media's portrayal of the election, which is relevant to the article's focus on media endorsements.",
+      "label": 1
+    },
+    {
+      "paragraph": "We learned both Anthony and Peter were good listeners and family men. Kirilly resisted mentioning her husband’s soft side. “Anthony wants women to fulfil their dreams and aspirations,” Haydon said. “He walks the walk on equality in his professional life and at home.”",
+      "reason": "This paragraph provides personal insights and quotes related to the candidates, contributing to the narrative of the election coverage.",
+      "label": 1
+    },
+    {
+      "paragraph": "Kirilly: “Despite his roles and workload, he has always been a wonderful husband and a dedicated and present father to his children.”",
+      "reason": "This paragraph offers a personal quote about Peter Dutton, adding depth to the portrayal of the candidate.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s cold comfort for Dutton but the Coalition leader has had a higher profile in the traditional media than his opponent.",
+      "reason": "This paragraph provides relevant information about media coverage, which is central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Over the past seven days, Dutton has held 55.7% share of voice across print, radio and TV, compared with 44.3% for Albanese over the same period, according to media monitoring company Streem.",
+      "reason": "This paragraph provides statistical data on media coverage, directly relevant to the article's focus on media influence.",
+      "label": 1
+    },
+    {
+      "paragraph": "But in social media Albanese is king, capturing 56.5% share of voice, compared with Dutton’s 45.3% across the platforms, Streem told Weekly Beast.",
+      "reason": "This paragraph provides relevant information about the social media presence of political leaders, which is pertinent to the political context of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "This trend was particularly strong on TikTok where Albanese’s views reached 4.97 million compared with 1.23 million for Dutton and 957,000 for Greens leader Adam Bandt, according to influencer marketing platform Fabulate.",
+      "reason": "This paragraph offers specific data on TikTok viewership, contributing to the understanding of the political leaders' reach on social media.",
+      "label": 1
+    },
+    {
+      "paragraph": "The three leaders’ TikTok accounts: @albomp, @peter.duttonmp and @adambandt have been a key platform for reaching younger voters in this “influencer” election.",
+      "reason": "This paragraph provides context on the use of TikTok by political leaders, relevant to the election theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fabulate says the key to Labor’s success has been consistency of posting, which has also helped Albanese increase his follower count by more than 25%.",
+      "reason": "This paragraph gives insight into Labor's social media strategy, relevant to the political narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ABC managing director, Hugh Marks, has made his strongest statements yet about where he may take the public broadcaster, hinting at being “broader” in appeal and less “fringe focused”.",
+      "reason": "This paragraph is unrelated to the main political theme of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "A former CEO of Nine Entertainment, Marks began his tenure at the public broadcaster in March after David Anderson resigned a year into a second five-year contract and has been travelling around the states to speaking to staff and management.",
+      "reason": "This paragraph provides background information on Marks' career, which is not directly related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "He told Ali Moore on ABC Melbourne Drive on Wednesday he was shocked by how much content the ABC produced every single day. At Nine he could be across everything but at Aunty he “can’t physically possibly get on top of everything that the ABC does”.",
+      "reason": "This paragraph offers personal commentary from Marks about his experience at ABC, which is not directly related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Responding to Dutton’s hate media comments, Marks conceded the broadcaster “did not get everything right” and said he was examining how the ABC can spend its resources “more wisely on doing fewer things better”.",
+      "reason": "This paragraph is relevant as it directly addresses Dutton's comments and Marks' response, which ties into the political context of the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We need to make sure that, you know, we’re not too city focused … [and] we’re very broad in our approach to the audience. We need to reach out into the regions and rural areas of Australia as much as we do the cities ... and not overly fringe focused.” Strap in.",
+      "reason": "This paragraph provides Marks' perspective on ABC's audience strategy, which is not directly related to the headline.",
+      "label": 0
+    }
+  ]
+}

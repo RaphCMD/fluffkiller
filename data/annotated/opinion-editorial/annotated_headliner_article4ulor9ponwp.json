@@ -1,0 +1,64 @@
+{
+  "headline": "Opinion: For the good of the country, Liberals and Conservatives must work together - The Globe and Mail",
+  "context": [
+    "Authors and topics you follow will be added to your personal news feed in Following.",
+    "Green Investing 101 course"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Turn to Green Investing 101, a newsletter course by David Berman, Emma Graney and Jeffrey Jones",
+      "reason": "This paragraph is an advertisement for a newsletter course and does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This paragraph is an event announcement and does not directly relate to the need for Liberals and Conservatives to work together.",
+      "label": 0
+    },
+    {
+      "paragraph": "Report on business",
+      "reason": "This is a section header and does not provide any information related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Subscribe for insightful content, analysis and tools to navigate your financial future",
+      "reason": "This paragraph is a promotional subscription call and does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Globe answers your most pressing questions about climate change in Canada and beyond",
+      "reason": "This paragraph is a promotional statement and does not directly relate to the collaboration between Liberals and Conservatives.",
+      "label": 0
+    },
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This paragraph is relevant as it provides information about an event that aligns with the theme of collaboration for a prosperous Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "Report on business",
+      "reason": "This is a section header and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Subscribe for insightful content, analysis and tools to navigate your financial future",
+      "reason": "This is promotional content and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Globe answers your most pressing questions about climate change in Canada and beyond",
+      "reason": "This is promotional content and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Green Investing 101 course",
+      "reason": "This is promotional content and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Turn to Green Investing 101, a newsletter course by David Berman, Emma Graney and Jeffrey Jones",
+      "reason": "The paragraph is an advertisement for a newsletter course and does not contribute to the main premise of political cooperation.",
+      "label": 0
+    }
+  ]
+}

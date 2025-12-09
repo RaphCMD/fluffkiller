@@ -1,0 +1,64 @@
+{
+  "headline": "Scientists make huge Ancient Egypt discovery | History | News | Express.co.uk",
+  "context": [
+    "A display showcases a stele and multiple artefacts unearthed during a partial excavation (Image: Getty)",
+    "Archaeologists excavating the region in Egypt where King Tutankhamun was discovered have shared a game changing discovery with authorities which they say “reconstructs history,” as we currently know it."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Tucked away hundreds of feet below the surface city of Luxor, archaeologists discovered 11 wooden coffins including one for a child that were hidden inside rock-cut tombs and burial shafts.",
+      "reason": "This paragraph provides specific details about the discovery of coffins, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Alongside the coffins themselves, they also found a wealth of artefacts, which could potentially reveal a previously unseen side of the lives of people living in Ancient Egypt more than 3,600 years ago. Discussing the significance of the discoveries, experts have now explained that the findings could lead to a far more in-depth look at ancient Egyptian symbols, layouts, rituals, and practices in their temples.",
+      "reason": "This paragraph explains the potential significance of the artefacts found, contributing to the article's main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Among the items unearthed include bronze coins with the image of Alexander the Great dating to the Time of Ptolemy I (367-283BC), clay children’s toys, winged scarabs, amulets and intricate funerary masks that covered the faces of mummies as they were laid to rest.",
+      "reason": "This paragraph lists specific artefacts found, adding detail to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Unfortunately, while the new discoveries are a welcome find, sadly much of the tombs have been picked clean by looters over the centuries, but while they may have scarpered with more ornate objects, several more modest items have been left behind including pottery tables used to offer bread, wine and meat. Archer’s bows have also been discovered, which could link the bodies of the dead to the Egyptian military.",
+      "reason": "This paragraph provides context about the condition of the tombs and additional artefacts found, relevant to the discovery.",
+      "label": 1
+    },
+    {
+      "paragraph": "Another crucial discovery made by the archaeologists was the unearthing of Queen Hatshepsut's Valley Temple, one of Egypt’s first female pharaohs. Reigning from around 1479 to 1458BC, she was only the second confirmed queen regnant to ever rule over the empire, with the first having been Sobekneferu.",
+      "reason": "Provides specific information about a significant archaeological discovery related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Zahi Hawass Foundation for Antiquities & Heritage, an organisation that aims to preserve Egypt's heritage and antiquities announced the discovery Wednesday,reports the MailOnline.",
+      "reason": "Mentions the announcement of the discovery, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Luxor is best known for being the home of the Valley of Kings, where King Tutankhamun was first discovered back in 1922. It sits about 340 miles from the Great Pyramids and was once referred to as the “Great Necropolis of Millions of Years of Pharaoh,” thanks to the multiple mummies discovered at the site throughout the 1800s and beyond.",
+      "reason": "Provides background information about Luxor, which is not directly related to the new discovery.",
+      "label": 0
+    },
+    {
+      "paragraph": "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. Read our Privacy Policy",
+      "reason": "This paragraph is a standard disclaimer about data usage and privacy, unrelated to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Unlike King Tutankhamun who was discovered inside a pyramid, the latest finds were found carved into rocks, which the Egyptians believed would protect the body and soul of the dead as they journeyed to the afterlife.",
+      "reason": "This paragraph provides relevant information about the nature of the new discovery compared to King Tutankhamun's tomb.",
+      "label": 1
+    },
+    {
+      "paragraph": "Additionally, inside these unique tombs, archaeologists also found burial shafts from the 17th dynasty, the tomb of Djehuti-Mes and part of the Assassif Ptolemaic Necropolis, where only high-ranking officials were laid to rest.",
+      "reason": "This paragraph offers specific details about the discoveries made, contributing to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "These days, the city of Luxor is well known worldwide for its long and lavish history, with the city often referred to as the world’s “greatest open-air museum” that attracts plenty of visitors as well as being the home to around 422,000 people. Sadly, recent conflict and unrest in the region has lead to a decline in tourism numbers, but Egyptian officials are hopeful that the latest finds will inspire more people to visit again and see firsthand a glimpse of Ancient Egyptian history.",
+      "reason": "This paragraph provides context about Luxor and its tourism, which is tangential to the main discovery.",
+      "label": 0
+    }
+  ]
+}

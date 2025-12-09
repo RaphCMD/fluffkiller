@@ -1,0 +1,199 @@
+{
+  "headline": "The world and America have changed irreversibly under Trump | US News | Sky News",
+  "context": [
+    "One hundred days ago, America presided over a world order it had itself crafted.",
+    "That order was designed to ensure US dominance in a global system that had offered growing prosperity, stability and security for decades."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The US economy had rebounded from the ravages of COVID-19 more effectively than any other, even if enough Americans did not yet feel the benefits to save the outgoing administration from electoral defeat.",
+      "reason": "Provides context on the US economy's status post-COVID-19, relevant to the changes under Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "But the US was leading the world's economy in a tentative recovery.",
+      "reason": "Adds context about the US's economic position, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now all that is in doubt.",
+      "reason": "Indicates a shift or uncertainty, relevant to the article's premise of change.",
+      "label": 1
+    },
+    {
+      "paragraph": "To his supporters, Donald Trump has used those 100 days wisely. To their minds, that much-vaunted world order ripped off America and he is rightly seeking corrective retribution.",
+      "reason": "Provides perspective on Trump's actions and his supporters' views, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump 100: Read moreTariffs, DOGE and diet coke: Trump's first 100 days in 100 wordsWhy Trump faces awkward reckoning 100 days into the jobHow Trump's immigration crackdown has changed lives",
+      "reason": "Appears to be a list of related articles or topics, not directly contributing to the main narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "He has declared a trade war on much of the world. In his eccentric reading of economics, allies that America has traded with most closely have been screwing the US and must make amends.",
+      "reason": "This paragraph provides specific information about Trump's trade policies and their impact on international relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "The result of his tariff policy was a precipitous collapse in faith in America's once all-powerful currency and the competence of its stewards.",
+      "reason": "This paragraph discusses the consequences of Trump's tariff policy, contributing to the article's narrative on economic changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Only an embarrassing partial volte-face averted a truly catastrophic rout on the bond markets and all that might have followed for the dollar.",
+      "reason": "This paragraph provides further context on the economic impact of Trump's policies, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Please use Chrome browser for a more accessible video player",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "President's unorthodox approach",
+      "reason": "This is a vague statement without specific information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Taking aim at phantom threats, say his critics, this president has instead holed both feet with a barrage of bullets.",
+      "reason": "This paragraph provides a critical perspective on Trump's actions, contributing to the narrative of change under his presidency.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump's diplomacy and use of American power have been equally unorthodox.",
+      "reason": "This paragraph introduces the theme of Trump's unconventional approach to diplomacy, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "He seems to believe in a natural order of things. The strong dominate. The weak accept their fate. He has talked of taking control of Greenland and Panama as if it were US destiny and absorbing Canada as America's 51st state.",
+      "reason": "This paragraph provides specific examples of Trump's worldview and actions, directly related to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "He has embraced Russian strongman Vladimir Putin's narrative for invading Ukraine and blamed the war instead on President Volodymyr Zelenskyy.",
+      "reason": "This paragraph offers a specific instance of Trump's foreign policy stance, relevant to the article's focus on changes under his leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "Spreaker\n            \n                This content is provided by Spreaker, which may be using cookies and other technologies.\n                To show you this content, we need your permission to use cookies.\n                You can use the buttons below to amend your preferences to enable Spreaker cookies or to allow those cookies just once.\n                You can change your settings at any time via the Privacy Options.\n            \n            \n                Unfortunately we have been unable to verify if you have consented to Spreaker cookies.\n                To view this content you can use the button below to allow Spreaker cookies for this session only.",
+      "reason": "This paragraph is a technical note about cookies and does not contribute to the article's narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "👉 Follow Trump100 on your podcast app 👈",
+      "reason": "This is a promotional line for a podcast, not contributing to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Trump has horrified allies",
+      "reason": "This is a vague statement without specific details or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "He has ordered his diplomats to vote with Moscow at the UN and horrified allies by publicly bullying the Ukrainian leader in the Oval Office, aided and abetted by his vice president JD Vance.",
+      "reason": "This paragraph provides specific actions taken by Trump that have impacted international relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "The peace plan he has offered is so one-sided it could have been written in the Kremlin. Ukrainians say it proposes extorting much of their mineral wealth and demands the surrender of much of the land taken in the most egregious act of aggression on European soil since World War Two.",
+      "reason": "This paragraph offers specific details about Trump's peace plan and its implications, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Please use Chrome browser for a more accessible video player",
+      "reason": "This is a technical suggestion unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "More broadly, allies have been put on notice that the US will be retreating from its decades-long role as guarantor of international security and prosperity in Europe at least.",
+      "reason": "This paragraph provides relevant information about the shift in US foreign policy under Trump.",
+      "label": 1
+    },
+    {
+      "paragraph": "As America puts itself first, so other nations are being urged to do the same.",
+      "reason": "This paragraph offers relevant context on the global impact of America's policy shift.",
+      "label": 1
+    },
+    {
+      "paragraph": "Critics say this will lead to a world of fortress nations erecting defences in place of decades of cooperation promoting peace and prosperity. That will only increase the risk of discord and conflict.",
+      "reason": "This paragraph provides relevant analysis and potential consequences of the policy changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ironically, America has been enriched and empowered by decades of a world order they call the Pax Americana, not impoverished by it, but Trump's radical prescription is already threatening Americans with rising prices and empty shelves.",
+      "reason": "This paragraph offers relevant commentary on the impact of Trump's policies on America.",
+      "label": 1
+    },
+    {
+      "paragraph": "Follow The World",
+      "reason": "This is a call to action and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Listen to The World with Richard Engel and Yalda Hakim every Wednesday",
+      "reason": "This is a promotional statement unrelated to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Tap to follow",
+      "reason": "This is a call to action unrelated to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Tool of soft power discarded",
+      "reason": "This is a subheading that introduces the following content but does not provide new information itself.",
+      "label": 0
+    },
+    {
+      "paragraph": "America under Donald Trump is also discarding one of its greatest tools of soft power abroad. It has dismantled US aid, leaving the health of tens of millions in jeopardy and a vacuum that China is only too eager to fill.",
+      "reason": "This paragraph provides specific information about changes in US foreign policy under Trump, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Also damaging America's prestige and standing in the world is its president's very un-American assault on democracy and freedom at home: his attacks on judges, use of executive power to target rivals and critics wherever he finds them, in academia, in the media and in corporations and law firms.",
+      "reason": "This paragraph offers specific examples of Trump's actions that impact America's global standing, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "And then there is his extrajudicial deportation of US citizens or 'homegrowns' as he calls them, to a central American gulag run by a government with an appalling human rights record.",
+      "reason": "This paragraph provides specific actions taken by the Trump administration that have impacted America's global standing.",
+      "label": 1
+    },
+    {
+      "paragraph": "Please use Chrome browser for a more accessible video player",
+      "reason": "This is a technical instruction unrelated to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "US 'no longer reliable partner'",
+      "reason": "This is a headline or subheading and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "America's claim to offer moral leadership has been tarnished by this administration.",
+      "reason": "This paragraph provides commentary on the impact of the Trump administration on America's moral leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is no longer seen as a reliable partner by allies and they are stating so more and more publicly.",
+      "reason": "This paragraph provides information on the changing perception of America by its allies.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some hope President Trump will soften his approach as his policies encounter controversy and threaten his popularity as he has already with tariffs.",
+      "reason": "This paragraph provides context on public expectations and reactions to Trump's policies, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, he has shown a greater determination and radicalism than in his first term in office.",
+      "reason": "This paragraph offers direct commentary on Trump's approach, contributing to the narrative of change under his leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "Allies will remain engaged, hoping to moderate and influence this president's foreign policy but in a hundred days, the world and America has changed under Donald Trump and in many ways irreversibly.",
+      "reason": "This paragraph summarizes the article's main premise about the irreversible changes under Trump's leadership.",
+      "label": 1
+    }
+  ]
+}

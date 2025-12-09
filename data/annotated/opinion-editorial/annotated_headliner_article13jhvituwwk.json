@@ -1,0 +1,109 @@
+{
+  "headline": "Opinion: In this anti-liberal moment, the world should be declaring: We are all Canadians - The Globe and Mail",
+  "context": [
+    "A man steams a Canadian flag prior to Liberal Party candidate Mark Carney's election-night speech in Ottawa, on April 28.Matt Mills McKnight/Reuters",
+    "Listen to this article"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Timothy Garton Ash is professor of European studies at the University of Oxford and senior fellow at the Hoover Institution at Stanford University.",
+      "reason": "This paragraph provides background information about the author, which is not directly related to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Liberals of all countries, unite!",
+      "reason": "This is a call to action that aligns with the article's theme of liberal unity.",
+      "label": 1
+    },
+    {
+      "paragraph": "Just as anti-liberal powers outside the West are growing stronger than ever, the assault on everything we stand for has been joined by the United States. Against this massed onslaught of anti-liberal nationalists, we need a determined fightback of liberal internationalists. Canada’s election this week can contribute a strong mounted brigade. Canada’s extraordinary turnaround election victory for the Liberals under Mark Carney shows what’s possible, and Australia may follow in its federal election next weekend.",
+      "reason": "This paragraph provides context and examples related to the article's main premise about liberalism and Canada's role.",
+      "label": 1
+    },
+    {
+      "paragraph": "A core insight of liberalism is that, if people are to live together well in conditions of freedom, power always needs to be dispersed, cross-examined and controlled. Faced with the raw, bullying assertion of might, whether from Washington, Moscow or Beijing, we now have to create countervailing concentrations of power. In the long history of liberalism, a free press, the law, labour unions, a business community kept separate from political power, NGOs, truth-seeking institutions such as universities, civil resistance, multilateral organizations and international alliances have all served, alongside multiparty politics and regular free and fair elections, to constrain the men who would be kings.",
+      "reason": "This paragraph provides essential context about the principles of liberalism and its historical tools, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "In rallying everyone who believes in equal individual liberty to this fight, we liberals have a problem of our own making. Policies associated in many people’s minds with liberalism over the last 40 years have themselves fed the reservoirs of popular discontent from which nationalist populists continue to draw support. Neoliberalism, hypercharged through a globalized financialized capitalism, has led to levels of inequality not seen for a hundred years. An identity politics intended to remedy the historic disadvantages of selected minorities has left many other members of our societies – especially white, male, working- and middle-class – feeling themselves culturally as well as economically neglected. Both these approaches reneged on liberalism’s central promise, lucidly summarized by the philosopher Ronald Dworkin as “equal respect and concern“ for all.",
+      "reason": "This paragraph discusses challenges within liberalism, directly relating to the article's exploration of liberalism's current state.",
+      "label": 1
+    },
+    {
+      "paragraph": "Neoliberalism has also turned the world’s most powerful democracy into something very close to oligarchy. The separation of private wealth and public power, a precious and fragile innovation of modern liberal democracy, has been reversed. Insatiable plutocrats such as Elon Musk, Jeff Bezos and Mark Zuckerberg are now supporters of Donald Trump’s political power, while he promotes his own and his rich pals’ economic interests. With the help of the media and platforms these plutocrats control, Mr. Trump persuades many ordinary Americans that their suffering is entirely due to foreigners (immigrants, China), while in fact it’s much more the fault of people like Mr. Musk, Mr. Bezos and Mr. Zuckerberg.",
+      "reason": "Provides context on the challenges facing liberal democracy, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "So we have to fight simultaneously on two fronts: with the enemies of liberalism and the problems created by liberalism itself. Unity will be our strength. If we each try to negotiate separately with the bullies, be they in Washington, Moscow or Beijing, they will pick us off, one by one.",
+      "reason": "Discusses the strategy needed to combat threats to liberalism, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "These coalitions of counterpower will be composed of states, but also of civil society actors and active citizens. At least half the population of the United States is with us. Electoral authoritarian states like Turkey and Hungary also have lots of would-be-free citizens. The world’s largest example of applied liberal internationalism, the 27-country European Union, will be crucial to the fightback. So will major individual democracies such as Britain, Canada, Japan and Australia.",
+      "reason": "Identifies potential allies in the fight for liberalism, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "We need to do many things at once. Promoting free trade against Trumpian beggar-thy-neighbour protectionism is an obvious starting point. It’s also easier said than done, since mutually beneficial trading arrangements take time to craft. Yet there are some accessible immediate wins. A trade agreement between the EU and the MERCOSUR group of Latin American states only awaits ratification by all relevant parties. Britain and the EU should be more ambitious at their coming summit on May 19. The EU doesn’t need anyone else’s involvement for it to create a single digital space and unified capital markets, nor to build up European defence industries, which would also serve as a neo-Keynesian economic stimulus.",
+      "reason": "Discusses specific actions to support liberalism, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The monopolistic platforms and mega-wealth of the American oligarchs are a danger to all other countries. If the EU were prepared to use its regulatory superpower, co-ordinated with the efforts of other liberal democracies, we could do more to curb them. But regulation and taxation alone are not enough.",
+      "reason": "Highlights the threat of oligarchs and suggests regulatory actions, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Whether in Europe, Canada, Australia or Japan, the world’s entire digital infrastructure is effectively American. Imagine that one day your iPhone and iPad stopped working, along with your cloud provider, as well as Amazon, Facebook, Instagram, WhatsApp and X. What would be left? The Chinese app TikTok! “And Bluesky,” you may add, referencing the liberal social platform of choice – but that too is American. This is not only about infrastructure. It’s about how we create the digital public sphere essential for the future of liberal democracy.",
+      "reason": "The paragraph discusses the dominance of American digital infrastructure and its implications for liberal democracy, which is relevant to the theme of global liberal values.",
+      "label": 1
+    },
+    {
+      "paragraph": "Civil society initiatives can also help. Why, for example, haven’t we already seen a major statement of solidarity with beleaguered American universities from universities across the liberal world?",
+      "reason": "The paragraph suggests actions for supporting liberal values, which is relevant to the article's theme of global liberal solidarity.",
+      "label": 1
+    },
+    {
+      "paragraph": "So can consumer protests. The impact of a largely spontaneous boycott of Tesla cars is pushing Mr. Musk to return to his business activity, cutting the leisure time he can spend on vandalizing his country’s administrative state. Canadians now have the Buy Beaver app on their phones, so they can avoid U.S.-made goods. (I hope they boycott Russian ones too.)",
+      "reason": "The paragraph discusses consumer protests as a form of action against anti-liberal figures, relevant to the article's theme of liberal resistance.",
+      "label": 1
+    },
+    {
+      "paragraph": "There’s also a matter of fighting style. Anti-liberal nationalists use the bludgeon; we prefer the rapier. When they go low, we go high. When they go ape, we stay cool. When they lie through their teeth, we stand by the facts.",
+      "reason": "The paragraph outlines a strategic approach to countering anti-liberal tactics, relevant to the article's theme of liberal values.",
+      "label": 1
+    },
+    {
+      "paragraph": "In foreign policy, the most urgent challenge is to save Ukraine, which Mr. Trump is throwing under the bus. The fact that he is pressing the Ukrainians to abandon even their legal claim to Crimea being part of Ukrainian sovereign territory shows the degree to which supporting Ukraine is now essential to defending fundamental principles of the liberal international order.",
+      "reason": "The paragraph discusses the geopolitical importance of supporting Ukraine as part of defending liberal international principles, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "What emerges after this hurricane will not be the same as before. It will be transformed both by us learning from our own mistakes, so as to build back better, and by the revolutionary impact of Mr. Trump. A liberal democratic constellation that is not fundamentally secured by America’s “liberal leviathan,” in the Princeton scholar John Ikenberry’s striking phrase, will be something very different from what we knew between 1945 and 2025.",
+      "reason": "The paragraph provides context on the transformation of liberal democracy and the impact of Mr. Trump, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Even the geography will change. Canada, for example, which once seemed – and I mean this in the nicest possible way – somewhat peripheral to world affairs, comfortably tucked up there between a friendly America and a frozen Arctic, now suddenly looks like a frontline state. One of the world’s most liberal countries is, beside Ukraine, one of the most directly threatened by Mr. Trump’s anti-liberal assault. And the thawing Arctic is a major new theatre of international competition. Fortunately, it looks as if Canada is going to have a government that is not just Liberal in name but also combatively liberal in nature.",
+      "reason": "This paragraph discusses Canada's changing geopolitical role and its liberal stance, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "A quarter-century ago, when the United States was attacked by Islamist terrorists on Sept. 11, 2001, the editor of Le Monde wrote a famous banner headline: We Are All Americans! Today, friends of liberty the world over should say: We Are All Canadians!",
+      "reason": "The paragraph draws a parallel between past and present global solidarity, reinforcing the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keep your opinions sharp and informed with a helpful summary of The Globe’s most provocative columns, covering politics, world affairs, business, arts, health and the way we live",
+      "reason": "This is promotional content unrelated to the article's main argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "Explore newsletters",
+      "reason": "This is a call to action unrelated to the article's main argument.",
+      "label": 0
+    }
+  ]
+}

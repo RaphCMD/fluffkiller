@@ -1,0 +1,94 @@
+{
+  "headline": "The surprising role of a key pressure-sensing protein in gut health",
+  "context": [
+    "(SACRAMENTO)",
+    "A groundbreaking study has revealed that a pressure-sensing protein known as Piezo1 plays a critical role in supporting gut health. The study’s findings may unlock new routes for understanding and treating complex gut disorders."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The protein acts like an internal sensor in the gut’s smooth muscle cells. It helps the intestines know when and how to move food through the digestive system.",
+      "reason": "This paragraph provides specific information about the function of the Piezo1 protein in the gut.",
+      "label": 1
+    },
+    {
+      "paragraph": "The gut is mechanically very active. Its digestive tract constantly contracts and relaxes. The rhythmic contraction of smooth muscle cells helps break down food and absorb nutrients. Disruptions to this process lead to a range of gut motility disorders.",
+      "reason": "This paragraph provides general background information about gut mechanics, not specific to the study.",
+      "label": 0
+    },
+    {
+      "paragraph": "But how do muscle cells in the gut know when to contract?",
+      "reason": "This paragraph poses a question that sets up the study's focus, contributing to narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "That is the question UC Davis and UCLA researchers set out to answer through a series of tests in mouse models. They focused their study on Piezo1. Their work was published in Communications Biology.",
+      "reason": "This paragraph provides context about the study's focus and publication, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Piezo1 is known for detecting physical forces, such as stretch and pressure. When the researchers genetically removed Piezo1 from intestinal smooth muscle cells, the effects were dramatic: weight loss, delayed food transit and thinning of the intestinal muscle layers. They also detected significant disruption to the calcium signaling essential for proper muscular contraction.",
+      "reason": "This paragraph details the study's findings and the role of Piezo1, directly relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The results were striking. Despite the profound changes in their gut motility, these mice continued to live as long as other normal mice. This highlights the truly complex nature of the gut,” said the study’s lead author Geoanna Bautista. Bautista is a neonatologist at UC Davis Children's Hospital. She completed her training at UCLA.",
+      "reason": "The paragraph provides a direct quote from the study's lead author about the study's findings, contributing to the article's core story.",
+      "label": 1
+    },
+    {
+      "paragraph": "The study also uncovered Piezo1 inside the smooth muscle cells — something that had not been detected before.",
+      "reason": "This paragraph introduces a new finding about the location of Piezo1, which is relevant to the study's discoveries.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We were surprised to find that Piezo1 is not only present on the surface of the cell sensing stretch — it’s actually located inside the cell, in the sarcoplasmic reticulum. This presence seems to help control the passage of calcium ions — key players in muscle contraction,” explained the study’s senior author, Martín G. Martín. He is a professor of pediatric gastroenterology at UCLA.",
+      "reason": "The paragraph provides a detailed explanation of Piezo1's role and location, which is directly relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Piezo1’s internal positioning suggests that it may be involved in the calcium signaling mechanisms critical for the proper rhythm and force generated during intestinal contractions. Even when the primary calcium channels in the smooth muscle cells were blocked, Piezo1 provided an alternative contraction pathway that helped maintain some muscle function.",
+      "reason": "This paragraph explains the functional significance of Piezo1's positioning, contributing to the understanding of its role in gut health.",
+      "label": 1
+    },
+    {
+      "paragraph": "The study showed that muscle cells without Piezo1 tried to compensate by increasing other calcium-related channels, but the effort wasn’t enough to restore normal gut motility.",
+      "reason": "The paragraph discusses the compensatory mechanisms in the absence of Piezo1, which is relevant to the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This study gives us a completely new perspective. Piezo1 may be a previously unrecognized regulator of gut health,” Bautista said.",
+      "reason": "The quote provides direct commentary on the significance of the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bautista is now investigating Piezo1’s role during fetal gut development. Her team is studying how its absence affects gut motility and function after birth. Their research may offer insights into many postnatal gut conditions, like gastroschisis, necrotizing enterocolitis (NEC) and short bowel syndrome. These conditions have lifelong adverse health implications.",
+      "reason": "This paragraph provides narrative progression and context about ongoing research related to the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "This study was funded by the National Institute of Diabetes and Digestive and Kidney Diseases (T32 DK007180, R01 DK083762, P30 DK41301, RC2 DK118640 and R01 DK132319) and the National Center for Advancing Translational Sciences (NCAT) (KL2 TR001859). It was also supported by the Children’s Discovery Institute at UCLA (CDI-FRSA-07012019), the American Academy of Pediatrics (20202900), the California Institute for Regenerative Medicine (TB1-01183) and the Hartwell Foundation.",
+      "reason": "The paragraph lists funding sources, which is not directly relevant to the study's findings or implications.",
+      "label": 0
+    },
+    {
+      "paragraph": "The study’s coauthors are Yingjie Du, Michael Matthews, Allison Flores, Nicole Kushnir, Nicolle Sweeney, Nam Phuong Nguyen, Elmira Tokhtaeva, RS Solorzano-Vargas, and Ximin He of UCLA; Michael Lewis and Matthias Stelzner of VA Greater Los Angeles Healthcare System; and James Dunn of Stanford University.",
+      "reason": "The paragraph lists coauthors, which does not contribute to the understanding of the study's findings.",
+      "label": 0
+    },
+    {
+      "paragraph": "Related stories:",
+      "reason": "This is a placeholder for related content and does not provide information about the study.",
+      "label": 0
+    },
+    {
+      "paragraph": "Necrotizing Enterocolitis - Dorian's Story at UC Davis Children's Hospital",
+      "reason": "The paragraph title suggests a personal story unrelated to the study of Piezo1 and gut health.",
+      "label": 0
+    },
+    {
+      "paragraph": "Gastroschisis and the search for better and earlier interventions",
+      "reason": "The paragraph title indicates a focus on gastroschisis, which is not directly related to the role of Piezo1 in gut health.",
+      "label": 0
+    }
+  ]
+}

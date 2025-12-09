@@ -1,0 +1,59 @@
+{
+  "headline": "Murder charge laid in west Edmonton shooting death - Edmonton | Globalnews.ca",
+  "context": [
+    "Posted May 2, 2025 4:25 pm",
+    "1 min read"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The Edmonton Police Service has charged a 21-year-old man with murder after another man was found dead in the west end earlier this week.",
+      "reason": "This paragraph provides the main news of the murder charge being laid.",
+      "label": 1
+    },
+    {
+      "paragraph": "A body was found in a vehicle in The Hamptons area just after midnight on Tuesday.",
+      "reason": "This paragraph gives specific details about the location and timing of the incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "Police said patrol officers with the west division responded to a disturbance near 56 Avenue and 199 Street in the west end neighbourhood.",
+      "reason": "This paragraph provides context about the police response to the incident.",
+      "label": 1
+    },
+    {
+      "paragraph": "Upon arrival, police said the officers found a vehicle with a dead man inside. His death was determined to be suspicious.",
+      "reason": "This paragraph adds details about the discovery and initial assessment of the death.",
+      "label": 1
+    },
+    {
+      "paragraph": "Get the day's top stories from Toronto and surrounding communities, delivered to your inbox once a day.",
+      "reason": "This is a promotional statement unrelated to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "An autopsy was done on Thursday when the medical examiner determined Emanuelle Moraga, 33, of Saskatoon died of multiple gunshot wounds and his death is homicide.",
+      "reason": "Provides essential details about the victim and cause of death.",
+      "label": 1
+    },
+    {
+      "paragraph": "Two men were taken into custody on Tuesday. Currently, the EPS homicide section has charged one of them.",
+      "reason": "Gives important information about the suspects and charges.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not part of the article content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Tolga Boyaci, 21, of Edmonton has been charged with second-degree murder.",
+      "reason": "Identifies the individual charged and the specific charge.",
+      "label": 1
+    },
+    {
+      "paragraph": "The other man has since been released, police said.",
+      "reason": "Updates on the status of the second suspect.",
+      "label": 1
+    }
+  ]
+}

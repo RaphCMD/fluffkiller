@@ -1,0 +1,54 @@
+{
+  "headline": "Ronnie O'Sullivan crashes out of World Snooker Championship to inspired Zhao Xintong - Daily Star",
+  "context": [
+    "Ronnie O'Sullivan has been dumped out of the World Snooker Championship.",
+    "The Rocket, 49, had made his return to the sport after four months away in time for the World Championship. And he was immediately thrown in at the deep end against bitter rival Ali Carter."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The bitter rivals appeared to bury the hatchet after the clash as O'Sullivan went onto beat Pang Junxu and Si Jiahui en route to his semi-final clash with Zhao Xintong.",
+      "reason": "Provides narrative progression by detailing O'Sullivan's path to the semi-final.",
+      "label": 1
+    },
+    {
+      "paragraph": "O'Sullivan was able to claim a frame, with Xintong ending the afternoon session 12-4 to the good and with one foot in the World Championship final.",
+      "reason": "Offers specific details about the match score and progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some have called it one of the most comprehensive semi-final victories, and left Xintong with a day off tomorrow.",
+      "reason": "Provides context on the significance of the victory.",
+      "label": 1
+    },
+    {
+      "paragraph": "Speaking after the loss, O'Sullivan told BBC FOUR: \"Zhao played good, he deserved his victory. I think he's done brilliantly all tournament and all credit to Zhao. He played better than me.\"",
+      "reason": "Includes a direct quote from O'Sullivan commenting on the match.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Rocket was further questioned on his performance, especially after this morning's losing effort of all eight frames.",
+      "reason": "Mentions specific details about O'Sullivan's performance in the match.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said \"I've been awful for quite a while, those performances are in there, they've been coming out quite regularly recently.\"",
+      "reason": "This quote provides insight into O'Sullivan's self-assessment of his recent performances, which is relevant to his exit from the championship.",
+      "label": 1
+    },
+    {
+      "paragraph": "O'Sullivan's response prompted further questions on if he still had the desire to compete.",
+      "reason": "This sentence introduces a relevant topic about O'Sullivan's motivation, which is pertinent to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "He responded: \"I'd like it to be [there], I'd just like to play alright and I just felt like I never gave him a game so that's a bit disappointing.\"",
+      "reason": "This quote directly addresses O'Sullivan's feelings about his performance and desire to compete, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "You can find this story in  My Bookmarks.Or by navigating to the user icon in the top right.",
+      "reason": "This is a navigation instruction for the website, not relevant to the article's content.",
+      "label": 0
+    }
+  ]
+}

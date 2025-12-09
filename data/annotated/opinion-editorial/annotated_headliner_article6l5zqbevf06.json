@@ -1,0 +1,1329 @@
+{
+  "headline": "Opinion | The New Culture of the Right: Vital, Masculine and Intentionally Offensive - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "interesting times"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The left has dictated culture for decades. Jonathan Keeperman is trying to change that.",
+      "reason": "This paragraph introduces a key figure and the main premise of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "May 1, 2025",
+      "reason": "This is a date and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Hosted by Ross Douthat",
+      "reason": "This is a hosting credit and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mr. Douthat is a columnist and the host of the “Interesting Times” podcast.",
+      "reason": "This is background information about the host and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Video",
+      "reason": "This is a placeholder for a video and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "transcript",
+      "reason": "The word 'transcript' alone does not provide any information or context related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "bars",
+      "reason": "The word 'bars' alone does not provide any information or context related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "0:00",
+      "reason": "The timestamp '0:00' does not provide any information or context related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "/",
+      "reason": "The symbol '/' does not provide any information or context related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "1:13:42",
+      "reason": "The timestamp '1:13:42' does not provide any information or context related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "One way I’ve been thinking about this is in terms of a phrase that is traditionally applied to the left: counterculture. I think the best way to understand politics right now is that the United States, for the first time in my lifetime, has a real right-wing counterculture — an edgy, radical-seeming alternative to the status quo.",
+      "reason": "This paragraph introduces the concept of a right-wing counterculture, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "I thought one way to talk about that counterculture was to invite someone who I see — we’ll see if he disagrees — as one of its representatives. And that’s you, Jonathan Keeperman, welcome to “Interesting Times.”",
+      "reason": "This paragraph introduces a key figure related to the article's topic, contributing to the narrative progression.",
+      "label": 1
+    },
+    {
+      "paragraph": "The left has dictated culture for decades. Jonathan Keeperman is trying to change that.",
+      "reason": "This paragraph provides context about the cultural shift being discussed, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Below is an edited transcript of an episode of “Interesting Times.” It has been lightly edited for length and clarity. We recommend listening to it in its original form for the full effect. You can do so using the player above or on the NYT audio app, Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts.",
+      "reason": "This paragraph is a logistical note about the podcast format, not contributing to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Jonathan Keeperman: Ross, it is great to be here. We’ve known each other for a while online, of course.",
+      "reason": "This is a low-information introductory quote that does not add to the article's main discussion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Purely as digital entities. Yes.",
+      "reason": "This is a brief, vague statement without context or relevance to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: I’m seeing your face across from me on the screen, and I’m reminded of watching Bloggingheads from 10, maybe even 15 years ago. So we’ve come a long way since Bloggingheads.",
+      "reason": "This is a nostalgic reflection on past media experiences, not relevant to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Oh, yeah. That’s a deep cut. That shows just how far back your online experience really goes, to the days when I had more hair and it was me and other junior varsity pundits arguing on the internet.",
+      "reason": "This is a personal anecdote unrelated to the main topic of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "But I think, and you can correct me about this, I think the first time that we actually seriously interacted on the internet was after the 2020 election.",
+      "reason": "This is a personal interaction detail that does not contribute to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a confirmation of a personal interaction, not relevant to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And I was arguing with Lomez, who was — is — your Twitter pseudonym.",
+      "reason": "This paragraph introduces a pseudonym but does not contribute directly to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a confirmation without additional information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: — The persona through which you engaged with politics for a long period of time about whether Joe Biden was legitimately elected.",
+      "reason": "This paragraph provides context about political engagement relevant to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a confirmation without additional information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And at that point you had a dual identity. As Jonathan Keeperman, you were still a lecturer in English at U.C. Irvine, right?",
+      "reason": "This paragraph provides context about the individual's professional background relevant to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Correct, that’s right.",
+      "reason": "This is a brief affirmation without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And then you were Lomez — a right-wing “anon” is the term that people use.",
+      "reason": "This provides context about Keeperman's pseudonymous online presence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: That’s right.",
+      "reason": "This is a brief affirmation without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: — Who wrote pseudonymously online. That was 2020. And then in 2022, you founded a right-wing publishing house called Passage Press. That, I would say, raised your profile pretty dramatically, to the point where you were important enough to have your real name exposed by a reporter for The Guardian in 2024.",
+      "reason": "This provides a narrative progression and context about Keeperman's activities and their impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a brief affirmation without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And then, by January of 2025, just recently, you were notable enough to host one of the big inaugural balls.",
+      "reason": "This paragraph provides narrative progression related to the subject's prominence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Right.",
+      "reason": "This is a low-information response that does not add to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: — Which was called the Coronation Ball. Did I miss anything? How is that for an account of your trajectory?",
+      "reason": "This paragraph provides narrative progression by naming the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Those are the highlights. That all tracks and covers ground well enough for us to get started on this conversation.",
+      "reason": "This is a low-information response that does not add new facts or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "I do want to point out that in 2020, when we first were having this dialogue and debate over the election, you also had something of a pseudonym. I was arguing as much with Ross Douthat as I was with Italics Ross. As Italics Ross, you had written at least one column, maybe two, in which you made the case for why Trump might be a superior choice to lead the country, despite the amount of chaos that we’d have to endure under his leadership.",
+      "reason": "This paragraph provides relevant context about past opinions and debates related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "I was trying — if I remember the whole episode correctly — to get Italics Ross closer to the surface of the real Ross, the underlying Ross. We all are trafficking in certain kinds of multi-identities, I guess.",
+      "reason": "This paragraph is a personal reflection that doesn't directly contribute to the main premise of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Those were columns that I wrote where I essentially deliberately cultivated a kind of split personality and drew up out of my Jungian subconscious a version of myself that would be pro-Trump.",
+      "reason": "This paragraph provides insight into the author's approach to writing and his perspective on Trump, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Right.",
+      "reason": "This is a low-information response that does not add to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: I was never for Trump. I was part of “Never Trump” — whatever that may have been way back in the past — and I retained a basic view that it was a mistake for conservatives to lash themselves to the Trump phenomenon.",
+      "reason": "This paragraph provides the author's stance on Trump, which is relevant to understanding the context of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "For me, Italics Ross was not the true Ross lurking below the surface. That wasn’t how I thought about it. I thought about it as a set of ideas that certainly existed in my consciousness and that were really useful for understanding where American culture was and why people supported Trump, and which New York Times readers needed to engage with.",
+      "reason": "This paragraph explains the author's rationale for his writing approach, which is relevant to the article's exploration of cultural and political themes.",
+      "label": 1
+    },
+    {
+      "paragraph": "I’m curious, before we dig into the ideas themselves, was there a moment when you felt a shift in the culture in the last few years when it seemed like you were going to exist as yourself as a public figure instead of as an anonymous arguer online?",
+      "reason": "The paragraph is a question that sets up the interview but does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Yeah, it’s a good question when that might have happened. There certainly was a shift. But what’s probably happening here is just the same old cycle of leftist excess that we’ve seen periodically over the course of American history, at least going back to the Second World War and probably even before that.",
+      "reason": "The paragraph provides context about historical cycles of leftist excess, which is relevant to the discussion of cultural shifts.",
+      "label": 1
+    },
+    {
+      "paragraph": "There’s a decade of leftism that takes hold and creates a counterculture. There’s a period of pushback — we saw this, for example, with the original neocons in the ’70s. We see the cycle then play out again in the ’90s with political correctness — another 10-year cycle. Then all we’re seeing is this same pattern emerge in the mid-2010s — I identify 2014 as this inflection point. That was the year of Michael Brown and Ferguson and the rise of B.L.M.",
+      "reason": "The paragraph provides historical context and identifies a specific inflection point relevant to the cultural shift being discussed.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s also this interesting period where the academy, at least — and I think probably this is happening within newspapers and media — is coming out of this interesting transition into the digital age and out of the recession, and there’s new incentives driving the content. What happens is that a bunch of conservatives — and especially younger conservatives, who are frozen out of the conservative movement and mainstream politics and the kinds of professions where they might have a platform to express new ideas that might regenerate conservatism — go online and go underground and start developing a unique and native style of discourse all our own.",
+      "reason": "The paragraph discusses the transition to digital media and the emergence of a new conservative discourse, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "As that cycle of progressivism naturally exhausts itself — which it always does, and it takes a new form each time, but it always follows the same plot — what we’re seeing now is the emergence of this conservative counter-elite or countercultural force emerging in place of where the progressives have vacated.",
+      "reason": "The paragraph describes the emergence of a conservative countercultural force, directly related to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "We can come up with all sorts of —",
+      "reason": "The paragraph is incomplete and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: That’s a boringly respectable story, Jonathan.",
+      "reason": "This is a brief comment without context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: OK.",
+      "reason": "This is a single-word response with no informational content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And I don’t believe it. I mean, I do believe it, but I think what you’re describing there is a description of the trajectory that you see, for instance, with my former colleague, Bari Weiss, and her publication, The Free Press, which has been tremendously successful and has represented a meeting place for former liberals disillusioned by progressivism and various eccentric people who wouldn’t have called themselves conservative, but have ended up on the right.",
+      "reason": "This paragraph provides context and commentary on the shift of certain individuals to the right, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Passage Press —",
+      "reason": "The paragraph is incomplete and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "This is a brief, non-informative response that does not add to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: — You’re not publishing a respectable libertarian critique of the welfare state.",
+      "reason": "This provides a specific critique relevant to the discussion of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: True.",
+      "reason": "This is a brief, non-informative response that does not add to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: You’re publishing fiction, weird stories, and radical philosophy.",
+      "reason": "This provides insight into the type of content being published, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "This is a brief, non-informative response that does not add to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: You published the Hardy Boys — the original Hardy Boys, before some multicultural P.C. cleanups.",
+      "reason": "The paragraph provides context about past publications relevant to the discussion of cultural shifts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a brief confirmation without additional information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: You published a war memoir by a Russian general who fought against the Bolsheviks.",
+      "reason": "The paragraph adds context about the type of content published, relevant to cultural discussions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "This is a brief confirmation without additional information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: You published writing by Robert E. Howard — the creator of Conan the Barbarian — and H.P. Lovecraft.",
+      "reason": "The paragraph provides context about influential authors published, relevant to cultural discussions.",
+      "label": 1
+    },
+    {
+      "paragraph": "But someone like Curtis Yarvin — who is an example of an author you’ve published — thinks that the United States should become a “based” monarchy run by a Silicon Valley–esque chief executive with a dissolution and revolution of the order of government in Washington, D.C.",
+      "reason": "This paragraph provides specific information about Curtis Yarvin's views, which are relevant to the discussion of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nick Land is another example of subterranean, far-right intellectuals —",
+      "reason": "This paragraph introduces another figure relevant to the topic, contributing to the understanding of the intellectual landscape.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "This is a low-information response that does not add to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: — Who would not have fellowships at the American Enterprise Institute —",
+      "reason": "This provides context about the mainstream acceptance of these figures, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a low-information response that does not add to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: — Who would not operate in mainstream, conservative or centrist or center-right circles. Tell me about that stuff.",
+      "reason": "This paragraph is a prompt for further discussion but does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: What are we trying to do? We’re trying to revive what is a genuine right-wing cultural and ideological — I hate the word “movement,” because it’s not quite that — but a right wing that can form an enduring and meaningful counterweight to a dominant left and a dominant progressive march that we’ve seen taking place over the course of the postwar period, certainly from the ’90s and the end of the Cold War up until now.",
+      "reason": "This paragraph provides insight into the goals and motivations of the new right-wing culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "The premise is that the conservatism that came before — I was recently looking at a picture online of a book called “Young Guns,” featuring Paul Ryan, Eric Cantor —",
+      "reason": "This paragraph introduces a comparison to past conservatism, setting up context for the new movement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Yes, I am familiar with this cover. Eric Cantor, Paul Ryan and Kevin McCarthy.",
+      "reason": "This paragraph confirms familiarity with a reference but does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Yes, that’s the image of the failed conservative movement that this new set of figures and cultural texts are trying to replace.",
+      "reason": "This paragraph clarifies the intention to replace the old conservative image with a new one.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Let’s try and get into what is an authentic cultural right. To me, Passage Press and the work you’re doing is clearly linked to a bunch of different groups. You have the Silicon Valley right of someone like Yarvin. Peter Thiel is obviously often invoked as a godfather in that zone. There is the Red Scare podcast and the so-called Dime Square scene in New York, which is basically — for those who think this is a contradiction in terms — it’s basically right-wing hipsters.",
+      "reason": "This paragraph provides context and examples of groups and figures associated with the new cultural right, which is relevant to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "This is a low-information response that does not add new facts or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Then you have the Nietzschean former graduate student–turned–online essayist and influencer Bronze Age Pervert, who has received interesting profiles in mainstream publications. Those would be examples that I would see. But who do you see as your allies and fellow travelers in the cultural project?",
+      "reason": "This paragraph introduces another figure associated with the cultural right and asks a question that could lead to further relevant information.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: That’s absolutely right. I think you’ve hit the primary people and figures. You’re capturing what the zeitgeist is here, for lack of a better term. It’s still being developed, and I’d be lying to you if I said that I had some intentional project or aesthetic that I was trying to cultivate with this.",
+      "reason": "This paragraph confirms the relevance of the mentioned figures and provides insight into the evolving nature of the cultural right.",
+      "label": 1
+    },
+    {
+      "paragraph": "The idea is that the future is discovered. We’re not going to be able to predict ahead of time what this new culture will look like. It is throwing these ingredients out there based on a shared understanding at the highest level of abstraction, an alignment that, at least for now, is defined in opposition of both the left and wokeness — which is easy — but also in opposition to the conservatism that has come before, not because it’s antagonistic toward that kind of conservatism, per se, but that kind of conservatism is limited in what can produce creatively.",
+      "reason": "This paragraph provides insight into the philosophical underpinnings and oppositional stance of the new cultural right, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "A lot of the frustration that people have had with the right is that anytime anyone on the conservative side goes to make some kind of art or do culture, it’s just bad. The left is right about this. There’s been, at least for my lifetime, this critique that the right can’t do art, that the right can’t do culture.",
+      "reason": "This paragraph provides context about the critique of right-wing art and culture, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Why is that? What is right-wing art missing that the right-wing counterculture is trying to supply? What are the ingredients?",
+      "reason": "This paragraph introduces questions that drive the narrative forward.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: It’s not historically true, but at least recently.",
+      "reason": "This paragraph provides a counterpoint to the previous statement, contributing to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: In the last 30, 40 years, let’s say.",
+      "reason": "This paragraph provides a timeframe for the discussion, adding context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: I think partly it’s fear of the unknown. It’s a lack of tolerance for artistic license and the messiness and chaos of what is entailed by the creative process. And it’s just the case that if you are going to embark on a new cultural project, you have to have some amount of taste for offense.",
+      "reason": "This paragraph offers an explanation for the perceived shortcomings in right-wing art, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "And OK, I’ll say this. There’s probably three aspects to why conservative art is bad or has been bad. This is reductive of course, but this might help sort of frame things.",
+      "reason": "The paragraph introduces a framework for discussing conservative art, which is relevant to the article's exploration of right-wing culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s moralistic. OK? It’s much too moralistic. It’s didactic. It’s always trying to tell you a self-consciously conservative message. It’s overly sentimental.",
+      "reason": "This paragraph provides specific characteristics of conservative art, contributing to the article's analysis.",
+      "label": 1
+    },
+    {
+      "paragraph": "There’s also this nostalgia thing. It’s always looking backward. Conservative art is always looking to the past because it’s familiar, it’s something that’s already been established. They already know what they’re supposed to like, what’s good and what’s not good, so there’s no risk in trying anything new.",
+      "reason": "The paragraph discusses the nostalgic aspect of conservative art, adding depth to the article's examination.",
+      "label": 1
+    },
+    {
+      "paragraph": "The third thing I’ll say here is that it’s grievance oriented. This comes in two forms: it’s either “we’re owning the libs” or “here’s a story about all of the ways the libs are making our lives unbearable.”",
+      "reason": "This paragraph identifies another characteristic of conservative art, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: I want to make this just a tiny bit more concrete and say from any period, not the last 20 years, any period in American life, in modern Western history, give me an example of something you consider successful right-wing art that doesn’t fall into the traps you’ve described.",
+      "reason": "The paragraph poses a question that seeks to further the discussion on conservative art, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Sure. “No Country for Old Men” is an example, but it’s not self-consciously right wing.",
+      "reason": "The paragraph introduces a cultural reference relevant to the discussion of right-wing art.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Right, right.",
+      "reason": "This is a filler response that does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: I doubt the Coen Brothers would call themselves on the right, and I don’t even know if Cormac McCarthy would, who wrote the book it’s based on. But to my mind, it is precisely right-wing art. Or David Lynch — pretty much everything David Lynch touches has a certain right-wing coding to it, certainly his major works.",
+      "reason": "The paragraph provides examples and personal interpretation relevant to the discussion of right-wing art.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: What is the coding? To a listener for whom it seems absurd to call “No Country for Old Men” right wing, what makes that right wing to you?",
+      "reason": "The paragraph poses a question that seeks to clarify the argument about right-wing art.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Because I like it, it’s good, and therefore I want it to share my political preferences.",
+      "reason": "The paragraph provides a subjective and somewhat humorous explanation of the speaker's view.",
+      "label": 1
+    },
+    {
+      "paragraph": "Beyond that — and this is where there would be some points of disagreement —",
+      "reason": "The paragraph is incomplete and does not provide any new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "By the way, I also call something like the TV show “Girls” a right-wing show.",
+      "reason": "This statement is a personal opinion and does not contribute directly to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Now you’re just pandering to me because that was my consistent view.",
+      "reason": "This is a conversational exchange that does not add substantial information to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Have you written about this?",
+      "reason": "This is a conversational question that does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Yes, this is a hobby horse of mine.",
+      "reason": "This is a personal statement that does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Then we might share the premise here that what constitutes “right-wing art” — which is, by the way, labeling we’re grafting onto this thing after the fact, so it’s actually a very flimsy labeling, but what these pieces of work are doing is telling the truth about the world in a way that is not compromised by artistic or ideological preferences about how these events and these characters and these people, what society wishes were true about these people.",
+      "reason": "This paragraph discusses the concept of right-wing art and its relation to truth-telling, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "My thing is that if you are telling the truth about the world, then you are going to make right-wing art.",
+      "reason": "This statement contributes to the discussion on the nature of right-wing art, aligning with the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Isn’t that then a little circular? Then you’re saying that all great art is somehow right wing.",
+      "reason": "This paragraph questions the logic of equating truth-telling with right-wing art, adding depth to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "To me, for instance, I feel like a TV show that I’ve enjoyed, “Andor” — one of the few “Star Wars” shows that I’ve enjoyed — I see it as left-wing art. It’s a show that uses the background of the Empire and the “Star Wars” universe to tell a story about punishing militaristic tyranny and resistance to it in ways that are left coded, but also it’s a really good show. Whereas I would look at “Girls” and say, in the end, it’s a scabrous satire of a particular kind of upper-middle-class lifestyle in a liberal city, so it is coming from a right-wing perspective.",
+      "reason": "This paragraph provides examples of art perceived as left-wing and right-wing, contributing to the discussion on cultural perspectives.",
+      "label": 1
+    },
+    {
+      "paragraph": "Can be great left-wing art from your perspective?",
+      "reason": "This question invites further exploration of the concept of left-wing art, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: I suppose, yeah. I’ll say this, I think it depends. I understand your point that it’s highly reductive to simply say, if I like it, it’s therefore right-wing art. Or if it tells the truth —",
+      "reason": "This paragraph introduces a discussion on the nature of right-wing art and its relation to truth, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: It tells the truth, is what you’re saying. Yeah.",
+      "reason": "This is a brief interjection that does not add new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: What I mean by that, though, is there are certain at least modern left-wing premises that support their worldview and their political agenda that I think are belied by someone telling the truth about the world.",
+      "reason": "This paragraph provides a critique of left-wing premises, contributing to the discussion of right-wing culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here’s an example of this. The left takes as a foundational principle of its politics the idea of equality, that there’s a flattening of people, and that through carefully managed social engineering, we can produce a society that either levels out any kind of natural hierarchy or produce a system that somehow can wrangle these natural, almost supernatural entropic forces that are constantly creating chaos and constantly requiring our maintenance and management and authority to deal with.",
+      "reason": "This paragraph elaborates on the critique of left-wing principles, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: OK, good. That’s what I was looking for. This takes us into one of the phrases that I think gets used to describe what the counterculture is up to. I know you’re ambivalent about this phrase — it’s the idea that gets called vitalism. It’s this term that means a celebration of individuality, strength, excellence, and an anxiety about equality and democracy as — just the way you described — as leveling forces and enemies of human greatness.",
+      "reason": "This paragraph introduces the concept of vitalism, directly related to the article's exploration of right-wing culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "It gets connected to Friedrich Nietzsche. I think Ayn Rand, who’s a very popular novelist on the American right — whatever you make of her actual books — is in some sense in this school. That to me seems like one common thread, including in the books that you yourself have published. What links the White Russian general standing athwart the Bolsheviks to the Hardy Boys to Conan and Barbarian? It is some kind of idea of human greatness beset by mediocrity and so on.",
+      "reason": "Provides context and examples related to the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "What do you think about that?",
+      "reason": "A low-information question without context or contribution.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: I think that’s right. I wouldn’t contest that basic summary. I don’t want to overdo how we’re thinking about this word “vitality.” For the purposes of this conversation, it’s enough to say it’s something like a thymos, OK? Spiritedness, a self-will, aliveness.",
+      "reason": "Provides direct commentary on the concept of vitality in the context of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "I also want to say that there’s a certain eroticism to vitality that’s very important and has often been missing from the conservative view of the world.",
+      "reason": "Adds a new perspective on the concept of vitality in conservative thought.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Yep.",
+      "reason": "A low-information response without context or contribution.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: I think that’s a mistake. I think you’re leaving something very important on the table by not grappling with this notion of eroticism and what that means and why it might be valuable, especially since the premise we’re starting from — and I think, Ross, we share this view — is that we’re reaching a phase, whether it’s cyclical or there’s a longer-term linear path, of civilizational exhaustion, decay, decadence — that’s a word I know you’ve used a lot — and this all requires rebirth. And the process of rebirth is not gentle. It can be violent and difficult.",
+      "reason": "The paragraph discusses the themes of civilizational exhaustion and rebirth, which are relevant to the article's exploration of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "I would say that vitality serves two basic functions right now; it’s why it’s valuable for us to take on board. One, it attracts young people. Young people — I think men in particular,  women, too, though — are naturally attracted to this notion of vitality. They see it, they know it, and they want to be around it. The right has failed for a long time to attract young people. This is finally changing over the last few years.",
+      "reason": "The paragraph provides insight into how the concept of vitality is attracting young people to the right, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s also a way of overcoming a kind of defeatism of this idea that things are past the point of saving, that we can’t do anything, and that all there is left for us in the 21st century is to merely manage playing out this “end of history” period.",
+      "reason": "The paragraph discusses overcoming defeatism, which ties into the article's exploration of the right's new cultural dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "This sense of vitality, I think, offers something else. It offers the human subject the opportunity to advance positively and affirmatively into the future. That’s my defense of vitalism.",
+      "reason": "The paragraph provides a defense of vitalism, which is relevant to the article's discussion on the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: And it’s an escape from — and now I’m going to move to a second term that you yourself have used — what gets called the longhouse. You mentioned men and women as each vital in certain ways, but the longhouse is a specifically feminine-coded narrative of what’s wrong with contemporary life. What is the longhouse?",
+      "reason": "The paragraph introduces the concept of the longhouse, which is relevant to the article's exploration of cultural narratives on the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: So I wrote this essay called, “What is the longhouse?” for First Things magazine.",
+      "reason": "Mentions an essay but does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: So you can answer the question, yes.",
+      "reason": "A brief exchange without substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: I would encourage anybody who wants to know the precise details to go read that article because I spell out what I mean by it. Here, I’m going to talk in more vague terms. It’s essentially an explanation, an exploration, of what I perceive as an over-feminization of society.",
+      "reason": "Introduces the concept of 'over-feminization' relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "I don’t mean that it’s explicitly women who are taking over society, because often the longhouse is managed by men — and in some cases it’s better or more severely and strictly managed by men — but it is a feminine way of social management that is distinct from a male- or masculine-coded social management and group dynamics.",
+      "reason": "Provides context on the concept of 'longhouse' and its management.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Regime of maternal surveillance” is a phrase I’ve used before that preferences, for example, inclusion, conflict avoidance, consensus and safety. These kinds of priorities supersede things like truth finding and competition and the violent — and I don’t mean necessarily physically violent, but it can be that — but a combativeness that better characterizes a masculine way of thinking about ideas.",
+      "reason": "Explains the contrast between feminine and masculine social management.",
+      "label": 1
+    },
+    {
+      "paragraph": "Why this gets back to certain other things we’ve talked about is the longhouse is essentially flattening it, it’s horizontal, whereas a masculine way of doing things in this model is hierarchical, it’s vertical. What a more combative style of discourse does, for example, is help establish those hierarchies and where the value of ideas are relative to one another.",
+      "reason": "The paragraph discusses the contrast between horizontal and hierarchical models, which is relevant to the article's theme of masculinity and offensive discourse.",
+      "label": 1
+    },
+    {
+      "paragraph": "The longhouse doesn’t allow for that because it’s more interested in making sure everybody’s feelings are maintained and nobody’s offended.",
+      "reason": "This paragraph provides context on the longhouse model, which is relevant to the discussion of cultural dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Just so listeners are clear, this is a reference to — I’m going call it a pseudo-anthropology, because I don’t think you’re actually making specific claims about the human past — but there’s a contrast between longhouse culture of a literal longhouse of a tribe crowded together under one roof with what? The freedom of the steppe barbarian?",
+      "reason": "The paragraph clarifies the metaphorical use of 'longhouse' and contrasts it with another cultural model, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah. This comes from Bronze Age Pervert: “Bronze Age Mindset,” which is one of the great texts of the 21st century, and I encourage all the New York Times listeners to read it. It’s very important if you actually want to understand this stuff.",
+      "reason": "The paragraph references a text that is influential in the discussed cultural movement, providing context for the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: I agree.",
+      "reason": "This is a low-information agreement statement that does not add new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: He talks about the longhouse, and he’s got his own take on it. I borrowed the term, and actually why I think the term is so valuable is because it is an empty signifier — I don’t mean to tie it to this historical context — it’s an evocative image. It’s this big, long, literal house that we’re all stuck inside of, and you’re constrained in how you can behave, how you can act, and I think it’s hostile toward men, in particular, having a freedom of assembly with one another.",
+      "reason": "The paragraph introduces the concept of the 'longhouse' as a metaphor for societal constraints, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Concrete examples would be the crusade against Greek life at universities and corporate H.R. departments and sensitivity trainings. You would see those as longhouse in action.",
+      "reason": "This paragraph provides specific examples of the 'longhouse' concept in action, contributing to the article's main discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Probably the most salient example of this, precisely because it’s where you would least expect this longhouse cultural framing to take root, is the military.",
+      "reason": "The paragraph highlights the military as an unexpected example of the 'longhouse' concept, adding depth to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Actually, Pete Hegseth has talked about this explicitly, the integration of women into the military — we don’t need to get into the politics of that. Suffice to say, though, that these traditionally male spaces, our martial culture, has been now open to women, and this introduces new norms — it has to — in order for it to work. This is going to necessarily change and, I would argue, degrade the culture of masculinity that preceded it.",
+      "reason": "This paragraph discusses the impact of integrating women into the military on traditional masculinity, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Two objections. Or responses. The second one will be more specific to my own worldview, but the first one I think is a more general one that many listeners would have.",
+      "reason": "The paragraph sets up a response or objection, indicating a continuation of the discussion relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "They would say, look, what has actually happened in the last 25 years in the longhouse era, as you describe it, is, guess what? We removed restrictions on women’s advancement, and they started outcompeting men. They’re not longhousing men, they’re just getting the promotions that men used to get and succeeding in corporate America where men used to succeed.",
+      "reason": "This paragraph provides context and commentary on gender dynamics in the workplace, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "And yes, there are specific cases like the military where physical differences between men and women matter. Maybe there you could say gender equality has gone too far because it ignores those physical differences. But when you’re talking about corporate America or political America or any of these environments, women are succeeding. Men aren’t.",
+      "reason": "This paragraph discusses gender equality in different sectors, contributing to the article's discussion on gender roles.",
+      "label": 1
+    },
+    {
+      "paragraph": "Now men are complaining that women are oppressing them. Isn’t the longhouse just a long, male whine about a failure to adequately compete and you’re pretending, “Oh, for the days of the steppe barbarians!” but maybe you should suck it up and actually compete on the grounds that we have in 21st-century America?",
+      "reason": "This paragraph presents a critical perspective on male complaints about gender dynamics, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "What do you say to that?",
+      "reason": "This is a rhetorical question that does not add new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Yeah, it’s a perfectly reasonable question to ask. I do think over the last however many decades there have been a number of changes in the workplace that can be attributed to women, very talented women, taking on leadership roles and succeeding in those roles, therefore introducing more women into the workplace based on that success. I think it’s perfectly fine for me to concede to that.",
+      "reason": "This paragraph provides a response and acknowledgment of women's success in the workplace, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The point I’m making is that by introducing this new distribution of personnel into public life, it has an effect on how these institutions are run and the norms that these institutions run on. Then it becomes an empirical question: Have they changed for the better, or have they changed for the worse?",
+      "reason": "This paragraph discusses the impact of new personnel on institutional norms, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "I think most people look around at the various institutions — whether it’s media, academia, or corporate boardrooms — that have found themselves in spasms over D.E.I. stuff over the last decade. Are they more efficient or are they less efficient? Are they working properly?",
+      "reason": "This paragraph questions the efficiency of institutions affected by diversity initiatives, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "My argument would be that, very self-evidently, the institutions in which all of these changes have occurred are now performing worse than they used to. And that is, at least in part, attributable to this change in norms. And this change in norms in turn is attributable to this change in personnel.",
+      "reason": "This paragraph provides a direct argument about the decline in institutional performance, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Now a more personal objection, rooted in my own religious commitments. As you say, I have a lot of sympathy for the broad view that late modern life has become decadent and some sense of possibility, of action, of human capacity is really important to getting us either out of this trench or through whatever weird bottleneck digital life and A.I. are going to create. I agree with all that.",
+      "reason": "This paragraph introduces a personal perspective on modern life, which is tangential to the main theme.",
+      "label": 0
+    },
+    {
+      "paragraph": "However, I’m also a Christian. All of the authors that I’ve mentioned who are part of the vitalist tradition — Nietzsche, Rand, Bronze Age Pervert — see themselves operating in opposition to Christianity. They see Christianity as fundamentally either a religion of the weak, or a religion of women, that it’s against the erotic.",
+      "reason": "This paragraph discusses the opposition between vitalist tradition and Christianity, which is tangential to the main theme.",
+      "label": 0
+    },
+    {
+      "paragraph": "When I look at the right-wing counterculture right now, I see people who are really into traditionalist Catholicism and whatnot, but there’s also a lot of people who, in their own story about what went wrong with the right — the normie right, the boring right of Kevin McCarthy — they think, at some level, it was a bunch of weak, thin, milk-drinking Christians who didn’t understand that what is actually best in life is to crush your enemies, to see them driven before you, and to hear the lamentations of their women.",
+      "reason": "This paragraph provides insight into the perceived failures of the traditional right and the aggressive mindset of the new right-wing counterculture.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Sure.",
+      "reason": "This is a low-information response that does not add to the narrative or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: I’m curious, what is your attitude toward those debates? What’s your attitude toward Christianity and religion?",
+      "reason": "This question sets up a discussion on the relationship between religion and the new right, contributing to the article's exploration of cultural themes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: My belief is that there’s a tremendous amount of synchronicity between these two modes of operating in the world. It’s not just my belief. My favorite author, Ernst Junger — actually, Passage Press comes from his book, “Forest Passage” — there’s a great book of letters between him and Martin Heidegger. Junger’s view is that none of this vitalism is sustainable without religion, and actually Christianity, specifically, and that our idea of poetics and the inscrutable forces of the universe — against which our individual will is being tested at all times, and which a vitalist view of the world is insisting we’re constantly pushing against — all has to live inside of this framework of Christianity. So I don’t think these things are incompatible.",
+      "reason": "This paragraph provides a detailed perspective on the compatibility of vitalism and Christianity, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Junger, if I’m remembering his trajectory correctly, was part of the German right. He’s not a Nazi, but he serves in the Third Reich, and he’s not someone who listeners should think of as like Heiddeger, who goes Nazi in that way, but Junger remains very much on the anti-liberal right throughout that period.",
+      "reason": "This paragraph offers historical context about Ernst Junger, relevant to understanding his influence on the new right.",
+      "label": 1
+    },
+    {
+      "paragraph": "My sense of him is that he did have a view of Christianity as you describe, to some degree, but it was Christianity as a useful force for resisting the degradation of modernity and so on. Then he does actually become a Catholic in very old age. So you get to be a vitalist for many decades, and then at the end, it’s time to succumb to full Christianity. It seems to me that in vitalism, there are people who are anti-Christian, like Bronze Age Pervert, like the Nazis.",
+      "reason": "The paragraph provides context on the relationship between Christianity and vitalism, relevant to the discussion of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Sure.",
+      "reason": "This is a low-information quote that does not add to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And then there are people who want to put it to use. But I’m a little ambivalent about having my religion put to use in that way.",
+      "reason": "The paragraph offers a personal perspective on the use of religion, relevant to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Your concern is that it’s merely being cynically operationalized.",
+      "reason": "This is a low-information quote that does not add to the narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Not even cynically. It’s more like Christianity is this great mythic structure within which we can operate, and that’s not what I believe about Christianity. I think Christianity is a true myth and imposes constraints. I guess that’s part of it. The Christian doesn’t just think that nature imposes constraints, it’s that God imposes constraints as well.",
+      "reason": "The paragraph provides insight into the author's view on Christianity's role, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Let’s talk now about Donald Trump. Trump starts as a cultural figure. Anyone who’s old enough to remember the Trump who existed before he became a politician remembers the tabloid fixture, the reality TV star, the self-creator whose life is, in a weird way, its own kind of work of American popular art.",
+      "reason": "Provides context about Trump's cultural background relevant to the discussion of his influence on the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "You’ve written a bunch about Trump as a heroic figure. You’ve explicitly compared him to Aeneas, speaking of mythological heroes. Talk to me about that. Trump as hero — what does that mean?",
+      "reason": "Introduces a specific angle on Trump's influence, setting up further discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: I have a somewhat idiosyncratic view of Donald Trump as a man out of time. I wrote this article or essay called “Aeneas in Washington,” and the idea was that Donald Trump has revived — or assumed, really — this mythic stature. He’s a mythic hero.",
+      "reason": "Provides direct commentary on Trump's perceived mythic status, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Specifically, I have this concept — it’s not my concept, but I’ve applied it to Trump — of retro causality. Trump has this strange ability, in my view, to reconstitute the past. How we understand Trump and his life before he entered politics is not a strict linear thing that is unchanging in time and over the last five years in particular. Since he lost the 2020 election, this interim period where he was beset by these lawsuits and he was threatened with prison time and he was shot at and nearly killed, we can look back at his past and see a new narrative about his life that suggests the possibility of this kind of rebirth from this civilizational exhaustion that I think is really the core description of our present moment.",
+      "reason": "Discusses a unique perspective on Trump's influence and narrative, contributing to the article's exploration of his role.",
+      "label": 1
+    },
+    {
+      "paragraph": "In this essay, I also point out this concept called charisma hunger. There was a prominent sociologist from the middle 20th century, Eric Erikson, who had this idea that in the modern world — and this has a lot to do with the loss of religious conviction and religious life — that we were in search of these figures, these heroes.",
+      "reason": "Introduces a sociological concept relevant to understanding Trump's appeal, contributing to the article's analysis.",
+      "label": 1
+    },
+    {
+      "paragraph": "I’m very aware of the possibility that I’m succumbing to this charisma hunger that Erikson identified decades ago. Nonetheless, people’s reaction to Trump, their impression of him, I saw the other day: Did you see this wrestler who won the N.C.A.A. title?",
+      "reason": "This paragraph introduces a discussion about Trump's charisma and public perception, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Yeah.",
+      "reason": "This is a low-information response that does not add to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: He’s draped in the American flag, this gladiator. And he gives this great big hug to Donald Trump. In so many ways, Trump is this great father of the American people — or a certain segment of the American people — who have embraced him. He’s not just a politician, he’s not just a president, he’s not just a TV star. To my mind, that speaks to this mythical character.",
+      "reason": "This paragraph provides insight into Trump's symbolic role and public perception, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: My own view of Trump, as you probably know, has changed. I think we have each moved and shifted, and I’ve ended up closer to where you were four years ago, and you’ve gone a bit further. I had trouble from the beginning of seeing Trump as anything other than a symptom of decadence. You know, the reality TV host becomes president of the United States because he’s triumphing over all these mediocrities and failed politicians and so on. He is representing a kind of revolt against decadence, I agree — a desire for something more — but he manifests that decadence at the same time. That was my basic take.",
+      "reason": "This paragraph provides a personal perspective on Trump's role and significance, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then over the same period that you have come to see him as a heroic figure, I’ve come to see him as someone who has a more providential place in history, who is still part of a decadent era — maybe is still more of an antihero than a hero — but is bigger than I thought. There is some of that retro causality. Once you have Trump surviving the assassination attempt, you read that back into the past.",
+      "reason": "This paragraph continues the discussion on Trump's historical significance and perception, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yes.",
+      "reason": "This is a brief, non-informative response that does not contribute to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: But I wouldn’t go as far as you do. I think part of the reason maybe connects back to what we were just going back and forth about, about my Christian doubts about vitalism. To me, I look at Trump and I see someone who has more capacities than I credited him with at the start, but the capacities that he lacks are restraint, magnanimity, a sense of moral limitation. I think that lack is connected to the fact that I don’t think he’s fundamentally religious. I think maybe he believes in Providence now that Providence saved him, but not in any kind of conventionally Christian way.",
+      "reason": "This paragraph provides a perspective on Trump's character and its implications, which is relevant to the discussion of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "I think it’s the reason why it’s both reasonable for liberals to worry about where that appetitive side of him takes us, but also to worry about, again, the chaos and mismanagement and all the things that also come in from an absence of restraint.",
+      "reason": "This paragraph discusses the potential consequences of Trump's character traits, contributing to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: I think that’s fair. I’d also say for others who share your view in this conflict between your religious convictions and what Trump might represent, this is squarely within our civil religious tradition. If you think about the way that for most of our history, really up until the Obama years, we thought about our founding figures and the way that they’re presented in art and the way they’re written about in our political and civil religious texts, they are quite explicitly divinely guided. The hand of God is reaching down and moving Thomas Jefferson — who also was not religious in any meaningful respect — and George Washington and John Adams, etc., and placing them. The hand of fate is on top of them.",
+      "reason": "This paragraph provides historical context about civil religion, which is relevant to the discussion of Trump's role in the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "To imagine that Trump is reviving that tradition or is now occupying that same role is not in contradiction to this long tradition of civil religion that we’ve had previously. It might require more proof for you. You might need to see better evidence.",
+      "reason": "This paragraph continues the discussion on Trump's role in civil religion, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: No, I think the issue is more that, if you see the hand of Providence operating through George Washington and John Adams in the founding of America, you could see the hand of Providence operating through Donald Trump in the chastisement of America. That he is a great man of history whose role is to chastise the liberal intelligentsia and the Never Trumpers and all these groups that failed to govern America, but it doesn’t mean that at the end of the day, he’s actually saving America. Sometimes it’s just a chastisement. I feel like that possibility deserves more consideration from people who have this mystical reaction to the drama of the Trump era.",
+      "reason": "The paragraph provides a perspective on Trump's role in American politics, relevant to the discussion of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "On that question of restraint, part of what Trump does, part of his lack of restraint, is a refusal to respect any taboos, to push through whatever the taboos of progressive culture are. In the same way, part of the right-wing counterculture is all about taboo busting.",
+      "reason": "This paragraph discusses Trump's approach to cultural taboos, relevant to the article's theme of the right's culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "This is a low-information response that does not add to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: But one of those taboos — and this is something that connects Trump in some ways to the counterculture — is taboos around race. Because there is a lot of racism in right-wing counterculture in various forms. It’s there in the online memes. It’s there in the would-be Nietzcheans, like B.A.P. [Bronze Age Pervert]. Anyone who goes from this conversation and gets a copy of “Bronze Age Mindset” and reads certain paragraphs will say, well, this guy is a terrific racist.",
+      "reason": "The paragraph provides specific examples of racism in right-wing counterculture, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Sure.",
+      "reason": "This is a low-information response that does not add to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Before you interpret this, I want to offer three interpretations — I’ll take the interviewer’s privilege. I think you could say, OK, this is just about performative rebellion. A counterculture needs to shatter taboos. The taboos of liberal culture around race and gender.",
+      "reason": "The paragraph introduces interpretations of the right-wing counterculture, directly relating to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Possibility 2: You want to reclaim and relegitimize parts of the American past. The American past had a lot of racists. You’re trying to restore and reconstitute a lost pre-progressive world. OK, it’s inherent in the project that you’re basically trying to rehabilitate writers and thinkers who contemporary piety would try to rule out because they held at the very least un-P.C. opinions.",
+      "reason": "This paragraph provides a second interpretation of the right-wing counterculture, contributing to the article's analysis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those are two arguments that I see as justifications, complete or not, for the racist stuff. But then there’s also the possibility that there’s just a serious belief in racial inequality. And maybe it’s not relegitimizing Nazism, but if you spend a fair amount of time online, it’s not that many degrees of separation from the right-wing counterculture to the people on x.com talking about what a great artist Hitler was, such a great artist.",
+      "reason": "The paragraph discusses the potential beliefs within the right-wing counterculture, adding depth to the article's exploration of its themes.",
+      "label": 1
+    },
+    {
+      "paragraph": "I wanted to offer those as interpretations, and then have you talk about, why is the right-wing counterculture racist?",
+      "reason": "This paragraph sets up a question for further discussion, maintaining focus on the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: First, let me start by saying, I don’t think, actually, Adolf Hitler was a great artist. I think he was actually technically deficient in certain ways that are very obvious when you look at his painting —",
+      "reason": "This paragraph provides a direct response to a previous point, contributing to the dialogue on the article's subject.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: The technical deficiencies of Adolf Hitler are definitely there in a few places in his life. Yeah.",
+      "reason": "This paragraph is a vague statement unrelated to the main topic of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: So, this is a really interesting question, and of course it’s worth addressing, and I think all of the things you said can simultaneously be true. And I think there’s a fourth point I want to add here, which is historically contextual.",
+      "reason": "This paragraph is a vague introduction without specific information related to the article's topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "We started this conversation by trying to think back to where this current moment of our cultural, social, intellectual, ideological path began, and we identified somewhere in the 2010s. Now, everything I’m about to talk about has precursors, but something else happens here around 2012 — maybe you identified the Trayvon Martin case — into 2013, 2014. Certainly there’s Michael Brown, “hands up, don’t shoot,” Black Lives Matter.",
+      "reason": "This paragraph provides historical context relevant to the cultural shifts discussed in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "Simultaneously, we have a discussion happening in this country around immigration, and what would happen to this country if we started allowing people in from all over the world. Is everybody the same from everywhere? And if we’re going to have a sort of pluralistic democracy, what does that look like in a future where it’s not a predominantly white country? These are legitimate things to think about. A lot of people didn’t want us having these conversations previously.",
+      "reason": "This paragraph discusses immigration and demographic changes, relevant to the cultural shifts on the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then what happens in 2013, 2014, and then scales up over the course of the 2010s, is this insistence — and again, I think this is important — coming from the left, that we have our moment of racial reckoning. A bunch of people are then being asked to have a difficult conversation about race. The prevailing view, which is taken on by The New York Times and by academia, by and large, is that any differences in outcomes among people can be ascribed to this infinitely amorphous, non-falsifiable, infinitely pervasive thing called systemic racism. And this is — if not intentionally, then de facto — the fault of the white population in the country.",
+      "reason": "This paragraph discusses the racial reckoning and systemic racism, relevant to the cultural shifts on the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "The question then is, is that true? Are we allowed to look at the actual causes of why these discrepancies exist? And it is the case that when you look at these differences, they are not attributable to white racism. You can actually identify causes.",
+      "reason": "The paragraph discusses the causes of discrepancies in racial conversations, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "I think a lot of young people online, who are finding themselves getting the short end of the stick in this new regime of D.E.I., are reacting to it in kind. A lot of this racialized conversation is an answer to the insistence that all of these differences are white people’s fault.",
+      "reason": "This paragraph provides context on the reaction of young people to D.E.I. narratives, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: I buy a version of that argument. It’s very clear just from watching the culture that the ascendance of certain kinds of D.E.I. narratives — the Robin DiAngelo stuff, where it’s white people conducting psychological self-scrutinies, and so on, to root out the hidden structural racism in their heart — all of that contributes to an emergence much more than at any point in my lifetime of a distinct white racial identity among some conservatives — especially younger conservatives, online conservatives, people in the orbit of the right-wing counterculture.",
+      "reason": "The paragraph provides direct commentary on the cultural impact of D.E.I. narratives, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is several different questions, though. One, that still might be bad. If it’s bad to have a tribalist view of politics among nonwhites, isn’t it potentially bad to have a tribalist view among whites, even if you’re creating a political explanation where it’s understandable?",
+      "reason": "The paragraph raises questions about tribalism in politics, which is relevant to the article's discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Question 2 is more concrete. How far back are you trying to turn the dial? I want to keep it in culture, so I’m going to give a cultural example. When I was growing up, I was a big fan of the Tintin comics — the boy detective, Captain Haddock, and so on. Those were a huge influence in my childhood in the 1980s and 1990s.",
+      "reason": "The paragraph shifts to a personal anecdote about Tintin comics, which is not directly relevant to the article's main theme.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Tintin books are from about 1920 through 1960. One of the early Tintin books is called “Tintin in the Congo.” And it’s super racist. It is a set of super racist caricatures of Africans that are not friendly ethnic stereotypes the way the appearance of Arabs and Italians are elsewhere in the book. They’re more racist than that.",
+      "reason": "This paragraph provides context about the controversial nature of the Tintin books, which may relate to discussions on offensive content.",
+      "label": 1
+    },
+    {
+      "paragraph": "I’ll just be really explicit. Would you publish Tintin? Like, “Tintin in the Congo” disappeared, right?",
+      "reason": "This paragraph raises a question about the publication of controversial content, relevant to discussions on offensive material.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "This is a low-information response that does not add to the discussion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Was it good that it sort of disappeared?",
+      "reason": "This question prompts a discussion on the appropriateness of censoring offensive content.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: I’m not familiar with this exact book. In theory, yes.",
+      "reason": "This response provides a vague opinion without substantial information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: OK, you can pick another, but —",
+      "reason": "This is an incomplete sentence and does not provide any substantial information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Yes.",
+      "reason": "This is a single-word response that does not add any meaningful content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: — Is it OK that certain things from the past that were very racist, disappear?",
+      "reason": "This question introduces a relevant topic about the cultural debate on historical content.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: No. This is a very easy question for me to answer, and the answer is yes, I would publish it, on the assumption that it has a literary value that is independent from these objections you have to these racial caricatures.",
+      "reason": "This response provides a viewpoint on the preservation of controversial historical content, relevant to the cultural discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Have you seen “Who Framed Roger Rabbit”?",
+      "reason": "This question is unrelated to the main topic of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: The movie? Yes.",
+      "reason": "This is a brief dialogue snippet without context or contribution to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: There’s this great moment in “Who Framed Roger Rabbit” where Roger is handcuffed to the detective. This is causing them all sorts of problems, and the detective is trying to saw the handcuffs off. Roger, at one point, just slips out of the handcuffs in a sight gag. It’s funny. And the detective very angrily says to him, you’re telling me you could do that at any time? And Roger Rabbit says to him, no, only when it’s funny.",
+      "reason": "This paragraph is a detailed anecdote unrelated to the main topic of the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "The upshot of this anecdote is that if it’s funny — and “funny” here is a stand-in for “has artistic value independent of the thing happening” — then it’s worth preserving and worth participating in.",
+      "reason": "This paragraph attempts to draw a broader conclusion from the anecdote but remains tangential to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "So this “tin-tin” book — or “tan-tan” — I don’t know. Is that how —",
+      "reason": "This is an incomplete thought and does not contribute to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: “Tan-tan” is the snobby French way of saying it. Most Americans would say “tin-tin.”",
+      "reason": "This is a minor clarification on pronunciation unrelated to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: You know, I’m a vulgar populist Trump supporter. I don’t know how to pronounce these things.",
+      "reason": "This quote provides insight into the speaker's identity and perspective, relevant to the discussion of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Trump supporters say “tin-tin,” New York Times columnists say “tan-tan.”",
+      "reason": "This quote highlights a cultural divide, relevant to the article's theme of differing perspectives within political discourse.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: The operating question for me as a publisher is, is it funny? And, again, does it have value? Does it have artistic merit?",
+      "reason": "This quote addresses the criteria for content evaluation, relevant to the discussion of offensive content in right-wing culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "Then there’s also the archival thing. The archival function is very important for a publisher. These are important texts. They tell us something, not just about who we were, but in turn about who we are, and simply forgetting that these things existed does nobody any good at all. I don’t think we need to protect people from that kind of offense.",
+      "reason": "This paragraph provides context on the importance of preserving controversial texts, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The other point, which is, “aren’t these views bad? We should disarm on these questions” — if I understand what you’re putting to me — I would say maybe, kind of, it depends, because these views do have consequences that we need to properly address, and the only way to address them is by being honest about causes. If we’re talking about, for example, crime rates, and we see uneven incarceration rates, and our answer is “there’s overpolicing,” and our solution to that is we get rid of police — well, that creates an increase in crime.",
+      "reason": "This paragraph discusses the consequences of certain views, relevant to the article's exploration of right-wing culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "As long as disarming on these questions and not being honest about them allows for these social pathologies to rule over how we function in life, I think it’s bad and we need to be honest about them.",
+      "reason": "The paragraph discusses the need for honesty about social issues, which is relevant to the cultural critique in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: But still there’s a question beyond that, about the cultural side of this — again, the world of memes and discourse and so on. Yes, it includes some rehabilitation of traditional conservative arguments about problems with the welfare state or the necessity of policing that are familiar from the 1980s and 1990s, that the progressive consensus suppressed.",
+      "reason": "This paragraph provides context on the cultural aspects of the right, relevant to the headline's focus on cultural dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "That’s different, to me, from kids online posting racist memes and saying, it’s just irony, I’m just being ironic, I’m busting taboos. OK, but at a certain point, doesn’t the mask become the face? Doesn’t the irony become indistinguishable from just being against Black people?",
+      "reason": "The paragraph addresses the issue of irony in online culture, which is relevant to the headline's theme of intentional offensiveness.",
+      "label": 1
+    },
+    {
+      "paragraph": "And then for you as a publisher, it’s fine to say, we should preserve these, we should have historical memory, we should know what the past was like. But you would have a certain audience if Passage Press pivoted further right and was like, we’re publishing Rommel, books by Alexander Stephens and Confederates, and so on.",
+      "reason": "This paragraph discusses the implications of publishing controversial historical figures, relevant to the cultural and ideological themes in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "And — I guess this connects to the question about moral restraint — wouldn’t you worry about yourself in that scenario? Even if you thought, you don’t want these things banned, but do you want to be the person publishing all of that?",
+      "reason": "The paragraph raises questions about moral restraint in publishing, which ties into the cultural critique in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: No, not necessarily. I think there are publishers who are already filling that niche. It’s not my responsibility to do that. But also, if you’re the kind of person who’s interested in that content, it’s been there and you can go find it, and I’m glad you can. I think actually these things are important for us to be able to discuss.",
+      "reason": "The paragraph discusses the availability and importance of discussing certain content, which relates to the theme of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "I would say this. To your concern about these racial taboos in particular, don’t treat them any differently than any other kind of political or social taboo. There’s some added, maybe, vitriol or sharpness to some of these memes we’re seeing now, but that’s mostly because this is a category of conversation that has been entirely verboten for a while now, at least several decades.",
+      "reason": "The paragraph provides context on the nature of racial taboos and their place in current discourse, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The problem with this particular topic, in my view, is it starts with the supposition that it’s firstly a moral question, and any morally decent person already agrees with these basic anti-racist premises. So to even raise the questions, it’s a mark against your character. We can’t even get to the point where we’re having the policy debate, and what that creates then is this environment in which people who want to have this debate have to figure out a way to talk about it and get through these filters.",
+      "reason": "The paragraph discusses the challenges of debating racial issues, which is relevant to the article's exploration of controversial discourse.",
+      "label": 1
+    },
+    {
+      "paragraph": "I think the abrasive meme-making that you’re identifying when it comes to racial questions is a function of the manner in which this part of the discursive landscape has been previously closed off. If we open it back up and allow for sober conversation, then it’ll lose the power to sort of carry these memes. They just won’t be as interesting or funny because they’re not as taboo.",
+      "reason": "The paragraph discusses the impact of opening discourse on racial issues, relevant to the article's theme of offensive discourse.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: I guess I’m more skeptical of that, not in the sense that I think that if you allow or encourage certain debates, that suddenly the U.S. turns into the Antebellum South or Nazi Germany, but just that — and there’s versions of this on the left and issues around antisemitism that are a separate conversation, but there is some overlap — I think it is bad for people to be in a position where they are questioning not, “What is the proper design of welfare policy and policing?” but, “Do we need to give some reconsideration to Hitler’s views about Jewish conspiracies?”",
+      "reason": "The paragraph provides a counterpoint on the risks of certain debates, relevant to the article's exploration of controversial discourse.",
+      "label": 1
+    },
+    {
+      "paragraph": "I’m not accusing you of taking that position. I’m just saying, right now, when I look at these spaces, I’m a child of the 1990s: I think it was OK to live in a world where there were taboos about Nazi Germany and the Jim Crow South, and that didn’t have to preclude having honest debates about race and crime and policing and all of these things.",
+      "reason": "The paragraph provides context about the author's perspective on historical taboos and debates, relevant to the discussion of cultural shifts.",
+      "label": 1
+    },
+    {
+      "paragraph": "When I look at the moral character that is encouraged by racist meme culture, I’m not worried they’re going to take over, I’m just worried about them, I guess.",
+      "reason": "This paragraph expresses concern about the influence of racist meme culture, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: OK. I would just ask, what exactly are you worried about?",
+      "reason": "This is a low-information quote that does not add substantial content to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Let me start with this. First of all, lies are brittle. Ultimately, they fall apart. Truth is durable. And to build anything that’s lasting, it has to rest on top of truth. We have to start there, that’s my view. In order to discover truth, we need to be willing to test our assumptions about everything, and continuously test those assumptions. If we don’t continuously test those assumptions, we don’t just forget what we believe, we forget why we believe those things.",
+      "reason": "This paragraph discusses the importance of truth and testing assumptions, which is relevant to the article's exploration of cultural and ideological shifts.",
+      "label": 1
+    },
+    {
+      "paragraph": "I think this is actually something the left has fallen in the trap of. The left has forgotten how to make the argument for their own beliefs because they’ve denied anybody who objects to their underlying assumptions about the world. I think it would be a mistake for us to erect a kind of discursive force field around certain categories of questions in an effort to preclude the kind of discomfort.",
+      "reason": "The paragraph critiques the left's approach to discourse, relevant to the article's examination of cultural dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "This concern that you’re articulating to me is very vague. I don’t actually know what you’re worried about. People have been questioning these narratives for a long time. David Irving has been challenging the Holocaust for a long time. Is it better to not have those conversations? I don’t think it is. I think we should just let it out. It can exist in the world.",
+      "reason": "The paragraph discusses the importance of open conversations about controversial topics, which is relevant to the theme of challenging narratives.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: This is the last thing I’ll say. You started out talking about your sense — I think you would put it this way — that there was anti-white racism at work in progressive politics and culture in the last five or 10 years.",
+      "reason": "The paragraph introduces a specific critique related to the theme of the article, contributing to the discussion on cultural politics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a brief confirmation without additional information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And that there was a critique of whiteness as this miasmic force that functionally applied a suspicion and hostility toward anyone who was white, certainly anyone who was white and male.",
+      "reason": "The paragraph elaborates on a critique relevant to the article's theme, adding depth to the discussion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Correct.",
+      "reason": "This is a brief confirmation without additional information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: I wouldn’t go as far as you with that, but I don’t think that’s wrong. I think it was bad.",
+      "reason": "This paragraph lacks context and does not provide new information or insights related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "I’m comfortable saying it would also be bad for there to be more and more anti-Black racism or antisemitic curiosity on the right, because it affects our shared life. And, in ways that have cultural effects and political effects, I think they have effects on the Trump administration. One of the ways that the Trump administration may fail, as I said before, is that — this is not a racial issue, per se — but that it regards some of its fellow citizens with a certain kind of contempt. That’s a problem for a would-be great leader. I think contempt is bad. I think racism encourages a kind of contempt.",
+      "reason": "This paragraph discusses the cultural and political effects of racism on the right, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "I don’t have a single “America is going to become Nazi” fear, but I do have a fear about the impact of taboo-busting around race on the kinds of institutions that right-wing people might build and so on.",
+      "reason": "This paragraph addresses concerns about racial discourse on the right, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: I understand where the concerns are coming from, I guess. I think it’s unfounded. I don’t think it actually will materialize into something real and something we’ll have to worry about. I think actually the alternative presents a much worse possibility. We saw some of that with the “Great Awokening” or the post–George Floyd 2020 impulse to not just blame white people for this subordinate position of people of color, per se, but then make actual policy choices or institutional choices to try to level that by harming white people.",
+      "reason": "This paragraph provides a counterpoint to concerns about racial discourse, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "What I’d say here is, the reason that was bad was not because it pointed to racial discrepancies, but because it was wrong. It didn’t pass the test of evidence. The question is not just, does the discrepancy exist? The question is, why? And if we don’t allow ourselves to have an honest conversation about that, what fills the vacuum is the most incendiary and most harmful explanations.",
+      "reason": "This paragraph discusses the importance of evidence-based discourse on race, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s actually, in my view, incumbent on people in positions of prominence who can look at these questions soberly, who can evaluate the evidence and make frank statements about the explanations for these disparities.",
+      "reason": "The paragraph is a vague generalization without specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Let’s just talk briefly about the future. How lasting do you think that the vibe shift — or whatever else it is — will turn out to be? At the start, I introduced you as the host of an inaugural ball. You’re appearing on a New York Times podcast — very prominent position. But Passage Press is a boutique publisher.",
+      "reason": "The paragraph provides context about the cultural shift and the prominence of the interviewee, relevant to the discussion of the new culture of the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah.",
+      "reason": "The paragraph is a low-information response without substantive content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: And we didn’t really get into this, but there is obviously a more mass market side of the vibe shift — the Joe Rogans and Theo Vonns, all the way to Andrew Tate. Vitalist. All of that is there and part of the culture. But even that still, to me, exists in a pretty separate universe from the people who make pop music or TV or who publish mass market fiction. I’m curious: Do you see that part of the culture moving rightward? Books, movies, TV — what would that look like?",
+      "reason": "The paragraph discusses the cultural shift and its potential impact on media, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Keeperman: Yeah, I do. I actually think it’s going to be a full-scale vibe shift.",
+      "reason": "The paragraph provides a direct commentary on the cultural shift, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Full scale?",
+      "reason": "This is a brief question without context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Full scale.",
+      "reason": "This is a brief response without context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: Like Reagan era level? Or bigger?",
+      "reason": "This is a speculative question without context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Yeah, I do think it very well could be Reagan era level. I was alive, but I was too young to remember what the Reagan era was like.",
+      "reason": "This provides a speculative comparison to the Reagan era, which is relevant to the discussion of political culture.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: You were absorbing his charisma from in the cradle.",
+      "reason": "This is a humorous remark without substantive information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: I’ve watched enough John Hughes movies to understand how that expresses itself in popular culture. I think we’re going to have precisely the same kind of vibe shift that infiltrates these mainstream media forms.",
+      "reason": "The paragraph provides a personal observation about cultural shifts, which is relevant to the discussion of cultural changes on the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "Here’s an example. I sit around with my family every once in a while and we watch “American Idol.” Carrie Underwood, who sang at the inauguration, is one of the judges on “American Idol.” Just the mere fact that this massive pop star — who has one of the biggest platforms in pop music — is simultaneously affiliating herself with the Trump administration is enough to suggest that there is something meaningful and enduring and broad about this vibe shift.",
+      "reason": "This paragraph provides an example of a cultural figure associated with the right, illustrating the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "You also have, I believe it’s Larry Ellison’s son who just bought Paramount Pictures. He is a conservative. They’re going to be doing these “Top Gun”–esque films that really embrace a patriotic zeal, I guess you could say. Now, I warned at the beginning that it would be a mistake for conservatives to simply adopt a kind of nostalgia and a sentimental patriotism. So I don’t hope that is all there is, but that’s a perfect place for that kind of ethos and aesthetic to exist in these big blockbuster movies, and I suspect they will. People are certainly exhausted by wokeness.",
+      "reason": "The paragraph discusses a shift in film production towards conservative themes, relevant to the article's focus on cultural changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s not just that the right and this right-coded art is ascendant. It’s as much to do with the fact that this new “Snow White” release is very unpopular. People don’t want this stuff anymore, and so there’s going to be a natural opening for newer, more, let’s just say, vitalist kind of art.",
+      "reason": "This paragraph discusses the decline of certain cultural products, relevant to the article's theme of cultural shifts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: Last question. Donald Trump calls you up. He says you’re in charge of the National Endowment for the Arts, and you’re setting up a program to celebrate America’s 250th. Part of that program is you’re going to ask every high school senior — public high school senior, maybe, use the leverage remaining in the half-dismantled Department of Education to enforce this — to read one book and see one movie. What do you recommend?",
+      "reason": "This paragraph is a hypothetical scenario that does not contribute directly to the article's main discussion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: This is good. I’m not going to hide the ball from the audience. You put this question to me earlier this morning.",
+      "reason": "The paragraph is part of a conversational exchange that does not provide new information or context related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: I wanted a good answer. When you ask and suddenly you’re like, oh the God— are you going to say “The Godfather”? Because if it’s —",
+      "reason": "This is a continuation of a conversational exchange without relevant information to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: No, no, no, no.",
+      "reason": "This is a brief conversational response that does not add relevant information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: OK, good. See, there you go.",
+      "reason": "This is a conversational filler without relevance to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: I’m not going to say “The Godfather,” although I did have difficulty spontaneously coming up with a good answer.",
+      "reason": "This is a conversational remark that does not contribute to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "What one book sort of encapsulates what I’m trying to accomplish with this? The thing I’ve thought long and hard about — and what I saw when I was a lecturer at UCI — there’s been this severing of a continuity between the past and the present, and I think it’s an intentional severing. These kids, they’re not well read. They don’t really know anything. I spent half of my classes just teaching Wikipedia-tier history just so we can have enough context to have the conversation about the actual stuff we’re talking about. One thing that I think is much needed is to reestablish a continuity — a literary, intellectual cultural continuity with the past.",
+      "reason": "The paragraph discusses the need to reconnect with cultural and intellectual history, which is relevant to the theme of cultural shifts on the right.",
+      "label": 1
+    },
+    {
+      "paragraph": "The book I would choose for this is “Moby-Dick.” It’s a very obvious, clichéd choice, but it’s a book that everybody from all ages, if you’re an American, should know. I think “Moby-Dick” is essentially American, and in particular, represents an East Coast American founding. It’s man against nature and God, and there’s also the chaos of the plurality of the cast. It’s very American in that way. It’s this industrious, pluralistic, almost democracy on the boat. It’s also transcendence through conquest, which is a very American idea.",
+      "reason": "The paragraph provides an example of cultural continuity through literature, relevant to the discussion of cultural shifts.",
+      "label": 1
+    },
+    {
+      "paragraph": "My counterpoint to that — which I think is a nice coda — is that “No Country for Old Men” would be the movie. “Moby-Dick” is conquest and it’s the Atlantic, and now Cormac McCarthy and “No Country for Old Men,” the Coen Brothers film, is the border, the terminus of the West, the border with Mexico. It’s also late epic. It’s the exhaustion of American conquest. And there’s this force at the center of the book — this inscrutable, mysterious, supernatural force. In “Moby-Dick,” it’s the thing they’re chasing, it’s the whale.",
+      "reason": "The paragraph draws a parallel between two cultural works to illustrate themes of American identity and conquest, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Douthat: It’s chasing them.",
+      "reason": "This is a brief interjection that does not add substantial information to the discussion.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Right. In “No Country for Old Men,” it’s evil. Fate is coming to exact its payback for what America has become. So it’s America at the end — this moment of civilizational exhaustion — and it’s precisely this point that we need to escape out of.",
+      "reason": "The paragraph discusses themes of fate and civilizational exhaustion, relevant to the cultural critique in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "This is my hope for the future: How do we take the metaphysics of “No Country for Old Men” and create a rebirth to our national identity, our national character, our inner primordial being, and find that life force that it can once again extend beyond these borders?",
+      "reason": "The paragraph is a vague generalization and does not provide specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Douthat: All right, on that chthonic note — Jonathan Keeperman, thank you so much for joining me.",
+      "reason": "This is a closing remark in an interview, not contributing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Keeperman: Thanks, Ross. This was great.",
+      "reason": "This is a closing remark in an interview, not contributing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Image",
+      "reason": "This is an image caption and does not provide textual information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Thoughts? Email us at interestingtimes@nytimes.com.",
+      "reason": "This is a call to action for reader engagement, not contributing to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "This episode of “Interesting Times” was produced by Elisa Gutierrez, Andrea Betanzos, Sophia Alvarez Boyd and Katherine Sullivan. It was edited by Jordana Hochman and Alison Bruzek. Engineering by Pat McCusker. Cinematography by Elliot deBruyn and Wes Overvold. Video editing by Arpita Aneja. Archival images by Amanda Su and Andrea Betanzos. Original music by Isaac Jones, Sonia Herrero, Pat McCusker and Aman Sahota. Fact-checking by Kate Sinclair, Michelle Harris and Mary Marge Locker. Audience strategy by Shannon Busta. Directed by Jonah M. Kessel. The director of Opinion Audio is Annie-Rose Strasser.",
+      "reason": "This paragraph is a production credit list and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.",
+      "reason": "This paragraph is an invitation for reader engagement and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.",
+      "reason": "This paragraph is a promotional statement for social media and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ross Douthat has been an Opinion columnist for The Times since 2009. He is also the host of the Opinion podcast \"Interesting Times with Ross Douthat.\" He is the author, most recently, of “The Deep Places: A Memoir of Illness and Discovery.”  @DouthatNYT • Facebook",
+      "reason": "This paragraph provides background information about the author and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "headline": "Conservatives lose control of Buckinghamshire Council by one seat",
+  "context": [
+    "Neve Gordon-Farleigh",
+    "BBC News, Buckinghamshire"
+  ],
+  "annotations": [
+    {
+      "paragraph": "The Conservatives have lost control of Buckinghamshire Council after Reform UK and the Lib Dems made gains at the local elections.",
+      "reason": "This paragraph provides the main news about the Conservatives losing control of the council.",
+      "label": 1
+    },
+    {
+      "paragraph": "Historically, Buckinghamshire has been a strong Conservative county but while it has a majority on the council of 48 seats it needed to secure one more to keep control.",
+      "reason": "This paragraph provides relevant context about the historical political landscape of Buckinghamshire.",
+      "label": 1
+    },
+    {
+      "paragraph": "However, Conservative leader at the authority Martin Tett, has put a loss of seats down to the rise of Reform UK.",
+      "reason": "This paragraph offers direct commentary from a key figure, explaining the loss.",
+      "label": 1
+    },
+    {
+      "paragraph": "Voting turnout for the county was 37%.",
+      "reason": "This paragraph provides relevant information about voter turnout, which is pertinent to election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "The unitary authority will now be made up of 48 Conservative councillors, 27 Liberal Democrats, 11 Independents, four Labour, three Reform UK councillors, two for Wycombe Independents and two councillors from the Green Party.",
+      "reason": "This paragraph provides the new composition of the council, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Conservatives have held control over the county council since 1973 and the new unitary authority since 2020.",
+      "reason": "This paragraph provides historical context about the Conservatives' control, which is relevant to understanding the significance of the loss.",
+      "label": 1
+    },
+    {
+      "paragraph": "Martin Tett, leader of the authority's Conservatives says in this election \"great\" council leaders and councils had been lost.",
+      "reason": "This quote from the Conservative leader provides direct commentary on the election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Here in Buckinghamshire we have bucked the trend a bit. We haven't been wiped out, we are pretty well neck-and-neck between the Conservatives and all of the other parties added together.",
+      "reason": "This quote provides insight into the local election dynamics and the Conservative leader's perspective.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think we really just need to spend a little bit of time over the next two days to decide what to do.",
+      "reason": "This quote indicates the Conservatives' next steps following the election results.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The people of Buckinghamshire deserve a good council - well run with a good majority... we need time to assess what that might look like.\"",
+      "reason": "This is a vague generalization and does not provide specific information about the election results.",
+      "label": 0
+    },
+    {
+      "paragraph": "He put the loss of seats down to Reform UK who he said had \"cannibalised our vote seat after seat after seat\".",
+      "reason": "This provides a direct commentary on the election results and the impact of Reform UK.",
+      "label": 1
+    },
+    {
+      "paragraph": "Until the election, Reform UK had just one seat on the authority in councillor Paul Irwin.",
+      "reason": "This provides context about the previous standing of Reform UK in the council.",
+      "label": 1
+    },
+    {
+      "paragraph": "There are now three Reform UK councillors but before the election Mr Irwin spoke of his hopes for more.",
+      "reason": "This provides information on the current standing of Reform UK in the council.",
+      "label": 1
+    },
+    {
+      "paragraph": "He had said: \"I'd like to get the minimum of six to 10 councillors - we can make a real difference with that -  anything else will be a bonus.\"",
+      "reason": "This is a low-information quote about aspirations rather than actual results.",
+      "label": 0
+    },
+    {
+      "paragraph": "Buckinghamshire Council becomes the latest authority where the Conservatives have lost full control, and again Reform UK has played its part.",
+      "reason": "This paragraph provides essential context about the loss of control by the Conservatives and the role of Reform UK.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Tories - who have controlled both the unitary council and the previous county council for many years - ended up one short of the 49 seats required for a majority, after the Liberal Democrats picked up a councillor in the Missenden Ward, which in 2021 had been a safe Tory seat.",
+      "reason": "This paragraph provides specific details about the election results and the shift in control.",
+      "label": 1
+    },
+    {
+      "paragraph": "Martin Tett, the Conservative group leader on the authority, will now have to work with his fellow councillors to find a smaller party to form a coalition with over the next couple of days.",
+      "reason": "This paragraph discusses the immediate implications and next steps for the Conservative leader.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tett attributed Reform UK's vote share in some seats as playing a part with his party's losses, although the party only picked up three seats in the county it perhaps stopped the Tories in several wards around the county.",
+      "reason": "This paragraph provides analysis on the impact of Reform UK's vote share on the election outcome.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Liberal Democrats have also increased its number of councillors on the authority and return to being the second largest party.",
+      "reason": "This paragraph provides relevant information about the changes in council composition following the election.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Green Party has also doubled its number of councillors, but Labour have dropped to four, with 11 Independents and two Wycombe Independents making up the council, which was reduced from 147 councillors to 97 by the Boundary Commission for England.",
+      "reason": "This paragraph offers detailed information on the new council composition and changes in the number of councillors.",
+      "label": 1
+    },
+    {
+      "paragraph": "More on this story",
+      "reason": "This is a placeholder for additional content and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Related internet links",
+      "reason": "This is a placeholder for external links and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

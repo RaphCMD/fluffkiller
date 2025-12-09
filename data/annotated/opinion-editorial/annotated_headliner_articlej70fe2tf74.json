@@ -1,0 +1,124 @@
+{
+  "headline": "The loss of editorial freedom at 60 Minutes is a sorry milestone for US media | Margaret Sullivan | The Guardian",
+  "context": [
+    "There have been so many red alerts for press freedom in the United States over the past few months that it can be hard to know which ones really matter.",
+    "The one at CBS’s 60 Minutes really matters."
+  ],
+  "annotations": [
+    {
+      "paragraph": "It came as a one-two punch. First, Bill Owens, the highly respected executive producer of the venerable news show stepped down, writing in a letter to employees that he no longer felt he had crucial editorial independence. It had become clear, he wrote, “that I would not be allowed to run the show as I have always run it”.",
+      "reason": "This paragraph provides essential information about Bill Owens stepping down due to loss of editorial independence.",
+      "label": 1
+    },
+    {
+      "paragraph": "Although he wasn’t specific, corporate interference was clearly the problem, as the network’s parent company, Paramount, has been trying to get federal approval for a big media merger.",
+      "reason": "This paragraph gives context about the corporate interference related to a media merger.",
+      "label": 1
+    },
+    {
+      "paragraph": "Owens’s departure was a shocker, but one that was mostly felt internally at CBS and in media-watching circles.",
+      "reason": "This paragraph provides minimal new information and is more of a general observation.",
+      "label": 0
+    },
+    {
+      "paragraph": "Last Sunday night, the problem went public – dramatically so. One of the most well-known faces of 60 Minutes, the correspondent Scott Pelley, closed out the program with a remarkable statement to the audience. He praised Owens and made the context painfully clear.",
+      "reason": "This paragraph describes a significant public statement made by Scott Pelley, adding to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Stories we’ve pursued for 57 years are often controversial – lately, the Israel-Gaza war and the Trump administration,” Pelley said. “Bill made sure they were accurate and fair … but our parent company, Paramount, is trying to complete a merger. The Trump administration must approve it. Paramount began to supervise our content in new ways.”",
+      "reason": "This paragraph contains a direct quote from Scott Pelley explaining the situation and its implications.",
+      "label": 1
+    },
+    {
+      "paragraph": "Pelley said that, to date, no story had been killed but that Owens “felt he lost the independence that honest journalism requires”.",
+      "reason": "This paragraph provides direct commentary on the loss of editorial independence at 60 Minutes.",
+      "label": 1
+    },
+    {
+      "paragraph": "Pelley’s comments were picked up widely, and now the world knows that viewers can no longer fully trust what they see on the Sunday evening show that has done such important and groundbreaking journalism for decades.",
+      "reason": "This paragraph highlights the impact of the loss of trust in 60 Minutes, which is relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Of course, as with so many of the red alerts mentioned above – lawsuits, threats, changes in long-held practices that protect the public’s right to know – the problem involves Donald Trump’s overweening desire to control the media. Controlling the message is what would-be authoritarians always do.",
+      "reason": "This paragraph provides context about the broader issue of media control, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump sued 60 Minutes for $20bn a few months ago, claiming unfair and deceptive editing of an interview with his then rival for the presidency, Kamala Harris. And his newly appointed head of the Federal Communications Commission, Brendan Carr, took an aggressive approach by reopening an investigation into CBS over supposed distortion of the news. The editing of the Harris interview, by all reasonable accounts, followed standard practices.",
+      "reason": "This paragraph provides specific examples of actions taken against 60 Minutes, directly related to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "What has happened with 60 Minutes is a high-octane version of what is happening everywhere in Trump 2.0.",
+      "reason": "This paragraph summarizes the situation at 60 Minutes as part of a larger trend, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those who could stand up to Trump’s bullying are instead doing what scholars of authoritarianism say must be avoided, if democracy is to be salvaged. They are obeying in advance.",
+      "reason": "This paragraph provides context on the broader issue of press freedom and its challenges, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Not everyone, of course. It’s inspiring to see prominent institutions – Harvard and other universities, many law firms, Georgetown law school and the Associated Press – refusing to buckle.",
+      "reason": "This paragraph is a tangent about other institutions and does not directly relate to the editorial freedom at 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "They may pay a price. Perhaps a lucrative merger won’t go through, perhaps important federal grants will be lost, perhaps they’ll lose access to news sources, or be punished in some other way. But they’ll have their reputations and integrity intact.",
+      "reason": "This paragraph speculates on consequences for institutions, which is not directly related to the main topic of 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "after newsletter promotion",
+      "reason": "This is a placeholder for a newsletter promotion and does not contribute to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "For universities, for law firms and certainly for media companies like CBS, that’s extremely important.",
+      "reason": "This paragraph is a vague generalization and does not provide specific information about 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "And what’s more, yielding to Trump’s bullying is never successful in the long run. The goalposts of appeasement will be moved, again and again.",
+      "reason": "This paragraph is a generalization about appeasement and does not provide specific information about 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "Just think of what happened with Jeff Bezos, who has put at risk the editorial independence of the Washington Post, which he owns, in order to please Trump and protect the fortunes of his companies, including Amazon.",
+      "reason": "This paragraph discusses Jeff Bezos and the Washington Post, which is not directly related to 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "Did all his bending the knee – including killing a Post endorsement of Harris just before the election – buy him long-term protection? Certainly not. When Amazon reportedly planned to display the cost of Trump’s tariffs next to prices on the site, the White House went ballistic, calling it a “hostile and political act”.",
+      "reason": "This paragraph continues the discussion about Bezos and Amazon, unrelated to 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "You can guess what happened next. Amazon buckled, disavowing and scrapping the plan.",
+      "reason": "This paragraph concludes the Amazon anecdote, which is not relevant to the main topic of 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "If the rich and powerful won’t stand up to Trump, what hope can there be for the disenfranchised and powerless?",
+      "reason": "This is a rhetorical question and generalization, not directly related to 60 Minutes.",
+      "label": 0
+    },
+    {
+      "paragraph": "Journalists at 60 Minutes are telling us that Shari Redstone, the executive and heiress who is the controlling shareholder of Paramount, is doing real damage by appearing to intrude into her venerable show’s independence. She may get the merger she wants but only at great cost to the journalism of which she should be a stalwart steward.",
+      "reason": "This paragraph provides specific information about Shari Redstone's influence on 60 Minutes, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "There was another road to take – certainly a less traveled one but one with a far better destination in mind.",
+      "reason": "This paragraph is vague and does not provide specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Margaret Sullivan is a Guardian US columnist writing on media, politics and culture",
+      "reason": "This is background information about the author and not relevant to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "headline": "TC Energy expanding U.S. gas network for data centre growth | Globalnews.ca",
+  "context": [
+    "TC Energy Corp. has green-lit a US$900-million pipeline expansion feeding new natural gas-fired power plants in the U.S. Midwest, where artificial intelligence data centres are ravenous for electricity, as well as major refurbishments at the Bruce Power nuclear plant in Ontario.",
+    "The Northwoods project would add 400,000 mmBTU’s of capacity to TC’s ANR system, which brings natural gas from Texas, Louisiana and Oklahoma to Wisconsin, Michigan, Illinois and Ohio. It is expected to come into service in late 2029 and is backed by 20-year contracts."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The expansion would be done by adding parallel segments of pipe along the existing system as well as additional compression to push more gas through, Tina Faraca, the executive in charge of TC’s natural gas pipelines, told analysts on a conference call to discuss the company’s first-quarter results.",
+      "reason": "This paragraph provides specific details about how the pipeline expansion will be executed, which is directly relevant to the article's main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We have a really strong record of progressing those types of projects on time and on budget,” she said.",
+      "reason": "This quote is a low-information statement that does not add substantial new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder text indicating the continuation of the article and does not contribute any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "TC said it’s also eyeing opportunities to power data centres being contemplated in Alberta, but chief executive François Poirier expects those would differ from projects it’s pursing south of the border.",
+      "reason": "This paragraph introduces new information about potential future projects in Alberta, which is relevant to the article's theme of expansion.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the U.S., TC has taken an “in-front-of-the-meter” approach by providing fuel to big utilities that power the overall grid, as opposed to going “behind the meter” and supplying a specific customer, like a data centre.",
+      "reason": "This paragraph provides context on TC's strategy in the U.S., which is relevant to understanding their approach to the expansion.",
+      "label": 1
+    }
+  ]
+}

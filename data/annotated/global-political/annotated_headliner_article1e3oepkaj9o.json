@@ -1,0 +1,184 @@
+{
+  "headline": "One-minute World News",
+  "context": [
+    "The BBC's analysis editor looks at what has been agreed in the much-anticipated agreement.",
+    "1 day ago"
+  ],
+  "annotations": [
+    {
+      "paragraph": "World",
+      "reason": "This is a section header and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Ahead of Australia's election, the BBC asked voters about the increasingly fraught US-China relationship.",
+      "reason": "This paragraph provides context about international relations relevant to world news.",
+      "label": 1
+    },
+    {
+      "paragraph": "World",
+      "reason": "This is a section header and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The US president was addressing possible shortages due to tariffs on China during a cabinet meeting on Wednesday.",
+      "reason": "This paragraph provides specific information about US-China relations, relevant to world news.",
+      "label": 1
+    },
+    {
+      "paragraph": "US & Canada",
+      "reason": "This is a section header and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Watch the latest news summary from BBC World News. International news updated 24 hours a day.",
+      "reason": "This is a promotional statement for BBC World News and does not provide specific news content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Video",
+      "reason": "This is a placeholder for a video and does not contain any news content.",
+      "label": 0
+    },
+    {
+      "paragraph": "A warning was issued to pet owners after increased sightings of the venomous snake.",
+      "reason": "This provides specific news about a warning issued to pet owners regarding venomous snake sightings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Wales",
+      "reason": "This is a single word that does not provide any news content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fire crews prevented the fire from spreading to a nearby property, which suffered minor heat damage.",
+      "reason": "This provides specific news about a fire incident and the actions taken by fire crews.",
+      "label": 1
+    },
+    {
+      "paragraph": "Wales",
+      "reason": "This is a single word with no context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Buildings burn and land is scorched as wildfires spread outside of Jerusalem.",
+      "reason": "This provides a specific news update about wildfires in Jerusalem.",
+      "label": 1
+    },
+    {
+      "paragraph": "Runaway kangaroo 'Sheila' shut down part of an interstate in Alabama before being caught.",
+      "reason": "This is a specific news story about an unusual event in Alabama.",
+      "label": 1
+    },
+    {
+      "paragraph": "US & Canada",
+      "reason": "This is a section header with no specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The former vice-president criticises the administration's agenda.",
+      "reason": "This provides a specific update on political commentary.",
+      "label": 1
+    },
+    {
+      "paragraph": "US & Canada",
+      "reason": "This is a section header and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Newcastle study gives both electrical stimulus and sound therapy to people with early tinnitus.",
+      "reason": "This paragraph provides specific information about a study related to tinnitus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tyne",
+      "reason": "This is a location name and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Members of an over-50s group in Gloucestershire have been enjoying spending time with the pets.",
+      "reason": "This paragraph provides specific information about an activity in Gloucestershire.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gloucestershire",
+      "reason": "This is a location name and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The mum describes the \"shock and searing pain\" of her son's death after developing sepsis.",
+      "reason": "This paragraph is unrelated to the headline about a world news agreement.",
+      "label": 0
+    },
+    {
+      "paragraph": "Wales",
+      "reason": "This is a location name without context or relevance to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "The BBC's Emma Vardy talks through the footage shown in court as two men are accused of illegally chopping down the tree.",
+      "reason": "This paragraph is unrelated to the headline about a world news agreement.",
+      "label": 0
+    },
+    {
+      "paragraph": "England",
+      "reason": "This is a location name without context or relevance to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mahdawi was among multiple international students and graduates detained after their involvement in the protest movement against the war in Gaza.",
+      "reason": "This paragraph is unrelated to the headline about a world news agreement.",
+      "label": 0
+    },
+    {
+      "paragraph": "World",
+      "reason": "The paragraph is a single word and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The BBC identifies videos of sites and training showing how the rebels formed a single force.",
+      "reason": "This paragraph provides specific information about the rebels forming a single force, which is relevant to world news.",
+      "label": 1
+    },
+    {
+      "paragraph": "HM Coastguard says it was a \"loud detonation\".",
+      "reason": "This paragraph provides a specific detail about an event, which is relevant to world news.",
+      "label": 1
+    },
+    {
+      "paragraph": "Essex",
+      "reason": "The paragraph is a single word and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Voters will go to the polls to choose mayors for Hull and East Yorkshire and Greater Lincolnshire.",
+      "reason": "This paragraph provides information about upcoming elections, which is relevant to world news.",
+      "label": 1
+    },
+    {
+      "paragraph": "England",
+      "reason": "The paragraph is a single word and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "A fisherman captures footage of the killer whale off the Northumberland coast on Tuesday morning.",
+      "reason": "This paragraph provides a specific event related to a killer whale sighting.",
+      "label": 1
+    },
+    {
+      "paragraph": "Tyne",
+      "reason": "The paragraph is a single word and does not provide any information.",
+      "label": 0
+    },
+    {
+      "paragraph": "A police officer says there were already multiple people at the site when he arrived.",
+      "reason": "This paragraph provides a specific detail about a police officer's observation.",
+      "label": 1
+    },
+    {
+      "paragraph": "England",
+      "reason": "The paragraph is a single word and does not provide any information.",
+      "label": 0
+    }
+  ]
+}

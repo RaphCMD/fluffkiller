@@ -1,0 +1,59 @@
+{
+  "headline": "Canada election: Where voters came out the most in Nova Scotia, New Brunswick | Globalnews.ca",
+  "context": [
+    "Posted April 30, 2025 11:52 am",
+    "Updated April 30, 2025 1:44 pm"
+  ],
+  "annotations": [
+    {
+      "paragraph": "2 min read",
+      "reason": "This is a reading time estimate and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "1:37\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCanada election 2025: What the voting split tells us about our political climate",
+      "reason": "This is a video caption and does not contribute new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "Maritimers, like Canadians across the country, were eager to head to the polls in this federal election, preliminary numbers from Elections Canada suggest.",
+      "reason": "This provides context about voter eagerness and introduces the topic of voter turnout.",
+      "label": 1
+    },
+    {
+      "paragraph": "Preliminary results show that 72.25 per cent of eligible voters in Nova Scotia voted. New Brunswick’s voter turnout was 72.24 per cent and Prince Edward Island’s was 78.38 per cent.",
+      "reason": "This paragraph provides specific voter turnout statistics for the regions mentioned in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nationally, results as of Wednesday morning show voter turnout was 68.7 per cent of registered electors. That’s compared with 62.6 per cent in the last election in 2021.",
+      "reason": "This provides national context and comparison to previous elections, relevant to understanding the significance of the regional turnout.",
+      "label": 1
+    },
+    {
+      "paragraph": "Nova Scotia’s riding with the highest voter turnout was Central Nova, with 75.02 per cent, where Liberal Sean Fraser was re-elected in what appeared to be a tight race against Conservative candidate Brycen Jenkins as results came in on election night.",
+      "reason": "Provides specific information about voter turnout and election results in a key riding.",
+      "label": 1
+    },
+    {
+      "paragraph": "Preliminary numbers show Fraser had 52 per cent of the vote, while Jenkins had 42.7 per cent.",
+      "reason": "Offers detailed election results, contributing to the understanding of the election outcome.",
+      "label": 1
+    },
+    {
+      "paragraph": "Story continues below advertisement",
+      "reason": "This is a placeholder for an advertisement, not contributing to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fraser announced in December 2024 that he was leaving cabinet and did not intend to run again. After Justin Trudeau stepped down as prime minister, Fraser endorsed Mark Carney in his successful Liberal leadership bid and later decided to re-offer in this election.",
+      "reason": "Provides context about Fraser's political decisions and background relevant to the election.",
+      "label": 1
+    },
+    {
+      "paragraph": "For news affecting Toronto and surrounding communities, sign up to receive Toronto news alerts when they break.",
+      "reason": "This is a promotional statement unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

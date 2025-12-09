@@ -1,0 +1,79 @@
+{
+  "headline": "China says it’s evaluating possible trade talks with the US amid tariff war | CNN Business",
+  "context": [
+    "Hong Kong\n      CNN\n         —",
+    "China says it is “currently assessing” proposals by the United States to begin trade talks, in a subtle tone shift that could open the door for negotiations."
+  ],
+  "annotations": [
+    {
+      "paragraph": "A spokesperson for China’s Commerce Ministry said in a Friday statement that “the US has recently sent multiple messages to China through relevant parties, hoping to start talks with China. China is currently evaluating this.”",
+      "reason": "This paragraph provides a direct statement from China's Commerce Ministry about the US's proposal for trade talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "The comments signal a softening in Beijing’s position, which has been steadfastly defiant amid heightened tensions with the US because of President Donald Trump’s tariff war.",
+      "reason": "This paragraph offers context about the change in Beijing's stance, relevant to the trade talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump has been repeatedly saying since last week that his administration was in talks with Chinese officials to strike a trade deal — only to be met with flat denials from Beijing each time.",
+      "reason": "This paragraph provides context on the US's previous claims about trade talks, relevant to the current situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Friday, Beijing reiterated that any negotiations would require some preconditions to be met.",
+      "reason": "This paragraph introduces the condition set by Beijing for negotiations, which is relevant to the trade talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The tariff and trade war was unilaterally initiated by the US, and if it wants to negotiate, it must demonstrate genuine sincerity — that includes being prepared to correct its wrongdoings and cancel its unilateral tariff hikes,” the spokesperson said. “China’s position remains consistent: If it’s a fight, we will see it through to the end. If it’s talk, the door is open.”",
+      "reason": "This paragraph provides a direct quote from the spokesperson outlining China's conditions and stance on negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "On Thursday, US Secretary of State Marco Rubio said Trump’s tariffs have hurt the Chinese economy, causing job losses, and that B﻿eijing is eager to talk. “The Chinese are reaching out, they want to meet, they want to talk,” he said in an interview with Fox News, adding that trade talks “will come up soon.”",
+      "reason": "This paragraph provides direct quotes and commentary on the potential for trade talks, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Vast flows of trade between the world’s two largest economies are at stake, after Trump hiked tariffs on China to a staggering 145% earlier this month, making it difficult for some Chinese businesses to continue trading with the United States. In response, Beijing has raised tariffs on American imports to 125%.",
+      "reason": "This paragraph provides essential context about the current state of tariffs, which is crucial to understanding the trade tensions.",
+      "label": 1
+    },
+    {
+      "paragraph": "Already, Trump’s tariffs have taken a heavy toll on China’s export- and manufacturing-reliant economy, with orders being cut and factory production halted. The world’s second-largest economy reported on Wednesday that factory activity contracted in April, at its fastest pace in 16 months, indicating the level of damage that sky-high tariffs have already inflicted.",
+      "reason": "This paragraph offers specific data on the economic impact of tariffs on China, which is relevant to the article's focus on trade tensions.",
+      "label": 1
+    },
+    {
+      "paragraph": "While major American retailers such as Walmart and Target have resumed some business with Chinese suppliers, many factories are still idle and exploring alternative markets like Europe.",
+      "reason": "This paragraph provides additional context on the broader economic impact and responses to the tariffs, relevant to the trade situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Imports to the United States during the second half of 2025 are expected to fall at least 20% year over year, according to the National Retail Federation. The decline from China will be even starker: JP Morgan expects a 75% to 80% drop in imports from there.",
+      "reason": "This paragraph offers projections on trade impacts, which are relevant to understanding the potential future consequences of the tariff war.",
+      "label": 1
+    },
+    {
+      "paragraph": "Beijing’s newest comments followed days of back-and-forth between American and Chinese officials over whether talks were underway, with neither side wanting to appear as if they were the first to back down.",
+      "reason": "This paragraph provides context on the ongoing dynamics between the US and China regarding trade talks.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last week, Trump appeared to have softened his tone, saying that astronomical US tariffs on Chinese goods will “come down substantially” and promising to be “very nice” at the negotiating table as he attempts to get Chinese leader Xi Jinping to initiate talks.",
+      "reason": "This paragraph offers relevant information about Trump's stance and its potential impact on trade negotiations.",
+      "label": 1
+    },
+    {
+      "paragraph": "But Trump’s apparent willingness to deescalate the trade war was dismissed by Beijing, which has repeatedly demanded that the US remove all tariffs on Chinese goods as a precondition for starting trade talks. On Tuesday, China’s foreign ministry shared a striking social media video, saying the country will not “kneel down” to America’s “bully” leader.",
+      "reason": "This paragraph provides insight into China's response to Trump's statements, which is crucial to understanding the negotiation dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "CNN’s Vanessa Yurkevich contributed reporting.",
+      "reason": "This is a standard attribution line and does not contribute new information to the article.",
+      "label": 0
+    }
+  ]
+}

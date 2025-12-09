@@ -1,0 +1,54 @@
+{
+  "headline": "The Guardian view on Tate Modern at 25: a monumental success | Editorial | The Guardian",
+  "context": [
+    "The novelist Ian McEwan tells a good story about the opening party for Tate Modern on 11 May 2000, when he was introduced to the then prime minister, Tony Blair, by the Tate director, Nicholas Serota. Mr Blair shook the author’s hand and told him that he was a big fan of his work and had some of his paintings in Downing Street.",
+    "Yoko Ono, Jarvis Cocker and Neil Tennant were also there, along with Queen Elizabeth II. As the gallery celebrates its 25th anniversary, it is hard to imagine such an extravaganza happening today."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Back then, London was the only major European city not to boast a world-class gallery of modern art. This repurposed power station was set to become the UK’s cultural powerhouse. Hulking on a once unloved stretch of the South Bank, its 99-metre tower signalled a message of regeneration and possibility to the rest of the world. And the world responded. They had prepared for 2 million visitors in its first year – 5 million came.",
+      "reason": "Provides historical context and impact of Tate Modern's opening.",
+      "label": 1
+    },
+    {
+      "paragraph": "Following Cool Britannia and the Young British Artists in the 90s, Tate Modern blasted away the last vestiges of British stuffiness about contemporary art. To disguise the gaps in the collection, Mr Serota replaced chronological hanging with a thematic one (to much critical dismay). Instead of imitating competitors like the Museum of Modern Art in New York, Tate Modern rewrote the rules and set the tone for 21st-century museums.",
+      "reason": "Discusses Tate Modern's innovative approach and influence on contemporary art.",
+      "label": 1
+    },
+    {
+      "paragraph": "From the momentous Matisse Picasso in 2002 to Cézanne 20 years later, it has delivered enough masterpieces to appease those sniffy about helter‑skelters and swings. But its greatest triumph is undoubtedly the 300 sq metre Turbine Hall. The cavernous space has encouraged artists to expand their imaginations to fit. Louise Bourgeois’s giant spider, Maman, which first greeted visitors, returns for the anniversary celebrations.",
+      "reason": "Highlights significant exhibitions and the impact of the Turbine Hall.",
+      "label": 1
+    },
+    {
+      "paragraph": "From its earliest event, held for London taxi drivers, Tate Modern’s manifesto has been to make art accessible to all. Children draw on the floor, students hang out, families picnic. Mr Blair might have called it “the people’s palace”.",
+      "reason": "Describes Tate Modern's mission to make art accessible to the public.",
+      "label": 1
+    },
+    {
+      "paragraph": "It has also sought to expand the canon, adding more global and female artists to its collection, alongside major exhibitions of Frida Kahlo, Georgia O’Keeffe and Yayoi Kusama, the last of which broke record numbers in 2023. A Tracey Emin retrospective is billed for next year.",
+      "reason": "Details Tate Modern's efforts to diversify its collection and upcoming exhibitions.",
+      "label": 1
+    },
+    {
+      "paragraph": "It hasn’t all been champagne and blockbusters. As with most cultural institutions, Brexit, the pandemic and a funding crisis have taken their toll. The gallery’s BP sponsorship, which ended in 2016, provoked a series of protests from climate activists. And its success hasn’t done any favours for its less glamorous sister gallery, Tate Britain in Millbank.",
+      "reason": "This paragraph provides relevant context about the challenges faced by Tate Modern, contributing to the understanding of its journey over 25 years.",
+      "label": 1
+    },
+    {
+      "paragraph": "It is a very different picture in the world at large than when Tate Modern first opened its doors. Where once we were basking in the post-millennial glow of Olafur Eliasson’s setting sun (The Weather Project) in 2003, now we seem to be flailing in the darkness of Mirosław Bałka’s big black box, which transformed the Turbine Hall into an anxiety dream in 2009.",
+      "reason": "This paragraph provides relevant commentary on the changing cultural landscape since Tate Modern's opening, contributing to the article's narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "The National Gallery also marks a big anniversary this year: on 10 May it turns 200. Tate Modern is still a whippersnapper by contrast. Over the first quarter of this century it has become part of the establishment without losing its edge – a hard act to keep up. But it is the job of modern art to evolve and challenge the status quo.",
+      "reason": "This paragraph provides relevant context by comparing Tate Modern's anniversary with another major gallery, highlighting its evolution and role in modern art.",
+      "label": 1
+    },
+    {
+      "paragraph": "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click he",
+      "reason": "This paragraph is a call to action for reader engagement, not contributing new information to the article's main premise.",
+      "label": 0
+    }
+  ]
+}

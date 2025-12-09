@@ -1,0 +1,69 @@
+{
+  "headline": "Opinion: Editorial Cartoons for May, 2025 - The Globe and Mail",
+  "context": [
+    "Report on Business",
+    "As The Globe's consumer affairs reporter, Mariya follows national and business news and how companies and government are impacting Canadian consumers."
+  ],
+  "annotations": [
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This paragraph is unrelated to the editorial cartoons and serves as promotional content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Small and Medium-Sized Businesses",
+      "reason": "This is a heading and does not provide any information related to the editorial cartoons.",
+      "label": 0
+    },
+    {
+      "paragraph": "Showcasing the entrepreneurs and innovators driving the new Indigenous economy",
+      "reason": "This paragraph is unrelated to the editorial cartoons and serves as promotional content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Globe Women's Collective",
+      "reason": "This is a heading and does not provide any information related to the editorial cartoons.",
+      "label": 0
+    },
+    {
+      "paragraph": "Focused reporting aimed at moving the needle toward gender equity in the workplace",
+      "reason": "This paragraph is unrelated to the editorial cartoons and serves as promotional content.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Globe Women's Collective",
+      "reason": "This paragraph is unrelated to the editorial cartoons and appears to be a section header.",
+      "label": 0
+    },
+    {
+      "paragraph": "Focused reporting aimed at moving the needle toward gender equity in the workplace",
+      "reason": "This paragraph is unrelated to the editorial cartoons and appears to be a description of a section's focus.",
+      "label": 0
+    },
+    {
+      "paragraph": "Small and Medium-Sized Businesses",
+      "reason": "This paragraph is unrelated to the editorial cartoons and appears to be a section header.",
+      "label": 0
+    },
+    {
+      "paragraph": "Showcasing the entrepreneurs and innovators driving the new Indigenous economy",
+      "reason": "This paragraph is unrelated to the editorial cartoons and appears to be a description of a section's focus.",
+      "label": 0
+    },
+    {
+      "paragraph": "Report on Business",
+      "reason": "This paragraph is unrelated to the editorial cartoons and appears to be a section header.",
+      "label": 0
+    },
+    {
+      "paragraph": "As The Globe's consumer affairs reporter, Mariya follows national and business news and how companies and government are impacting Canadian consumers.",
+      "reason": "This paragraph provides background information about the reporter, which is not directly related to the editorial cartoons.",
+      "label": 0
+    },
+    {
+      "paragraph": "On June 9th, The Globe will present INTERSECT/25, where business leaders and policy experts will come together to propose the paths to a more prosperous Canada.",
+      "reason": "This paragraph is promotional content about an event, unrelated to the editorial cartoons.",
+      "label": 0
+    }
+  ]
+}

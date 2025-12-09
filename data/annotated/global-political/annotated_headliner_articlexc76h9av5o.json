@@ -1,0 +1,159 @@
+{
+  "headline": "World's largest '100 per cent electric' ship launched by Tasmanian builder Incat - ABC News",
+  "context": [
+    "At 130 metres long, Hull 096 is the largest electric vehicle of its kind ever built, with its maker saying it represents a \"giant leap forward in sustainable shipping\".",
+    "The vessel, which was launched on Friday in Tasmania by shipbuilder Incat, has been constructed for South American ferry operator Buquebus."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Driven by battery-electric power, the vehicular ferry will ply the waters between its hailing port of Montevideo, Uruguay's capital, two other Uruguayan towns and Argentina's capital Buenos Aires.",
+      "reason": "Provides specific operational details about the ferry's route.",
+      "label": 1
+    },
+    {
+      "paragraph": "It will have a capacity of up to 2,100 passengers and 225 vehicles and will operate as China Zorrilla, named after a Uruguayan star of film and theatre who died in 2014.",
+      "reason": "Gives details on the ferry's capacity and its name origin.",
+      "label": 1
+    },
+    {
+      "paragraph": "Incat says the passenger ferry is largest battery-electric ship in the world. (ABC News: Ebony ten Broeke)",
+      "reason": "Reiterates the main claim about the ship's size without adding new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Buquebus' president says the ship originally started out as a vessel which would run on liquefied natural gas, but the plan was changed to be fully electric.\n\n. (ABC News: Jess Davis)",
+      "reason": "Provides insight into the decision-making process behind the ship's power source.",
+      "label": 1
+    },
+    {
+      "paragraph": "The vessel's interior, which will include a duty-free retail shopping deck measuring 2,300 square metres — the equivalent of about 100 average-sized Australian homes — is yet to be completed.",
+      "reason": "Offers details about the ship's interior features and current construction status.",
+      "label": 1
+    },
+    {
+      "paragraph": "Once finished, it will make for the largest shopping space on any ferry in the world, Incat said.",
+      "reason": "This paragraph provides additional information about the ship's features, contributing to the narrative of its uniqueness.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hull 096 is equipped with more than 250 tonnes of batteries and an energy storage system (ESS) with more than 40 megawatt-hours of installed capacity.",
+      "reason": "This paragraph provides specific technical details about the ship's energy capabilities, which are relevant to its electric nature.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ESS is four times larger than any previous maritime installation in the world and is connected to eight electric-powered water jets.",
+      "reason": "This paragraph offers comparative context about the ship's energy system, highlighting its significance.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hull 096, Incat's electric ferry, pictured during construction in Hobart. (Supplied: Incat)",
+      "reason": "This is an image caption and does not provide new information relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Turbines ready to be fitted during the construction phase. (Supplied: Incat)",
+      "reason": "This is an image caption and does not contribute new information to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Engines being installed on Hull 096. (Supplied: Incat)",
+      "reason": "This is an image caption and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The batteries on Hull 096 will keep the vessel running for 90 minutes and chargers will be installed on both sides of the Río de la Plata.",
+      "reason": "This paragraph provides specific details about the ship's battery capacity and charging infrastructure.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's the future of short, sea shipping,\" Incat founder and chairman Bob Clifford said.",
+      "reason": "This quote provides direct commentary from a key figure involved in the project.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Today, the technology is good for 80 to 160 kilometres. It won't be long until it's good for 320km, and maybe in 10 years' time it's good for 640km. So the advancement of electrical ships is going to continue.",
+      "reason": "This quote provides context on the current and future capabilities of electric ship technology.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"A lightweight ship that weighs half the weight of a steel ship will require half the electricity to drive it. Now, that's important but it's even more important for a ferry boat because it means half the charging time when it comes to port.\"",
+      "reason": "This quote explains the advantages of the ship's lightweight design in terms of energy efficiency and charging time.",
+      "label": 1
+    },
+    {
+      "paragraph": "From the ship's berths in Argentina and Uruguay, a full charge was expected to take 40 minutes, he said.",
+      "reason": "Provides specific operational details about the ship's charging time.",
+      "label": 1
+    },
+    {
+      "paragraph": "Bob Clifford says the vehicular ferry is the most ambitious, most complex and most important project Incat has delivered. (ABC News: Ebony ten Broeke)",
+      "reason": "Offers a direct quote from a key figure about the significance of the project.",
+      "label": 1
+    },
+    {
+      "paragraph": "A visualisation of what the charging stations will look like. (Supplied: InCat)",
+      "reason": "Describes an image without adding new information to the article.",
+      "label": 0
+    },
+    {
+      "paragraph": "At the launch, Premier Jeremy Rockliff said the new ship positioned Tasmania as \"a global leader in the push toward zero-emissions technology\".",
+      "reason": "Includes a quote from a government official highlighting the ship's impact on Tasmania's reputation.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Hull 096 will set a new global benchmark for clean, sustainable maritime transport,\" he said.",
+      "reason": "Provides a quote reinforcing the ship's significance in sustainable transport.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Through hard work, determination and ingenuity, Incat has built a globally significant battery-electric ship from their yard in Tasmania.",
+      "reason": "This quote provides direct commentary on the significance of the ship and its construction.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Incat epitomises what it means to be Tasmanian as they quietly pursue the extraordinary, strengthen Tasmania's brand on the global stage, and continue to support Tasmanian jobs and our economy.",
+      "reason": "This is a vague generalization about Incat's impact on Tasmania, not directly related to the ship's specifics.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mr Rockliff said Incat epitomised Tasmania's spirit. (ABC News: Ebony ten Broeke)",
+      "reason": "This is a low-information quote that does not add new facts or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "The superstructure of Hull 096, pictured during the construction phase in Hobart. (Supplied: Incat)",
+      "reason": "This is an image caption that does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Incat founder and chairman Robert Clifford at the launch. (ABC News: Ebony ten Broeke)",
+      "reason": "This is an image caption that does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mr Clifford said he had \"been in the marine business for nearly 70 years and there is not the slightest doubt this is the biggest moment in that history\".",
+      "reason": "Provides a direct quote from a key figure, adding personal significance to the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "He said his company hoped to have a second electric ship in the water by Christmas.",
+      "reason": "Offers future plans related to the main topic of electric ships.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Future plans will see from this plant here in Tasmania, in Hobart [a] doubling of production,\" Mr Clifford said.",
+      "reason": "Discusses future production plans, relevant to the shipbuilding context.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Two ships a year are possible from this plant. We have plans further up the river for expansion … I would seriously hope to be building four ships a year. And I think that's only the beginning.\"",
+      "reason": "Details potential production capacity and expansion plans, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The ship's hailing port is Uruguay's capital Montevideo. (ABC News: Ebony ten Broeke)",
+      "reason": "Provides minor detail about the ship's registration, not central to the main story.",
+      "label": 0
+    }
+  ]
+}

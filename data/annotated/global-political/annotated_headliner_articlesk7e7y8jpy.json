@@ -1,0 +1,94 @@
+{
+  "headline": "BYD breaks ground on Cambodia EV plant as part of global expansion - The Business Times",
+  "context": [
+    "CHINESE carmaker BYD has broken ground on a US$32 million passenger electric vehicle (EV) plant in Cambodia, marking its latest move to localise production as part of a broader global expansion that has seen it become a top-selling EV brand in markets from Brazil to the UK.",
+    "The company said on Tuesday (Apr 29) that the plant in the Sihanoukville Special Economic Zone is expected to be finished by October 2025, with production starting sometime in the fourth quarter. The facility, with an annual capacity of 10,000 units, will make both battery EVs and plug-in hybrid EVs."
+  ],
+  "annotations": [
+    {
+      "paragraph": "The Council for the Development of Cambodia, which oversees investment projects and private sector growth in Cambodia, confirmed the site will be a CKD (complete knock down) plant which will assemble delivered components.",
+      "reason": "Provides specific details about the type of plant being constructed in Cambodia.",
+      "label": 1
+    },
+    {
+      "paragraph": "The move is part of BYD’s broader “passenger car going global” strategy, launched in May 2021, which has seen the company enter more than 100 countries and regions. The carmaker is rapidly increasing localised production to sidestep trade barriers and reduce export costs.",
+      "reason": "Offers context on BYD's global strategy and rationale for localizing production.",
+      "label": 1
+    },
+    {
+      "paragraph": "BYD’s momentum in overseas markets is gaining speed. In the first quarter of 2025, it became Brazil’s best-selling new energy vehicle (NEV) brand with 21,400 units sold. It also led sales in Thailand, delivering 8,800 NEVs – far ahead of domestic rivals.",
+      "reason": "Provides evidence of BYD's success in international markets, supporting the expansion narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "The company outpaced Tesla in Australia, Italy and Britain during the same period. UK sales soared to 9,300 units, up 621 per cent year-on-year, making BYD the fastest-growing car brand in the British market.",
+      "reason": "Highlights BYD's competitive performance in key markets, relevant to its global expansion.",
+      "label": 1
+    },
+    {
+      "paragraph": "Friday, 8.30 am",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Business insights centering on South-east Asia's fast-growing economies.",
+      "reason": "This is a vague generalization and does not provide specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "These gains have translated into strong financial results. BYD’s overseas revenue grew from 91.45 billion yuan (S$16.5 billion) in 2022 to 221.88 billion yuan in 2024, with year-on-year growth rates of 43.1 per cent, 75.2 per cent and 38.5 per cent respectively – outpacing its domestic revenue growth in both 2023 and 2024.",
+      "reason": "This paragraph provides specific financial data about BYD's overseas revenue growth, relevant to its global expansion.",
+      "label": 1
+    },
+    {
+      "paragraph": "To support booming exports, BYD has begun building its own maritime logistics fleet. Four EV-dedicated cargo ships are already operational, strengthening the company’s ability to fulfil large-scale overseas orders.",
+      "reason": "This paragraph provides information on BYD's logistics strategy, relevant to its global expansion efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "The China Association of Automobile Manufacturers noted that BYD exported 214,000 vehicles in the first quarter, doubling year-on-year and accounting for nearly half of China’s total NEV exports during the period.",
+      "reason": "This paragraph provides specific export data, relevant to BYD's global expansion.",
+      "label": 1
+    },
+    {
+      "paragraph": "SEE ALSO",
+      "reason": "This is a navigation prompt and does not provide information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "More",
+      "reason": "This is a placeholder word with no informational content.",
+      "label": 0
+    },
+    {
+      "paragraph": "In 2024, BYD exported 433,000 NEVs, about a third of the national total. The company now aims to ship between 800,000 and one million passenger vehicles overseas in 2025, representing a year-on-year increase of up to 131 per cent.",
+      "reason": "This paragraph provides relevant data on BYD's export performance and future goals, which is pertinent to its global expansion strategy.",
+      "label": 1
+    },
+    {
+      "paragraph": "While China still enjoys labour cost advantages, overseas tariffs and regulations have prompted Chinese carmakers to localise production. BYD’s core overseas markets – Europe, South-east Asia and Latin America – have become key targets for capacity investments.",
+      "reason": "This paragraph offers context on why BYD is localizing production, which is directly related to the article's focus on global expansion.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Europe, BYD is building a 200,000 unit plant in Hungary, due to be completed within three years. It is also building a 150,000 unit facility in Turkey, due to go onstream by late 2026. Turkey’s customs union with the European Union makes it a strategic location despite being outside the bloc.",
+      "reason": "This paragraph provides specific details about BYD's expansion efforts in Europe, which is relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "In South-east Asia, BYD’s Thailand plant began production in July 2024 with a 150,000 unit annual capacity. Facilities in Indonesia and Cambodia are currently being built, each targeting 150,000 and 10,000 units a year,  respectively.",
+      "reason": "This paragraph gives specific information about BYD's production facilities in South-east Asia, directly related to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Latin America, BYD announced in July 2023 plans to build three factories in Brazil, including one for passenger EVs with a 150,000 unit annual capacity.",
+      "reason": "This paragraph provides relevant information about BYD's global expansion strategy, which is directly related to the article's focus on BYD's international growth.",
+      "label": 1
+    },
+    {
+      "paragraph": "The company began operations at its Uzbekistan plant in June 2024. With an initial output of 50,000 units a year, it marks BYD’s first manufacturing footprint in Central Asia. CAIXIN GLOBAL",
+      "reason": "This paragraph is relevant as it highlights another aspect of BYD's global expansion, which is central to the article's theme.",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "headline": "'Bluecoats' at Sudbury's Science North want to join a union | CBC News",
+  "context": [
+    "Sudbury",
+    "At Sudbury's Science North, a group of workers, commonly known as ‘bluecoats’, want to join a union to improve their wages and benefits."
+  ],
+  "annotations": [
+    {
+      "paragraph": "CBC News",
+      "reason": "This is a source attribution and does not contribute to the story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Commonly known as 'bluecoats,' a group of workers at Sudbury's Science North who act as guides and information presenters, are looking to become unionized in an effort to improve their wages and benefits.",
+      "reason": "This paragraph provides essential context about the workers' roles and their unionization efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lilith Wall, a bluecoat at Science North, and a member of the organizing committee, said at a rally outside Science North on Wednesday that she and her colleagues barely make more than minimum wage, which is $17.20 per hour in Ontario.",
+      "reason": "This paragraph provides specific details about the workers' wages and a direct quote from a worker involved in the unionization effort.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We have so many young people with diverse college and university degrees who are struggling without the benefit and solidarity of a labour movement and a union collective agreement,\" Wall said.",
+      "reason": "This quote highlights the workers' educational background and their struggle, adding depth to the unionization narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"They are earning wages that are too low, whether part-time or full, and working in precarious contracts to pay rent and put food on the table.\"",
+      "reason": "This quote emphasizes the financial struggles faced by the workers, reinforcing the need for unionization.",
+      "label": 1
+    },
+    {
+      "paragraph": "Wall said the movement for Science North bluecoats to unionize started with a small group of workers who wanted to improve their working conditions.",
+      "reason": "This paragraph provides information about the origins of the unionization movement.",
+      "label": 1
+    },
+    {
+      "paragraph": "Once enough workers sign a union card with CUPE, the application goes to the Ontario Labour Relations Board, and it triggers a vote from those workers.",
+      "reason": "This paragraph explains the process of unionization, which is relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The employer-employee relationship is not a balanced relationship. So first, things going on with the union, it kind of levels the playing field a little bit. You know, the union becomes the bargaining agent,\" Lafontaine said.",
+      "reason": "This quote provides commentary on the impact of unionization, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lafontaine added that if Science North employees do unionize, they could form their own local, or potentially join CUPE Local 4705.",
+      "reason": "This paragraph discusses potential outcomes of the unionization effort.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a news release, CUPE alleged Science North has created an \"intimidating atmosphere\" for employees pushing for unionization, and has sent out anti-union messages to their homes and by email.",
+      "reason": "This paragraph provides allegations of anti-union actions by Science North, relevant to the unionization effort.",
+      "label": 1
+    },
+    {
+      "paragraph": "In a statement to CBC News, Science North spokesperson Julia Aelick said Science North is aware of discussions among some staff about unionizing.",
+      "reason": "The paragraph provides a direct statement from Science North acknowledging the unionization discussions.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We fully respect the right of our employees to explore unionization, as protected under the Ontario Labour Relations Act,\" Aelick said in the statement.",
+      "reason": "This paragraph includes a relevant quote about the legal rights of employees to unionize.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Our priority remains ensuring that all staff have access to clear, accurate information so they can make informed decisions. We encourage employees to consider all aspects of this process thoughtfully and without pressure.\"",
+      "reason": "The paragraph provides relevant commentary on the organization's stance and approach to the unionization process.",
+      "label": 1
+    }
+  ]
+}

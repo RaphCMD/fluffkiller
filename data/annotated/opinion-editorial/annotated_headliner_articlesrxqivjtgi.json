@@ -1,0 +1,94 @@
+{
+  "headline": "Don't wait for Trump to improve public schools. Start now | Opinion",
+  "context": [
+    "President Donald Trump's recent order to dissolve the U.S. Department of Education has generated robust discussion about the role of federal and state governments in shaping education. These debates should remind us of what drives change in America’s public schools: coordinated, community-level efforts that are implemented over decades.",
+    "In the rare instances in which education reform has occurred at scale in the United States, the ingredients have been similar. State lawmakers passed policies to enable change, and local leaders collaborated over many years to seize the resulting opportunity. One success led to another, leading to a rebuilding of the local education system, brick by brick."
+  ],
+  "annotations": [
+    {
+      "paragraph": "New Orleans, whose education ecosystem was refashioned after Hurricane Katrina, provides the best-known example of this. My home city of Indianapolis also offers a model that other cities can replicate without the impetus of a natural disaster.",
+      "reason": "Introduces examples of cities that have successfully reformed education systems, relevant to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "As the city’s first charter schools director under former Indianapolis Mayor Bart Peterson, a Democrat, and the founder of The Mind Trust, a local nonprofit designed to maximize education outcomes, I had a front-row seat to this change.",
+      "reason": "Provides personal involvement and credibility in the context of education reform in Indianapolis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Indianapolis’ education landscape has been reshaped over nearly 25 years of work to provide parents with more high-quality school options, and students are achieving better outcomes as a result.",
+      "reason": "Describes the long-term efforts and outcomes of education reform in Indianapolis.",
+      "label": 1
+    },
+    {
+      "paragraph": "In Indianapolis’ center-city today, 3 in 5 students attend public charter schools, and studies show students attending those charters gain 116 days of additional learning in math and 64 additional days in reading relative to their peers in Indianapolis’ district-run schools.",
+      "reason": "Presents specific data on the success of charter schools in Indianapolis, supporting the article's argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Since 2021, Indianapolis charter schools have made larger proficiency improvements across all student groups, with larger gains than the city’s 11 school districts and the state as a whole. Charter school enrollment has grown by 21% since the first year of the COVID-19 pandemic, helping stabilize the population of center-city schools.",
+      "reason": "Provides recent data on the growth and impact of charter schools in Indianapolis, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "How did Indianapolis’ transformation occur?",
+      "reason": "This paragraph introduces a key question related to the main topic of education reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2001, Indiana legislators passed a law enabling the creation of public charter schools. While the law applied statewide, Indianapolis was the only city to take advantage of it at scale because local leaders developed a plan for implementation.",
+      "reason": "This paragraph provides specific historical context and details about Indianapolis' education reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "Peterson launched the first mayor-sponsored charter authorizing office in the country to oversee public charter schools. A few years later, he and I started The Mind Trust to attract talented education leaders and preeminent teacher pipeline organizations, such as Teach For America, to the city.",
+      "reason": "This paragraph details actions taken to improve education in Indianapolis, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Our goal was to make Indianapolis a destination for education talent and innovation, setting the stage to launch and scale high-quality charter schools.",
+      "reason": "This paragraph explains the strategic goal behind the education reforms in Indianapolis.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2011, The Mind Trust also issued a report calling for district schools to gain the same autonomy as charter schools. The report inspired then-Mayor Greg Ballard, a Republican, to push the Indiana legislature to pass a law in 2014 creating Innovation Network Schools, which operate with charter-like freedoms while getting access to district facilities and transportation.",
+      "reason": "This paragraph provides further developments and outcomes of the education reform efforts in Indianapolis.",
+      "label": 1
+    },
+    {
+      "paragraph": "In 2014, The Mind Trust and Indianapolis Public Schools formed a partnership to incubate these new schools.",
+      "reason": "This paragraph provides specific information about a partnership that contributes to the main premise of local efforts in education reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "Indianapolis Public Schools has been the lone school district in Indiana to take significant advantage of this unique law, and it’s done so because over decades, local leaders built the conditions and infrastructure required to grow high-quality charter schools in Indianapolis.",
+      "reason": "This paragraph gives context on how local efforts in Indianapolis have led to educational improvements, aligning with the article's main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "That infrastructure has included philanthropic funding to launch new schools; technical support for schools provided by The Mind Trust and the partners it enticed to the city; a mayor’s office committed to quality and accountability; a school board and district eager to make innovative schools a central focus; and continued state policies backing charter and Innovation Network schools.",
+      "reason": "This paragraph details the specific infrastructure and support systems that have facilitated educational reform in Indianapolis.",
+      "label": 1
+    },
+    {
+      "paragraph": "Indianapolis’ lessons learned from more than two decades of local implementation efforts can be applied nationally. They also should remind communities that at a time of federal education change, locals should still seize the opportunity to develop their own agendas for education, pursue state policies to achieve their goals and build the infrastructure that’s necessary to drive real and lasting results for students and families.",
+      "reason": "This paragraph connects local efforts to a national context, reinforcing the article's argument for community-driven education reform.",
+      "label": 1
+    },
+    {
+      "paragraph": "The process will at times be difficult and tedious, and it will take sustained effort. It’s critical to have a local backbone organization – similar to The Mind Trust in Indianapolis and New Schools for New Orleans in the Crescent City − to marshal resources, incubate high-quality schools and coordinate policy and implementation efforts.",
+      "reason": "This paragraph emphasizes the importance of local organizations in education reform, supporting the article's main argument.",
+      "label": 1
+    },
+    {
+      "paragraph": "Amid the uncertainty in the federal policy landscape, leaders should focus on making a difference for students and families. That ultimately happens when locals take action.",
+      "reason": "The paragraph emphasizes the importance of local action in education reform, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "David Harris is president and CEO of Christel House International.",
+      "reason": "This is a background detail about an individual, not contributing to the main argument.",
+      "label": 0
+    }
+  ]
+}

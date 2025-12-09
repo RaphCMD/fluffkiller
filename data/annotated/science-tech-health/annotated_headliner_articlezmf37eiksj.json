@@ -1,0 +1,134 @@
+{
+  "headline": "Scientists engineer precision tool for mitochondrial DNA manipulation | EurekAlert!",
+  "context": [
+    "image:",
+    "The proposed system can selectively increase or decrease the proportion of mutant to normal (or ‘wild-type,’ WT) mitochondrial DNA, serving as a fundamental tool in mitochondrial disease research and paving the way to novel therapeutic strategies"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Mitochondrial diseases affect approximately 1 in 5,000 people worldwide, causing debilitating symptoms ranging from muscle weakness to stroke-like episodes. Some of these conditions result from mutations in mitochondrial DNA (mtDNA), the genetic material housed in these organelles. For patients with the common m.3243A>G mutation, which can cause MELAS syndrome (mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes) and diabetes mellitus, treatments remain limited. A fundamental challenge in mitochondrial disease research is that patients typically have a mix of both normal and mutated mtDNA within their cells. This condition, known as heteroplasmy, makes targeted therapies difficult to develop, as the normal-to-mutated mtDNA ratios can vary greatly from tissue to tissue.",
+      "reason": "Provides essential background on mitochondrial diseases and the challenges in developing treatments, directly related to the research tool's purpose.",
+      "label": 1
+    },
+    {
+      "paragraph": "Additionally, current basic research into mtDNA mutations faces significant obstacles that stem from a lack of disease models. The complex relationship between mutation load (the percentage of mutated mtDNA) and disease severity remains poorly understood, in part because there are no tools to precisely manipulate heteroplasmy levels in either direction. Without the ability to create cellular models with different mutation loads, scientists cannot effectively study how varying percentages of mutated mtDNA relate to disease manifestation.",
+      "reason": "Explains the research gap that the new tool aims to address, providing context for its development.",
+      "label": 1
+    },
+    {
+      "paragraph": "Against this backdrop, a research team led by Senior Assistant Professor Naoki Yahata from the Department of Developmental Biology, Fujita Health University School of Medicine, Japan, has developed a technology that can modify heteroplasmy levels in cultured cells carrying the m.3243A>G mutation. Their paper was made available online on March 20, 2025, and will be published in Volume 36, Issue 2 of the journal Molecular Therapy Nucleic Acids on June 10, 2025. It was co-authored by Dr. Yu-ichi Goto from the National Center of Neurology and Psychiatry and Dr. Ryuji Hata from Osaka Prefectural Hospital Organization. In it, they detail the engineering and use of optimized mtDNA-targeted platinum transcription activator-like effector nucleases (mpTALENs)—specialized enzymes that can selectively target and cleave specific DNA sequences.",
+      "reason": "Introduces the new technology and its developers, directly related to the article's main focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "The researchers first established cultures of patient-derived induced pluripotent stem cells (iPSCs) containing the m.3243A>G mutation and then designed two versions of their mpTALEN systems: one that targets mutant mtDNA for destruction and another that targets normal mtDNA. This bi-directional approach allowed them to generate cells with mutation loads ranging from as low as 11% to as high as 97%, while still maintaining the cells’ ability to differentiate into various tissue types. “Our study is the first to demonstrate an increase in the proportion of pathogenic mutant mtDNA by programmable nuclease,” notes Dr. Yahata.",
+      "reason": "Describes the experimental approach and results, providing detailed insight into the tool's functionality.",
+      "label": 1
+    },
+    {
+      "paragraph": "Key innovations in their approach included the use of novel non-conventional repeat-variable di-residues and obligate heterodimeric FokI nuclease domains, which enhanced the technology’s specificity and reduced unwanted degradation of off-target mtDNA. The team also employed additional techniques, such as uridine supplementation, to establish stable cell lines with different mutation loads, even those that might typically have a growth disadvantage. “Our results demonstrate that our mpTALEN optimization process created a useful tool for altering heteroplasmy levels in m.3243A>G-iPSCs, improving their potential for studying mutation pathology. This enhanced efficiency also holds promise for using mpTALENs in therapeutic strategies for treating patients suffering from m.3243A>G mitochondrial diseases,” says Dr. Yahata.",
+      "reason": "Provides detailed information on the innovations and potential applications of the new tool.",
+      "label": 1
+    },
+    {
+      "paragraph": "Overall, the study represents a significant advancement in mitochondrial medicine for several reasons. First, it provides researchers with multiple isogenic—otherwise genetically identical —cell lines that differ only in their level of heteroplasmy. This allows for a precise study of how mutation load affects disease manifestation. Second, it suggests that mpTALEN technology may become therapeutically valuable for reducing mutant mtDNA load in patients.",
+      "reason": "Explains the significance and potential applications of the study's findings.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our proposed method could be adapted for other mutant mtDNAs and may contribute to understanding their associated pathologies and developing new treatments, potentially benefiting patients with various forms of mitochondrial disease,” concludes Dr. Yahata.",
+      "reason": "Provides a conclusion and potential broader impact of the research.",
+      "label": 1
+    },
+    {
+      "paragraph": "***",
+      "reason": "Contains no information relevant to the article's content.",
+      "label": 0
+    },
+    {
+      "paragraph": "Reference",
+      "reason": "Does not contribute new information to the article's main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Title of original paper: Optimization of mtDNA-targeted platinum TALENs for bi-directionally modifying heteroplasmy levels in patient-derived m.3243A>G-iPSCs",
+      "reason": "This provides the title of the original research paper, which is directly related to the article's topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Journal: Molecular Therapy Nucleic Acids",
+      "reason": "This specifies the journal where the research was published, which is relevant to the article's topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "DOI: 10.1016/j.omtn.2025.102521",
+      "reason": "This provides the DOI for the research paper, which is relevant for locating the original study.",
+      "label": 1
+    },
+    {
+      "paragraph": "About Fujita Health University",
+      "reason": "This is an introductory heading for the following paragraph about the university, which is not directly related to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fujita Health University (FHU) is a private medical university located in Aichi, Japan. Established in 1964, it houses one of the largest university hospitals in Japan. It’s 900 member faculty provides diverse learning and research opportunities to medical students worldwide. Guided by its founding philosophy of “Our creativity for the people” Fujita Health University believes that it’s students can shape the future through creativity and innovation. FHU has earned global recognition, ranking eighth among all universities and second among private universities in Japan in the 2020 Times Higher Education (THE) World University Rankings. The university ranked fourth worldwide in the 2024 THE University Impact Rankings for contributions to the “Good Health and Well-being” SDG (Sustainable Development Goals) of the United Nations (UN). In June 2021, the university made history as the first Japanese institution to host the THE Asia Universities Summit. In 2024, Fujita Health University was awarded the Forming Japan’s Peak Research Universities (J-PEAKS) Program by the Japanese government to establish an innovative academic drug discovery ecosystem and hub of a multi-university consortium for research and education.",
+      "reason": "This paragraph provides background information about Fujita Health University, which is not directly related to the article's main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Website: https://www.fujita-hu.ac.jp/en/index.html",
+      "reason": "This is a link to a website and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "About Senior Assistant Professor Naoki Yahata from Fujita Health University",
+      "reason": "This is a heading and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dr. Naoki Yahata joined Fujita Health University in 2013 and currently serves there as Senior Assistant Professor. His current research focuses on a class of neuropathology arising from mitochondrial DNA mutations; he uses iPSCs and genome editing technologies to develop disease models to study the neuropathology of mitochondrial diseases and potential therapeutic approaches.",
+      "reason": "This paragraph provides relevant information about a key researcher involved in the study.",
+      "label": 1
+    },
+    {
+      "paragraph": "Funding information",
+      "reason": "This is a heading and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "This study was supported by the Takeda Science Foundation, the Fujita Health University Research Fund, and the Japan Society for the Promotion of Science (JSPS) KAKENHI (JP21K06848 and JP24K11010), and the support project of research seeds transfer to industries of Japanese Society of Neurology.",
+      "reason": "This paragraph provides information about the funding sources for the study, which is relevant to understanding the research context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Molecular Therapy — Nucleic Acids",
+      "reason": "This is a journal name and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Experimental study",
+      "reason": "This is a vague description and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Cells",
+      "reason": "This is a single word and does not provide any context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Optimization of mtDNA-targeted platinum TALENs for bi-directionally modifying heteroplasmy levels in patient-derived m.3243A>G-iPSCs",
+      "reason": "This provides specific information about the study's focus on modifying mitochondrial DNA, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "10-Jun-2025",
+      "reason": "This is a date and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Fujita Academy has submitted a patent application based in part on the data reported in this paper, with N.Y. and R.H. as inventors.",
+      "reason": "The paragraph provides relevant information about the patent application related to the research findings.",
+      "label": 1
+    }
+  ]
+}

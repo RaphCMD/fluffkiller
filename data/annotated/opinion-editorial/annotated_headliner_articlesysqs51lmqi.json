@@ -1,0 +1,129 @@
+{
+  "headline": "Arizona governor won't survive 2026 unless MAGA gets its way | Opinion",
+  "context": [
+    "A new report concludes that Democratic Gov. Katie Hobbs could be in real trouble as she faces reelection next year.",
+    "That is, unless she gets an assist from the state’s MAGA voters."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Sabato’s Crystal Ball, from the Center for Politics at the University of Virginia, is out with its initial analysis of next year’s gubernatorial elections and rates Arizona’s race a toss-up — one of just two in the country. (The open seat in Michigan is the other.)“While Hobbs has an OK approval rating, we think she could be in for a difficult reelection,” the nonpartisan handicapper reported.",
+      "reason": "Provides analysis and context about the election's competitiveness.",
+      "label": 1
+    },
+    {
+      "paragraph": "Her best hope, the analysis concluded, would be for Republicans to nominate hard-right U.S. Rep. Andy Biggs and hope for a repeat of 2022.",
+      "reason": "Discusses a potential strategy for Hobbs' reelection.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hobbs “benefited from a weak opponent in 2022 — Republican Kari Lake (who went on to lose a Senate race in 2024) — and may face a stronger challenger in 2026, although she is not guaranteed to,” Sabato’s Crystal Ball reported.",
+      "reason": "Provides historical context and potential future challenges for Hobbs.",
+      "label": 1
+    },
+    {
+      "paragraph": "Of the two Trump-endorsed Republicans, its analysis concludes that Biggs “would be the more enticing opponent for Hobbs.”",
+      "reason": "Identifies a specific opponent that could impact Hobbs' reelection.",
+      "label": 1
+    },
+    {
+      "paragraph": "The problem for Republicans, of course, is that Biggs is also the more enticing candidate for die-hard MAGA voters, just as Lake was their pick in the 2022 Republican primary.",
+      "reason": "Explains the potential internal conflict within the Republican party.",
+      "label": 1
+    },
+    {
+      "paragraph": "And, well, you know how that turned out.",
+      "reason": "This is a vague statement that does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Not everybody thinks the more moderate Karrin Taylor Robson is the Republican best positioned to knock off Hobbs.",
+      "reason": "This introduces a potential challenger to Hobbs, relevant to the election context.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Club for Growth recently released a poll suggesting that Biggs would have better shot at ousting the governor.",
+      "reason": "This provides specific information about a poll related to the election.",
+      "label": 1
+    },
+    {
+      "paragraph": "But it’s early days, and Biggs has never had to appeal to a statewide electorate.",
+      "reason": "This offers context about Biggs' political experience, relevant to his candidacy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Those voters likely don’t yet know some of his moves, like that time he touted unproven cures for COVID-19 or went on a rant at the height of the pandemic, decrying masks as a symbol of tyranny.",
+      "reason": "This provides background on Biggs' controversial actions, relevant to his public perception.",
+      "label": 1
+    },
+    {
+      "paragraph": "They may not yet realize that he was a key mover in the effort to set aside Arizona’s vote in the 2020 presidential election and, in fact, actually voted to disenfranchise his own state’s voters by refusing to certify Arizona’s election results on Jan. 6, 2021.",
+      "reason": "This paragraph provides context about a political figure's actions related to election results, which is relevant to the political dynamics in Arizona.",
+      "label": 1
+    },
+    {
+      "paragraph": "They might not yet know that he voted against the CHIPS Act, the 2022 law that jumpstarted domestic semiconductor manufacturing and led to the largest-ever foreign investment in Arizona.",
+      "reason": "This paragraph offers information about a political figure's voting record, which is relevant to understanding political positions in Arizona.",
+      "label": 1
+    },
+    {
+      "paragraph": "Yeah, that all ought to play well, if he’s the Republican nominee.",
+      "reason": "This is a speculative statement without new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Which seems likely, judging by the party’s history.",
+      "reason": "This is a vague generalization about party history without specific details.",
+      "label": 0
+    },
+    {
+      "paragraph": "One would think then that Taylor Robson would come up with a new campaign strategy this time around, having never fooled anyone, ever, into believing that she is anything other than a traditional conservative Republican.",
+      "reason": "This is a speculative statement about a political figure's strategy without new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Instead, she’s already out with her first campaign ad touting herself as the Trumpiest of them all.",
+      "reason": "This paragraph provides information about the governor's campaign strategy, which is relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Her campaign thus far is all about how she has Trump’s “complete and total endorsement.”",
+      "reason": "This paragraph gives insight into the governor's campaign focus on Trump's endorsement, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump endorsed her in December, before Biggs got into the race. But on April 21, he also endorsed Biggs, one of his most loyal allies in Congress.",
+      "reason": "This paragraph provides context on Trump's endorsements, which is relevant to the political dynamics discussed in the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Taylor Robson’s golden ticket is now tarnished.",
+      "reason": "This paragraph is vague and does not provide clear information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Given that, you’d think she’d chart a course correction. You'd think she would talk more about what she has to offer, other than unquestioned fealty to a president whose approval ratings are sinking.",
+      "reason": "This paragraph speculates on campaign strategy without providing new information relevant to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "There’s still time for Taylor Robson to shift into her own lane, hoping to draw in those Trump Republican and independent voters now experiencing heartburn and to convince others that Biggs is Lake 3.0.",
+      "reason": "This paragraph discusses potential political strategies relevant to the governor's reelection, directly relating to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "But I’d guess that Hobbs is hoping she continues on her present path.",
+      "reason": "This paragraph speculates on Hobbs' strategy, which is relevant to the discussion of her political future.",
+      "label": 1
+    },
+    {
+      "paragraph": "What’s that old adage about doing the same thing again and again and expecting different results?",
+      "reason": "This paragraph is a vague generalization and does not add specific information to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Reach Roberts at laurie.roberts@arizonarepublic.com. Follow her on X (formerly Twitter) at @LaurieRobertsaz, on Threads at @LaurieRobertsaz and on BlueSky at @laurieroberts.bsky.social.",
+      "reason": "This is contact information for the author and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

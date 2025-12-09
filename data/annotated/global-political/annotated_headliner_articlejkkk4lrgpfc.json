@@ -1,0 +1,59 @@
+{
+  "headline": "U.S. travel: Airlines pause or cancel flights in Canada",
+  "context": [
+    "Some of Canada’s major airlines have made changes to their schedules, including pausing some flights between Canada and the United States and increasing domestic flights in the wake of lower demand to fly south, which may be tied to the tariff war between the two countries.",
+    "“The airline industry on both sides of the border has seen a very substantial dip in demand, primarily from Canadian travellers,” said Ryan Ewing, founder of the airline blog AirlineGeeks.com, in a video interview with CTVNews.ca on Friday."
+  ],
+  "annotations": [
+    {
+      "paragraph": "He said he believes the decrease in demand is because Canadians are turned off by U.S. President Donald Trump’s rhetoric, such as pushing the idea of making Canada the 51st state, as well as the ongoing tariff battle.",
+      "reason": "Provides a potential reason for the decrease in demand for flights.",
+      "label": 1
+    },
+    {
+      "paragraph": "Aviation analytics firm OAG reports another “troubling trend” for airlines with the collapse of future flight bookings between Canada and the U.S.",
+      "reason": "Introduces data from a credible source about the decline in flight bookings.",
+      "label": 1
+    },
+    {
+      "paragraph": "OAG says compared to last year, bookings are down by more than 70 per cent in every month through to the end of September.",
+      "reason": "Provides specific data on the decline in bookings, supporting the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "“This sharp drop suggests that travellers are holding off on making reservations, likely due to ongoing uncertainty surrounding the broader trade dispute,” it wrote in a blog post on March 26.",
+      "reason": "Offers analysis on the cause of the decline in bookings.",
+      "label": 1
+    },
+    {
+      "paragraph": "It’s bad news for airlines, but there’s a bright side for consumers. OAG said some airlines may offer “cheap” U.S. airfares in a bid to boost demand.",
+      "reason": "Provides potential consumer impact and airline response to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Amid the backdrop of trade tensions, here are the airlines making changes to their plans or schedules.",
+      "reason": "This paragraph introduces the topic of airline schedule changes but does not provide specific information.",
+      "label": 0
+    },
+    {
+      "paragraph": "WestJet said in an email to CTVNews.ca on Friday that it has suspended these four summer U.S. destinations:",
+      "reason": "This paragraph is relevant as it provides specific information about WestJet's actions in response to the situation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Due to a downward shift in demand, WestJet has updated its summer schedule to help Canadians fly where they want to go,” WestJet said. “Our schedule is continuously being adjusted based on demand.”",
+      "reason": "This paragraph provides a direct quote from WestJet explaining the reason for the schedule changes.",
+      "label": 1
+    },
+    {
+      "paragraph": "On the flip side, the Calgary-based airline said it has seen higher demand for domestic travel, particularly between Eastern and Western Canada.",
+      "reason": "This paragraph provides relevant information about increased domestic travel demand.",
+      "label": 1
+    },
+    {
+      "paragraph": "In response, WestJet recently announced three new domestic routes.",
+      "reason": "This paragraph is relevant as it details WestJet's response to increased domestic demand.",
+      "label": 1
+    }
+  ]
+}

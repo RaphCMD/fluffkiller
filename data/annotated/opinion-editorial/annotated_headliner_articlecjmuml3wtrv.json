@@ -1,0 +1,189 @@
+{
+  "headline": "Opinion | When Deportation Occurs Without Trials - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "letters"
+  ],
+  "annotations": [
+    {
+      "paragraph": "May 2, 2025, 1:34 p.m. ET",
+      "reason": "The paragraph is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "To the Editor:",
+      "reason": "This is a standard opening for a letter to the editor and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Re “Brushing Off Due Process for Migrants” (news analysis, front page, April 25):",
+      "reason": "This is a reference to another article and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "President Trump’s assertion that people should be denied hearings in immigration court is unconstitutional and an affront to due process.",
+      "reason": "The paragraph provides a direct commentary on the issue of deportation without trials, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "No matter where they are from, all people in the United States are entitled to due process when their freedom is at risk. When due process is denied, people face threats to their safety and our democracy is jeopardized.",
+      "reason": "This paragraph provides context about the importance of due process in the context of deportation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Due process requires notice and a fair hearing, as well as legal representation in immigration court. Deporting people who have the right to stay safely rooted in the United States — parents, children, business owners and people seeking safety from persecution — exposes them to grave harm.",
+      "reason": "This paragraph explains the components of due process and the consequences of its denial.",
+      "label": 1
+    },
+    {
+      "paragraph": "Rather than slamming shut the courthouse doors in an effort to expedite a mass deportation agenda that upends our democratic values, we should advance sensible and humane solutions to build a fair immigration system.",
+      "reason": "This paragraph suggests solutions and critiques current deportation practices.",
+      "label": 1
+    },
+    {
+      "paragraph": "Immigrants are central to our families, communities and economy. The real danger to our country is a government that denies anyone a fair day in court.",
+      "reason": "This paragraph emphasizes the importance of immigrants and criticizes the denial of due process.",
+      "label": 1
+    },
+    {
+      "paragraph": "Shayna KesslerBrooklynThe writer is the director of the Advancing Universal Representation Initiative at the Vera Institute of Justice.",
+      "reason": "This paragraph provides author credentials and is not directly related to the article's main argument.",
+      "label": 0
+    },
+    {
+      "paragraph": "To the Editor:",
+      "reason": "This is a standard opening for a letter to the editor and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "In “Two U.S. Citizens, Ages 4 and 7, Deported to Honduras With Their Mother” (news article, April 27), you describe families forced to make or accept irreversible decisions under extreme duress, without meaningful access to legal counsel, explanation of their rights or any consideration of medical needs.",
+      "reason": "This paragraph provides context and specific details about the deportation issue discussed in the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a pediatrician, I am deeply disturbed by these stories — particularly the deportation of a child battling advanced cancer. In medicine, we are taught to first do no harm. I have sat beside children fighting rare diseases, sustained by the fragile lifelines of specialized medical care. Interrupting a child’s cancer treatment is a death sentence imposed by policy.",
+      "reason": "This paragraph offers a personal perspective and highlights the severe consequences of deportation on children's health.",
+      "label": 1
+    },
+    {
+      "paragraph": "Stability, continuous care and emotional security are essential for a child’s recovery and survival. Pediatricians often write letters describing the health effects of family separation and deportation on a child. Sadly, these cases are not isolated — and they are rising. Such actions intentionally inflict harm on children as a demonstration of power.",
+      "reason": "This paragraph provides additional context on the impact of deportation on children's health and the increasing frequency of such cases.",
+      "label": 1
+    },
+    {
+      "paragraph": "The deportation of any child, especially one with critical health needs, without proper legal and medical considerations, represents a profound failure of our nation’s responsibility to protect the most vulnerable. I urge policymakers to put a stop to practices that disregard due process and endanger the lives of children.",
+      "reason": "This paragraph calls for policy change and highlights the failure of the system, directly relating to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "Minal GiriLincolnshire, Ill.The author is a pediatrician and an executive committee member of the American Academy of Pediatrics Council on Immigrant Child and Family Health.",
+      "reason": "This paragraph provides background information about the author, which is not directly relevant to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "To the Editor:",
+      "reason": "This is a standard opening for a letter to the editor and does not contribute new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Re “Harvard May Not Be the Hero We Want, but It Is the Hero We Need,” by David French (column, April 28):",
+      "reason": "This paragraph references another article and does not provide information relevant to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "Sometimes a single candle flickering in the darkness reminds the mighty that with stature and financial means comes civic responsibility.",
+      "reason": "This is a vague generalization and does not provide specific information related to deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "Mr. French rightly notes that Harvard’s lawsuit against the Trump administration has become a proxy for all the organizations and institutions lacking the resources or courage to challenge a president bulldozing his way into domains beyond federal jurisdiction.",
+      "reason": "This paragraph discusses a lawsuit against the Trump administration, which is not directly related to the headline about deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "May Harvard’s defiance trigger a chain reaction across academia, businesses and local communities. Each rebuke of President Trump empowers others to fight for their constitutional right to freely speak, write, teach and hire.",
+      "reason": "This paragraph is a general statement about defiance and empowerment, not directly related to deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "In a democratic society, the rule of law is not optional. When the executive branch wields government power to silence dissent and punish enemies, no American can stand mutely on the sidelines.",
+      "reason": "This paragraph is a general statement about the rule of law and dissent, not directly related to deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "Maryellen DonnellanFalls Church, Va.",
+      "reason": "This is a signature line for a letter, not relevant to the article's main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "To the Editor:",
+      "reason": "This is a standard opening for a letter to the editor and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Re “Overhaul Dismantles the Agency Running Meals on Wheels” (news article, April 25):",
+      "reason": "This is a reference to another article and does not contribute to the core story about deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "As a social worker and volunteer for Meals on Wheels, I am shocked and dismayed by the cutbacks planned at the U.S. Department of Health and Human Services and the potential impact on the elderly and the disabled in our communities.",
+      "reason": "This paragraph discusses cutbacks to Meals on Wheels, unrelated to deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "Meals on Wheels provides a lifeline for seniors confronting food insecurity. Moreover, it allows volunteers to check on the well-being of meal recipients and offers door-to-door human contact desperately needed by the homebound.",
+      "reason": "This paragraph provides information about Meals on Wheels, not related to deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "When we lose sight of the needs of our most vulnerable in the interest of government efficiency, our compassion is on the chopping block.",
+      "reason": "This is a general statement about government efficiency and compassion, not directly related to deportation without trials.",
+      "label": 0
+    },
+    {
+      "paragraph": "June RogoznicaRye, N.Y.",
+      "reason": "This is a location and name, likely part of a letter or comment, not contributing to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "A version of this article appears in print on May 3, 2025, Section",
+      "reason": "This is publication information and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "A",
+      "reason": "This is part of the publication information and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": ", Page",
+      "reason": "This is part of the publication information and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "27",
+      "reason": "This is part of the publication information and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "of the New York edition",
+      "reason": "This is a publication detail and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "with the headline:",
+      "reason": "This is a continuation of publication details and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "When Deportation Occurs Without Trials. Order Reprints | Today’s Paper | Subscribe",
+      "reason": "This is a headline and subscription information, not content related to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "SKIP ADVERTISEMENT",
+      "reason": "This is an advertisement placeholder and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}

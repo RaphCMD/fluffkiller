@@ -1,0 +1,49 @@
+{
+  "headline": "Vehicle reservations will be required on B.C. Ferries from Horseshoe Bay to Nanaimo starting this fall | CBC News",
+  "context": [
+    "The ferry operator said \"major\" construction will begin at Horseshoe Bay this year, and vehicle space in the terminal will be reduced by 25 per cent. It said overall vehicle space will be \"below current levels\" for \"several years.\"",
+    "CBC News"
+  ],
+  "annotations": [
+    {
+      "paragraph": "Anyone taking a vehicle on B.C. Ferries from the Lower Mainland's Horseshoe Bay terminal to Nanaimo will need to make a reservation starting this fall, according to the ferry operator.",
+      "reason": "This paragraph provides the main news about the new reservation requirement.",
+      "label": 1
+    },
+    {
+      "paragraph": "It said \"major\" construction will begin at Horseshoe Bay this year, and vehicle space in the terminal will be reduced by 25 per cent. It said overall vehicle space will be \"below current levels\" for \"several years.\"",
+      "reason": "This paragraph provides context about the construction and its impact on vehicle space.",
+      "label": 1
+    },
+    {
+      "paragraph": "The terminal is nearly 65 years old, B.C. Ferries said in February. Work on the terminal will include upgrading or replacing three berths, relocating the control tower and upgrading elevated structures.",
+      "reason": "This paragraph provides additional context about the construction work at the terminal.",
+      "label": 1
+    },
+    {
+      "paragraph": "The cost of the project is estimated in the \"hundreds of millions\" of dollars, B.C. Ferries said.",
+      "reason": "This paragraph provides information about the financial aspect of the construction project.",
+      "label": 1
+    },
+    {
+      "paragraph": "B.C. Ferries has come under fire in recent years for long waits and cancelled sailings, amid aging infrastructure and vessels.",
+      "reason": "This paragraph provides background on the challenges faced by B.C. Ferries.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The need for change is clear,\" B.C. Ferries said in a news release. \"Over the Easter long weekend, the limitations of the Horseshoe Bay terminal were evident, with high traffic volumes and congestion putting pressure on local communities, police, and road and customer safety, contributing to a negative customer experience for passengers trying to travel through this terminal to their final destination.\"",
+      "reason": "This paragraph provides context and justification for the new reservation requirement by highlighting past issues with congestion.",
+      "label": 1
+    },
+    {
+      "paragraph": "While vehicle reservations will be required for travellers sailing from Horseshoe Bay to Departure Bay, this will not be the case for those going the opposite directions, though bookings are recommended. The reservation requirement also will not affect foot passengers.",
+      "reason": "This paragraph provides specific details about the reservation policy, which is directly relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "In an effort to manage demand for sailings to Nanaimo, B.C. Ferries is adding a sailing from Tsawwassen to Departure Bay. In the past, passengers going from Tsawwassen to Nanaimo went to Duke Point, south of Departure Bay and farther from the city's centre. That sailing, at 4:30 p.m. PT daily, will start running on June 19.",
+      "reason": "This paragraph provides additional relevant information about changes in ferry services related to the main topic.",
+      "label": 1
+    }
+  ]
+}

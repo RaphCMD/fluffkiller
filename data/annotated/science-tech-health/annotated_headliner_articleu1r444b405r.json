@@ -1,0 +1,134 @@
+{
+  "headline": "Beyond awareness: creating an Autism-affirming environment | John Innes Centre",
+  "context": [
+    "While April traditionally marks Autism Awareness Month, at the John Innes Centre (JIC), we believe in moving beyond mere awareness toward genuine affirmation and celebration of Autistic colleagues every day of the year. As part of our Understanding, Valuing and Celebrating Neurodiversity Project, we’ve been taking tangible steps to create a workplace where Autistic researchers and staff can truly thrive.",
+    "From awareness to affirmation"
+  ],
+  "annotations": [
+    {
+      "paragraph": "While awareness is a starting point, affirmation means recognising that Autistic minds aren’t “broken” versions of neurotypical ones – they’re different by design, with unique strengths, particularly valuable in scientific research.",
+      "reason": "This paragraph provides essential context about the concept of affirmation and its importance in recognizing the strengths of Autistic individuals.",
+      "label": 1
+    },
+    {
+      "paragraph": "As a plant science research institution committed to “Unlocking Nature’s Diversity” (as our institute’s tagline states), we understand that diversity, whether in plant genetics or human cognition, creates resilience, innovation, and adaptability.",
+      "reason": "This paragraph connects the institution's mission to the broader theme of diversity, relevant to the article's focus on creating an Autism-affirming environment.",
+      "label": 1
+    },
+    {
+      "paragraph": "The science behind autistic strengths",
+      "reason": "This is a section header and does not provide new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "Autistic brains are physically structured differently from neurotypical ones. While neurotypical brains undergo extensive “synaptic pruning” during development, Autistic brains maintain a denser network of neural pathways. This creates what scientists call “hyperconnectivity”.",
+      "reason": "This paragraph provides scientific context about the neurological differences in Autistic brains, relevant to understanding their strengths.",
+      "label": 1
+    },
+    {
+      "paragraph": "This neural architecture contributes to many Autistic strengths, including:",
+      "reason": "This paragraph introduces the topic of Autistic strengths, directly related to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "These strengths are particularly valuable in scientific settings. While at least 20% of the general population is estimated to be Neurodivergent, research suggests this figure may be significantly higher in scientific environments. A 2024 study by ARC (Advance Research Clusters) and the University of the West of Scotland found that 48.1% of lab workers identify as Neurodivergent, compared to 20% globally. Notably, 25.5% of these individuals are Autistic, 25 times the UK average of 1%.",
+      "reason": "Provides relevant statistics and context about the prevalence of Neurodivergent individuals in scientific settings.",
+      "label": 1
+    },
+    {
+      "paragraph": "Autism and science: a natural connection",
+      "reason": "This is a subheading and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The connection between Autism and scientific excellence isn’t coincidental. In the complex world of plant research, we need minds that can:",
+      "reason": "Introduces the idea of a connection between Autism and scientific excellence, relevant to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "One key insight from our research community is reflected in what Jared Carpenter, an Autistic PhD student at JIC, explains about Neurodivergent thinking: “The way I think and approach things is different to other people, but that is a strength in science because you need people who think outside the box, who can approach things from a different direction, otherwise problems won’t be solved […] Some of the greatest people to make scientific discoveries have very much been Neurodivergent.”",
+      "reason": "Provides a direct quote from an Autistic individual, offering insight into the benefits of Neurodivergent thinking in science.",
+      "label": 1
+    },
+    {
+      "paragraph": "Creating an Autism-affirming environment",
+      "reason": "This is a subheading and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "We’re taking concrete steps to build an environment where Autistic colleagues can contribute fully without the exhausting need to mask their true selves:",
+      "reason": "Introduces the main actions being taken to support Autistic colleagues.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lab and office workplaces can be overwhelming for those with sensory processing differences. We’ve begun adding sensory regulation tools and creating spaces where colleagues can decompress when needed. This includes:",
+      "reason": "Describes specific measures being implemented to support Autistic colleagues.",
+      "label": 1
+    },
+    {
+      "paragraph": "Also, following ongoing engagement with specialist consultants, we are incorporating inclusive design elements into our new main laboratory building such as consideration of lighting and sound, as part of our Next Generation Infrastructure programme.",
+      "reason": "Details specific design changes to accommodate Autistic colleagues.",
+      "label": 1
+    },
+    {
+      "paragraph": "We’ve developed a Neuroinclusive Communications Guide that promotes:",
+      "reason": "Mentions the creation of a guide to improve communication with Neurodivergent individuals.",
+      "label": 1
+    },
+    {
+      "paragraph": "We’ve designed and delivered tailored training programmes on Neurodiversity allyship and management practices specifically focused on supporting Autistic and other Neurodivergent colleagues. This training helps:",
+      "reason": "Describes training programs aimed at supporting Neurodivergent colleagues.",
+      "label": 1
+    },
+    {
+      "paragraph": "These e-learning and training courses have been rolled out across our fellow BBSRC institutes, creating a broader culture of understanding and support. This approach is already proving valuable, with one participant reflecting that “discussions about language and terminology provide greater understanding of Neurodiversity and how to communicate with others.” If you are an organisation and interested in knowing more about this training please contact clare.stevenson@jic.ac.uk",
+      "reason": "The paragraph provides information about the implementation and impact of training courses related to Autism affirmation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Hearing from Autistic voices",
+      "reason": "The paragraph is a heading and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "What makes our approach effective is that it is informed by Autistic colleagues themselves. Through interviews conducted for our new Neurodiversity e-learning, Autistic team members have shared insights about their experiences in scientific workplaces.",
+      "reason": "The paragraph highlights the involvement of Autistic colleagues in shaping the approach, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Their perspectives have helped us to understand that accommodations aren’t “special treatment” but essential conditions for success – just as we provide different experimental conditions to get optimal results from different laboratory processes.",
+      "reason": "The paragraph provides insights into the importance of accommodations, directly relating to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "The broader benefits of Autism affirmation",
+      "reason": "The paragraph is a heading and does not provide any new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Creating an Autism-affirming environment benefits everyone. Just as universal design principles make spaces more accessible for all, practices that support Autistic colleagues often improve the workplace for everyone:",
+      "reason": "The paragraph provides context on the benefits of an Autism-affirming environment, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "We invite you to join us in moving beyond awareness toward affirmation, every day:",
+      "reason": "This is a call to action without providing new information or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "As a scientific community dedicated to innovation, we know that different perspectives drive discovery. By creating an environment where Autistic colleagues can bring their authentic selves to work, we’re not just supporting individual wellbeing – we’re enhancing our collective ability to solve the complex challenges of plant and microbial science.",
+      "reason": "The paragraph provides relevant information on how an Autism-affirming environment contributes to scientific innovation.",
+      "label": 1
+    },
+    {
+      "paragraph": "If you’d like to learn more about our Neurodiversity initiatives or share your own experiences, please contact our Neurodiversity Project Officer, Leah Milner-Campbell, at Leah.Milner-Campbell@jic.ac.uk.",
+      "reason": "This is a contact invitation without contributing to the main narrative.",
+      "label": 0
+    },
+    {
+      "paragraph": "This blog is part of the John Innes Centre’s Understanding, Valuing and Celebrating Neurodiversity Project, funded by the BBSRC. We would like to acknowledge and thank Dr Clare Stevenson for her vision and leadership in securing funding and championing this initiative across our organisation.",
+      "reason": "The paragraph provides background information about the project and acknowledges contributors, which is relevant to the article's context.",
+      "label": 1
+    }
+  ]
+}

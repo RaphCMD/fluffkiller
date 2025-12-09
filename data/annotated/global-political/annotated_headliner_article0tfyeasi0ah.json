@@ -1,0 +1,84 @@
+{
+  "headline": "Mark Neufeld resigns as Calgary police chief two years before contract is up",
+  "context": [
+    "Calgary’s top cop is stepping down—effective immediately.",
+    "Chief Constable Mark Neufeld resigned on Friday, and has been replaced by Katie McLellan as the interim chief."
+  ],
+  "annotations": [
+    {
+      "paragraph": "In a release, Neufeld said he’s honoured to have served Calgarians in the chief’s role for the past six years.",
+      "reason": "This paragraph provides a direct quote from Neufeld about his tenure, which is relevant to his resignation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I wish the rest of the organization nothing but success moving forward,” he said.",
+      "reason": "This is a generic farewell statement that does not add substantial information about the resignation.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I also want to thank the Calgary Police Commission as well as council for their ongoing support of both the (Calgary Police Service) and myself while I was chief.”",
+      "reason": "This is a standard expression of gratitude that does not provide new information about the resignation.",
+      "label": 0
+    },
+    {
+      "paragraph": "Commission chair Amtul Siddiqui expressed gratitude to Neufeld for his service.",
+      "reason": "This is a general expression of gratitude that does not add new information about the resignation.",
+      "label": 0
+    },
+    {
+      "paragraph": "“He helped make great strides throughout his career in improving how police misconduct is addressed and guided the Calgary Police Service through some very tumultuous times,” she said.",
+      "reason": "This provides context on Neufeld's contributions and challenges during his tenure, relevant to his resignation.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We wish him all the best in his next chapter.”",
+      "reason": "This is a low-information quote that does not add to the core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "A specific reason for Neufeld’s resignation was not given on Friday.",
+      "reason": "This provides relevant information about the lack of details surrounding the resignation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Neufeld’s contract was meant to run through 2027.",
+      "reason": "This provides relevant context about the original duration of Neufeld's contract.",
+      "label": 1
+    },
+    {
+      "paragraph": "According to the commission, a search for a new permanent chief is not possible at this time due to significant scheduled events and high service demand.",
+      "reason": "This provides relevant information about the challenges in finding a new permanent chief.",
+      "label": 1
+    },
+    {
+      "paragraph": "McLellan, who joined CP in 1987, will serve in the meantime.",
+      "reason": "This provides relevant information about the interim chief's background.",
+      "label": 1
+    },
+    {
+      "paragraph": "“Our commission fully supports and has full confidence in Chief McLellan,” Siddiqui said.",
+      "reason": "This quote provides direct commentary on the new interim chief, which is relevant to the transition in leadership.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We are looking forward to working with her on the issues that matter to Calgarians and challenges facing members of CPS.”",
+      "reason": "This statement adds context about the future focus under the new interim chief, which is relevant.",
+      "label": 1
+    },
+    {
+      "paragraph": "Terry Wong, city councillor and commission member, also provided a statement on Friday, saying, “I would like to offer my sincere appreciation to Mark Neufeld.”",
+      "reason": "This is a low-information quote expressing appreciation, which does not add new facts or context.",
+      "label": 0
+    },
+    {
+      "paragraph": "“I look forward to working with Katie McLellan in her new assignment as interim chief constable,” he said.",
+      "reason": "This quote is relevant as it addresses the transition to the new interim chief.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I remain confident that Calgary is a safe and secure city during this transition through our great women and men under the great banner of Calgary Police Service.”",
+      "reason": "This is a general statement about safety and does not provide new information about the resignation or transition.",
+      "label": 0
+    }
+  ]
+}

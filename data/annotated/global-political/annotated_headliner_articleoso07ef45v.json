@@ -1,0 +1,79 @@
+{
+  "headline": "Alberta Sports and Recreation Association for the Blind holds successful national youth training camp  - Canadian Paralympic Committee",
+  "context": [
+    "CALGARY – Trent Farebrother, the head coach of the women’s national goalball team, says the Paralympic Sport Development Fund was crucial to the success of last month’s national youth training camp in Calgary organized by the Alberta Sports and Recreation Association for the Blind (ASRAB).",
+    "‘’Without the fund we wouldn’t have been able to run the event,” he said. ‘’We brought in some people from the national program such as coaches and high performance directors.  It helped a lot. We did individual meetings, education sessions and team building activities in addition to training on the court where we get a baseline of their fitness and offensive and defensive skills.”"
+  ],
+  "annotations": [
+    {
+      "paragraph": "ASRAB was one of 10 organizations that received a grant from the Paralympic Sport Development Fund in 2024-25. The program, led by the Canadian Paralympic Committee and funded by the Paralympic Foundation of Canada, supports initiatives aimed at contributing to the Para sport development pathway.",
+      "reason": "This paragraph provides relevant information about the funding source and its purpose, which is directly related to the success of the training camp.",
+      "label": 1
+    },
+    {
+      "paragraph": "A sport exclusive to athletes with visual impairments, goalball is played in a gym court. The objective of the game is to throw the ball using a bowling motion into the opponent’s net while the opposing players try to block the ball with their bodies. The 1.25 kilogram ball has noise bells which help orientate the players.",
+      "reason": "This paragraph provides background information on goalball, which is relevant to understanding the context of the training camp.",
+      "label": 1
+    },
+    {
+      "paragraph": "‘’It’s a talent identification camp and gives us an idea of the up and coming junior players in the country,” said Farebrother, a former member of the men’s national goalball team and now in his 11th season at the helm of the women’s squad. ‘’We started it last year and we will do another one in Halifax just before junior nationals in May where we expect about 27 participants.’’",
+      "reason": "This paragraph provides relevant information about the purpose and future plans of the training camp.",
+      "label": 1
+    },
+    {
+      "paragraph": "In its report for the Paralympic Sport Development Fund, ASRAB mentioned how vital it is to ‘’create a sense of camaraderie for our youth who play goalball”.",
+      "reason": "This paragraph provides insight into the goals and outcomes of the training camp, which is relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "‘’Our participants in the PSDF funded training camp have come away with new and stronger friendships. This important factor was discussed by the parents, participants and the coaches when surveyed about the benefit of attending this camp. It will build a true ‘team’ cohort that will support the athletes as they progress on the performance pathway.”",
+      "reason": "This paragraph provides relevant information about the social benefits and impact of the training camp.",
+      "label": 1
+    },
+    {
+      "paragraph": "That message resonated with Cassandra Ruttle, one of the participants at the camp. The 17-year-old learned about the sport as a youth but started practicing it seriously about four years ago. She has also participated in two national women’s team camps including one held this past weekend in Ottawa.",
+      "reason": "Provides personal context and background on a participant, linking to the camp's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "‘’It was super fun,” she said about the Calgary camp. “It was nice to play with and meet other youth across the country and to see us grow together in the sport. It’s the team aspect that attracted me to goalball and the opportunity to develop new friendships.”",
+      "reason": "Offers a participant's perspective on the camp experience, adding depth to the event's impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "In all there were 15 athletes from three provinces at the Calgary camp.",
+      "reason": "Provides specific details about the camp's scale and participation.",
+      "label": 1
+    },
+    {
+      "paragraph": "‘’Our youth program has been considerably strengthened through this training camp and other events,’’ said Linda MacPhail, executive director for the Alberta Sports and Recreation Association for the Blind.",
+      "reason": "Includes a quote from an official about the camp's impact on the youth program.",
+      "label": 1
+    },
+    {
+      "paragraph": "‘’These vital opportunities allow youth from across Canada to meet and train competitively with other top youth goalball athletes. While receiving important technical and tactical feedback.",
+      "reason": "Highlights the benefits of the camp for youth athletes, reinforcing the article's main theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "‘’We have been working diligently to develop a robust performance pathway for the youth.”",
+      "reason": "The paragraph provides a general statement without specific details or new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Goalball is proving to be a sport that is gaining in popularity for people with a visual impairment. And with more opportunities to develop one’s skills, such as at these camps, the sport is expected to thrive.",
+      "reason": "The paragraph offers general information about the sport's popularity without specific details about the camp.",
+      "label": 0
+    },
+    {
+      "paragraph": "‘’Throughout this training camp I have had the opportunity to play with many different players,” said participant Hayden McMullan of Spruce Grove, Alta. “I am learning about adapting and keeping up my energy, even as I am assisting new players.",
+      "reason": "The paragraph provides a participant's perspective and specific experiences from the camp.",
+      "label": 1
+    },
+    {
+      "paragraph": "“It is so great to meet the next generation of goalball players. I am developing skills in teamwork and communication.”",
+      "reason": "The paragraph adds personal insight into the skills developed at the camp.",
+      "label": 1
+    }
+  ]
+}

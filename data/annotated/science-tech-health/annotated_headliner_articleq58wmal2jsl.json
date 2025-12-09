@@ -1,0 +1,94 @@
+{
+  "headline": "Vaccine scientist Teresa Lambe to deliver Graduate School commencement address | News | Notre Dame News | University of Notre Dame",
+  "context": [
+    "Teresa Lambe, who played a critical role in the fight against COVID-19 as a principal investigator in the Oxford/AstraZeneca vaccine program, will deliver the keynote address during the Graduate School’s annual Commencement Ceremony on May 17 at the University of Notre Dame.",
+    "The ceremony will take place at 9 a.m. inside Notre Dame Stadium, with University President Rev. Robert A. Dowd, C.S.C., on hand to confer the master’s and doctoral degrees."
+  ],
+  "annotations": [
+    {
+      "paragraph": "“Dr. Lambe is a world-renowned scientist and a passionate advocate for improving global health through vaccines. Her work is an outstanding example of the impact a brilliant and determined scientific leader can have on the world,” said Michael Hildreth, associate provost and vice president of graduate studies and dean of the Graduate School. “We are so pleased to welcome her as our commencement speaker. I am very much looking forward to her reflections as she helps us launch our new graduates into their futures.”",
+      "reason": "The paragraph provides a quote from a university official about Lambe's impact and role as a commencement speaker.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lambe co-designed the Oxford/AstraZeneca COVID-19 vaccine, led the preclinical studies and spearheaded the laboratory research required for regulatory approval. The vaccine is estimated to have saved more than 6 million lives in 2021 alone.",
+      "reason": "This paragraph provides relevant background on Lambe's significant contributions to vaccine development.",
+      "label": 1
+    },
+    {
+      "paragraph": "As Calleva Head of Vaccine Immunology at the University of Oxford, Lambe currently focuses her research on developing and testing vaccines against a number of biodefense pathogens, including Ebola virus, Marburg virus disease and coronaviruses.",
+      "reason": "The paragraph offers relevant information about Lambe's current research focus, which is pertinent to her expertise.",
+      "label": 1
+    },
+    {
+      "paragraph": "A passionate advocate for women in STEM fields, she has sought to support future leaders through the Teresa Lambe Bursary Fund established in her hometown of Kilcullen, Ireland.",
+      "reason": "This paragraph provides additional context about Lambe's advocacy work, which is relevant to her role as a speaker.",
+      "label": 1
+    },
+    {
+      "paragraph": "Her scientific excellence has been recognized with numerous honors, including an honorary appointment as Officer of the Order of the British Empire for her service to sciences and public health in the 2021 Queen’s Birthday Honors and the Presidential Distinguished Service Award for the Irish Abroad in 2022. In 2024, she was named a fellow of the Academy of Medical Sciences.",
+      "reason": "The paragraph highlights Lambe's accolades, underscoring her qualifications and relevance as a speaker.",
+      "label": 1
+    },
+    {
+      "paragraph": "Lambe completed a joint honors bachelor’s degree in pharmacology and genetics and a doctoral degree at University College Dublin.",
+      "reason": "Provides background on Lambe's educational qualifications.",
+      "label": 1
+    },
+    {
+      "paragraph": "In addition to delivering the Graduate School commencement address, Lambe will receive an honorary doctor of science degree at the 180th University University Commencement Ceremony on May 18.",
+      "reason": "Details Lambe's honorary degree, relevant to her role in the commencement events.",
+      "label": 1
+    },
+    {
+      "paragraph": "“I am humbled to receive an honorary degree from such a prestigious institution and honoured to speak at the Graduate School’s annual Commencement Ceremony,” Lambe said. “There is a very strong sense of purpose and mission in Notre Dame — embodied by alumni, staff and students alike. This spirit of grit, determination and compassion will serve us well as we move through life’s many adventures.”",
+      "reason": "Includes a direct quote from Lambe about the event and her feelings, relevant to the commencement address.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Graduate School has also announced the following student, faculty and alumni awards for the 2024-25 academic year:",
+      "reason": "Introduces unrelated awards not directly tied to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Distinguished Graduate Alumni Award: Justin Farrell, (’14 Ph.D.), professor of sociology at Yale University.",
+      "reason": "Details an award unrelated to Lambe's commencement address.",
+      "label": 0
+    },
+    {
+      "paragraph": "James A. Burns, C.S.C., Award: Darren T. Dochuck, professor in the Department of History and co-director of the Cushwa Center for the Study of American Catholicism; and Alexander Dowling, associate professor in the Department of Chemical and Biomolecular Engineering.",
+      "reason": "The paragraph lists award recipients unrelated to the commencement address by Teresa Lambe.",
+      "label": 0
+    },
+    {
+      "paragraph": "Dick and Peggy Notebaert Award: Glen L. Niebur, professor in the Department of Aerospace and Mechanical Engineering and former director of the Bioengineering Graduate Program.",
+      "reason": "The paragraph lists an award recipient unrelated to the commencement address by Teresa Lambe.",
+      "label": 0
+    },
+    {
+      "paragraph": "Eli J. and Helen Shaheen Award in Engineering: Marlee Elizabeth Shaffer, doctoral candidate in the Department of Civil and Environmental Engineering and Earth Sciences.",
+      "reason": "The paragraph lists an award recipient unrelated to the commencement address by Teresa Lambe.",
+      "label": 0
+    },
+    {
+      "paragraph": "Eli J. and Helen Shaheen Award in Humanities: Tegha A. Nji, doctoral candidate in the Department of Theology.",
+      "reason": "The paragraph lists an award recipient unrelated to the commencement address by Teresa Lambe.",
+      "label": 0
+    },
+    {
+      "paragraph": "Eli J. and Helen Shaheen Award in Science: Alyssa Marie Willson, doctoral candidate in the Department of Biological Sciences.",
+      "reason": "The paragraph lists an award recipient unrelated to the commencement address by Teresa Lambe.",
+      "label": 0
+    },
+    {
+      "paragraph": "Eli J. and Helen Shaheen Award in Social Sciences: Henry Downes, doctoral candidate in the Department of Economics.",
+      "reason": "The paragraph lists an award recipient unrelated to the main topic of Teresa Lambe's commencement address.",
+      "label": 0
+    },
+    {
+      "paragraph": "Social Justice Award: Oghenemaro Anuyah, doctoral candidate in the Department of Computer Science and Engineering.",
+      "reason": "The paragraph lists an award recipient unrelated to the main topic of Teresa Lambe's commencement address.",
+      "label": 0
+    }
+  ]
+}

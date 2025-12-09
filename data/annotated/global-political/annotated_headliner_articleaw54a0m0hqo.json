@@ -1,0 +1,184 @@
+{
+  "headline": "King Charles will visit Canada, deliver throne speech to open Parliament | CBC News",
+  "context": [
+    "Politics",
+    "King Charles will travel to Canada later this month and deliver the speech from the throne on May 27, it was announced Friday."
+  ],
+  "annotations": [
+    {
+      "paragraph": "King Charles will travel to Canada later this month and deliver the speech from the throne on May 27.",
+      "reason": "This paragraph directly states the main event of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This historic honour matches the weight of our times,\" Prime Minister Mark Carney said on Friday as he announced the news. He added that Queen Camilla would join the visit.",
+      "reason": "This paragraph provides a quote from the Prime Minister and mentions Queen Camilla's involvement, adding context to the visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "Gov. Gen. Mary Simon issued a statement confirming the royal visit on May 26 and 27.",
+      "reason": "This paragraph confirms the dates of the visit, which is relevant to the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Whit and I will be delighted to welcome Their Majesties King Charles III and Queen Camilla to Canada. Our Canadian identity is deeply rooted in our Constitution and this visit highlights the enduring relationship between Canada and the Crown,\" she said.",
+      "reason": "This paragraph provides a quote that emphasizes the significance of the visit, adding context.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Now more than ever, we need to come together to ensure a future that builds on our shared global values of democracy, equality and peace.\"",
+      "reason": "This paragraph is a general statement that does not add specific information about the visit.",
+      "label": 0
+    },
+    {
+      "paragraph": "WATCH | Carney says King Charles opening Parliament 'underscores' Canada's sovereignty:",
+      "reason": "This is a video prompt and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carney says King Charles opening Parliament ‘underscores’ Canada’s sovereignty",
+      "reason": "This is a repetition of the video prompt and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Every new session of Parliament is opened by a throne speech, a document that lays out the government's expected direction and goals, and how it plans to achieve them.",
+      "reason": "This provides context about the significance of the throne speech.",
+      "label": 1
+    },
+    {
+      "paragraph": "When Charles and Carney met at Buckingham Palace before the election, the prime minister asked the King about the possibility of him coming to Canada to deliver the next throne speech, CBC News has learned.",
+      "reason": "This provides background on how the visit was initiated.",
+      "label": 1
+    },
+    {
+      "paragraph": "That Charles would come to Canada to open Parliament \"sends a clear message regarding his dedication to the role of King of Canada,\" Toronto-based royal author and historian Carolyn Harris said via email.",
+      "reason": "This includes a quote that adds perspective on the significance of the visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "Much attention has focused in recent weeks on Charles's role as head of state of Canada, particularly in the face of repeated taunts from U.S. President Donald Trump about it becoming the 51st state.",
+      "reason": "This paragraph provides context about the political climate surrounding King Charles's visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It seems fairly likely that the current state of relations between Canada and the United States shaped the decision to not only have the visit so soon but also for it to involve the opening of Parliament,\" Justin Vovk, a royal historian and member of the advisory board of the Institute for the Study of the Crown in Canada, said in an email.",
+      "reason": "This paragraph includes expert commentary on the timing and significance of the visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Mark Carney ran his campaign on a largely anti-Trump platform and reiterated that Canada will always remain sovereign, independent and free. Having Charles assume his place at the centre of our parliamentary institutions is a clear signal of Canada's unique political and national identity compared to our neighbours to the south.\"",
+      "reason": "This paragraph provides context on the political implications of King Charles's visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | King Charles and Prime Minister Mark Carney meet:",
+      "reason": "This is a prompt for a video, not a paragraph contributing to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Carney arrives at Buckingham Palace to meet with King Charles",
+      "reason": "This is a brief description of an event without additional context or information.",
+      "label": 0
+    },
+    {
+      "paragraph": "2 months ago",
+      "reason": "This is a timestamp and does not contribute to the article's core story.",
+      "label": 0
+    },
+    {
+      "paragraph": "Those who watch Charles closely saw an increase in signals and royal symbolism in support of Canada as it faced that repeated rhetoric, which resurfaced recently after a relatively quiet spell.",
+      "reason": "This paragraph provides context about Charles's support for Canada, which is relevant to his upcoming visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "Charles also referenced his role as \"King of Canada\" during an address recently to the Italian parliament, a rare statement — particularly coming as it did in an international, non-Commonwealth setting.",
+      "reason": "This paragraph provides relevant information about Charles's acknowledgment of his role as King of Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "The opening of Canada's new Parliament provides an \"ideal opportunity\" for a visit from Charles, who has not yet come to the country as monarch, said Harris.",
+      "reason": "This paragraph explains the significance of the timing of Charles's visit, which is relevant to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"President Trump's comments about Canada becoming the 51st state, however, have increased the political significance of King Charles undertaking official engagements as King of Canada.\"",
+      "reason": "This paragraph provides context on the political significance of Charles's visit, which is relevant to the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "The King delivering the throne speech in Ottawa also follows historical precedent, she said.",
+      "reason": "This paragraph provides context about the historical precedent of monarchs delivering the throne speech in Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Queen Elizabeth II opened Parliament during her first visit to Canada as a reigning monarch in 1957.\"",
+      "reason": "This paragraph provides historical context relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | Queen Elizabeth reads the speech from the throne on Oct. 14, 1957:",
+      "reason": "This is a prompt to watch a video, not contributing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Queen Elizabeth: 1957 Opening of Parliament",
+      "reason": "This is a caption for a video, not contributing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "68 years ago",
+      "reason": "This is a vague reference to the past event without providing new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "The last time the speech was actually read by Canada's head of state was when Queen Elizabeth delivered it in 1977.",
+      "reason": "Provides historical context about the last time a head of state delivered the speech.",
+      "label": 1
+    },
+    {
+      "paragraph": "Simon's statement said the royal visit's detailed itinerary will be published at a later date by the Department of Canadian Heritage.",
+      "reason": "Mentions future details about the visit's itinerary, which is relevant to the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "At two days, it will be a short visit, but that, too, has precedent.",
+      "reason": "Provides context about the duration of the visit, which is relevant to the event.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Queen Elizabeth II's 1957 visit to Canada to open Parliament was also quite short,\" said Harris.",
+      "reason": "Offers historical comparison to a previous royal visit, adding context.",
+      "label": 1
+    },
+    {
+      "paragraph": "Other factors and logistics likely played into the timing, she added.",
+      "reason": "Speculates on the reasons for the visit's timing without providing concrete information.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The specific dates of the visit will have been organized quite quickly after the election, and royal schedules are set long in advance,\" said Harris.",
+      "reason": "This quote provides context on the scheduling of the visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There may be a longer Canadian royal tour scheduled in the future when there is more time for planning and preparation. King Charles III's cancer treatment also limits opportunities for extensive royal tours, as demonstrated by his visit to Australia and Samoa, which did not include New Zealand.\"",
+      "reason": "This paragraph provides context on potential future visits and the King's health considerations.",
+      "label": 1
+    },
+    {
+      "paragraph": "The visit will be the King's 20th visit to Canada, and the Queen's fifth. Their last visit was in May 2022, when Charles was still the Prince of Wales.",
+      "reason": "This paragraph provides historical context on past visits.",
+      "label": 1
+    },
+    {
+      "paragraph": "Michael Woods is the digital senior producer in CBC’s Parliamentary Bureau. He can be reached at michael.woods@cbc.ca.",
+      "reason": "This is contact information for a CBC staff member.",
+      "label": 0
+    },
+    {
+      "paragraph": "With files from J.P. Tasker, Rosemary Barton and Janet Davison",
+      "reason": "This is a credit line for contributors.",
+      "label": 0
+    }
+  ]
+}

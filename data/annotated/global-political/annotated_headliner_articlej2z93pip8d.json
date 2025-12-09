@@ -1,0 +1,339 @@
+{
+  "headline": "In Italy, King Charles offers 'a surprisingly explicit show of support' for Canada | CBC News",
+  "context": [
+    "Hello, royal watchers. This is your regular dose of royal news and analysis. Reading this online? Sign up here to get this delivered to your inbox.",
+    "As King Charles made a historic address to a joint session of Italy's parliament the other day, he talked of that country's past, present and future, and its ties to the United Kingdom."
+  ],
+  "annotations": [
+    {
+      "paragraph": "He nodded to the poets Virgil and Dante, spoke of the \"wonders of the Renaissance\" and welcomed the way British and Italian business leaders are working together to cut emissions and tackle the loss of biodiversity as the world faces the \"urgency of the climate challenge.\"",
+      "reason": "This paragraph provides context about King Charles's speech in Italy, mentioning cultural and environmental topics.",
+      "label": 1
+    },
+    {
+      "paragraph": "But amid his praise for Italy, there was a noteworthy moment when Charles drew attention to another country and his connection to it.",
+      "reason": "This paragraph introduces the shift in focus to Canada, which is central to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"Tomorrow in Ravenna, as King of the United Kingdom and of Canada, I will have the great honour of commemorating the 80th anniversary of the liberation of that province ... in which British and Canadian forces played a key role,\" he said.",
+      "reason": "This paragraph contains a direct quote from King Charles highlighting his connection to Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "During a reception organized by the U.K. and Italy in Ravenna the next day, Charles met a delegation of 26 Canadians — mainly military personnel and their spouses — who are posted in Italy. They were led by Canada's ambassador to Italy, Elissa Golberg.",
+      "reason": "This paragraph provides specific details about King Charles's engagement with Canadians in Italy.",
+      "label": 1
+    },
+    {
+      "paragraph": "Such attention to Canada from the King stands out, coming as it does after those who watch him closely were seeing an increase in signals and royal symbolism in support of the country as it faced repeated taunts from U.S. President Donald Trump about becoming the 51st state.",
+      "reason": "This paragraph offers context about the significance of King Charles's support for Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "WATCH | King Charles shows support for Canada:",
+      "reason": "This is a video caption and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "King Charles signals support for Canada during ‘uncertain times’",
+      "reason": "This is a headline and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "2 months ago",
+      "reason": "This is a timestamp and does not provide new information.",
+      "label": 0
+    },
+    {
+      "paragraph": "Such rhetoric from Trump has faded of late — although the White House press secretary says his position hasn't shifted — but a monarch making such a reference in an international, non-Commonwealth setting to his role as \"King of Canada\" is rare and has few if any parallels in recent royal times.",
+      "reason": "This provides context about the rarity of the King's statement, contributing to the article's main premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"I think this was a deliberately chosen moment for the King to be able to make this statement and to be able to show the support [for Canada] in a more direct way than wearing a red tie,\" royal historian Justin Vovk said in an interview.",
+      "reason": "This quote provides direct commentary on the King's actions, relevant to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"That is a really big step for the sovereign to take and a surprisingly explicit show of support that we are not used to seeing.\"",
+      "reason": "The quote highlights the significance of King Charles's actions, directly relating to the article's premise.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Canadian flag hangs in Ravenna's town hall. The commemoration there of the role Canadian troops played alongside British forces in liberating that part of Italy in 1944 also caught the attention of the British media.",
+      "reason": "This provides context about Canada's historical ties with Italy, relevant to the King's support for Canada.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"The King is head of state of Canada — and he has been at pains to send symbolic signs of support to Canada, at a time when it has been put under pressure by U.S. President Donald Trump,\" the BBC reported.",
+      "reason": "This paragraph provides context about the King's symbolic support for Canada, directly related to the article's focus.",
+      "label": 1
+    },
+    {
+      "paragraph": "Charles is the first British sovereign to address a joint session of the Italian parliament.",
+      "reason": "This fact about Charles's address is relevant to the article's narrative about his actions in Italy.",
+      "label": 1
+    },
+    {
+      "paragraph": "His reference during that speech to his role as \"King of Canada\" was \"highly unusual\" and a \"very powerful signal for the King to be sending to Canada and Canadians that he takes his role very seriously,\" said Vovk, who is on the advisory board of the Institute for the Study of the Crown in Canada.",
+      "reason": "This provides direct commentary on the significance of the King's reference to Canada, central to the article's theme.",
+      "label": 1
+    },
+    {
+      "paragraph": "Vovk said it's also a way of strengthening ties between Canada and Europe right now.",
+      "reason": "The paragraph provides context on the significance of the visit in terms of international relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's a way of reminding Italy and the European community that Canada is our friend, is our ally, Canada stands with us on a lot of the issues that are important to us, particularly support for Ukraine that was talked about in this visit and that Europe should consider itself a friend to Canada.\"",
+      "reason": "The quote directly relates to the main premise of the article by highlighting Canada's support and alliances.",
+      "label": 1
+    },
+    {
+      "paragraph": "The visit to Ravenna came on the final day of a jam-packed four-day official state visit for King Charles and Queen Camilla that included private time with Pope Francis. A more formal audience with the Pope had been put off because of his ongoing recovery from illness.",
+      "reason": "This paragraph provides narrative progression by detailing the itinerary of the state visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "The state visit, which drew crowds in both Rome and Ravenna, was \"very much aligned\" with Charles's values and interests, Vovk said, noting, for example art, culture, Renaissance history and the history of literature.",
+      "reason": "The paragraph offers context on how the visit aligns with King Charles's personal interests.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"This is one of these moments where the King is able to still undertake his constitutional responsibility in a state visit while at the same time personalizing it in a way that is not often accorded to the sovereign on these sorts of occasions.\"",
+      "reason": "The quote provides insight into the dual nature of the King's visit, combining duty with personal interests.",
+      "label": 1
+    },
+    {
+      "paragraph": "Attention also focused on Charles and Camilla's 20th wedding anniversary on April 9, complete with a quip from the King to President Sergio Mattarella at the state dinner, thanking him for laying on \"this small, romantic, candle-lit dinner for two.\"",
+      "reason": "This paragraph is fluff as it focuses on a personal anecdote unrelated to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "Visits such as this are at the behest of the U.K. Foreign Office, and Charles's Italian sojourn follows other European outings earlier in his reign to Germany and France.",
+      "reason": "This paragraph provides context about the purpose and pattern of the visits, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It seems pretty clear to me that they are wanting to really shore up these relations with the European Union, with the powerhouses in the EU, and to establish a degree of European solidarity in light of the political and economic uncertainty that is really facing the world right now,\" Vovk said.",
+      "reason": "This paragraph offers direct commentary on the strategic intent behind the visits, relevant to the main story.",
+      "label": 1
+    },
+    {
+      "paragraph": "And that could be a part of an underlying overall theme or intent of the visit.",
+      "reason": "This paragraph is vague and does not add new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We can boil it down to one message: It would be strong relationships. Strong European relationships, strong global relationships, including Canada in that, strong political relationships between Great Britain and Italy, and strong personal relationships for the Royal Family — the King and Queen celebrating their anniversary,\" Vovk said.",
+      "reason": "This paragraph summarizes the main message of the visit, including the support for Canada, relevant to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The visit, he said, was an opportunity for Charles to show the monarchy doing what it is supposed to do.",
+      "reason": "This paragraph provides context about the purpose of King Charles's visit.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There is such a narrative right now around the world of division and hostility, and the Crown offers a unique mechanism to build relationships and dialogues between peoples that are not based on political parties.\"",
+      "reason": "This quote provides insight into the role of the monarchy in international relations.",
+      "label": 1
+    },
+    {
+      "paragraph": "Speaking of relationships between the Royal Family and Canada, there's a new one for Sophie, Duchess of Edinburgh.",
+      "reason": "This paragraph introduces a new topic unrelated to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "King Charles's sister-in-law has become royal patron of Spruce Meadows, a show-jumping venue in Calgary.",
+      "reason": "This paragraph provides specific information about a new patronage but is not directly related to the main premise.",
+      "label": 0
+    },
+    {
+      "paragraph": "The patronage \"is a bit of a prestige thing,\" Linda Southern-Heathcott, the president and chief executive of Spruce Meadows, told The Canadian Press.",
+      "reason": "This quote offers a low-information comment on the patronage.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"It is an endorsement for what we're doing,\" Southern-Heathcott said.",
+      "reason": "The quote lacks context and does not directly relate to King Charles's support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"She will work together with us on raising awareness of Spruce Meadows and highlighting what we're doing and also for our foundation.\"",
+      "reason": "This statement is about Sophie and Spruce Meadows, not directly related to King Charles's support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "The Spruce Meadows patronage is the latest Canadian connection for Sophie, who has been patron of Toronto General and Toronto Western hospitals since 2005.",
+      "reason": "This provides background on Sophie but does not relate to King Charles's support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "She is also colonel-in-chief of the South Alberta Light Horse and the Lincoln and Welland Regiment in Ontario's Niagara Region.",
+      "reason": "This is additional background on Sophie, not directly related to the main topic.",
+      "label": 0
+    },
+    {
+      "paragraph": "Sophie's Spruce Meadows patronage is \"another way of building the relationship between the monarchy and Canada that isn't political,\" Vovk said.",
+      "reason": "This provides context on the monarchy's relationship with Canada, indirectly related to the main topic.",
+      "label": 1
+    },
+    {
+      "paragraph": "It also focuses on a long-standing interest of the Royal Family.",
+      "reason": "This paragraph is vague and does not provide specific information related to the headline.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"It really reinforces how important the role of sports and athletics is to the Royal Family and how useful athletics can be, like the monarchy, to create dialogue, to have people interact in ways that are not political,\" Vovk said.",
+      "reason": "This quote does not relate directly to King Charles's support for Canada or his address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "Southern-Heathcott told The Canadian Press that Spruce Meadows has issued an invitation for Sophie to join them later this year.",
+      "reason": "This information about Sophie is unrelated to King Charles's actions or statements in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "Spruce Meadows isn't the only new patronage for Sophie that's been announced in recent days.",
+      "reason": "This paragraph discusses Sophie’s patronages, which are not relevant to the main topic of King Charles's support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "She has also just become patron in the U.K. for the Yellow Labrador Club, a role that had been held by the late Queen Elizabeth and her father, King George VI.",
+      "reason": "This information about Sophie’s new patronage is not related to the main topic of King Charles's support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "After Prince William picked up the mic and offered his thoughts on the soccer club he has avidly supported for years, those who do sports commentary for a living got a little nervous.",
+      "reason": "This paragraph is unrelated to the headline about King Charles and his address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"Do not go for a punditry job, please, because I could be out of the game,\" quipped TNT Sports host and retired pro Rio Ferdinand.",
+      "reason": "This quote is unrelated to the main story about King Charles and his address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"The way he just dissected that there, I'm going to nick that for later on.\"",
+      "reason": "This quote is unrelated to the main story about King Charles and his address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "William spoke with ease about Aston Villa when the team was across the English Channel taking on Paris Saint-Germain on its home turf.",
+      "reason": "This paragraph is unrelated to the headline about King Charles and his address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "William's punditry was widely praised and offered a less typical view of the 42-year-old heir to the throne.",
+      "reason": "This paragraph is unrelated to the headline about King Charles and his address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I think what surprised a lot of people [was] how well he did without a script, how natural he was,\" Vovk said. \"And this was an opportunity for him to really let his own personality come through and just be relatable in a way that the protocol of royal events does not always allow.\"",
+      "reason": "The paragraph provides insight into King Charles's demeanor and performance during his address, which is relevant to the article's focus on his actions in Italy.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Aston Villa appearance was also a father-son outing, with 11-year-old Prince George along for the match.",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy and focuses on a different event involving Prince William and Prince George.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I think it just really helped to remind people that, like millions and millions of families around the world, the Wales and the Royal Family at large are sports fans. They play sports with their kids. They watch it with their kids. They're involved in it,\" Vovk said.",
+      "reason": "This paragraph is unrelated to the main topic of King Charles's address in Italy and focuses on the Royal Family's interest in sports.",
+      "label": 0
+    },
+    {
+      "paragraph": "William also spoke of having George with him for the high-profile, high-tension match that was part of the UEFA Champions League competition.",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy and focuses on Prince William's activities.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I have got my son here ... so I am on best behaviour as well, but I thought, you know, it's been 43 years since anything like this has happened in my generation as a Villa fan, and I want George to experience a night out away from home in a big European competition,\" William said. \"Those memories are really important to create, and bringing him along tonight is a big deal for me.\"",
+      "reason": "This paragraph is unrelated to the main topic of King Charles's address in Italy and focuses on Prince William's personal experiences.",
+      "label": 0
+    },
+    {
+      "paragraph": "In all this, there could also be a reflection of how Prince William and Catherine, Princess of Wales, are trying to raise their children.",
+      "reason": "The paragraph is a tangent about Prince William and Catherine's parenting, unrelated to King Charles's address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I think there's also an important note here from the Wales where they are trying to parent George differently than what's been done in the past,\" Vovk said.",
+      "reason": "This quote is about the parenting style of Prince William and Catherine, not related to the main topic of King Charles's address.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"William is for all intents and purposes the most hands-on Prince of Wales to be a father that we have ever seen, and there seems to be an initiative here to allow George to have these father-son experiences over things that they can bond about that aren't related to duty and responsibility.\"",
+      "reason": "The paragraph discusses Prince William's parenting, which is unrelated to the article's focus on King Charles's address.",
+      "label": 0
+    },
+    {
+      "paragraph": "As much as William won plaudits for his punditry, his prediction of the outcome of the game in Paris was off, and Villa lost.",
+      "reason": "This is a tangential mention of Prince William's sports prediction, unrelated to King Charles's address.",
+      "label": 0
+    },
+    {
+      "paragraph": "But he and George were back in the stands a few days later as the teams met again on Villa's home turf in Birmingham.",
+      "reason": "The paragraph is about Prince William and George attending a sports event, not related to King Charles's address.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"I find it a very spiritual and very intense emotional reconnection I suppose, these environments.\"",
+      "reason": "This quote is unrelated to King Charles's address in Italy or his support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "— Catherine, Princess of Wales, in a short film she appears in with Dwayne Fields, chief scout of the Scout organization in the United Kingdom. In the film, they discuss the importance of the natural world and its ability to support health and well-being.",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy or his support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "King Charles presented commemorative coins to 152 people at a traditional Maundy Thursday service, held this year at Durham Cathedral, as part of royal Easter celebrations. While the Royal Family generally gathers at Windsor Castle for Easter, the Prince and Princess of Wales are expected to stay instead with their children at their home in Norfolk, northeast of London. [BBC, Daily Mail]",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy or his support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "Queen Camilla says that King Charles \"loves his work and it keeps him going\" and that as his health is \"getting better ... now he wants to do more and more.\" [BBC]",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy or his support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "Prince Harry's lawyer warned his \"life is at stake\" over changes to his security after he stepped down from royal duties, as the prince returned to London's Royal Courts of Justice for his appeal about changes to his protection in Britain. [CBC]",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy or his support for Canada.",
+      "label": 0
+    },
+    {
+      "paragraph": "Harry met with war victims in an unannounced visit to Ukraine as part of his ongoing work with wounded veterans, a spokesperson said. [ITV]",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "Meghan, Duchess of Sussex, revealed she suffered with a \"rare\" and \"scary\" health condition after childbirth on the first episode of her new podcast. [ITV]",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "Queen Elizabeth II's private solicitor spent eight years helping to manage the offshore wealth of the uncle of the recently deposed Syrian dictator Bashar al-Assad, an investigation has established. [The Guardian]",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "In news involving other royal families and monarchies, a Belgian prince has lost a legal battle to claim social security benefits on top of his six-figure royal allowance. And in Thailand, a prominent American academic has been detained after being charged with insulting the monarchy, a rare case in which a foreign national has fallen foul of the country's strict lese-majesty law. [The Independent, The Guardian.]",
+      "reason": "This paragraph is unrelated to King Charles's address in Italy.",
+      "label": 0
+    },
+    {
+      "paragraph": "Sign up here to have The Royal Fascinator newsletter land in your inbox every other Friday.",
+      "reason": "This is a promotional paragraph unrelated to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "I'm always happy to hear from you. Send your questions, ideas, comments, feedback and notes to royalfascinator@cbc.ca. Problems with the newsletter? Please let me know about any typos, errors or glitches.",
+      "reason": "This paragraph is promotional and administrative content unrelated to the article's main story.",
+      "label": 0
+    }
+  ]
+}

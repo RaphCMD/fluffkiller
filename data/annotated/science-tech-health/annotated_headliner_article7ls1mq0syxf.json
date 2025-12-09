@@ -1,0 +1,44 @@
+{
+  "headline": "Scientists Uncover Shockingly Well-Preserved Pregnant Ichthyosaur Fossil",
+  "context": [
+    "A 131-year-old pregnant ichthyosaur, known as Fiona, has provided researchers with a rare glimpse into the paleobiology and paleoecology of ancient marine reptiles. Fiona’s fossilized remains, which were airlifted from Patagonia and brought to the Natural History Museum Río Seco in Chile, have been studied by an international team. The research published in the Journal of Vertebrate Paleontology reveals how Fiona’s body was preserved, including her unborn baby and last meal—small fish remains found inside her ribcage.",
+    "The study highlights Fiona’s role as a dominant predator of her time, and researchers have gained valuable insights into the environment she inhabited, as well as her reproductive strategies. Her remarkable preservation—buried after striking the seafloor and being quickly covered by sediments—has given scientists a clearer picture of how these marine reptiles lived and how the surrounding tectonic changes impacted their ecosystems."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Fiona’s fossil has provided key information about the world of an apex predator from over 130 million years ago. The discovery adds to our understanding of migration pathways, hunting grounds, and reproduction habits of marine reptiles. As Matt Malkowski, one of the study’s co-authors, emphasized:",
+      "reason": "The paragraph provides new facts about the significance of the fossil discovery in understanding ancient marine reptiles.",
+      "label": 1
+    },
+    {
+      "paragraph": "“If you are the apex predator in the ocean at the time, these are all things you care about. You care about migration pathways. You care about places that you can hunt and fish and do your thing. You care about places where you can reproduce.”",
+      "reason": "The quote is a low-information statement reiterating the previous paragraph's points.",
+      "label": 0
+    },
+    {
+      "paragraph": "By studying Fiona’s remains, scientists can also look more closely at her anatomical features, which could reveal further details about how these creatures functioned in their environment. Judith Pardo-Pérez, the study’s lead author, explained:",
+      "reason": "The paragraph introduces new information about the potential for further anatomical studies.",
+      "label": 1
+    },
+    {
+      "paragraph": "“The discovery of the Fiona ichthyosaur provides valuable information regarding the species, its paleobiology, and paleoecology. Moreover, its skeleton will allow us to delve deeper into aspects of its anatomy through new studies and the use of medical technology.”",
+      "reason": "The quote provides specific insights into the significance of the discovery for future research.",
+      "label": 1
+    },
+    {
+      "paragraph": "In addition to understanding the ichthyosaur’s biology, researchers are working to better understand the environment in which Fiona lived. Geochemical analyses are underway to explore the oceanic conditions of the time. As Malkowski noted:",
+      "reason": "The paragraph introduces ongoing research efforts to understand the ancient environment.",
+      "label": 1
+    },
+    {
+      "paragraph": "“We’re conducting an array of geochemical analyses to understand as much as we can about the environment of this ocean basin at the time. We’re working on teasing out whether or not this is a single event or multiple events and what the triggers were.”",
+      "reason": "The paragraph provides direct commentary on the scientific methods being used to study the ichthyosaur fossil's environment.",
+      "label": 1
+    },
+    {
+      "paragraph": "Fiona’s discovery is part of a larger effort to investigate the geological and environmental factors that may have contributed to mass extinction events and the eventual distribution of marine life.",
+      "reason": "The paragraph provides context on the broader significance of the discovery in relation to mass extinction events.",
+      "label": 1
+    }
+  ]
+}

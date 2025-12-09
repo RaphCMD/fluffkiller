@@ -1,0 +1,144 @@
+{
+  "headline": "Canada up against 'stacked field' in quest for playoffs at mixed doubles curling worlds | CBC Sports",
+  "context": [
+    "With a 4-1 record so far, the Canadian team of Jocelyn Peterman and Brett Gallant are tied for second in their group at the 2025 World Mixed Doubles Curling Championship in Fredericton. Off the ice, excitement and intrigue surrounds the new Rock League, a pro curling circuit set to launch in April 2026.",
+    "Karissa Donkin  · CBC Sports"
+  ],
+  "annotations": [
+    {
+      "paragraph": "At the end of three days of mixed doubles curling inside Fredericton's Willie O'Ree Place, one team stood alone above the rest.",
+      "reason": "This paragraph provides context about the current standings in the tournament.",
+      "label": 1
+    },
+    {
+      "paragraph": "Only the reigning Olympic champions in mixed doubles, Italy's Stefania Constantini and Amos Mosaner, had yet to lose a game.",
+      "reason": "This paragraph gives specific information about the leading team in the tournament.",
+      "label": 1
+    },
+    {
+      "paragraph": "That came after storming back to defeat the Canadian team of Jocelyn Peterman and Brett Gallant 7-5 on Monday evening, a comeback that Italy secured by tying the game in the seventh end and pulling ahead by two in the final end. It was the Canadians' second game of the day, after defeating the Netherlands 7-3 on Monday morning.",
+      "reason": "This paragraph provides details about a specific match involving the Canadian team.",
+      "label": 1
+    },
+    {
+      "paragraph": "You could hear a pin drop inside the arena as the last red Canadian rock slid down the ice, followed by applause for the home team.",
+      "reason": "This paragraph is descriptive and does not add new information to the main story.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"We battled right to the end,\" Gallant told CBC Sports. \"She made a beautiful runback on her last shot and left us with a really tricky draw. But we knew it was going to be a battle tonight and we've just got to dust that one off and come back tomorrow.\"",
+      "reason": "This paragraph includes a direct quote from a player, providing insight into the team's mindset.",
+      "label": 1
+    },
+    {
+      "paragraph": "Canada ended Monday tied with Scotland and Sweden, all teams with a 4-1 record, behind Italy in Group A. In the second group, all of Australia, Estonia, Japan, Norway and the United States registered one loss atop the pool.",
+      "reason": "Provides current standings and context for Canada's position in the tournament.",
+      "label": 1
+    },
+    {
+      "paragraph": "Only the top three teams from each group will advance to the playoffs. That so many teams are in the running is a sign of the depth of the field, something that's only grown since mixed doubles was added as an Olympic discipline in 2018.",
+      "reason": "Explains the playoff qualification process and the competitive nature of the field.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"It's a stacked field,\" said Sweden's Anna Hasselborg. \"Four of our teams [in Group A] could easily be medalling at the Olympics. It's going to be a really tough week because there's a lot of top teams.\"",
+      "reason": "Includes a relevant quote highlighting the competition level.",
+      "label": 1
+    },
+    {
+      "paragraph": "The stakes are high. Olympic qualification points will be awarded based on how teams finish. The points earned this year and at last year's world championship will combine to determine which countries go to Italy next February.",
+      "reason": "Details the significance of the tournament in terms of Olympic qualification.",
+      "label": 1
+    },
+    {
+      "paragraph": "Based on those points, the top seven countries (behind the automatically-qualified host country, Italy) will earn berths. The final two spots will be determined at a last-chance qualifying tournament later this year.",
+      "reason": "Explains the qualification process for the Olympics, adding context to the stakes.",
+      "label": 1
+    },
+    {
+      "paragraph": "The Canadians had to quickly shake off the loss on Monday evening. As the arena emptied, the married couple of Peterman and Gallant took some time to see their families, including their toddler son. Then, it was back on the ice to practice ahead of a Tuesday afternoon game against Korea.",
+      "reason": "This paragraph provides narrative progression and context about the team's preparation and personal dynamics.",
+      "label": 1
+    },
+    {
+      "paragraph": "Beyond Olympic qualification, the team is vying to win Canada's first world championship in mixed doubles curling.",
+      "reason": "This paragraph provides essential context about the team's goals and the significance of the championship.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We know that every game, we have to bring our best,\" Peterman said. \"There's no easy games in our pool. We know we're ready to battle for each game.\"",
+      "reason": "This quote directly relates to the team's mindset and challenges in the competition.",
+      "label": 1
+    },
+    {
+      "paragraph": "Days before the mixed doubles world championship began, The Curling Group announced plans to launch a professional curling league that will begin play next April.",
+      "reason": "This paragraph introduces new information about the future of curling, relevant to the context.",
+      "label": 1
+    },
+    {
+      "paragraph": "The owners of the Grand Slam of Curling series have said the Rock League will include six franchises featuring curlers from across the globe facing off in \"a multi-format competition\" over six weeks.",
+      "reason": "This paragraph provides additional details about the new Rock League, relevant to the context.",
+      "label": 1
+    },
+    {
+      "paragraph": "The teams are organized by region, including two from Canada (one captained by Rachel Homan and the other by Brad Jacobs), two from Europe (one led by Switzerland's Alina Pätz and the other by Scotland's Bruce Mouat), one from Asia-Pacific (captained by Chinami Yoshida of Japan) and an American team, which will be led by Korey Dropkin.",
+      "reason": "Provides context about the structure of the new Rock League, relevant to the article's mention of the league.",
+      "label": 1
+    },
+    {
+      "paragraph": "Each team will include 10 curlers: five men and five women.",
+      "reason": "Details the composition of teams in the new league, relevant to the article's mention of the league.",
+      "label": 1
+    },
+    {
+      "paragraph": "The league is part of The Curling Group's \"vision to professionalize and evolve the sport of curling\" and could transform the sport. For one, curlers will be paid a salary in addition to any prize money. Exact financial details haven't been released.",
+      "reason": "Provides context on the league's goals and potential impact, relevant to the article's mention of the league.",
+      "label": 1
+    },
+    {
+      "paragraph": "The idea of earning a salary is something Pätz, who is competing this week at the mixed doubles world championship, has only been able to dream about.",
+      "reason": "Connects a player's perspective to the new league, relevant to the article's mention of the league.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"We usually use the sponsor money to pay the expenses for travel and everything,\" she said in an interview.",
+      "reason": "Provides insight into the current financial situation of curlers, relevant to the article's mention of the league.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"If we have something left at the end of the year, that's basically our salary for now. To have a guaranteed salary for six weeks, that's just something totally new for me and so exciting.\"",
+      "reason": "This quote provides insight into the financial impact of the new Rock League on curlers.",
+      "label": 1
+    },
+    {
+      "paragraph": "She also hopes it will continue to grow the sport and attract fans in a new way.",
+      "reason": "This is a vague generalization about the potential impact of the league.",
+      "label": 0
+    },
+    {
+      "paragraph": "Other curlers are waiting to find out more about how the league might work.",
+      "reason": "This is a low-information statement about the anticipation surrounding the league.",
+      "label": 0
+    },
+    {
+      "paragraph": "\"They're certainly interested in growing the game and they're putting a lot of effort into building these leagues up,\" Gallant said. \"I'd love to see what happens.\"",
+      "reason": "This quote provides direct commentary from a player about the league's development efforts.",
+      "label": 1
+    },
+    {
+      "paragraph": "More details, including team names, locations and full rosters, are expected to come this fall.",
+      "reason": "This provides relevant information about the timeline for more details on the league.",
+      "label": 1
+    },
+    {
+      "paragraph": "\"There are still things that they can't disclose yet, just because they're still trying to figure it all out,\" Mouat said. \"But I think once all the teams are signed on and established, then a lot of excitement will be happening from the athletes, which will then resonate to the fans.\"",
+      "reason": "The quote provides insight into the anticipation and development of the new Rock League, which is relevant to the context of the article.",
+      "label": 1
+    },
+    {
+      "paragraph": "Karissa Donkin is a reporter with CBC Sports who covers the PWHL, women's hockey and lots more. You can reach her at karissa.donkin@cbc.ca.",
+      "reason": "This is a standard author bio and contact information, which does not contribute to the main story.",
+      "label": 0
+    }
+  ]
+}

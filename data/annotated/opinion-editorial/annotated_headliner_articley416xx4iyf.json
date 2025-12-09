@@ -1,0 +1,29 @@
+{
+  "headline": "Opinion | It’s One of the Things I Always Hated About Cities. And I’ve Decided It’s Just Fine. - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "You’re reading the John McWhorter newsletter, for Times subscribers only.  A Columbia University linguist explores how race and language shape our politics and culture."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Hearing people play their cellphones without headphones or earbuds is now a common fact of life. So is hearing people complain about it.",
+      "reason": "Introduces the main topic of the article about public cellphone use.",
+      "label": 1
+    },
+    {
+      "paragraph": "Some regard it as a direct threat: The person playing his iPhone like a radio, the argument goes, is essentially angling for a fight, daring you to say something so he can lash out in response. Some of the folks I see acting like this do indeed seem glowering and unfriendly. They remind me of a similar phenomenon in the 1980s and 1990s, when guys would play their boomboxes at top volume on the street and in trains.",
+      "reason": "Provides context and comparison to past behaviors, contributing to the narrative.",
+      "label": 1
+    },
+    {
+      "paragraph": "In the influential book “Streetwise,” the sociologist Elijah Anderson describes the phenomenon. “Spontaneous and boisterous,” Anderson writes, “they play their radios as loud as they please, telling everyone within earshot that this is their turf, like it or not. It may be that this is one of the few arenas where they can assert themselves and be taken seriously, and perhaps this is why they are so insistent.”",
+      "reason": "Offers expert commentary and context on the behavior discussed.",
+      "label": 1
+    },
+    {
+      "paragraph": "Subscribe to The Times to read as many articles as you like.",
+      "reason": "Promotional content unrelated to the article's main topic.",
+      "label": 0
+    }
+  ]
+}

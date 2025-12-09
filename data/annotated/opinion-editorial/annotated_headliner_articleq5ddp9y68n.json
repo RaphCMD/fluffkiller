@@ -1,0 +1,94 @@
+{
+  "headline": "Opinion | Putting Jews and people with autism on lists? What could go wrong? - The Washington Post",
+  "context": [
+    "It’s rarely comforting to appear on a government “list,” even (or perhaps especially) when compiled in the name of public safety.",
+    "It was alarming in the 1940s, when the U.S. government collected the names of Japanese Americans for internment. Likewise in the 1950s, when the House Un-American Activities Committee catalogued communists. And it’s just as troubling now, as the Trump administration assembles registries of Jewish academics and Americans with developmental disabilities."
+  ],
+  "annotations": [
+    {
+      "paragraph": "Yes, these are real things that happened this past week, the latest examples of the White House’s abuse of confidential data.",
+      "reason": "This paragraph provides a direct commentary on recent events related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Last week, faculty and staff at Barnard College received unsolicited texts asking them whether they were Jewish. Employees were stunned by the messages, which many initially dismissed as spam.",
+      "reason": "This paragraph provides specific details about the incident involving Barnard College, directly related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "Turns out the messages came from the Trump administration. Barnard, which is affiliated with Columbia University, had agreed to share faculty members’ private contact info to aid in President Donald Trump’s pseudo-crusade against antisemitism.",
+      "reason": "This paragraph offers essential context about the source of the messages and the involvement of the Trump administration.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ah, yes, a far-right president asking Jews to register as Jewish, in the name of protecting the Jews, after he has repeatedly accused Jews of being “disloyal.” What could go wrong?",
+      "reason": "This paragraph provides direct commentary and critique related to the headline.",
+      "label": 1
+    },
+    {
+      "paragraph": "The same day, National Institutes of Health Director Jay Bhattacharya announced a “disease registry” of people with autism, to be compiled from confidential private and government health records, apparently without its subjects’ awareness or consent. This is part of Health and Human Services Secretary Robert F. Kennedy Jr.’s vendetta against vaccines, which he has said cause autism despite abundant research concluding otherwise.",
+      "reason": "This paragraph provides new facts about the autism registry and its controversial context.",
+      "label": 1
+    },
+    {
+      "paragraph": "This, too, is disturbing given authoritarian governments’ history of compiling lists of citizens branded mentally or physically deficient. If that historical analogue seems excessive, note that Bhattacharya’s announcement came just a week after Kennedy delivered inflammatory remarks lamenting that kids with autism will never lead productive lives. They “will never pay taxes, they’ll never hold a job,” he said, adding they’ll never play baseball or go on a date, either.",
+      "reason": "The paragraph provides historical context and recent inflammatory remarks relevant to the issue of government lists.",
+      "label": 1
+    },
+    {
+      "paragraph": "This all happened during Autism Acceptance Month, established to counter exactly these kinds of stigmatizing stereotypes. Kennedy’s comments and the subsequent “registry” set off a wave of fear in the autism advocacy community and earned condemnation from scientists.",
+      "reason": "The paragraph discusses the timing and reaction to the registry, which is directly relevant to the main issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "Obviously, advocates want more research and support for those with autism. They have been asking for more help at least since 1965 (when what is now called the Autism Society of America was founded in my grandparents’ living room). But few in this community trust political appointees hostile to scientific research — or a president who has publicly mocked people with disabilities — to use an autism “registry” responsibly.",
+      "reason": "The paragraph provides context on the advocacy community's stance and distrust, relevant to the main issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "(An unnamed HHS official later walked back Bhattacharya’s comments, saying the department was not creating a “registry,” per se, just a “real-world data platform” that “will link existing datasets to support research into causes of autism and insights into improved treatment strategies.” Okay.)",
+      "reason": "The paragraph provides an update on the official stance regarding the registry, relevant to the main issue.",
+      "label": 1
+    },
+    {
+      "paragraph": "These are hardly the administration’s only abuses of federal data. It has been deleting reams of statistical records, including demographic data on transgender Americans. It has also been exploiting other private administrative records for political purposes.",
+      "reason": "The paragraph discusses broader issues with federal data handling, which is relevant to the main issue of data misuse.",
+      "label": 1
+    },
+    {
+      "paragraph": "For example, the Internal Revenue Service — in an effort to persuade people to pay their taxes — spent decades assuring people that their records are confidential, regardless of immigration status. The agency is in fact legally prohibited from sharing tax records, even with other government agencies, except under very limited circumstances specified by Congress. Lawmakers set these limits in response to Richard M. Nixon’s abuse of private tax data to target personal enemies.",
+      "reason": "This paragraph provides historical context on government confidentiality and its breaches, relevant to the theme of government lists.",
+      "label": 1
+    },
+    {
+      "paragraph": "Trump torched these precedents and promises. After a series of top IRS officials resigned, the agency has now agreed to turn over confidential records to help Immigration and Customs Enforcement locate and deport some 7 million undocumented immigrants.",
+      "reason": "This paragraph discusses a specific action by the Trump administration that relates to the theme of government lists and privacy breaches.",
+      "label": 1
+    },
+    {
+      "paragraph": "The move, which also has troubling historical echoes, is being challenged in court. But, in the meantime, tax collections will likely fall. Undocumented immigrant workers had been paying an estimated $66 billion in federal taxes annually, but they now have even more reason to stay off the books.",
+      "reason": "This paragraph provides consequences of the IRS's actions, relevant to the theme of government lists and their impact.",
+      "label": 1
+    },
+    {
+      "paragraph": "This and other DOGE infiltrations of confidential records are likely to discourage public cooperation on other sensitive government data collection efforts. Think research on mental health issues or public safety assessments on domestic violence.",
+      "reason": "This paragraph discusses broader implications of government data breaches, relevant to the theme of lists and privacy.",
+      "label": 1
+    },
+    {
+      "paragraph": "But that might be a feature, not a bug, for this administration. Chilling federal survey participation and degrading data quality were arguably deliberate objectives in Trump’s first term, when he tried to cram a question about citizenship into the 2020 Census. The question was expected to depress response rates and help Republicans game the congressional redistricting process.",
+      "reason": "This paragraph provides insight into potential motives behind government actions, relevant to the theme of lists and data manipulation.",
+      "label": 1
+    },
+    {
+      "paragraph": "Courts ultimately blocked Trump’s plans. That’s what it will take to stop ongoing White House abuses, too: not scrapping critical government records, but championing the rule of law.",
+      "reason": "This paragraph provides relevant information about the legal response to Trump's plans, which is directly related to the headline's concern about government lists.",
+      "label": 1
+    },
+    {
+      "paragraph": "Ultimately, the government must be able to collect and integrate high-quality data — to administer social programs efficiently, help the economy function and understand the reality we live in so voters can hold public officials accountable. None of this is possible if Americans fear ending up on some vindictive commissar’s “list.”",
+      "reason": "This paragraph offers a general statement about the importance of data collection and the fear of being on a list, which is relevant to the headline's theme.",
+      "label": 1
+    }
+  ]
+}

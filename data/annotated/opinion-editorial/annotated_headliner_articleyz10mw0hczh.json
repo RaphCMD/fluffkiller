@@ -1,0 +1,29 @@
+{
+  "headline": "Opinion | Dads Are Spending More Time With Their Kids Post-Pandemic - The New York Times",
+  "context": [
+    "SKIP ADVERTISEMENT",
+    "April 30, 2025"
+  ],
+  "annotations": [
+    {
+      "paragraph": "I spent the early days of Covid talking to hundreds of American parents of all different backgrounds, socioeconomic statuses and circumstances about how the pandemic affected their lives. While the overall picture was raw and depressing, there was often a glimmer of positivity: Many moms and dads felt lucky to be spending more time with their families. American fathers, who statistically speaking spend less time with their children and work more hours than mothers do, seemed especially smitten with the additional bonding time.",
+      "reason": "This paragraph provides context about the initial impact of the pandemic on family dynamics, particularly focusing on fathers.",
+      "label": 1
+    },
+    {
+      "paragraph": "An article in Vox about pandemic fathering from June 2020 quoted a Chicago dad: “Every morning, the kids come in the room and we get to snuggle for five or 10 minutes. Who gets to do that on a Tuesday? That’s the stuff I’m kind of clinging to, because that’s the stuff you don’t get back.” That same month, the Swedish journalist Martin Gelin noticed how much American dads were enjoying themselves and wondered in a guest essay for Times Opinion if these shifts in caregiving might become more permanent, and whether American dads could become more like Nordic ones.",
+      "reason": "This paragraph provides specific examples and quotes that illustrate the changes in fathering during the pandemic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Five years later, we have an answer: American dads are still spending more time with their children than they were pre-Covid. We found this out by asking Misty Heggeness, the co-director of the Kansas Population Center at the University of Kansas, to crunch the numbers for us. She and her team at the Care Board, a new dashboard that collects and analyzes data around caregiving in the United States, found that fathers of children ages 10 and under were doing about seven minutes more per weekday and 18 minutes more per weekend day, for a total of 1.2 hours more child care a week. (The year 2020 is excluded from this data set because it was such an outlier.)",
+      "reason": "This paragraph provides new data and analysis on the current state of father involvement post-pandemic.",
+      "label": 1
+    },
+    {
+      "paragraph": "Jessica Grose is an Opinion writer for The Times, covering family, religion, education, culture and the way we live now.",
+      "reason": "This paragraph is background information about the author and does not contribute to the article's core story.",
+      "label": 0
+    }
+  ]
+}
